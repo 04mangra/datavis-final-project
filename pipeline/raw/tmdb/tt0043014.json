@@ -1,0 +1,143 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+        "id": 599,
+        "title": "Sunset Boulevard",
+        "original_title": "Sunset Boulevard",
+        "overview": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+        "poster_path": "/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 7.8049,
+        "release_date": "1950-08-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.274,
+        "vote_count": 3088
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 599,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Cliff \u201cMethod Man\u201d Smith Discusses SUNSET BOULEVARD and Classic Film | TCMFF 2025",
+        "key": "yt7XkxSJow0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6852cad41b18548debb6e3d3",
+        "published_at": "2025-06-14T11:01:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "75th Anniversary Spot",
+        "key": "p32W7uJl3G4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "684cae6ea5f6b5c9ab294519",
+        "published_at": "2025-06-12T15:28:41.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "75th Anniversary Trailer",
+        "key": "ZQWqIA1-kvA",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "6824e953eb8d52f9b4864d93",
+        "published_at": "2025-05-14T16:07:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Billy Wilder on making SUNSET BLVD",
+        "key": "PLNzqILpd2o",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "682520a36fc01eec6ea17203",
+        "published_at": "2020-08-04T16:53:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"I Am Big, It's the Pictures That Got Small\" Clip",
+        "key": "UvD-F5hqLU8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "654313fa0bc52900e3fc687d",
+        "published_at": "2020-07-28T18:21:59.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\u201cMr. DeMille, I m Ready for My Close Up\u201d Official Film Clip",
+        "key": "TVi1NlYBljU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "654314210bc529013a7ccbdc",
+        "published_at": "2020-07-28T18:20:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Norma Desmond At Paramount Clip",
+        "key": "uAMweBrmIgE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "654313da13654500ae46ced4",
+        "published_at": "2018-04-17T17:10:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "_dY0SVxnHjQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "65431386b09bde0102f67222",
+        "published_at": "2018-02-07T00:11:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Writer Robert Towne on Billy Wilder's SUNSET BLVD.",
+        "key": "BGjBjMWodXo",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec655c3a368544800046c",
+        "published_at": "2011-08-10T19:29:15.000Z"
+      }
+    ]
+  }
+}

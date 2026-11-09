@@ -1,0 +1,59 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6RV2o8PBCEyw9ylOWViV1CtULIF.jpg",
+        "id": 1163258,
+        "title": "12th Fail",
+        "original_title": "12\u0935\u0940\u0902 \u092b\u0947\u0932",
+        "overview": "Based on the true story of IPS officer Manoj Kumar Sharma, 12th Fail sheds limelight on fearlessly embracing the idea of restarting the academic journey despite the setbacks and challenges and reclaiming one's destiny at a place where millions of students attempt the world's toughest competitive exam: UPSC.",
+        "poster_path": "/eebUPRI4Z5e1Z7Hev4JZAwMIFkX.jpg",
+        "media_type": "movie",
+        "original_language": "hi",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 4.0605,
+        "release_date": "2023-08-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.934,
+        "vote_count": 295
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 1163258,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "12th Fail - Official Trailer | Vidhu Vinod Chopra | In Cinemas Worldwide 27th October, 2023",
+        "key": "KjbtuqENvVE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "69d4ef31e460a0797e6ae2d0",
+        "published_at": "2023-10-03T05:30:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "12th Fail Official Teaser | Vidhu Vinod Chopra | Vikrant Massey | 27th October 2023",
+        "key": "3fi39FWuXT8",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Teaser",
+        "official": true,
+        "id": "64d51f2cf495ee02919d8aa9",
+        "published_at": "2023-08-10T05:32:02.000Z"
+      }
+    ]
+  }
+}

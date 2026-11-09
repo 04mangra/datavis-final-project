@@ -1,0 +1,275 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/fAGYRJCujRBMw7TCuTp893eSG8e.jpg",
+        "id": 641,
+        "title": "Requiem for a Dream",
+        "original_title": "Requiem for a Dream",
+        "overview": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+        "poster_path": "/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 5.5996,
+        "release_date": "2000-10-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.007,
+        "vote_count": 11469
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 641,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "25th Anniversary - 4K Lenticular Gift Box - Official Trailer",
+        "key": "NEKjZSTo0Uk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "689bc24b124b7c08f45d1c3b",
+        "published_at": "2025-08-12T21:01:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Sara Starts Her Diet' Scene",
+        "key": "9viX5P6JKlc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "66e743413768a73f8d918bcb",
+        "published_at": "2024-09-15T14:00:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Harry and Marion Spend the Day Together' Scene",
+        "key": "-RB9uXaUNTs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "66e74349d7bcca524db0c451",
+        "published_at": "2024-09-14T14:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The First 10 Minutes of Requiem for a Dream",
+        "key": "2D9wW37JRF0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "66e7434fe8211ecd22b0b85d",
+        "published_at": "2024-09-13T14:00:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Hospital Visit' Scene",
+        "key": "tRGfRkln28Q",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "663e728dfdd4a3c5822f6a54",
+        "published_at": "2024-02-04T17:00:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Marion Meets Big Tim' Scene",
+        "key": "JY4vAci4s0w",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "663e727fa47f3042345051f1",
+        "published_at": "2024-02-03T17:00:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Sara's Hallucinations' Scene",
+        "key": "BNgH0iGBhEM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "663e7276db8f7fb65ef2e492",
+        "published_at": "2024-02-02T17:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Shipment Scuffle' Scene",
+        "key": "HMfmRnitm0Y",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "663e726fe3f0617a51106075",
+        "published_at": "2024-02-01T17:00:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Getting Back on Track' Scene",
+        "key": "8iZ1TbUcROs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "663e7268a1402e298e741a3f",
+        "published_at": "2024-01-31T17:00:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Tyrone Gets Arrested' Scene",
+        "key": "yugxV4Gus4Y",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "663e72613380145f6187ba39",
+        "published_at": "2024-01-30T17:00:54.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Harry Visits Sara' Scene",
+        "key": "0ClupwQyHO4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "663e7257cfac1486d92f6a48",
+        "published_at": "2024-01-29T19:09:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'A Little Taste' Scene",
+        "key": "zA_J1xTPTqs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "663e72500abdbc06f95166d5",
+        "published_at": "2024-01-28T17:00:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Opportunity of a Lifetime' Scene",
+        "key": "CRkv2vPvje8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "663e724ab665487edb6cbcd2",
+        "published_at": "2024-01-27T17:00:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The First 10 Minutes of Requiem for a Dream",
+        "key": "j3kHnwal4KY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "663e7244d043abc3ad87ba28",
+        "published_at": "2024-01-26T17:00:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Was It All A Dream",
+        "key": "sKgHSPjm8uA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "663e732540a303632ac1eb5f",
+        "published_at": "2023-10-05T14:27:43.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "I Have A Favor To Ask",
+        "key": "Xq58StVjLxs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "663e73547e7a820c1cc1ec15",
+        "published_at": "2023-10-03T12:30:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hand-picked by MUBI",
+        "key": "mlJfCSaWmrs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "668d6b30e440204440d587a9",
+        "published_at": "2023-05-27T15:00:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "oB-rUXKa7F0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "69f81d239fa111755323e7f6",
+        "published_at": "2023-01-04T00:30:57.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\u201cLux Aeterna\u201d - Kronos Quartet Social Distance Performance",
+        "key": "4I-GGTCV0K0",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Featurette",
+        "official": true,
+        "id": "663e72fcce90f9a4c82f6a92",
+        "published_at": "2020-10-16T17:00:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Director's Cut 4K Trailer",
+        "key": "20YzUO_RLS0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "663e741cfdfea67cad51675d",
+        "published_at": "2020-08-12T16:43:50.000Z"
+      }
+    ]
+  }
+}

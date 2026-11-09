@@ -1,0 +1,228 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/uWVkEo9PWHu9algZsiLPi6sRU64.jpg",
+        "id": 556574,
+        "title": "Hamilton",
+        "original_title": "Hamilton",
+        "overview": "Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.",
+        "poster_path": "/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          36,
+          18
+        ],
+        "popularity": 5.3075,
+        "release_date": "2025-09-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.832,
+        "vote_count": 173
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 556574,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Moana x Hamilton Quiz with Leslie Odom Jr. & Thomas Kail",
+        "key": "8wXKi-g1z4M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a6dde70abdfb9aa4b4d7728",
+        "published_at": "2026-07-28T15:00:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Leslie Odom Jr. & Thomas Kail Talk Moana, Hamilton & Bringing Stories to Life",
+        "key": "QbdYhimM8Ug",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a647c651e635e27466edfe1",
+        "published_at": "2026-07-25T08:30:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Extended by Popular Demand",
+        "key": "J0yx43vha_w",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "68c4bcbf14051c034266f9ee",
+        "published_at": "2025-09-12T21:00:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Famous Fans",
+        "key": "78XiYMW9rhs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "68c4bce40e0ddbbc5f0ec5d3",
+        "published_at": "2025-09-12T17:30:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Now Playing in Movie Theaters",
+        "key": "2-lDuLj0wN8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "68c4bced51b19b2b1e442bc8",
+        "published_at": "2025-09-12T15:30:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Experience on the Big Screen",
+        "key": "D9KXbQUzqow",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "68bf37bb04dd0798a506aa9e",
+        "published_at": "2025-09-07T16:00:23.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "This Friday, experience the Hamilton 10 year anniversary on the big screen!",
+        "key": "D3dQ1hLj0Ck",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "68b7b9cd2e3ad6fd304e4675",
+        "published_at": "2025-09-02T16:00:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "0pvj1p1aaH8",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "6893808d4da4b4d7b9ffd4a5",
+        "published_at": "2025-08-06T16:00:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hamilton Sing-Along",
+        "key": "1hq-g_HvZ4k",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "672ea2ef2e61c5b2a7ad31cd",
+        "published_at": "2023-06-29T15:02:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Celebrate with Hamilton",
+        "key": "OlK3cIVWnDk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "672ea2e941129469a04c10cb",
+        "published_at": "2022-06-30T20:28:54.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Reflections",
+        "key": "Fd1JNmK_7os",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "695de4ea49d043ec0acfd2c8",
+        "published_at": "2020-07-15T23:46:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Satisfied\" Clip",
+        "key": "asfLNbrSPv4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "672ea2de2e61c5b2a7ad31c9",
+        "published_at": "2020-06-29T23:51:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Streaming Exclusively July 3",
+        "key": "5EI40a-Fc1k",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "672ea2e341129469a04c10c9",
+        "published_at": "2020-06-28T16:00:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"The Room Where It Happens\" Clip",
+        "key": "BQjGGrKRL8o",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "672ea2d97ec021edd2339f86",
+        "published_at": "2020-06-27T16:01:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Alexander Hamilton\" Clip",
+        "key": "hrGwCJQoeVo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "672ea2d42e61c5b2a7ad31c5",
+        "published_at": "2020-06-24T16:39:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "DSCKfXpAGHc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "672ea2f541129469a04c10d6",
+        "published_at": "2020-06-22T02:30:34.000Z"
+      }
+    ]
+  }
+}

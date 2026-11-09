@@ -1,0 +1,145 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
+        "id": 378064,
+        "title": "A Silent Voice: The Movie",
+        "original_title": "\u6620\u753b \u8072\u306e\u5f62",
+        "overview": "Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again... until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late...?",
+        "poster_path": "/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          18,
+          10749
+        ],
+        "popularity": 15.2046,
+        "release_date": "2016-09-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 4765
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 378064,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official English Trailer",
+        "key": "TQK9By9qQiw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6736f9e8ba29a051b3cc8b3a",
+        "published_at": "2024-11-14T18:06:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer [Subtitled]",
+        "key": "luP4sIz60mA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6736f9c82954d2647625a91f",
+        "published_at": "2024-11-14T18:06:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "A Silent Voice - The Movie - Clip: Class Introduction (HD)",
+        "key": "RI3ABGupjNs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6024754b95c0af003e55eb4a",
+        "published_at": "2019-04-05T18:13:52.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "A Silent Voice - The Movie - TV Spot :30s",
+        "key": "1ltW3tpCpjU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "602475c16a3448003f12009d",
+        "published_at": "2019-03-07T16:30:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "US Official DUB Trailer",
+        "key": "e8tMQVwqj54",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "602472f7dd2589003fbd2b4a",
+        "published_at": "2018-01-10T22:45:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "AU Official Trailer",
+        "key": "bS2JzsXRZ04",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5fecd15822af3e003fd11777",
+        "published_at": "2017-11-24T01:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "A Silent Voice (English cast preview) - Official Clip #1",
+        "key": "ZbRtXDu6tEY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "59d298be9251413ed70059a9",
+        "published_at": "2017-09-26T11:38:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "US Official Trailer",
+        "key": "E7utbHbxDAM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "602471d20e597b003ca930a2",
+        "published_at": "2017-08-30T22:35:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "UK Official Trailer",
+        "key": "twUSlecQpGQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "60246f4f95c0af004054dbd6",
+        "published_at": "2017-02-22T18:16:49.000Z"
+      }
+    ]
+  }
+}

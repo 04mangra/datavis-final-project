@@ -1,0 +1,73 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/cT80aGpjWZLn8rd7cLtsbktFMhf.jpg",
+        "id": 613,
+        "title": "Downfall",
+        "original_title": "Der Untergang",
+        "overview": "In April of 1945, Germany stands at the brink of defeat with the Russian Army closing in from the east and the Allied Expeditionary Force attacking from the west. In Berlin, capital of the Third Reich, Adolf Hitler proclaims that Germany will still achieve victory and orders his generals and advisers to fight to the last man. When the end finally does come, and Hitler lies dead by his own hand, what is left of his military must find a way to end the killing that is the Battle of Berlin, and lay down their arms in surrender.",
+        "poster_path": "/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg",
+        "media_type": "movie",
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "popularity": 5.4237,
+        "release_date": "2004-09-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.87,
+        "vote_count": 4537
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 613,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K UHD + Blu-ray Limited Edition Hardbox Release Trailer",
+        "key": "TfH_VwEDq5o",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "6aa3c51c751af2a2b67aa997",
+        "published_at": "2026-06-10T05:45:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "WW2 Historian Reacts to \u2018Downfall\u2019 | Deep Dives",
+        "key": "-XfUFiOeDZY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "69ea2bab02e19a34ae0abd08",
+        "published_at": "2026-04-17T18:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Downfall trailer",
+        "key": "Bp1RXmM1-60",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": false,
+        "id": "5b3162489251413c9b0060b8",
+        "published_at": "2008-06-04T14:50:18.000Z"
+      }
+    ]
+  }
+}

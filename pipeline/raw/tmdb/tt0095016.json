@@ -1,0 +1,192 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/bvk2AAH64lP2YZs02Q3jskfHT8j.jpg",
+        "id": 562,
+        "title": "Die Hard",
+        "original_title": "Die Hard",
+        "overview": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
+        "poster_path": "/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "popularity": 16.7024,
+        "release_date": "1988-07-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.818,
+        "vote_count": 12843
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 562,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Yes, Die Hard is a Christmas Movie",
+        "key": "A0DMVqgA39U",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "694fe5b489e2aa8f55074e16",
+        "published_at": "2025-12-25T20:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Come Out To The Coast, We'll Get Together, Have A Few Laughs...\"",
+        "key": "TqZM5EI1RdE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a69d33d1cde28f4205e8f75",
+        "published_at": "2025-12-23T18:30:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "John McClane Jumps Off Nakatomi Plaza",
+        "key": "1u7Pu7B4z5U",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6942c099d3876ea5147a2c8c",
+        "published_at": "2025-12-16T18:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Die Hard (1988) Original Trailer",
+        "key": "TotSHi0ViUc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "68e12faf3a0105698e9ca477",
+        "published_at": "2024-04-26T14:46:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Film historian settles the debate over whether 'Die Hard' is a Christmas movie",
+        "key": "D3JUAW0t9Ls",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "65d8a78799259c016293ec43",
+        "published_at": "2023-12-23T00:39:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Iconic Lines",
+        "key": "3bQGKBeUuZI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "657004d5b339030236cb5983",
+        "published_at": "2023-12-05T01:44:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "5 Reasons",
+        "key": "VxNt-9r4ub4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "657004cd79a1c30138e09235",
+        "published_at": "2023-12-05T01:44:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "In Theaters December 8",
+        "key": "evrX4GTLLjw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "657004b7b339030230615108",
+        "published_at": "2023-12-05T01:39:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Behind the Scene: Director John McTiernan on making the Christmas classic Die Hard",
+        "key": "qiOgpkNaR_E",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "5fdf51be79b3d4003e2c2196",
+        "published_at": "2020-12-16T17:00:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Greatest Christmas Story",
+        "key": "4Wi28Vsi_ZU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "62b869dc7304b5037611e6f2",
+        "published_at": "2018-12-18T18:51:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TCM 30th Anniversary",
+        "key": "ShE013ZKHiU",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Teaser",
+        "official": true,
+        "id": "633f246ba313b8007ec7f70d",
+        "published_at": "2018-10-09T22:49:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Best of Bruce Willis",
+        "key": "e6oiPFYzZR0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6235d8c01da7a600775bdc48",
+        "published_at": "2018-07-24T16:29:53.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "30th Anniversary Trailer",
+        "key": "gYWvwkXreaI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "61c5dbadb04228009024a9d0",
+        "published_at": "2018-07-15T18:00:04.000Z"
+      }
+    ]
+  }
+}

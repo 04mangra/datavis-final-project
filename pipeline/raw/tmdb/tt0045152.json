@@ -1,0 +1,216 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
+        "id": 872,
+        "title": "Singin' in the Rain",
+        "original_title": "Singin' in the Rain",
+        "overview": "In 1927 Hollywood, a silent film star falls for a chorus girl just as he and his paranoid screen partner struggle to make the difficult transition to talking pictures.",
+        "poster_path": "/zjrpWniKbzu0zFR5sUI1Ptdfl9y.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "popularity": 8.1388,
+        "release_date": "1952-04-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.128,
+        "vote_count": 3680
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 872,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Gene Kelly & Donald O'Connor sing \"Moses Supposes\" in SINGIN' IN THE RAIN | Mad About Musicals | TCM",
+        "key": "OmrUJ3ssLPM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "680fff995a9b78d272817267",
+        "published_at": "2024-12-06T12:00:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Lina Lamont vs. The Mic",
+        "key": "NTFigYMQxnA",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "626b7e43c56d2d016d363fb2",
+        "published_at": "2022-04-26T12:59:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Good Mornin' Clip",
+        "key": "pyMU8O2B2Vs",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "626b586f0c0b3800670562ab",
+        "published_at": "2022-04-25T12:59:52.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Don Lockwood Makes Elocution Lessons Fun",
+        "key": "DPBKYwJo3nQ",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "626b5585a6c104005228b4cc",
+        "published_at": "2022-04-11T15:59:49.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Gene Kelly Sings Singin' in the Rain",
+        "key": "gAI6hhsDNxc",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "626b67ec69d280006507a5c5",
+        "published_at": "2022-04-10T15:59:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TCM 70th Anniversary Spot",
+        "key": "7gQTEyVwwwo",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Teaser",
+        "official": true,
+        "id": "6385f85da410c8008cd56f5a",
+        "published_at": "2022-03-14T20:11:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "10 Minute Preview",
+        "key": "yLPOUcG4Fzo",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "622130a7902012001bd84257",
+        "published_at": "2022-03-03T20:59:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official 4K Trailer",
+        "key": "lSE8sl2-PZg",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "621eb9f577b1fb001e166861",
+        "published_at": "2022-03-01T22:59:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official UK Re-Release Trailer",
+        "key": "D-NJHUasYVA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "62be2512d64ac2004ce10f9f",
+        "published_at": "2022-01-28T11:05:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Singin' in the Rain | Full Movie Preview | Warner Bros. Entertainment",
+        "key": "2G754jswjeo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "62be256a325a5100c1f9ea14",
+        "published_at": "2020-06-17T18:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Debbie Reynolds Talks About Singin' in the Rain",
+        "key": "EEizqKN7dpA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "673f27ed374a699527898122",
+        "published_at": "2020-04-19T21:00:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dancin' to Singin' in the Rain at the BFI Southbank | BFI",
+        "key": "bXPTH_LiLPU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6328579cbbd0b00082179a42",
+        "published_at": "2019-10-21T13:24:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Theatrical Trailer",
+        "key": "p159J4j4GDU",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "62be261faf6e94005aaab528",
+        "published_at": "2015-02-20T23:09:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Debbie Reynolds on Singin' in the Rain",
+        "key": "JP0YZk3jSGA",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec657c3a368544800067c",
+        "published_at": "2012-04-11T20:57:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Singin' in the Rain' | Critics' Picks | The New York Times",
+        "key": "fNgSBMDPYeg",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec657c3a368544800067b",
+        "published_at": "2010-03-31T16:49:18.000Z"
+      }
+    ]
+  }
+}

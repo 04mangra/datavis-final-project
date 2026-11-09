@@ -1,0 +1,147 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/gZ78dyRH9hXeH94ASjuvD9Vw4b5.jpg",
+        "id": 10386,
+        "title": "The Iron Giant",
+        "original_title": "The Iron Giant",
+        "overview": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+        "poster_path": "/k1Cv5CHJvqGWK1xJDUJz8DojFEy.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          18,
+          10751,
+          878,
+          12
+        ],
+        "popularity": 8.8583,
+        "release_date": "1999-08-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.966,
+        "vote_count": 6455
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 10386,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "You Can Fix Yourself?",
+        "key": "mkTLdTTe118",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67ca486654783caaa3afc54c",
+        "published_at": "2025-03-04T16:15:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Iron Giant",
+        "key": "fLbS3KJI0lE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6adce6b4e22ba405c2ca25ef",
+        "published_at": "2022-09-01T04:00:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Full Movie Preview",
+        "key": "0ynvTQum390",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "615f9a0543d9b1008de9df47",
+        "published_at": "2020-05-23T17:59:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer #1",
+        "key": "1XHf94YqGyQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "699cfc97214165d3f4b29acc",
+        "published_at": "2018-04-18T16:09:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Brad Bird invites You to see The Iron Giant",
+        "key": "1iNQudG7mFI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "67cad13f54783caaa3afded6",
+        "published_at": "2015-09-11T22:48:16.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Signature Edition Trailer",
+        "key": "2izFEWmzPdk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "67cad14e30f4444c6b2b569d",
+        "published_at": "2015-09-02T20:44:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Signature Edition - Official Trailer",
+        "key": "obLtyj8hfFk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "67cad0a881fbb12539cb586c",
+        "published_at": "2015-08-27T21:01:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Theatrical Trailer",
+        "key": "fq2FZdvQXXg",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "559e79b59251412da90016dc",
+        "published_at": "2015-07-09T00:27:44.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Iron Giant Crew Reel",
+        "key": "1EVQ-eyF36o",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": false,
+        "id": "615c73138e2ba6008be92e4b",
+        "published_at": "2015-04-09T18:23:04.000Z"
+      }
+    ]
+  }
+}

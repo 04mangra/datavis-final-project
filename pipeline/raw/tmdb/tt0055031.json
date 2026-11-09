@@ -1,0 +1,96 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/tcyL1OCnkkxotZhRaErfgOT83si.jpg",
+        "id": 821,
+        "title": "Judgment at Nuremberg",
+        "original_title": "Judgment at Nuremberg",
+        "overview": "In 1947, four German judges who served on the bench during the Nazi regime face a military tribunal to answer charges of crimes against humanity. Chief Justice Haywood hears evidence and testimony not only from lead defendant Ernst Janning and his defense attorney Hans Rolfe, but also from the widow of a Nazi general, an idealistic U.S. Army captain and reluctant witness Irene Wallner.",
+        "poster_path": "/b6vYatvui1EXeFYfpDX4rcbueuP.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "popularity": 3.4735,
+        "release_date": "1961-12-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.995,
+        "vote_count": 1013
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 821,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dr. Janning's Testimony",
+        "key": "DQicYslxGgE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65ad7b4b39756100cb217329",
+        "published_at": "2024-01-19T19:00:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Life in WWII Germany",
+        "key": "Ui6xrGQzmhs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65a9bac05cea180128c0f919",
+        "published_at": "2024-01-17T19:00:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Judge Haywood Arrives in Nuremberg",
+        "key": "nYKIKlIbkvA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65a7bb452da84600baaa7e3d",
+        "published_at": "2024-01-16T19:00:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "T3taV43-lGc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "65a7bb34255dba012cb24fa8",
+        "published_at": "2024-01-15T19:00:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "ABC Sunday Night Movie promo Judgement at Nuremberg 1965",
+        "key": "HFJ65Sr-Sho",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec656c3a368544800060c",
+        "published_at": "2012-09-05T10:14:11.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/zaANf06OtqDJr5saqp5ymEkDPsi.jpg",
+        "id": 25376,
+        "title": "The Secret in Their Eyes",
+        "original_title": "El secreto de sus ojos",
+        "overview": "Hoping to put to rest years of unease concerning a past case, retired criminal investigator Benjam\u00edn begins writing a novel based on the unsolved mystery of a newlywed\u2019s rape and murder. With the help of a former colleague, judge Irene, he attempts to make sense of the past.",
+        "poster_path": "/dkeAwfZzwL3WvToydE3CXiY80E0.jpg",
+        "media_type": "movie",
+        "original_language": "es",
+        "genre_ids": [
+          9648,
+          53,
+          18
+        ],
+        "popularity": 5.3217,
+        "release_date": "2009-08-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.97,
+        "vote_count": 3017
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 25376,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mark Kermode reviews Secret in Their Eyes (2009) | BFI Player",
+        "key": "g0QhRbx0Fao",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6658d478f9452ec2981d35a5",
+        "published_at": "2024-05-30T17:00:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"The Secret in Their Eyes\" Wins Foreign Language Film: 2010 Oscars",
+        "key": "R9rpyWp6wzw",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6658d56e1d04f3b44d2d30f1",
+        "published_at": "2014-02-04T18:36:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "UK Trailer [Subtitled]",
+        "key": "ZhEuUDO0YUQ",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "5dc27305a9b9a400131b699f",
+        "published_at": "2010-08-09T11:04:52.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "US Trailer [Subtitled]",
+        "key": "dcK7WvdNSBc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6658d5312004bb194f2d317c",
+        "published_at": "2010-03-23T01:20:43.000Z"
+      }
+    ]
+  }
+}

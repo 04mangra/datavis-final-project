@@ -1,0 +1,133 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
+        "id": 8392,
+        "title": "My Neighbor Totoro",
+        "original_title": "\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed",
+        "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+        "poster_path": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          14,
+          16,
+          10751
+        ],
+        "popularity": 17.6315,
+        "release_date": "1988-04-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.071,
+        "vote_count": 9232
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 8392,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ghibli Fest 2023 - 35th Anniversary Trailer",
+        "key": "_nv94fL_IA8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "641c25ba24b33300d725e7c1",
+        "published_at": "2023-03-03T20:04:20.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Studio Ghibli Fest 2023: 35th Anniversary",
+        "key": "2XUolyeNBHY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "6401ec0d9f1be700e678cc9f",
+        "published_at": "2023-02-28T18:00:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Totoro Takes The Cat Bus",
+        "key": "vPOgiR5aUWE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "630d7b9a6d9fe8007a7ec05d",
+        "published_at": "2022-08-26T15:00:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mei Meets Totoro",
+        "key": "igVXQT4HrEo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67821ec66056586f6c4e6dbe",
+        "published_at": "2021-06-13T19:00:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Miyazaki on Creating Totoro [Subtitled]",
+        "key": "E1JCKePCss8",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": false,
+        "id": "67822136c5d2e96e267b63de",
+        "published_at": "2021-04-03T23:45:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Studio Ghibli Fest 2019 Trailer",
+        "key": "xCtRJOWZCmM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "67821e3bababbba040bb13ef",
+        "published_at": "2019-05-06T18:32:32.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Vintage Trailer",
+        "key": "I0103wkhQ-c",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "678229a61431e0591abb55b9",
+        "published_at": "2018-09-11T15:14:19.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer [Subtitled]",
+        "key": "srW-wajSxog",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "630d7bffb3e627007d45f783",
+        "published_at": "2017-07-13T01:30:00.000Z"
+      }
+    ]
+  }
+}

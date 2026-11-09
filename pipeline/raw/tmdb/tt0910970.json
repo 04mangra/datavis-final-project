@@ -1,0 +1,145 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+        "id": 10681,
+        "title": "WALL\u00b7E",
+        "original_title": "WALL\u00b7E",
+        "overview": "After hundreds of years doing what he was built for, WALL\u2022E\u2014 a robot designed to clean up the earth\u2014discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL\u2022E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL\u2022E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+        "poster_path": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          878
+        ],
+        "popularity": 21.2571,
+        "release_date": "2008-06-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.128,
+        "vote_count": 21160
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 10681,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Celebrating Earth Month - Official Clip",
+        "key": "L3wi0o7HMC4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "69e26aecffd459792de46b49",
+        "published_at": "2026-04-17T16:00:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Wall\u2022E and the Challenges of Courtship & Dating",
+        "key": "zrTy87bKgpI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68e4a44d033bc74f2a9cb4a0",
+        "published_at": "2025-10-02T17:01:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer 3",
+        "key": "Tbr_L9Gap_M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "5fea82c4d7107e003e25209f",
+        "published_at": "2020-12-29T00:30:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer 2",
+        "key": "vmv-1FU0BvE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "5fea82b5678259003f1ce98d",
+        "published_at": "2020-12-29T00:29:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer 1",
+        "key": "mTIbY-DUNZw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "5fea82a45ad76b003ac9f8d3",
+        "published_at": "2020-12-29T00:28:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Super Bowl Spot",
+        "key": "xGFKdkaATHY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "5fea82915b1240003c6deb34",
+        "published_at": "2020-12-29T00:28:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Script to Screen",
+        "key": "yTkenVTYyic",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "644323affcec2e0491d9bf0c",
+        "published_at": "2018-01-17T17:00:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "8-_9n5DtKOc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "533ec66cc3a3685448001c28",
+        "published_at": "2008-12-11T16:36:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Teaser Trailer",
+        "key": "geplBr2fcZc",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "id": "644322e5cee2f602fb363d2a",
+        "published_at": "2008-06-20T11:50:20.000Z"
+      }
+    ]
+  }
+}

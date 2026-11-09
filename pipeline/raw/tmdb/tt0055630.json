@@ -1,0 +1,60 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/5BBwSVytssbFuSPZE4DtJVhROjN.jpg",
+        "id": 11878,
+        "title": "Yojimbo",
+        "original_title": "\u7528\u5fc3\u68d2",
+        "overview": "A nameless ronin, or samurai with no master, enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon and sake merchant Tokuemon to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.",
+        "poster_path": "/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "popularity": 4.9604,
+        "release_date": "1961-04-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.077,
+        "vote_count": 1787
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 11878,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Yojimbo (1961) Original Trailer [4K]",
+        "key": "nazk6Zpm_Ks",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "64616fd4ef8b32013886f344",
+        "published_at": "2023-05-08T11:04:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "YOJIMBO Trailer (1961) - The Criterion Collection",
+        "key": "y_1iT_GmHTE",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Teaser",
+        "official": true,
+        "id": "533ec671c3a3685448002110",
+        "published_at": "2010-01-19T20:51:52.000Z"
+      }
+    ]
+  }
+}

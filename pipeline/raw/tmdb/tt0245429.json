@@ -1,0 +1,97 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg",
+        "id": 129,
+        "title": "Spirited Away",
+        "original_title": "\u5343\u3068\u5343\u5c0b\u306e\u795e\u96a0\u3057",
+        "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+        "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10751,
+          14
+        ],
+        "popularity": 37.5065,
+        "release_date": "2001-07-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.536,
+        "vote_count": 19194
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 129,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer [Subtitled]",
+        "key": "GAp2_0JJskk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "65605c163679a10976465e74",
+        "published_at": "2023-11-23T22:00:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ghibli Fest 2023 Trailer",
+        "key": "F-X_81GZ2Uo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "65697e6a71f09500feb7e679",
+        "published_at": "2023-09-29T16:14:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Studio Ghibli Fest 2022 Spot",
+        "key": "oZzFsv22wqI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "633c313d175051008e17fb08",
+        "published_at": "2022-10-03T22:28:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Lin Guides Chihiro Through The Bathhouse",
+        "key": "W5szC4XgR1s",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "62eb43fb8566d2005a486b43",
+        "published_at": "2022-07-26T20:47:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "ByXuk9QqQkk",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "id": "592c5d16c3a36877bc0817da",
+        "published_at": "2014-09-17T05:26:18.000Z"
+      }
+    ]
+  }
+}

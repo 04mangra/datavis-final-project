@@ -1,0 +1,74 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/i1NjlccZcuqbgDCS92RHdhEnx59.jpg",
+        "id": 12493,
+        "title": "High and Low",
+        "original_title": "\u5929\u56fd\u3068\u5730\u7344",
+        "overview": "A Yokohama shoe executive faces a wrenching choice when kidnappers mistakenly seize his chauffeur\u2019s son but demand the ransom anyway.",
+        "poster_path": "/tgNjemQPG96uIezpiUiXFcer5ga.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          18,
+          80,
+          53,
+          9648
+        ],
+        "popularity": 10.0507,
+        "release_date": "1963-03-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.387,
+        "vote_count": 1233
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 12493,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Karyn Kusama on Akira Kurosawa\u2019s HIGH AND LOW | Adventures in Moviegoing on the Criterion Channel",
+        "key": "GR0-2xXsE3c",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6aee7177746b229947af2679",
+        "published_at": "2026-11-04T23:19:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "High and Low (1963) Original Trailer [4K]",
+        "key": "ELsgPvgDBoY",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "64ade7e86a344800ad77ae66",
+        "published_at": "2023-06-30T11:01:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'High and Low' | Critics' Picks | The New York Times",
+        "key": "wcALFnBJ54c",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec672c3a36854480022aa",
+        "published_at": "2010-05-10T18:08:41.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
+        "id": 49026,
+        "title": "The Dark Knight Rises",
+        "original_title": "The Dark Knight Rises",
+        "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+        "poster_path": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "popularity": 18.8716,
+        "release_date": "2012-07-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.801,
+        "vote_count": 25272
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 49026,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ball Scene",
+        "key": "RiC_UaUxXG4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68cf76d9cb57157b6397d53f",
+        "published_at": "2025-09-19T15:16:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Movie Clip",
+        "key": "uaT8ipQPmFs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68cf76d115945877f2fe915f",
+        "published_at": "2025-09-19T15:15:21.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "DC Super Scenes: Batman and Gordon",
+        "key": "yiyUl1VMiDs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "652b349a024ec800c773f082",
+        "published_at": "2023-09-25T19:00:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official 4K Trailer",
+        "key": "GAjBzu8ggi0",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "6209ee63839d93012c1f58dd",
+        "published_at": "2021-09-19T17:59:52.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Best of Bane",
+        "key": "rAxJ5EFu2Co",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "62298db70257640046404397",
+        "published_at": "2021-06-27T20:00:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Do You Feel In Charge? Clip",
+        "key": "8IfTwS7dGz0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "622992bff9aa47001c0deba0",
+        "published_at": "2013-09-20T23:50:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Game Day Destruction",
+        "key": "_PKpC_TM_kc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "62299846109cd0001bf29da4",
+        "published_at": "2012-12-04T16:32:56.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Digital Trailer",
+        "key": "FOOoe-cRTv0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6229939c109cd000459244a7",
+        "published_at": "2012-10-02T22:33:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer #4",
+        "key": "J9DlV9qwtF0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "58ba56dac3a36866af017642",
+        "published_at": "2012-07-06T22:30:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer #3",
+        "key": "g8evyE9TuYk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "58ba56e9c3a3686630016e49",
+        "published_at": "2012-05-01T02:59:43.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer #2",
+        "key": "7gFwvozMHR4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "58ba56c4c3a368668f01532c",
+        "published_at": "2011-12-19T17:50:57.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Teaser Trailer",
+        "key": "z5Humz3ONgk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5ad8b6e70e0a26617800044a",
+        "published_at": "2011-07-18T15:28:40.000Z"
+      }
+    ]
+  }
+}

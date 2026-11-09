@@ -1,0 +1,215 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/m4Iyzh9YVOh0ra7UwdMoJcrjxkx.jpg",
+        "id": 10774,
+        "title": "Network",
+        "original_title": "Network",
+        "overview": "When veteran anchorman Howard Beale is forced to retire his 25-year post because of his age, he announces to viewers that he will kill himself during his farewell broadcast. Network executives rethink their decision when his fanatical tirade results in a spike in ratings.",
+        "poster_path": "/qZomlHsaALUtkFeMDwdYmwS2Pbo.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 5.9009,
+        "release_date": "1976-11-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.786,
+        "vote_count": 2166
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 10774,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\u201cI Love Duvall\u201d: Sidney Lumet Watches NETWORK",
+        "key": "z3zsLMUHhLo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "69a9fdcd25be79e3e87b0239",
+        "published_at": "2026-02-28T14:01:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "I'm Mad as Hell | Full Scene",
+        "key": "D-VF24H4Xrc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68271ac022ecc43daeada884",
+        "published_at": "2025-05-09T14:45:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Peter Finch Is Mad as Hell",
+        "key": "M96UAUJWW3Y",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "680ffd51a90acaf6eeeaedab",
+        "published_at": "2025-02-26T18:00:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Beale is Dragged Off Air",
+        "key": "c-dW2xe6lfk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "678e584bdbcff33a9c655820",
+        "published_at": "2025-01-17T15:15:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Re-release | New Poster",
+        "key": "Sh1m21UfVyA",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Featurette",
+        "official": true,
+        "id": "66755320233fc6557ab04b77",
+        "published_at": "2024-06-19T10:39:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Sidney Lumet on How He Created the Style in NETWORK",
+        "key": "ueSM9JMFQps",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "66755369aabaf052b871f3c3",
+        "published_at": "2022-02-08T13:30:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Anderson Cooper talks \"Network\"",
+        "key": "P5wrpSMZ6BU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "654287ea1ac292011b3c5795",
+        "published_at": "2019-08-23T16:32:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "T-PyQ1gMT6o",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "620e25376ee3d70044195534",
+        "published_at": "2017-08-29T21:19:29.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Network Wins Original Screenplay: 1977 Oscars",
+        "key": "mO9RTq4xoqY",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "667553ca7f61a80eb2b04d93",
+        "published_at": "2014-09-03T21:42:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Network - Trailer",
+        "key": "xxajGBZeQZc",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "5e4029e941465c0018cbfe69",
+        "published_at": "2014-07-08T23:47:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Chris Wilkinson on NETWORK",
+        "key": "x1lNFmfQb3I",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec66cc3a3685448001c91",
+        "published_at": "2013-11-16T03:31:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "CBS Movie promo Network 1980",
+        "key": "bX49yRksgPk",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Teaser",
+        "official": false,
+        "id": "533ec66cc3a3685448001c90",
+        "published_at": "2012-03-02T12:54:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Peter Finch Wins Best Actor: 1977 Oscars",
+        "key": "FnL3uE-TzFw",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "667553be8c602d737c4ee15c",
+        "published_at": "2009-11-24T19:00:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Faye Dunaway Wins Best Actress: 1977 Oscars",
+        "key": "ePkEsHmwCZE",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Featurette",
+        "official": true,
+        "id": "667553db1d0f02d10cc515f3",
+        "published_at": "2009-02-04T03:52:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Beatrice Straight Wins Best Supporting Actress for 'Network' | 49th Oscars (1977)",
+        "key": "o3g7kclmm0I",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Featurette",
+        "official": true,
+        "id": "667553fd2fb8bba29616e43b",
+        "published_at": "2009-02-04T03:51:47.000Z"
+      }
+    ]
+  }
+}

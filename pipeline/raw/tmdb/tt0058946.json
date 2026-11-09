@@ -1,0 +1,73 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/ze7GsNSv418o7pzqc9fb00LWWDk.jpg",
+        "id": 17295,
+        "title": "The Battle of Algiers",
+        "original_title": "La battaglia di Algeri",
+        "overview": "Former petty criminal Ali la Pointe becomes a commander of the Algerian Front de Liberation Nationale, directing a guerilla insurgency against the colonial French occupation. Paratrooper commander Colonel Phillippe Mathieu, a veteran of World War II and the First Indochina War, is sent to Algeria to reinforce efforts to squelch the uprisings.",
+        "poster_path": "/2p3AFtOHFvP6OeVMqlnL1zLKOqL.jpg",
+        "media_type": "movie",
+        "original_language": "it",
+        "genre_ids": [
+          18,
+          10752,
+          36
+        ],
+        "popularity": 3.5768,
+        "release_date": "1966-09-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 949
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 17295,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Oscar Nominee Paul Thomas Anderson Discusses \"The Battle of Algiers\" (Clip) | Guest Programmer",
+        "key": "cdF4eu56Pzo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6988c1a560f04ce01a8c931c",
+        "published_at": "2026-02-08T12:01:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Battle of Algiers - Trailer",
+        "key": "vhhoS3zOskE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6106be657719d700456c9f47",
+        "published_at": "2016-09-16T17:59:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Spike Lee, Mira Nair, and Steven Soderbergh on The Battle of Algiers",
+        "key": "1KstueVVbgI",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec67cc3a3685448002cbe",
+        "published_at": "2012-11-16T21:08:28.000Z"
+      }
+    ]
+  }
+}

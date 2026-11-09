@@ -1,0 +1,96 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/xlDUjb0Q5Dv6jPQRF5VE4IMjIy.jpg",
+        "id": 311,
+        "title": "Once Upon a Time in America",
+        "original_title": "Once Upon a Time in America",
+        "overview": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+        "poster_path": "/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 14.3676,
+        "release_date": "1984-05-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.365,
+        "vote_count": 6313
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 311,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "ONCE UPON A TIME IN AMERICA: (Extended Director's Cut) - Trailer - Sergio Leone, Robert De Niro",
+        "key": "lFw062jAYR0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6547cbd99cc67b00df93cd3b",
+        "published_at": "2020-01-13T02:39:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Once Upon A Time in America \u2263 1984 \u2263 Trailer",
+        "key": "_gdEuuxW-zk",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": false,
+        "id": "5a00d4119251415726004ece",
+        "published_at": "2017-11-06T21:28:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Once Upon a Time in America (1984) Official Trailer #1 - Robert De Niro, James Woods Gangster Drama",
+        "key": "LcpCRyNo8T8",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": false,
+        "id": "6547cb829cc67b00fc80b10a",
+        "published_at": "2015-06-26T22:36:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Extended Director's Cut | Mausoleum",
+        "key": "_thLaPpJUm0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "651c701dc50ad2014dcf557a",
+        "published_at": "2014-10-07T17:36:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "5vrbUpDihxs",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "651c6f8aea84c7012d68f604",
+        "published_at": "2014-07-08T22:56:15.000Z"
+      }
+    ]
+  }
+}

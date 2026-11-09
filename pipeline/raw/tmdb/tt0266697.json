@@ -1,0 +1,72 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+        "id": 24,
+        "title": "Kill Bill: Vol. 1",
+        "original_title": "Kill Bill: Vol. 1",
+        "overview": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle \u2013 but she lives to plot her vengeance.",
+        "poster_path": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80
+        ],
+        "popularity": 15.7541,
+        "release_date": "2003-10-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.97,
+        "vote_count": 19696
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 24,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Uma Thurman's Iconic 'Kill Bill' Costume Almost Wasn\u2019t Yellow!",
+        "key": "zzk12HYZRvQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "69989602864c80684ec9974c",
+        "published_at": "2026-02-19T17:01:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Kill Bill\u2019s Blood Spray Was Made With\u2026 Condoms?",
+        "key": "2ZGN50SEfEE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6985e3052c6d5e75f961a6c0",
+        "published_at": "2026-01-23T17:00:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Theatrical Trailer",
+        "key": "sXwXk3jcrfU",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "69297e40a359fdf101c12c48",
+        "published_at": "2023-10-10T05:00:20.000Z"
+      }
+    ]
+  }
+}

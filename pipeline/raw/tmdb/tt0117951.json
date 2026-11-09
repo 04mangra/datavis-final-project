@@ -1,0 +1,132 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/dkfBKDUIWP1peEszdqK10MkMZCP.jpg",
+        "id": 627,
+        "title": "Trainspotting",
+        "original_title": "Trainspotting",
+        "overview": "Heroin addict Mark Renton stumbles through bad ideas and sobriety attempts with his unreliable friends --Sick Boy, Begbie, Spud and Tommy. He also has an underage girlfriend, Diane, along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind as Begbie and Sick Boy come knocking.",
+        "poster_path": "/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 9.1724,
+        "release_date": "1996-02-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.958,
+        "vote_count": 10820
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 627,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official 30th Anniversary 4K Restoration Trailer",
+        "key": "bKrbNruyFVE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "69d57fac70ec4c82b66ae747",
+        "published_at": "2026-04-07T16:44:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trainspotting Is 30! | The Graham Norton Show",
+        "key": "ZEYqQGGvdD4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "69a503830b6d5b6192de9322",
+        "published_at": "2026-02-24T16:00:54.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official UK Re-release Trailer",
+        "key": "r9v3UXKhVQM",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "66424a064414c6f320e4922c",
+        "published_at": "2024-05-13T11:47:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "KhGT6itWByA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "62731874c56d2d357c9f3137",
+        "published_at": "2021-07-12T18:43:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trainspotting - It's Shite Being Scottish - Ewan McGregor - WITH ENGLISH SUBTITLES HD",
+        "key": "xCtPBFHKSNg",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": false,
+        "id": "69a502d8abd8f73a11ccd8c5",
+        "published_at": "2020-05-04T14:50:29.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trainspotting - Spud's job interview - WITH ENGLISH SUBTITLES",
+        "key": "UcJkLGKl-dU",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": false,
+        "id": "69a502a4817e2ddc64ff6b4d",
+        "published_at": "2020-05-03T18:19:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trainspotting - Choose Life - Opening scene - HD WITH ENGLISH SUBTITLES",
+        "key": "SaP7qmsQbSI",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": false,
+        "id": "69a502eed13a70f5c1c17c0a",
+        "published_at": "2020-05-03T18:09:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Iggy Pop - Lust For Life",
+        "key": "jQvUBf5l7Vw",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Featurette",
+        "official": false,
+        "id": "69a50196d13a70f5c1c17c03",
+        "published_at": "2009-02-26T11:54:53.000Z"
+      }
+    ]
+  }
+}

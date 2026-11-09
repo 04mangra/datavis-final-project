@@ -1,0 +1,193 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg",
+        "id": 490132,
+        "title": "Green Book",
+        "original_title": "Green Book",
+        "overview": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+        "poster_path": "/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          36
+        ],
+        "popularity": 15.3692,
+        "release_date": "2018-11-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.224,
+        "vote_count": 13465
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 490132,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Last Night at the Copacabana - Extended Preview",
+        "key": "DVkL502rfc8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "659f621ae24e3a01306e670c",
+        "published_at": "2024-01-01T17:00:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Green Book | Best Picture | Own it Now on 4K, Blu-ray, DVD & Digital",
+        "key": "fZgyKVFMQP4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "666340521918ee70f2f0eddd",
+        "published_at": "2019-03-08T20:49:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "GREEN BOOK | Official 'Chicken' TV Spot [HD]",
+        "key": "nUvRG6F0104",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "666340685fe3977f983caae6",
+        "published_at": "2019-01-21T14:18:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "GREEN BOOK | Official 'Courage' TV Spot [HD]",
+        "key": "Dvetzh4fP3w",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "666340704e3938456ae97c1e",
+        "published_at": "2019-01-14T10:01:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "GREEN BOOK | Official 'Acclaim' TV Spot [HD]",
+        "key": "W3gzPlgZ7aY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "6663407b5fe3977f983caae8",
+        "published_at": "2019-01-11T14:49:59.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "GREEN BOOK | Official 'Experience' TV Spot [HD]",
+        "key": "ep1i3zaOgYo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "6663408317cc9c6d283caa60",
+        "published_at": "2019-01-11T14:43:43.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Green Book - Now Playing (An Unforgettable Friendship) [HD]",
+        "key": "3W9LsQbUgYY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "66634095883502892409c220",
+        "published_at": "2018-12-01T18:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Academy Conversations: Green Book",
+        "key": "ZwWX2EOQcts",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "666340b15ab7bc95faf0ede2",
+        "published_at": "2018-11-20T20:53:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Green Book' Q&A | Mahershala Ali, Viggo Mortensen & Peter Farrelly",
+        "key": "OARuYCiVNHc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "666340bbecffff9d803ca7b0",
+        "published_at": "2018-11-19T21:23:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Green Book - In Select Theaters 11/16, Everywhere 11/21 (Aloe Blacc Featurette) [HD]",
+        "key": "iMHVbFzd1Cw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "666340372aea84512f14fec7",
+        "published_at": "2018-11-16T20:00:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Green Book - In Theaters Thanksgiving (What Is The Green Book Featurette) [HD]",
+        "key": "D1iiyUSjmaE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6663402a8fbdc8fabd503f7f",
+        "published_at": "2018-11-15T03:41:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TV Spot - Dignity",
+        "key": "vQiPPffA6Ik",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "60f5ecf45545ca002f7467dc",
+        "published_at": "2018-09-26T00:41:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "QkZxoko_HC0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5b736f080e0a267eed1cc642",
+        "published_at": "2018-08-14T14:00:05.000Z"
+      }
+    ]
+  }
+}

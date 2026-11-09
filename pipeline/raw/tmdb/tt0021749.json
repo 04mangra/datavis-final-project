@@ -1,0 +1,97 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/Ma7mQsldFCaQpsZbm8zolgLfmV.jpg",
+        "id": 901,
+        "title": "City Lights",
+        "original_title": "City Lights",
+        "overview": "A tramp falls in love with a beautiful blind flower girl. His on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor.",
+        "poster_path": "/bXNvzjULc9jrOVhGfjcc64uKZmZ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "popularity": 4.0798,
+        "release_date": "1931-02-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.247,
+        "vote_count": 2588
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 901,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Amy Madigan on CITY LIGHTS",
+        "key": "yJ69VL9pOZM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "69b809795d77b49f4e5ca301",
+        "published_at": "2026-03-07T19:30:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mark Kermode reviews City Lights (1931) | BFI Player",
+        "key": "Mw6IeccPWo4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "63f90a7996e30b00dd6fb1d2",
+        "published_at": "2023-02-24T16:00:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Buck Henry on CITY LIGHTS",
+        "key": "SNiBCXbTu5A",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "5f707f1e35039800348bfe9e",
+        "published_at": "2020-09-26T16:00:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "City Lights (1931) Trailer #1 | Movieclips Classic Trailers",
+        "key": "7vl7F8S4cpQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "5f707f413dd1260036658e3b",
+        "published_at": "2018-08-02T17:07:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "City Lights Spaghetti",
+        "key": "7682437",
+        "site": "Vimeo",
+        "size": 480,
+        "type": "Clip",
+        "official": false,
+        "id": "6591b14b57176f6a957fe580",
+        "published_at": "2009-11-18T12:37:55.000Z"
+      }
+    ]
+  }
+}

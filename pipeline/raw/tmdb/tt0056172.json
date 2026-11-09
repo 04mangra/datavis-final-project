@@ -1,0 +1,289 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/eULrEMwgXnWmzdowUfegaw2YYgD.jpg",
+        "id": 947,
+        "title": "Lawrence of Arabia",
+        "original_title": "Lawrence of Arabia",
+        "overview": "During World War I, English officer Thomas Edward 'T.E.' Lawrence sets out to unite and lead the diverse, often warring, Arab tribes to fight the Turks.",
+        "poster_path": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          36,
+          10752
+        ],
+        "popularity": 8.5238,
+        "release_date": "1962-12-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.002,
+        "vote_count": 3661
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 947,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Fathom Events Trailer",
+        "key": "KR1yTI8zFJk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6652ee4984b749b53df7f498",
+        "published_at": "2024-05-24T20:41:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Trailer",
+        "key": "i0IzV1q9g9Q",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "62a215927e12f06e05667e3d",
+        "published_at": "2022-06-07T22:00:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Denis Villeneuve on LAWRENCE OF ARABIA | TIFF 2021",
+        "key": "HxejohkhRuQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6652ef2cb91cda359a99f301",
+        "published_at": "2021-10-15T14:14:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Siskel & Ebert Review Lawrence of Arabia (1962) David Lean",
+        "key": "5BeVfJtuxwU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "6ac70959edb7e571853ee86e",
+        "published_at": "2021-04-27T14:42:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Extended Preview",
+        "key": "QJ1utiuttQc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "62bf4107325a5100c25e19ec",
+        "published_at": "2020-06-25T17:00:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TCM Fathom Events Spot",
+        "key": "LNS89ycJE0g",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "6652f03c8e9db9208327c84d",
+        "published_at": "2019-07-19T21:22:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Anne V.  Coates on how she got the job editing LAWRENCE OF ARABIA",
+        "key": "a3snPRfJLjI",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "6652f15a44e3bd7d76b3e821",
+        "published_at": "2018-05-18T00:01:59.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Anne V.  Coates recalls how she received a higher salary after editing LAWRENCE OF ARABIA",
+        "key": "CVyxtx5AVIk",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "6652f16db58df8fb1725ea02",
+        "published_at": "2018-05-17T23:57:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Lawrence of Arabia\" winning a Film Editing Oscar\u00ae",
+        "key": "szH390BTGLs",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6652eeb1cb9d2f74f434dc41",
+        "published_at": "2018-05-09T16:27:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "UK Re-Release Trailer",
+        "key": "_AznzZAlwVA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "60dce315d0b434007f028611",
+        "published_at": "2017-07-27T14:23:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"To Kill a Mockingbird\" and \"Lawrence of Arabia\" winning Art Direction Oscars\u00ae",
+        "key": "sQ5BQo6C2o4",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6652eeff50b4608a23f7ec31",
+        "published_at": "2014-04-14T00:12:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ginger Rogers presents Music Oscars\u00ae to \"Lawrence of Arabia\" and \"The Music Man\"",
+        "key": "PQ2pJ4GI6cg",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6652ef3b7f9e4876321756de",
+        "published_at": "2014-03-31T18:05:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"The Longest Day\" and \"Lawrence of Arabia\" winning Cinematography Oscars\u00ae",
+        "key": "dvu0kXODvU0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6652eea682da8c6a03c63274",
+        "published_at": "2014-01-31T01:18:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Lawrence of Arabia\" winning Best Picture",
+        "key": "quXpYb1IhY8",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6652ee88a39cf9b9b7c632f0",
+        "published_at": "2013-04-30T23:59:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Steven Spielberg on how LAWRENCE OF ARABIA inspired him to make movies",
+        "key": "ayJLeVDOCZ0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec657c3a36854480006e1",
+        "published_at": "2012-12-27T22:14:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "50th Anniversary Event",
+        "key": "3987pwNzC24",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Teaser",
+        "official": true,
+        "id": "6652f0d097f53ead6a27c85e",
+        "published_at": "2012-09-07T15:21:56.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Omar Sharif on \"Lawrence of Arabia\"",
+        "key": "PjrrG6WaM4E",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "6652eee415649dc0cb34dd5b",
+        "published_at": "2012-07-20T03:46:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Martin Scorsese on LAWRENCE OF ARABIA",
+        "key": "TcnRSGc3Pis",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec657c3a36854480006e2",
+        "published_at": "2011-12-21T00:49:49.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Critics' Picks - 'Lawrence of Arabia'",
+        "key": "TIcU1Bm89mw",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec657c3a36854480006e0",
+        "published_at": "2011-06-08T19:11:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Elizabeth Perkins On LAWRENCE OF ARABIA",
+        "key": "tkA3q41FdQ4",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6652efbd84b749b53df7f4ac",
+        "published_at": "2009-10-02T18:16:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "David Lean winning an Oscar\u00ae for \"Lawrence of Arabia\"",
+        "key": "baSdGR-C-s4",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6652ee96c7353816c9f7e974",
+        "published_at": "2008-07-13T20:11:56.000Z"
+      }
+    ]
+  }
+}

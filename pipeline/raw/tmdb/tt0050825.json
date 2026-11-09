@@ -1,0 +1,228 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/nbMY2UcNnaAr3jrrowzN0NaxQyr.jpg",
+        "id": 975,
+        "title": "Paths of Glory",
+        "original_title": "Paths of Glory",
+        "overview": "A commanding officer defends three scapegoats on trial for a failed offensive that occurred within the French Army in 1916.",
+        "poster_path": "/hGg1UCQSHlXfv2HI9bDHT2OQBam.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          10752,
+          18
+        ],
+        "popularity": 5.5514,
+        "release_date": "1957-10-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.254,
+        "vote_count": 3433
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 975,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Faithful Hussar",
+        "key": "2LzlWsbKpI8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6adf241de3d19574650d1d43",
+        "published_at": "2026-10-25T17:00:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "We'll Take the Ant Hill",
+        "key": "Shm1acOc8Mw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a3b6b65f94513f388c2b9ef",
+        "published_at": "2026-06-11T16:00:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Shellshocked Soldier",
+        "key": "A36ZvVnunWg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a14a2bd74d37fd0c2ee0f75",
+        "published_at": "2026-02-19T17:00:20.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Indictment",
+        "key": "XJemtp3edS8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a14a62019baebbafd8e3bd9",
+        "published_at": "2025-05-28T16:01:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Martin Scorsese on Paths of Glory",
+        "key": "UumRWoS5vOE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "6746b0ac95c55a202717965f",
+        "published_at": "2024-11-21T16:30:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Soldiers Are Tried For Cowardice",
+        "key": "Tibic2070mE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "66953ea47625360274fdd753",
+        "published_at": "2024-07-14T22:00:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Soldiers Enter No Man's Land",
+        "key": "lZW768-EBjU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "66920bda9d67ad2782ad0cc2",
+        "published_at": "2024-07-11T18:00:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "We'll Take The Ant Hill",
+        "key": "KY3FNGfDVIw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "668f2d0eb34445f0ea912d38",
+        "published_at": "2024-07-10T18:00:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "FESvZ0HG2p4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "668e209b9d1b57031f5c2a4e",
+        "published_at": "2024-07-09T18:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Paths of Glory (1957) Original Trailer [FHD]",
+        "key": "6XZtnGvj-Sc",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "68e074e210fb2072ddc266cd",
+        "published_at": "2024-03-16T07:30:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mireau instructs Dax to take the Anthill",
+        "key": "usI1dCXvxDQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65e75b0b6332f7016392af61",
+        "published_at": "2024-03-05T17:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Masters of Cinema Special Edition 4K Ultra-HD Blu-ray Unboxing Video",
+        "key": "YCuQHp1q9pI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "65c7df53ce6c4c017cb973a8",
+        "published_at": "2024-02-06T17:00:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Why didn't you attack the Anthill single-handed?\"",
+        "key": "ix22Oxl0rZw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "658f1ecd6611b46e0fa3f466",
+        "published_at": "2023-12-25T17:00:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dax leads his soldiers over the top into no man's land",
+        "key": "HStvG3xy4lc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65789ed089d97f01009eddfe",
+        "published_at": "2023-12-11T17:00:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Masters of Cinema Trailer",
+        "key": "icZyfkL4FMY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "65671789d9542001387600e3",
+        "published_at": "2023-11-16T15:00:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "George Hickenlooper on PATHS OF GLORY",
+        "key": "yzTwmbXg7pA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec657c3a368544800070f",
+        "published_at": "2013-11-16T03:05:27.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/9IIBboV7MCT0bTxzXHmWK1Hq558.jpg",
+        "id": 272,
+        "title": "Batman Begins",
+        "original_title": "Batman Begins",
+        "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+        "poster_path": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          28
+        ],
+        "popularity": 16.7454,
+        "release_date": "2005-06-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.733,
+        "vote_count": 23485
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 272,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Scarecrow is NIGHTMARE FUEL",
+        "key": "ejd9hefxp_E",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68e40d99f6d32fab28bd9bf8",
+        "published_at": "2025-10-05T14:00:59.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Scarecrow's Fear Gas",
+        "key": "2oE3iNAMUGA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "69fe61dbf9b07a2cb334cec8",
+        "published_at": "2025-09-20T14:00:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Chase Scene",
+        "key": "Dio_sS6WGBI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68cf7782883e551320cec1b2",
+        "published_at": "2025-09-19T15:24:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "I'm BATMAN (he literally is tho)",
+        "key": "H0e-O5Gtu_o",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68c840025ff6bc956270d8cf",
+        "published_at": "2025-09-15T14:00:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "lirBhHXvDSg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6610e021d768fe014841391c",
+        "published_at": "2024-04-04T15:12:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official 4K Trailer",
+        "key": "FiL1_5DWV7Y",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "6209edeb7aecc600195b6a42",
+        "published_at": "2021-09-23T15:59:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Epic Batmobile Chase Clip",
+        "key": "5oeyTU36lBw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "62298e6af9aa47006ee16748",
+        "published_at": "2021-01-28T20:03:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer #1",
+        "key": "neY2xVmOfUM",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": false,
+        "id": "58ba7d4a925141607301cec3",
+        "published_at": "2013-12-12T00:58:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Falcone Meets Scarecrow Clip",
+        "key": "lzHs9cJ4Bao",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "62298ea384591c006e76025f",
+        "published_at": "2013-09-20T00:54:25.000Z"
+      }
+    ]
+  }
+}

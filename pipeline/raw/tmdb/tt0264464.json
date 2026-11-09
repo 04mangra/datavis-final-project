@@ -1,0 +1,60 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/eS3xZQ1C8lt6mm4K5lTmjbYn2HE.jpg",
+        "id": 640,
+        "title": "Catch Me If You Can",
+        "original_title": "Catch Me If You Can",
+        "overview": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+        "poster_path": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 16.9394,
+        "release_date": "2002-12-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.978,
+        "vote_count": 17850
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 640,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Frank Forges Checks as a Pilot",
+        "key": "XEDFvxcOniE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68a2a21ef4d339f7870c0325",
+        "published_at": "2025-08-17T13:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "71rDQ7z4eFg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "533ec655c3a36854480004d3",
+        "published_at": "2013-04-30T02:16:28.000Z"
+      }
+    ]
+  }
+}

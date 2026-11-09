@@ -1,0 +1,217 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/sv2VnbZmgy2rkrtkA2nz7rzH0VK.jpg",
+        "id": 239,
+        "title": "Some Like It Hot",
+        "original_title": "Some Like It Hot",
+        "overview": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
+        "poster_path": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10749,
+          80
+        ],
+        "popularity": 7.5426,
+        "release_date": "1959-03-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.076,
+        "vote_count": 4053
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 239,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Reuniting Marilyn Monroe\u2019s \u2018Some Like It Hot\u2019 Dresses",
+        "key": "8q3R_Uptj_c",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a6a59af37ab31da34ea7d42",
+        "published_at": "2026-07-28T15:00:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Sugar Kane Performs \u201cI Wanna Be Loved By You\u201d",
+        "key": "K60khJp0Etk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "680ffa794603571ead0fad0c",
+        "published_at": "2025-04-06T11:00:21.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Marilyn Monroe Has a Hot Date with Tony Curtis on a Yacht",
+        "key": "kqIblAtgazg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "680ffd3010d1e453d2eb598e",
+        "published_at": "2025-02-27T12:01:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Private Party",
+        "key": "FixhgwGoqsE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "651622fc0499f2011b0a2d5d",
+        "published_at": "2023-09-28T18:00:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Sugar Meets A \"Rich\" Man",
+        "key": "0cIXSM7ihbA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65148654a199a600ab1786e5",
+        "published_at": "2023-09-27T18:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Joe & Jerry Go On The Run",
+        "key": "KJJlcNayRQk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6513583026dac100ac0a8431",
+        "published_at": "2023-09-26T18:00:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Speakeasy Gets Raided",
+        "key": "3DqGxeDjSZI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65122230e1faed011d5f73a1",
+        "published_at": "2023-09-25T18:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "97TYs2YXbJw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "61edbfe9006b01004675b0ef",
+        "published_at": "2021-03-16T14:30:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Meet Sugar Kane",
+        "key": "NYWv8bRnODc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "61edc041d40d4c00d336f1b7",
+        "published_at": "2021-03-11T01:59:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Billy Wilder on SOME LIKE IT HOT",
+        "key": "-lU5JRHA1Og",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a6a5a739393049dbdc6287e",
+        "published_at": "2020-04-02T20:26:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jack Lemmon on making SOME LIKE IT HOT",
+        "key": "7UX5l9xH8kY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a6a5b7aa1ae9b90a7c6288e",
+        "published_at": "2020-04-02T17:25:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Helen Mirren & Taylor Hackford Announce SOME LIKE IT HOT for AFI Movie Club",
+        "key": "vV4JAR5ioWw",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a6a5a47b847eed89ac9ff8f",
+        "published_at": "2020-04-02T17:22:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K Restoration Official Trailer",
+        "key": "vvgWJ4VRwrg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6383991b5e14e5007cf45890",
+        "published_at": "2018-09-24T11:37:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Some Like It Hot and Ben-Hur Win Costume Design: 1960 Oscars",
+        "key": "uyhGiyKVQZ0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6786efdbbd793c03544f11e9",
+        "published_at": "2014-03-12T16:48:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Tony Curtis On SOME LIKE IT HOT",
+        "key": "11KNazI7DuI",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a6a5a0b9c465c6ae4047c11",
+        "published_at": "2010-09-30T17:31:49.000Z"
+      }
+    ]
+  }
+}

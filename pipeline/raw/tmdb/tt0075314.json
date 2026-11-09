@@ -1,0 +1,216 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
+        "id": 103,
+        "title": "Taxi Driver",
+        "original_title": "Taxi Driver",
+        "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+        "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 15.5529,
+        "release_date": "1976-02-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.116,
+        "vote_count": 13987
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 103,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Wait, who is talking to who?",
+        "key": "t0V9dzbUkJM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a57528bfef5171676050b1e",
+        "published_at": "2026-07-02T18:00:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Peak Cinema",
+        "key": "dPdmoCG5K24",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "6a5753ae7b1fa18ca685ff0e",
+        "published_at": "2026-06-30T19:00:19.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Amy Heckerling on Taxi Driver | Episode 6 | DIRECTOR\u2019S TAKE: A SONY PICTURES PODCAST",
+        "key": "uN9fYTojPgk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "69b560ba4d2dd17ddd731d96",
+        "published_at": "2026-02-03T23:01:16.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Modern Trailer",
+        "key": "zdqCqDSTVNI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6684c848946242d49875ea6c",
+        "published_at": "2024-07-02T19:00:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "EP 36:You Talkin\u2019 to Me? Martin Scorsese\u2019s Taxi Driver",
+        "key": "FVARxAuRzA0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a57697c1b13678968fbf44f",
+        "published_at": "2021-02-18T15:41:52.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "You Talkin' to Me?",
+        "key": "dB_5XEMH3mc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "61977a005c071b0065f15c6d",
+        "published_at": "2020-08-14T16:00:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Paul Schrader on the origins of TAXI DRIVER",
+        "key": "CfXz02fT2rE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6693dbbde83a847e8c88d0c9",
+        "published_at": "2019-11-20T19:54:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Paul Schrader on his film TAXI DRIVER",
+        "key": "ChOCtN00UNk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6693dbc60053f970c88967af",
+        "published_at": "2019-01-28T23:55:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "A Scene from TAXI DRIVER, with Commentary",
+        "key": "p9HEUowEAyo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6693dbb5c7bff4ff5c88d36d",
+        "published_at": "2018-11-01T19:39:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Fathom Events Spot",
+        "key": "lbSisPcYQFQ",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Teaser",
+        "official": true,
+        "id": "6693dbd8ca08109d8d1cc731",
+        "published_at": "2016-09-16T18:55:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official 40th Anniversary Reissue Trailer",
+        "key": "S7ORyD-e7-0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6383b136fb83460084409a67",
+        "published_at": "2016-09-08T11:30:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "14 Year Old Jodie Foster win Supporting Actress BAFTA in 1977",
+        "key": "o7yb9UoHVt8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a5768a3b20fed9d185f21cb",
+        "published_at": "2015-01-24T10:15:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "UUxD4-dEzn0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5ab807db0e0a261fe202420b",
+        "published_at": "2014-03-10T22:41:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jodie Foster on Travis Bickle as the Anti-Hero in TAXI DRIVER",
+        "key": "lZpO2htry8I",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6693dbd11a817f25d602745c",
+        "published_at": "2011-12-08T19:19:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jodie Foster Salutes Robert De Niro at AFI Life Achievement Award",
+        "key": "NXOoKgmpEiU",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a57691bc59144bba4a6a46a",
+        "published_at": "2009-12-11T20:37:26.000Z"
+      }
+    ]
+  }
+}

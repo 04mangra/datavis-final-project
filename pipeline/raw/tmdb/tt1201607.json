@@ -1,0 +1,192 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/eKUk4oN4ucwnLJml7wRnjuB9AQH.jpg",
+        "id": 12445,
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "original_title": "Harry Potter and the Deathly Hallows: Part 2",
+        "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+        "poster_path": "/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          14
+        ],
+        "popularity": 25.5005,
+        "release_date": "2011-07-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.082,
+        "vote_count": 22709
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 12445,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Harry Fights Voldemort",
+        "key": "_UIheg6evUY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "69f657655ae5723d5e77ff6f",
+        "published_at": "2026-02-20T15:01:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Harry Potter Breaks into Gringotts",
+        "key": "7YhpvbVWm4c",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "697e1e3253bd2ac5ff719e84",
+        "published_at": "2024-08-16T13:00:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Full Movie Preview",
+        "key": "KHBCzAFXUok",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "615f9c5869eb90008a488d76",
+        "published_at": "2020-05-02T17:59:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Professor McGonagall Protects Hogwarts",
+        "key": "2Tpb1XyqGOQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a1845e220c6e693cb9b63a8",
+        "published_at": "2018-02-27T17:16:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "19 Years Later",
+        "key": "yv-UwwOvOzA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "697e1d64905fe415f861662a",
+        "published_at": "2017-09-01T10:00:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer #2",
+        "key": "kwM3kN8PNOc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a1845e8d3901175f21b7658",
+        "published_at": "2016-08-23T16:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"The Boy Who Lived Has Come To Die\"",
+        "key": "S02kaxCg910",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "697e1b9b2b188a1e65616569",
+        "published_at": "2016-08-11T16:00:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Harry Potter is the Final Horcrux",
+        "key": "Rg1LLVWZyg8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63afa3f4c56d2d00f30ec3e5",
+        "published_at": "2014-02-19T18:20:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ron and Hermione Kiss",
+        "key": "j84hGgzIyps",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63afa40a57530e00a358c806",
+        "published_at": "2014-02-19T18:18:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Canadian Premiere",
+        "key": "3BU57jGPEPU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "5f45f7dbfdc4fa0036bc0834",
+        "published_at": "2011-07-20T15:03:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Story of Snape",
+        "key": "2nPyasEm3g0",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "58f52aa1c3a3680e78002be6",
+        "published_at": "2011-07-11T18:17:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer 2",
+        "key": "5NYt1qirBWg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "58f52a5492514127a6002b15",
+        "published_at": "2011-06-16T19:05:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer 1",
+        "key": "mObK5XD8udk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "58f529e49251412795002b6d",
+        "published_at": "2011-04-27T18:39:35.000Z"
+      }
+    ]
+  }
+}

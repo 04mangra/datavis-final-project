@@ -1,0 +1,277 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/rnQyWw68dPHPRtvSWMtLSueXf05.jpg",
+        "id": 279,
+        "title": "Amadeus",
+        "original_title": "Amadeus",
+        "overview": "Disciplined Italian composer Antonio Salieri becomes consumed by jealousy and resentment towards the hedonistic and remarkably talented young Salzburger composer Wolfgang Amadeus Mozart.",
+        "poster_path": "/gQRfiyfGvr1az0quaYyMram3Aqt.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          36,
+          10402
+        ],
+        "popularity": 8.8252,
+        "release_date": "1984-09-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 5004
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 279,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Treasure Hunt to Restore the Oscar-Winning Makeup From \u2018Amadeus\u2019!",
+        "key": "kGFxKJI0kDg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "68b6316d5f164ef3d6398415",
+        "published_at": "2025-08-21T16:29:49.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Oscar-winning Mozart biopic AMADEUS is now fully restored in 4K and showing in select cinemas.",
+        "key": "AG6XSX8UQ5U",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "68893891eda54843a5d02178",
+        "published_at": "2025-07-25T13:09:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official UK 4K Restoration Trailer",
+        "key": "pNnugovJdzM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6887795c65f0807e59d9b831",
+        "published_at": "2025-06-16T15:30:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Movie Clip - A Mask For the Dead",
+        "key": "eNWb2tzsHJc",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "67d43734f17459c8ff53c7e2",
+        "published_at": "2025-03-14T14:00:49.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Movie Clip - Your Father is Dead",
+        "key": "VSEPKY-995o",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "67cb0aa8f708440336cb7b85",
+        "published_at": "2025-03-07T15:00:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Movie Clip - Papa!",
+        "key": "qSGOVVJk3q4",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "67c4ce3ea3277ab4a1e74eab",
+        "published_at": "2025-03-02T15:01:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Full Movie Preview",
+        "key": "-2RdClB8Mt0",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "67be0e0f6799c482e2ef9a3c",
+        "published_at": "2025-02-25T18:05:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Movie Clip - A Little Modesty Might Suit You Better",
+        "key": "xTj6f5f1RjM",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "67b62ff599998623c114573d",
+        "published_at": "2025-02-19T18:00:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Movie Clip - They Started Without Me",
+        "key": "O4cKwBarnW8",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "67aa1c6ef54bc6c5ba0f80c6",
+        "published_at": "2025-02-10T15:00:29.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Movie Clip - Maestro",
+        "key": "NbLiMjJbh-E",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "67a37df5aeee5c0e259fe328",
+        "published_at": "2025-02-05T15:00:23.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K Ultra HD Trailer",
+        "key": "ZQV9yySOmhs",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "677f015fc81acaa63dbb3285",
+        "published_at": "2025-01-08T21:26:49.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\u2018Amadeus\u2019 Production Designer Patrizia von Brandenstein on Why the Small Details Matter | TCMFF 2023",
+        "key": "iB_posSxnpY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "653fdd2dc8a5ac0100fb36a9",
+        "published_at": "2023-04-16T21:47:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Producer Saul Zaentz on Casting AMADEUS",
+        "key": "jpHNcrXhvkM",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "685c210379c98f3fb1ee6936",
+        "published_at": "2022-01-21T08:00:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "_R4fbdzzXok",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "63c6d590bbd0b000c41d974e",
+        "published_at": "2014-07-08T23:25:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Amadeus Wins Makeup and Sound: 1985 Oscars",
+        "key": "XlfAt56Ocxc",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "685c20a2c29818ac6f8148e1",
+        "published_at": "2014-05-23T16:43:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Robert Benton and Peter Shaffer winning Writing Oscars\u00ae",
+        "key": "il6P0bgjRTQ",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "685c208ea1059aae5191b6bc",
+        "published_at": "2014-04-03T16:51:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Milos Forman \u202awinning the Oscar\u00ae for Directing \"Amadeus\"",
+        "key": "vGUvc5_wf74",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "685c2058307350a1cac9d147",
+        "published_at": "2014-04-01T23:07:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Amadeus Wins Costume Design: 1985 Oscars",
+        "key": "7mI4HHV5zaw",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "685c2067ba744434c3e4302d",
+        "published_at": "2013-08-26T22:25:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Amadeus\" winning Best Picture",
+        "key": "VKyMQEaEcsM",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "685c203f60471512e294e41f",
+        "published_at": "2010-10-29T20:14:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "F. Murray Abraham winning Best Actor",
+        "key": "S0S4pL3_1-U",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "685c204b99635fb3f091b62b",
+        "published_at": "2010-08-25T17:16:24.000Z"
+      }
+    ]
+  }
+}

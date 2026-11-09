@@ -1,0 +1,241 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/2vq5GTJOahE03mNYZGxIynlHcWr.jpg",
+        "id": 359724,
+        "title": "Ford v Ferrari",
+        "original_title": "Ford v Ferrari",
+        "overview": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+        "poster_path": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          36,
+          28
+        ],
+        "popularity": 12.1779,
+        "release_date": "2019-11-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.009,
+        "vote_count": 9472
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 359724,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ken Miles Wins The 24 Hours of Daytona",
+        "key": "4gmEQpMyVCM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68bb5ef31db6f1cff898b1ea",
+        "published_at": "2025-09-05T22:00:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Misfits",
+        "key": "eK4x8HiWe08",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "68bb5f88b4b474000c1f4a78",
+        "published_at": "2019-11-13T19:58:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Meet Lee Iacocca",
+        "key": "V8n7UPUtIMg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "68bb5f831db6f1cff898b1ec",
+        "published_at": "2019-11-12T01:39:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Meet Mollie Miles",
+        "key": "IcnE9B26rBw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "68bb5f7eb4b474000c1f4a76",
+        "published_at": "2019-11-12T01:35:41.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Meet Leo Beebe",
+        "key": "9-tQpL5R_Jo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "68bb5f790338726d8c1f4879",
+        "published_at": "2019-11-12T01:31:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "In 10 Days",
+        "key": "Lr8EpVIdfNQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "68bb5f70bce7b2a2989bfb89",
+        "published_at": "2019-11-05T19:26:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Perfect Lap\" Clip",
+        "key": "pLHmFnim1Ws",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68bb5f698d71c7c8b68ce53d",
+        "published_at": "2019-11-01T18:00:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"You Know Your Cars\" Clip",
+        "key": "rSKcwgjZXAg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68bb5f65f896fc684b4e55b4",
+        "published_at": "2019-11-01T01:59:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Happy Bill\" Clip",
+        "key": "pNn8rK1VtIA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68bb5f6004dd0798a5069892",
+        "published_at": "2019-10-24T19:00:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "NCM Exclusive",
+        "key": "QZk7QlNqKLo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "68bb5f5be3333fb0f59bfd17",
+        "published_at": "2019-10-23T17:00:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "AMC Exclusive",
+        "key": "xAkCqox_MhE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "5daa876e3d3557000f6d715c",
+        "published_at": "2019-10-17T17:00:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Wait For It",
+        "key": "UZHXhyXAvKU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "68bb5f4587818c0f48069721",
+        "published_at": "2019-10-13T00:30:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Run Free",
+        "key": "InXHFPzAEEM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "5daa8836b2681f001691e675",
+        "published_at": "2019-10-11T17:00:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Special Look",
+        "key": "EVexhbWr548",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "5daa87b4b2681f001291a913",
+        "published_at": "2019-10-09T19:47:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer 2",
+        "key": "I3h9Z89U9ZA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5d7e39bf2866fa04723891e8",
+        "published_at": "2019-09-15T13:00:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Ford v Ferrari' Stars Christian Bale & Matt Damon on Shooting Intense Racing Scenes",
+        "key": "_uwkU6uNH1c",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "5daa88acb2681f001291ab39",
+        "published_at": "2019-09-11T22:30:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "zyYgDtY2AMY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5cf4c8b0c3a36853571e62bb",
+        "published_at": "2019-06-03T00:44:01.000Z"
+      }
+    ]
+  }
+}

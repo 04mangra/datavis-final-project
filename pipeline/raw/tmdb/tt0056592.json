@@ -1,0 +1,287 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/wYRpVySPCC7wA28p54yAaoMT478.jpg",
+        "id": 595,
+        "title": "To Kill a Mockingbird",
+        "original_title": "To Kill a Mockingbird",
+        "overview": "Scout Finch, 6, and her older brother Jem live in sleepy Maycomb, Alabama, spending much of their time with their friend Dill and spying on their reclusive and mysterious neighbor, Boo Radley. When Atticus, their widowed father and a respected lawyer, defends a black man named Tom Robinson against fabricated rape charges, the trial and tangent events expose the children to evils of racism and stereotyping.",
+        "poster_path": "/gZycFUMLx2110dzK3nBNai7gfpM.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 6.1114,
+        "release_date": "1962-12-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.98,
+        "vote_count": 3009
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 595,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "What Gregory Peck Wrote On His 'To Kill a Mockingbird' Script!",
+        "key": "hwc1rGFpvL0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6985f1eb6a6603661834534b",
+        "published_at": "2026-02-05T17:01:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Sneaking Into Mr. Radley's House - Full Scene",
+        "key": "9qHMDcBzR5M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65b0a78a99c96401511f2462",
+        "published_at": "2024-01-23T20:00:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TCM 60th Anniversary",
+        "key": "d1QEZoSARxY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "633f20024f9a99007c2718f8",
+        "published_at": "2022-10-05T21:35:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Gregory Peck on Making TO KILL A MOCKINGBIRD | Spotlight Cinema",
+        "key": "y9v4-VZ7UGA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6985f50483bfa83d9c219173",
+        "published_at": "2022-05-06T15:00:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Atticus Finch Confronts A Mob Outside the Jailhouse",
+        "key": "HT4q5cg4FEk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "624293452cde980047e46291",
+        "published_at": "2022-03-23T18:00:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Atticus Finch's Closing Argument",
+        "key": "tNxrnOC_WTs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6985f593eb6020f6842191cf",
+        "published_at": "2020-01-22T23:00:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Actor Jeff Daniels on \"To Kill a Mockingbird\"",
+        "key": "QacaFmK0f_Y",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6985f65fc32fd5c1746b57a4",
+        "published_at": "2019-08-23T16:40:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Fathom 2019 Spot",
+        "key": "SxBT3lvUQ2M",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Teaser",
+        "official": true,
+        "id": "633f2382a313b80081239cef",
+        "published_at": "2019-02-05T00:37:49.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Gregory Peck recalls Harper Lee on the set of To Kill a Mockingbird",
+        "key": "UISApwv0iGA",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "56cc68eac3a36865db00288d",
+        "published_at": "2016-02-20T02:13:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"To Kill a Mockingbird\" and \"Lawrence of Arabia\" winning Art Direction Oscars\u00ae",
+        "key": "sQ5BQo6C2o4",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6985f35609e6855ead99d7cd",
+        "published_at": "2014-04-14T00:12:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"To  Kill a Mockingbird\" and \"Divorce--Italian Style\" winning Writing Oscars\u00ae",
+        "key": "mDQj_kgEw0Y",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6985f38b52f819f56a6b576d",
+        "published_at": "2014-03-28T17:28:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TCM Event Series Spot",
+        "key": "9C9p5eHeLOM",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Teaser",
+        "official": true,
+        "id": "633f20897d41aa007e28d1e8",
+        "published_at": "2012-10-19T19:51:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "AFI Celebrates the 50th Anniversary of To Kill a Mockingbird at the White House",
+        "key": "zPcH6joLZjg",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec655c3a3685448000459",
+        "published_at": "2012-04-26T21:42:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Tavis Smiley reflects on \"To Kill a Mockingbird\"",
+        "key": "ChtVRonwxyA",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Featurette",
+        "official": true,
+        "id": "6985f53c4537bcb0366b57e4",
+        "published_at": "2012-04-16T17:30:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"To Kill a Mockingbird\" 50 Years Later",
+        "key": "lr5V0if1qss",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Featurette",
+        "official": true,
+        "id": "6985f566bfff2c964761a6c8",
+        "published_at": "2012-04-16T17:30:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Scout (Mary Badham) from \"To Kill a Mockingbird\" talks about the making of the film",
+        "key": "RijbFbpSqJo",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Featurette",
+        "official": true,
+        "id": "6985f4303f8ef2c71329a724",
+        "published_at": "2012-04-16T17:30:20.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "AFI's 100 Years...100 Heroes & Villains: #1 Hero - Atticus Finch",
+        "key": "bqmnI4qtiGM",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec655c3a368544800045a",
+        "published_at": "2012-04-05T20:27:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Laurence Fishburne on To Kill a Mockingbird",
+        "key": "q0RgmaWNGt0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec655c3a368544800045b",
+        "published_at": "2011-12-21T00:56:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Harrison Ford on TO KILL A MOCKINGBIRD",
+        "key": "zVVzZjiS8Bo",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6985f3dbbfff2c964761a6b2",
+        "published_at": "2011-12-21T00:55:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Blu-ray Trailer",
+        "key": "4-CrrtYjrbM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "60dce201ef9d72007e074cb6",
+        "published_at": "2011-12-07T00:45:54.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Gregory Peck Wins Best Actor: 1963 Oscars",
+        "key": "46rabPWIKyY",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6985f22a4fc5f8febb29a64f",
+        "published_at": "2011-09-27T19:52:24.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg",
+        "id": 1892,
+        "title": "Return of the Jedi",
+        "original_title": "Return of the Jedi",
+        "overview": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, the Emperor prepares to crush the Rebellion with a more powerful Death Star, and the Rebel fleet mounts a massive attack on the space station. Luke Skywalker confronts Darth Vader in a final climactic duel before the evil Emperor.",
+        "poster_path": "/jQYlydvHm3kUix1f8prMucrplhm.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
+        "popularity": 9.7646,
+        "release_date": "1983-05-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.911,
+        "vote_count": 17532
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 1892,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Luke Skywalker Fights the Rancor - Official Clip",
+        "key": "QFgRmRfoSzI",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "6a711d472530da7af535834f",
+        "published_at": "2026-07-20T14:00:20.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Yoda\u2019s Last Lesson For Luke Skywalker - Official Clip",
+        "key": "byUAS-_5ncM",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "6a20eb42cdf391b67fad58bc",
+        "published_at": "2026-06-03T15:00:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "All the Facts - Disney+ Deets",
+        "key": "HIYHRa5tA68",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "62c0410d1056110ecf30e00f",
+        "published_at": "2021-12-15T17:00:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "MAW1E3JIQZE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6892a94dd120386f8911e452",
+        "published_at": "2016-05-25T16:31:29.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Theatrical Trailer 1982",
+        "key": "7L8p7_SLzvU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "590d89039251414e8900c37b",
+        "published_at": "2013-11-27T20:43:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Teaser Trailer",
+        "key": "XgB4gaY2dWE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "590d893dc3a368651900b0e7",
+        "published_at": "2013-11-13T21:20:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "16YLjTkK5jE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5dd8758c0cd446001425ab57",
+        "published_at": "2012-07-05T23:24:48.000Z"
+      }
+    ]
+  }
+}

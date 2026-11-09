@@ -1,0 +1,145 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
+        "id": 122,
+        "title": "The Lord of the Rings: The Return of the King",
+        "original_title": "The Lord of the Rings: The Return of the King",
+        "overview": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.\u200b",
+        "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "popularity": 35.6472,
+        "release_date": "2003-12-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 27780
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 122,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Siege of Gondor Begins",
+        "key": "UCyqwsoISMs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "677c662ed9b0e70d5d7262c7",
+        "published_at": "2024-12-02T15:00:29.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "You Bow to No One",
+        "key": "aT3hPyEQOc4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "677c669625e0e91c577528cd",
+        "published_at": "2024-11-25T15:00:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Making The Return of the King",
+        "key": "_STFfLk7CtU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "657f38da394a87082f73d1e7",
+        "published_at": "2023-12-17T17:00:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "20th Anniversary Spot",
+        "key": "YCWux4oUHBs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "645799a9fe077a00ff93bdec",
+        "published_at": "2023-03-20T19:57:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Colorful Costume Design",
+        "key": "6RnajZ3ryII",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "62f874dc1cac8c007f2f1e9d",
+        "published_at": "2022-07-22T14:59:52.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K Trailer",
+        "key": "zckJCxYxn1g",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "5fc8ab26383df2003c56977b",
+        "published_at": "2020-12-02T17:35:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "10 Minute Preview",
+        "key": "c9mAnooWJR8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "615f95591d35630060c35b5f",
+        "published_at": "2020-06-05T11:07:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "KOQSQaGgJxs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "699bb5542a9cba82c00e588e",
+        "published_at": "2014-07-08T22:59:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "y2rYRu8UW8M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "699bb560be8acd69dcfc2c94",
+        "published_at": "2014-05-15T03:58:58.000Z"
+      }
+    ]
+  }
+}

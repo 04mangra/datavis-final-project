@@ -1,0 +1,107 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/viGCwLxupyoaLsa6hrnu1gYrB0B.jpg",
+        "id": 406,
+        "title": "La Haine",
+        "original_title": "La Haine",
+        "overview": "After a chaotic night of rioting in a marginal suburb of Paris, three young friends, Vinz, Hubert and Sa\u00efd, wander around unoccupied waiting for news about the state of health of a mutual friend who has been seriously injured when confronting the police.",
+        "poster_path": "/OHdz4GxlkcdLubyo7bSoIBkibu.jpg",
+        "media_type": "movie",
+        "original_language": "fr",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 7.1089,
+        "release_date": "1995-05-31",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.087,
+        "vote_count": 4789
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 406,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"You talkin' to me?\" Clip",
+        "key": "oC2UENY7qsc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6533e3aea0be2800e238283d",
+        "published_at": "2023-08-07T15:00:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mark Kermode reviews La Haine",
+        "key": "N-B0TaiE1pU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6533e44d91f0ea011b3bc2fa",
+        "published_at": "2020-12-18T13:00:16.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "La Haine Q&A with director Mathieu Kassovitz",
+        "key": "EczGSX4kmEs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6533e447a0be28011cbb136c",
+        "published_at": "2020-09-16T18:00:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Riz Ahmed introduces La Haine",
+        "key": "DEWWJJPa-qQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6533e3872b210800ff842d79",
+        "published_at": "2020-09-09T18:00:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Restoration Trailer",
+        "key": "FKwcXt3JIaU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5fb149d27caa4700408ae224",
+        "published_at": "2020-07-21T10:51:54.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Three Reasons: La Haine",
+        "key": "M2Wl4li8TFo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec654c3a3685448000314",
+        "published_at": "2012-04-11T17:25:13.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/eCynaAOgYYiw5yN5lBwz3IxqvaW.jpg",
+        "id": 12,
+        "title": "Finding Nemo",
+        "original_title": "Finding Nemo",
+        "overview": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+        "poster_path": "/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          12
+        ],
+        "popularity": 23.4973,
+        "release_date": "2003-05-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.822,
+        "vote_count": 21200
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 12,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Celebrating World Ocean Day - Official Clip",
+        "key": "HdfQW6dAX9Y",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a273c9d9e20048118b62aba",
+        "published_at": "2026-06-08T16:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Finding Nemo (2003) - The Making Of",
+        "key": "g2zx3gcuXnk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": false,
+        "id": "646141cbe3fa2f00e4038a88",
+        "published_at": "2019-09-01T18:33:16.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Finding Nemo (2003) Trailer 2",
+        "key": "ZS_8btMjx2U",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": false,
+        "id": "5a80bc1ac3a36818a7026cc8",
+        "published_at": "2018-02-11T21:53:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Finding Nemo (2003) Trailer 3",
+        "key": "TOQsDiEc7nk",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": false,
+        "id": "5a80bc280e0a262aa60272b1",
+        "published_at": "2018-02-11T21:53:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Finding Nemo (2003) Teaser",
+        "key": "-aAHfOQ7Rbo",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Teaser",
+        "official": false,
+        "id": "5a80bbcec3a36818950255a0",
+        "published_at": "2018-02-11T21:53:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Finding Nemo (2003) Trailer 1",
+        "key": "WpOXa4uqqfA",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": false,
+        "id": "5a80bbea0e0a262aa6027273",
+        "published_at": "2018-02-11T21:53:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "FINDING NEMO 3D - 'Featurette'",
+        "key": "01MMviWlI_o",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "646141eea6725400e3d1f615",
+        "published_at": "2012-08-23T00:19:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Finding Nemo 3D Trailer",
+        "key": "SPHfeNgogVs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "533ec651c3a3685448000010",
+        "published_at": "2012-05-23T00:04:17.000Z"
+      }
+    ]
+  }
+}

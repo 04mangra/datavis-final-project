@@ -1,0 +1,73 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/yaExZh6qE2cfyK3o4kAMEq0mkgy.jpg",
+        "id": 1124,
+        "title": "The Prestige",
+        "original_title": "The Prestige",
+        "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+        "poster_path": "/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          878
+        ],
+        "popularity": 19.7755,
+        "release_date": "2006-10-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.213,
+        "vote_count": 18423
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 1124,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Announce",
+        "key": "IK4ExT-KZUM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "6ad799a5b54507e244cecf22",
+        "published_at": "2026-10-20T16:00:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\ud83c\udfa5 THE PRESTIGE (2006) | Full Movie Trailer in HD | 1080p",
+        "key": "ObGVA1WOqyE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6730db1a8f81fed6bd3f803c",
+        "published_at": "2018-02-01T14:00:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Prestige - Trailer",
+        "key": "ijXruSzfGEc",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "58f6a548c3a36841b0003e73",
+        "published_at": "2012-04-24T03:27:34.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+        "id": 77,
+        "title": "Memento",
+        "original_title": "Memento",
+        "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+        "poster_path": "/nzlv62aC0octS5AklAiWpXLX9Z0.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          53
+        ],
+        "popularity": 18.0595,
+        "release_date": "2000-10-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.175,
+        "vote_count": 17014
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 77,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "What if MEMENTO was a video game? Part 2",
+        "key": "9_46bKkEZg4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6aeb018cc0820d8fda7d2cd7",
+        "published_at": "2026-11-03T23:31:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "What if Memento was a video game?",
+        "key": "vbb4psG9gpo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6ae92296d4c16840e3d5e766",
+        "published_at": "2026-10-07T23:00:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Restoration Trailer",
+        "key": "Wyc9TpJxf4A",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "6ab418f3c5a849d2f4e9e32f",
+        "published_at": "2026-09-22T23:11:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "lTV-UJqqRRY",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "6ab419ced43944bfa5340e1d",
+        "published_at": "2012-12-17T17:10:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "10th Anniversary Trailer",
+        "key": "-Dt_pjGQFbU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6ab41981fa807d3f22044f8f",
+        "published_at": "2011-02-11T01:26:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "Rq9eM4ZXRgs",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": false,
+        "id": "533ec651c3a3685448000085",
+        "published_at": "2010-04-14T01:40:19.000Z"
+      }
+    ]
+  }
+}

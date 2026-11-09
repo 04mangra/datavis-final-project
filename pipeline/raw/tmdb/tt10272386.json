@@ -1,0 +1,179 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/h3weAFgg06GqchI2xDfufBgSFTj.jpg",
+        "id": 600354,
+        "title": "The Father",
+        "original_title": "The Father",
+        "overview": "A man refuses all assistance from his daughter as he ages and, as he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+        "poster_path": "/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 6.674,
+        "release_date": "2020-12-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.089,
+        "vote_count": 3842
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 600354,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Thank You For Everything' - Official Clip",
+        "key": "LYxncxi9PKA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65be9bc6931ea101479a0e88",
+        "published_at": "2021-06-11T09:01:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Meeting Laura' - Official Clip",
+        "key": "rTvlkpDrEmg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65be9bce902012017ccb8c3d",
+        "published_at": "2021-05-21T09:15:56.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'I Don't Need Anyone' - Official Clip",
+        "key": "CbR0i6fd8XQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65be9bacba480201826a9539",
+        "published_at": "2021-05-11T16:01:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Extended Preview",
+        "key": "rWH9lqQRXYk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65be9adf931ea101639ab4ab",
+        "published_at": "2021-05-04T17:00:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Not Going To Paris\" Official Clip",
+        "key": "_h9l5GM0iCg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65be9ab1ba480201826a9464",
+        "published_at": "2021-04-12T19:35:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Scene at The Academy",
+        "key": "jW4eGknRfr4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "65be9b2b12c6040162ffe154",
+        "published_at": "2021-03-05T22:11:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Tap Dancer\" Official Clip",
+        "key": "I9EYl8iaseY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65be9ab9a7e36301b754b291",
+        "published_at": "2021-02-02T20:00:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Father Conversation with Olivia Colman & Anthony Hopkins",
+        "key": "7ESaYiMtCos",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "65be9b0a43999b0148c45824",
+        "published_at": "2020-10-21T14:17:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Australian Trailer",
+        "key": "g0ox9ExOA1M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "611067a6168935007fc07598",
+        "published_at": "2020-09-21T04:59:21.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TIFF 2020 Q&A",
+        "key": "MS81ve3sFv0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "65be9af51dbc8801491ba3fb",
+        "published_at": "2020-09-15T22:09:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official\u00a0International\u00a0Trailer",
+        "key": "OFnoRaLAclg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5f60df4031234500386543c9",
+        "published_at": "2020-09-15T08:00:21.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "4TZb7YfK-JI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5f5fa6b44c1d9a00377597fe",
+        "published_at": "2020-09-14T15:00:01.000Z"
+      }
+    ]
+  }
+}

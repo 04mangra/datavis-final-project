@@ -1,0 +1,193 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/amZavErrjrdgDwhsIdpWxHNenIx.jpg",
+        "id": 497,
+        "title": "The Green Mile",
+        "original_title": "The Green Mile",
+        "overview": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+        "poster_path": "/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          14,
+          18,
+          80
+        ],
+        "popularity": 24.6372,
+        "release_date": "1999-12-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.505,
+        "vote_count": 20105
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 497,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Del's Execution is Sabotaged",
+        "key": "waxUFd7Hi6s",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "689e042b4f4665d261b7144e",
+        "published_at": "2025-08-12T17:15:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "10 Minute Preview",
+        "key": "YVUz6xZXSzI",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "6209e7e41cac8c00dfc660f1",
+        "published_at": "2022-02-11T15:00:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "Bg7epsq0OIQ",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "620975e9c92c5d0068e52383",
+        "published_at": "2022-02-09T15:00:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Behind the Scenes | Walking the Mile",
+        "key": "MyvEAnu6krQ",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "65af96f03e2ec8010b05c52d",
+        "published_at": "2020-09-23T01:46:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Michael Clarke Duncan's Screen Test",
+        "key": "U_BlfUpgq3c",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "65af97cf67b61300cbd7dcad",
+        "published_at": "2012-11-19T18:54:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Stephen King: Storyteller",
+        "key": "SpQW48OPfa8",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "65af995167b61300cbd7dd7b",
+        "published_at": "2012-11-19T18:54:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Deleted Scene: Bitterbuck's Family Says Goodbye",
+        "key": "N-SrcNSPnDk",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Clip",
+        "official": true,
+        "id": "65af99d0848eb900ea1a4bb5",
+        "published_at": "2012-11-19T18:54:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Magic of The Mile",
+        "key": "B52Q16r0n58",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "65af9b7bf8aee800eaa83a9d",
+        "published_at": "2012-11-19T18:54:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Footage: Tom Hanks Screen Test",
+        "key": "x5mj5EZTJko",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "65af980367b61300cbd7dcbf",
+        "published_at": "2012-11-19T18:51:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Documentary: The Tail of Mr. Jingles",
+        "key": "1scfOO2bVs0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "65af9b27aad9c200adfea91b",
+        "published_at": "2012-11-19T18:51:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Art of Adaptation",
+        "key": "pfra8BoYKR0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "65af9c3c848eb900ac9ce168",
+        "published_at": "2012-11-19T18:50:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Frank Darabont on casting Michael Clarke Duncan in THE GREEN MILE",
+        "key": "RBvP8od3TZs",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "65af92df3e2ec800cb6d81f7",
+        "published_at": "2012-09-04T21:23:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Michael Clarke Duncan Thanks Tom Hanks",
+        "key": "47grTxhtN8o",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "65af928c6af8f800cd7aec66",
+        "published_at": "2009-04-18T00:10:48.000Z"
+      }
+    ]
+  }
+}

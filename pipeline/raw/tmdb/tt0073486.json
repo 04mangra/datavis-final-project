@@ -1,0 +1,287 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg",
+        "id": 510,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "original_title": "One Flew Over the Cuckoo's Nest",
+        "overview": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients\u2014and an enemy to the cruel, domineering nurse who runs the ward.",
+        "poster_path": "/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 14.9334,
+        "release_date": "1975-11-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 11952
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 510,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Quentin Tarantino on 1975 Movies",
+        "key": "kMBnZIBfU3M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "6a48061ad6d216f49e89f34a",
+        "published_at": "2026-07-02T21:44:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "McMurphy Escapes - 4K Movie Clip",
+        "key": "FkvKdcNCNFM",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "691f5d643285e3b22badbe78",
+        "published_at": "2025-11-19T13:00:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Electroconvulsive Treatment - 4K Movie Clip",
+        "key": "kmxXxDWLYXI",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "69172408f4e946c1c43a46d8",
+        "published_at": "2025-11-13T13:01:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Randle Teaches Chief - 4K Movie Clip",
+        "key": "21hDxpgY1-k",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "6913933981395a6dd1d2646b",
+        "published_at": "2025-11-11T13:00:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K Restoration - Official UK Trailer",
+        "key": "F4da9uRIg8c",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "68deb6b63d97ab9b186d5287",
+        "published_at": "2025-10-02T12:30:41.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K Full Movie Preview",
+        "key": "JbSKtF1D5zs",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "68d596033acf54cea669c5f5",
+        "published_at": "2025-09-24T13:24:56.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The World Series Vote",
+        "key": "BDjs2Hf7uts",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "683ee2452b13b19f6a289986",
+        "published_at": "2025-05-30T13:30:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "50th Anniversary Spot",
+        "key": "6EtSEbg9Mnc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "684958a01f6d18e6513fd506",
+        "published_at": "2025-05-29T19:46:20.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Electroconvulsive Treatment",
+        "key": "8O8e8foRfyw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67bf2c6cdd0adec14d562649",
+        "published_at": "2025-02-21T15:15:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "45th Anniversary Event",
+        "key": "Xapvh0KvWgk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "684959a70ab37193533e08ed",
+        "published_at": "2020-09-25T20:22:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "How One Flew Over the Cuckoo's Nest incubated a generation of supporting actors",
+        "key": "nOYqP039XWo",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "67bf2f8254589cd85756259b",
+        "published_at": "2017-04-20T15:18:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jack Nicholson's guide to being Jack Nicholson",
+        "key": "CnneDp6ZSzk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "67bf2cbb0ff6643e713d61a8",
+        "published_at": "2017-04-12T20:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "BFI Trailer",
+        "key": "3NSVJlBeGBA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "63ed7a581f3e6000a1c5f17a",
+        "published_at": "2017-02-24T11:51:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Art Of The Casting Director: Casting \u201cChaplin\u201d and \u201cOne Flew Over The Cuckoo\u2019s Nest\u201d",
+        "key": "LXSJQPrSuu8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "67bf2eb1dd0adec14d56270f",
+        "published_at": "2016-04-15T00:33:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "NWZXL_anruA",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "67bf2ce06799c482e2efb80c",
+        "published_at": "2014-07-08T23:40:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Milos Forman on Casting Will Sampson",
+        "key": "8dr3bRVGyvk",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "67bf2f3df32e950c4a3d4910",
+        "published_at": "2011-01-07T20:46:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "How Michael Douglas Produced ONE FLEW OVER THE CUCKOO'S NEST",
+        "key": "xAFfP2C2nc4",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "67bf2d1d10b465da0256435c",
+        "published_at": "2009-06-17T18:01:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Louise Fletcher (AKA Nurse Ratched) Salutes Jack Nicholson",
+        "key": "iNlbhH4FKTI",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "67bf2dae12942e54d73d4df7",
+        "published_at": "2009-05-12T21:04:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jack Nicholson on ONE FLEW OVER THE CUCKOO'S NEST",
+        "key": "TwD-MnZ0eEI",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6686dbdc979d80b8591a6fe8",
+        "published_at": "2009-05-04T18:28:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "What it's like to be nominated for an Oscar\u00ae",
+        "key": "p5-uxY7KnvU",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "67bf2e7b0ff6643e713d6283",
+        "published_at": "2008-02-20T03:22:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Working on Best Picture \"One Flew Over the Cuckoo's Nest\"",
+        "key": "hGOSEMDwelk",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "67bf2e47c3f8c5a804efc3cf",
+        "published_at": "2008-02-20T03:21:44.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/OR8oloCZ3klJtB7Y0i8pSqWw5a.jpg",
+        "id": 213,
+        "title": "North by Northwest",
+        "original_title": "North by Northwest",
+        "overview": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+        "poster_path": "/kNOFPQrel9YFCVzI0DF8FnCEpCw.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          12
+        ],
+        "popularity": 27.9441,
+        "release_date": "1959-08-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.961,
+        "vote_count": 4726
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 213,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Cary Grant Outruns a Crop Duster | North by Northwest | TCM",
+        "key": "HXusXh-hVz8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "680ffe22eb1d4b06de0fb714",
+        "published_at": "2025-02-11T12:00:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Movie Clip - Do Away With You",
+        "key": "uEOuUIhCua4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "674e68ba679ec1532882584c",
+        "published_at": "2024-12-02T15:40:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Movie Clip - The Art of Survival",
+        "key": "mlcwfg83QIw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6749d9356eff6242be3eaf4f",
+        "published_at": "2024-11-29T15:00:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Movie Clip - Crop Duster Chase",
+        "key": "TtbOConPflA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6745ed5093f2cdebcc2e3de1",
+        "published_at": "2024-11-26T15:08:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Movie Clip - A Long Night",
+        "key": "-tGwsq9zZJM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67420138d8db7dd1ba4532f6",
+        "published_at": "2024-11-23T15:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer 4K Ultra HD",
+        "key": "cPNiwc3ogIo",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "670564edccbb4e7f1669e08f",
+        "published_at": "2024-10-07T18:50:21.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "65th Anniversary",
+        "key": "28anzd5u6i4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "66263a217a97ab01638d5f4e",
+        "published_at": "2024-04-18T21:30:52.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Full Movie Preview",
+        "key": "rUxTIfrIsBA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "615f9cde38e51000293eb200",
+        "published_at": "2020-05-17T17:59:49.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Alfred Hitchcock on NORTH BY NORTHWEST",
+        "key": "WwyOqYzTz_Y",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "66263eb42dda890164e1abed",
+        "published_at": "2020-05-16T16:40:29.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Eva Marie Saint and Martin Landau Discuss Alfred Hitchcock's North by Northwest",
+        "key": "UwIZoD7r8H8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "66263b57af9590017d6a4574",
+        "published_at": "2020-04-16T21:48:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "BFI Re-Release Trailer",
+        "key": "P6ftFG7xC4M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "61eefb283009aa011b8bbfba",
+        "published_at": "2017-10-12T09:11:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "A Genuine Idiot Scene",
+        "key": "YEv7cVW8hBA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": false,
+        "id": "652e8743a8023600fd2cede9",
+        "published_at": "2017-06-29T20:58:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Love on a Train Scene",
+        "key": "h5nhyFFSweU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": false,
+        "id": "652e86ec024ec800e446c2fc",
+        "published_at": "2017-06-29T20:57:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Crop Duster",
+        "key": "41PYTHoihcA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "66263c4825882301649167f3",
+        "published_at": "2017-03-14T21:10:19.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mt. Rushmore",
+        "key": "iyh93wXCcK4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "66263d5c63d937018774444d",
+        "published_at": "2017-03-14T21:06:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "U.N. Murder",
+        "key": "NjJDL0PUxX4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "66263d89e295b40131996a10",
+        "published_at": "2017-03-14T20:53:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TCM Big Screen Classics Presents Spot",
+        "key": "Ne0sLay8Xsc",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Teaser",
+        "official": true,
+        "id": "66263bc5cb5c8e018741b977",
+        "published_at": "2017-02-27T23:08:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "ek7T9Gyl_J4",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "652e86b2caef2d00e28cea96",
+        "published_at": "2014-07-08T23:56:53.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Alfred Hitchcock Introduces \"North By Northwest\"",
+        "key": "xrcYekU9GVw",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Featurette",
+        "official": true,
+        "id": "66263b09cb6db50186b099db",
+        "published_at": "2014-07-08T23:24:19.000Z"
+      }
+    ]
+  }
+}

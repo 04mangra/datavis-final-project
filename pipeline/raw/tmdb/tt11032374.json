@@ -1,0 +1,133 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/qjGrUmKW78MCFG8PTLDBp67S27p.jpg",
+        "id": 635302,
+        "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+        "original_title": "\u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u5217\u8eca\u7de8",
+        "overview": "Tanjiro Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyojuro Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
+        "poster_path": "/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          28,
+          14
+        ],
+        "popularity": 10.8804,
+        "release_date": "2020-10-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.233,
+        "vote_count": 4743
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 635302,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K Ultra HD Blu-ray On Sale January 13 [Subtitled]",
+        "key": "v30H0qj_b9E",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "69277192a777c445c330d042",
+        "published_at": "2025-11-25T19:35:16.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Experience It Again in Theaters May 14 [Subtitled]",
+        "key": "R0A7CxBae_g",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "68229adc71e3023ff1a166b5",
+        "published_at": "2025-05-12T16:00:43.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Returns to Theatres May 14 [Subtitled]",
+        "key": "eLq-cX0BlGQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6806c783421a30975caadff1",
+        "published_at": "2025-04-21T17:00:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "In Theaters April 23 + On Digital June 22 [Subtitled]",
+        "key": "XbTSLJ62YEM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "60633bdcf056d5003d453482",
+        "published_at": "2021-03-16T15:00:23.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "English Dub Trailer",
+        "key": "L9MQLhV2u2E",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6001e2a0f6787a003e2b14c7",
+        "published_at": "2021-01-15T18:00:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Release Celebration - Episode 2: Nezuko [Subtitled]",
+        "key": "OMxkS3nLQVA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6320295fce9e91007ccffcb6",
+        "published_at": "2020-11-20T20:30:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer 3 [Subtitled]",
+        "key": "23riEOmDOgM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5f26ceab2ac49900366925a2",
+        "published_at": "2020-08-02T13:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer 2 [Subtitled]",
+        "key": "ATJYac_dORw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5e90da6c15959f0019ee71b9",
+        "published_at": "2020-04-10T16:05:15.000Z"
+      }
+    ]
+  }
+}

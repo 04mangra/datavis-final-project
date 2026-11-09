@@ -1,0 +1,72 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/u7kuUaySqXBVAtqEl9vkTkAzHV9.jpg",
+        "id": 20453,
+        "title": "3 Idiots",
+        "original_title": "3 Idiots",
+        "overview": "Rascal. Joker. Dreamer. Genius... You've never met a college student quite like \"Rancho.\" From the moment he arrives at India's most prestigious university, Rancho's outlandish schemes turn the campus upside down\u2014along with the lives of his two newfound best friends. Together, they make life miserable for \"Virus,\" the school\u2019s uptight and heartless dean. But when Rancho catches the eye of the dean's daughter, Virus sets his sights on flunking out the \"3 idiots\" once and for all.",
+        "poster_path": "/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+        "media_type": "movie",
+        "original_language": "hi",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 9.719,
+        "release_date": "2009-12-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.008,
+        "vote_count": 2904
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 20453,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Kamyabi Ka Raaz",
+        "key": "22zjP29xZGM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "69304ad8714fb3ea988cdf86",
+        "published_at": "2021-11-13T16:00:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "zIKu9k50SDo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "693047ff1a0ce1811d1728ff",
+        "published_at": "2019-08-12T09:04:52.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "What is a machine?",
+        "key": "-MlkASchodc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": false,
+        "id": "69304962387e9a202676e002",
+        "published_at": "2016-04-23T10:03:01.000Z"
+      }
+    ]
+  }
+}

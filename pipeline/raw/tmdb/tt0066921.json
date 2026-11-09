@@ -1,0 +1,264 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+        "id": 185,
+        "title": "A Clockwork Orange",
+        "original_title": "A Clockwork Orange",
+        "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+        "poster_path": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          80
+        ],
+        "popularity": 13.5549,
+        "release_date": "1971-10-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 14295
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 185,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "I've Just Come to Read the Meter!",
+        "key": "ICOYu_ypCC8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6adf285e3031dfa461e1df86",
+        "published_at": "2026-09-20T17:27:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Minister Offers Alex a Deal",
+        "key": "Ax6uRzwIIkA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a3b6b7b875db224f5783a6e",
+        "published_at": "2026-06-18T16:00:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Try the Wine!",
+        "key": "8reswFXFhb8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a14a1ef19baebbafd8e3b04",
+        "published_at": "2026-04-12T16:00:20.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mr. & Mrs. Alexander",
+        "key": "0LGOd0tOHnI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a14a285e109d3a9521d50ab",
+        "published_at": "2026-03-05T17:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Alex Returns Home from Prison",
+        "key": "j4FXk9wynHI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a14a3c3e7f067de144bdff9",
+        "published_at": "2025-12-04T17:01:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Korova Milkbar",
+        "key": "CHJznlmmvnI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a14a4e4230e1d369e47628f",
+        "published_at": "2025-10-05T16:00:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Alex Arrives at Prison",
+        "key": "K5vSNH0vJZc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a14a569ad6f807d6b4be102",
+        "published_at": "2025-08-07T16:00:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Alex and the Psychiatrist",
+        "key": "yqzMb673gv4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a14a5e9df6155ea7c4be0e7",
+        "published_at": "2025-06-13T16:01:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Trailer",
+        "key": "2meAsIclTzQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a159ac57c7aeb289ec22438",
+        "published_at": "2025-01-01T17:00:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Policeman Droogs",
+        "key": "TooSPmQQzKI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a159aa8e3da6b161454689b",
+        "published_at": "2024-11-14T17:00:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Flat Block Marina",
+        "key": "cSfcGXhcrrY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67514b9e80e5b8f0a75603f4",
+        "published_at": "2024-06-13T16:00:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "T54uZPI4Z8A",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "61097d7ce78687001d4b6236",
+        "published_at": "2021-08-03T15:59:49.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Full Movie Preview",
+        "key": "4uRwjqBV3gA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65c0f68a5cd16e017c9fb33f",
+        "published_at": "2020-05-27T17:59:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Malcolm McDowell talks about A Clockwork Orange and Stanley Kubrick",
+        "key": "JWJTgQ-o76E",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "63285bc620af770080fcb944",
+        "published_at": "2019-04-17T15:28:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "UK Re-release Trailer",
+        "key": "SC-IwKQsTh0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "65c0f7aafc6538017cee345b",
+        "published_at": "2019-02-20T11:50:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Malcolm McDowell on A CLOCKWORK ORANGE",
+        "key": "2gtPhs84Jdg",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "65c0f6fe43999b0163c7afff",
+        "published_at": "2012-02-02T20:06:29.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Kubrick Knocking Around Actors",
+        "key": "Hhmu1FflhGk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "65c0f69712c604017c049ba8",
+        "published_at": "2011-05-31T23:23:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Masterpiece Trailer",
+        "key": "vN-1Mup0UI0",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "62e0faec4813820d52971857",
+        "published_at": "2011-04-27T01:52:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Steven Spielberg Calls A CLOCKWORK ORANGE The First \"Punk Rock\" Movie",
+        "key": "aA6kyinCNq0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "65c0f6f1fc65380163eb9f54",
+        "published_at": "2010-10-28T20:29:51.000Z"
+      }
+    ]
+  }
+}

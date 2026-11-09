@@ -1,0 +1,84 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/qA2TyqPldTtoTVY3LKrNIG5g6bH.jpg",
+        "id": 76,
+        "title": "Before Sunrise",
+        "original_title": "Before Sunrise",
+        "overview": "An unexpected meeting on a train leads two travelers to spend an evening wandering through Vienna. As the night unfolds, they share stories and conversations about life and love, exploring new ideas while a quiet intimacy grows between them, knowing it may be their only night together.",
+        "poster_path": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 12.3751,
+        "release_date": "1995-01-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.968,
+        "vote_count": 4961
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 76,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "BEFORE SUNRISE Q&A w/ Richard Linklater at AFS Cinema",
+        "key": "EXi6UX9t7Ok",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "660e90ace18e3f017da4046e",
+        "published_at": "2019-02-16T15:43:53.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "A Scene from BEFORE SUNRISE",
+        "key": "sbwzV4cN90I",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "660e90a4e18e3f017da4045f",
+        "published_at": "2019-01-08T19:17:41.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "A Scene from BEFORE SUNRISE",
+        "key": "y_huDtMLl0k",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "660e90da0b5fd6014936777b",
+        "published_at": "2017-02-14T19:20:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "jGvcbSabADM",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "660e909133a3760164827c9d",
+        "published_at": "2015-01-14T23:39:14.000Z"
+      }
+    ]
+  }
+}

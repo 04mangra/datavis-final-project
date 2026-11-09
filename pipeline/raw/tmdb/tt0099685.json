@@ -1,0 +1,276 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
+        "id": 769,
+        "title": "GoodFellas",
+        "original_title": "GoodFellas",
+        "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+        "poster_path": "/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 20.3165,
+        "release_date": "1990-09-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.452,
+        "vote_count": 14999
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 769,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "How an Empty Lot Became Movie History in 'Goodfellas'!",
+        "key": "9nCdSqmUWeU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "692f5de9839356a8bd3ead1b",
+        "published_at": "2025-11-26T17:00:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Meeting The Wiseguys",
+        "key": "5bHKQYrA_Is",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6903a49a83cceb790a34cea0",
+        "published_at": "2025-10-21T14:00:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Go Home and Get Your Shine Box",
+        "key": "Xqs-WFq88uE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67f41b706c3583c97599401f",
+        "published_at": "2025-04-03T14:30:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Movie Clip",
+        "key": "Ma-g32_V2Ns",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67ca30938f0e59863bafb989",
+        "published_at": "2025-03-05T16:56:43.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jimmy Conway Tells His Crew to Lay Low",
+        "key": "tRiXxX5Lets",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "676d08e0cfe62644df128e36",
+        "published_at": "2024-12-24T19:00:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Martin Scorsese Talks GOODFELLAS ('90)",
+        "key": "TNkbOYQJ-js",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "653ffdb4bc2cb300eafe400a",
+        "published_at": "2021-05-07T00:15:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Goodfellas Behind the Scenes Documentary | Filmmakers: Martin Scorsese",
+        "key": "Ubs0iXviehc",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "6391d30b594c9400c46282d1",
+        "published_at": "2020-09-16T00:35:54.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Alex Gibney on Martin Scorsese, the ultimate cinema geek | TIFF 2019",
+        "key": "LoqXWH4Lsbw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "687bd54c20e51d61b7244121",
+        "published_at": "2019-12-08T05:00:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Lorraine Bracco on playing Goodfella's Karen Hill: \"She turned out naughty!\"",
+        "key": "MkLuxI2Hs5I",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6391d5b2d55697007d14524e",
+        "published_at": "2017-04-18T10:24:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Goodfellas' meatballs: just like Mama Scorsese used to make",
+        "key": "HM6rbf01Tcw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6328586e53866e008f057d60",
+        "published_at": "2017-02-03T14:04:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "BFI Re-Release Trailer",
+        "key": "PTBRNXGQR9Q",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "id": "6391d4a5d55697007d1451dd",
+        "published_at": "2016-12-08T11:59:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "How Am I Funny?",
+        "key": "Pfcy15ZUE2c",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6391d3f3b9a0bd008c40ae9d",
+        "published_at": "2015-05-27T17:10:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Go Back",
+        "key": "Dq7kgNQWnXQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6391d358b9a0bd00c3fe2eef",
+        "published_at": "2015-05-19T18:55:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Extended Trailer",
+        "key": "Zll4cjyk6sU",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "622fe189be2d490045950f9e",
+        "published_at": "2015-04-29T16:50:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hide This",
+        "key": "XCvbLfNME3k",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6391d3bad5569700940764ee",
+        "published_at": "2013-05-01T17:17:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Woody Allen on GOODFELLAS",
+        "key": "rW2bWAcsPCk",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec656c3a36854480005a9",
+        "published_at": "2012-09-19T22:56:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Martin Scorsese on GOODFELLAS",
+        "key": "qV7btRCs3Wc",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec656c3a36854480005aa",
+        "published_at": "2011-11-17T19:53:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "qWhS8Pjf-9c",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "6391d48cd556970094076540",
+        "published_at": "2011-04-05T01:50:53.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Martin Scorsese Talks About His Mother's Role In GOODFELLAS",
+        "key": "N-oC2miRWWo",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "687bd60be517610e93f76377",
+        "published_at": "2010-05-17T21:37:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Joe Pesci Wins Supporting Actor: 1991 Oscars",
+        "key": "O0Q_nyjuEak",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "63d136939f51af008299e714",
+        "published_at": "2010-01-04T20:33:02.000Z"
+      }
+    ]
+  }
+}

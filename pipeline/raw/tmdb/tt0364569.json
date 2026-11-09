@@ -1,0 +1,96 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/rwf5SUTiEsmfkXAgy15R0UtJUtv.jpg",
+        "id": 670,
+        "title": "Oldboy",
+        "original_title": "\uc62c\ub4dc\ubcf4\uc774",
+        "overview": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate man seeks revenge on his captors.",
+        "poster_path": "/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+        "media_type": "movie",
+        "original_language": "ko",
+        "genre_ids": [
+          53,
+          9648
+        ],
+        "popularity": 14.1165,
+        "release_date": "2003-11-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.234,
+        "vote_count": 10396
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 670,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official 20th Anniversary Re-Release Trailer",
+        "key": "tAaBkFChaRg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "645d11281b70ae0166bf83a0",
+        "published_at": "2023-05-11T15:59:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Trailer [Subtitled]",
+        "key": "hBNBpNcuQHI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "67e19730a63bcc4997dc4e53",
+        "published_at": "2022-11-10T17:35:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Explaining the Ending of OLDBOY by Park Chan-wook",
+        "key": "IfTxJqcPLzU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "65a2b0faa34911012a09dbdc",
+        "published_at": "2022-07-14T14:00:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official UK Trailer",
+        "key": "w4UUGIIZxFU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "62be8d9efba62500eb8bd5fc",
+        "published_at": "2019-07-05T08:48:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The New Canon: 'Oldboy'",
+        "key": "9aWsr_E8NdY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "65a2b179bc2cb300c001de38",
+        "published_at": "2018-06-15T20:41:25.000Z"
+      }
+    ]
+  }
+}

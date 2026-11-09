@@ -1,0 +1,193 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/2b3RNXF7ca9bgX8FrjRBYfLnNQC.jpg",
+        "id": 290098,
+        "title": "The Handmaiden",
+        "original_title": "\uc544\uac00\uc528",
+        "overview": "1930s Korea, in the period of Japanese occupation, a new girl, Sook-hee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to steal her fortune.",
+        "poster_path": "/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
+        "media_type": "movie",
+        "original_language": "ko",
+        "genre_ids": [
+          53,
+          18,
+          10749
+        ],
+        "popularity": 20.9692,
+        "release_date": "2016-06-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.179,
+        "vote_count": 4584
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 290098,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mark kermode reviews The Handmaiden (2016) | BFI Player",
+        "key": "nkH2QoDVdKs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6adba68c981c1ccce2b0eaad",
+        "published_at": "2026-10-23T16:24:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "In the Projection Booth - Park Chan-wook, director of The Handmaiden (contains spoilers)",
+        "key": "P8g8QJk96M4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "65be6283902012012fc9a5a7",
+        "published_at": "2017-04-14T08:30:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "UK Promo",
+        "key": "xX7HsdfIYGw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "65be628efc6538017cea4ee3",
+        "published_at": "2017-03-31T16:51:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "UK Trailer",
+        "key": "wYsdzNIcJNc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "65be625ea7e363018454330d",
+        "published_at": "2017-03-09T12:54:54.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Extended Preview",
+        "key": "5bOWrDriBno",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65be613143999b0184c5d86e",
+        "published_at": "2017-01-17T17:49:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dress Up (Movie Clip)",
+        "key": "y43Y20jdctw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65be60b512c604017c0096e5",
+        "published_at": "2016-10-24T21:00:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The House (Movie Clip)",
+        "key": "jUP3cPWQBh4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65be60bca7e36301b7547dcd",
+        "published_at": "2016-10-24T17:44:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Library (Movie Clip)",
+        "key": "gvijQuKBz88",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65be60c4031deb0162ee63e3",
+        "published_at": "2016-10-24T01:44:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Kiss (Movie Clip)",
+        "key": "6ir3_NoTJOw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65be60cca7e363013653c57c",
+        "published_at": "2016-10-22T17:00:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Bath (Movie Clip)",
+        "key": "O4p9o3aJGj8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65be60d443999b0163c50b39",
+        "published_at": "2016-10-21T17:00:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official US Trailer",
+        "key": "whldChqCsYk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "57dbf0eb925141684c008ae7",
+        "published_at": "2016-07-29T17:02:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official International Trailer",
+        "key": "NoyWKl0e8FI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "57dbf22b9251416905008c72",
+        "published_at": "2016-05-03T06:15:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Int'l Special Trailer",
+        "key": "6sVYumzrKvs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "571e5a939251416f2c0003f0",
+        "published_at": "2016-04-25T12:39:44.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+        "id": 857,
+        "title": "Saving Private Ryan",
+        "original_title": "Saving Private Ryan",
+        "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+        "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          10752,
+          18,
+          36
+        ],
+        "popularity": 18.0328,
+        "release_date": "1998-07-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.235,
+        "vote_count": 18053
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 857,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "25th Anniversary Spot",
+        "key": "x3wsoR3UyKM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "653f98bf5907de00e1a336d1",
+        "published_at": "2023-10-11T22:09:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Saving Private Ryan (1998) Theatrical Trailer [5.1] [4K] [FTD-1282]",
+        "key": "y4SA9yUDgW8",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "653b5fee719aeb011b975816",
+        "published_at": "2023-10-04T05:00:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Saving Private Ryan (1998) - Official Re-Release Trailer | 4K",
+        "key": "PrthROm6ocY",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "64e816451feac100e169c04c",
+        "published_at": "2023-05-14T11:54:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Janusz Kami\u0144ski on making Saving Private Ryan",
+        "key": "ZqjEp-KUyf0",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a10e3fa7d339c40c64b43b2",
+        "published_at": "2021-05-31T16:04:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\u201cWho's In Charge\u201d Clip",
+        "key": "Y3cepVfK-6I",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a10e53fcecea13337402273",
+        "published_at": "2017-06-19T17:37:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Saving Private Ryan Wins Sound: 1999 Oscars",
+        "key": "dsOCUTNERnQ",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a10e451320d6f05d1b5a44e",
+        "published_at": "2016-02-04T20:22:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Saving Private Ryan Wins Cinematography: 1999 Oscars",
+        "key": "lxKrMz6ql4k",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a10e4ca337909892e4b43c1",
+        "published_at": "2016-02-04T20:22:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Gen. Colin Powell on Saving Private Ryan: 1999 Oscars",
+        "key": "Yi6i5_iVfa0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a10e488b1c165b1e06b57b8",
+        "published_at": "2015-11-11T18:38:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Saving Private Ryan' Wins Best Film Editing | 71st Oscars (1999)",
+        "key": "y1PruACVorM",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a10e4637113f6be8ab988a2",
+        "published_at": "2015-03-25T01:16:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Saving Private Ryan - Trailer",
+        "key": "RYExstiQlLc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "58f6a6b79251415dec0044ee",
+        "published_at": "2012-08-14T17:51:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Steven Spielberg on SAVING PRIVATE RYAN",
+        "key": "IuZ7H4ZGI8Y",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a10e3ad7ddea64089081939",
+        "published_at": "2011-05-26T23:57:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jeremy Davies, Barry Pepper & Tom Sizemore read the Bixby Letter featured in SAVING PRIVATE RYAN",
+        "key": "pRh52m3BZTk",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a10e3c61f245d9a684b4459",
+        "published_at": "2009-04-17T21:05:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Steven Spielberg Wins Best Directing: 1999 Oscars",
+        "key": "hgrbuYT9V4s",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a10e4457b27c3969eb9893e",
+        "published_at": "2008-03-14T21:37:34.000Z"
+      }
+    ]
+  }
+}

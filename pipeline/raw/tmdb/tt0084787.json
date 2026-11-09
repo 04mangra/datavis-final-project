@@ -1,0 +1,241 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+        "id": 1091,
+        "title": "The Thing",
+        "original_title": "The Thing",
+        "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+        "poster_path": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648,
+          878
+        ],
+        "popularity": 16.5323,
+        "release_date": "1982-06-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.074,
+        "vote_count": 8428
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 1091,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "John Carpenter Tells Reece Feldman That Your 'The Thing' Theories Are Wrong",
+        "key": "CTF7CyeUjj4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6ad51d2ab21953f6481e6101",
+        "published_at": "2026-10-18T01:40:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Greatest practical effects film of all time?",
+        "key": "aZLltu3lcYU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a7e008fc1aa893ad0b08723",
+        "published_at": "2026-08-13T17:00:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mac's Horrifying Discovery - Extended Preview",
+        "key": "opFLubsPRtQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68c85a6f014486dd8b231388",
+        "published_at": "2025-09-15T17:01:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "THE THING 1982 miniature effects",
+        "key": "lNrpM9fXoRE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": false,
+        "id": "689062baa8a4b0039a11df8f",
+        "published_at": "2025-07-31T16:17:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"He's Not Breathing\" - Extended Preview",
+        "key": "Mm-Vu6YW3D8",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "6716a97da47f80d82c5882b8",
+        "published_at": "2024-10-21T16:00:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Thing (1982) 35mm film trailer, scope 4K",
+        "key": "GigeANz21rk",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "6a779fb24096f2bc642256e1",
+        "published_at": "2023-09-28T16:00:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "40th Anniversary Spot",
+        "key": "lICV3wLnSNI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "6385f5bb229ae21581178860",
+        "published_at": "2022-05-20T06:00:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Blood Test",
+        "key": "M2o2FRwn_hg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "5dbcb8c942022800125c8dc5",
+        "published_at": "2019-10-10T15:00:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Arrow Video Story",
+        "key": "czqSL4TvLzk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "5cac15000e0a260804ae4be7",
+        "published_at": "2017-11-08T12:04:54.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Thing - Promotional Condensed Version [1982] [Unused Scenes]",
+        "key": "ZtZmTsk3Ffs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "67c27288bc6935a001a2842c",
+        "published_at": "2016-11-14T22:02:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Bonus Clip 3: New Interviews With Joel Polis, Peter Maloney, And Thomas G. Waites",
+        "key": "MSpN4V1gX5Y",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6385f77f2e06970292e4ce0b",
+        "published_at": "2016-10-17T21:44:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Bonus Clip 2: New Interviews With Actors, Richard Masur and Peter Maloney",
+        "key": "_p7RwOn5Lh8",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6385f78c5ed8e90086ac7029",
+        "published_at": "2016-10-17T21:44:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Bonus Clip 1: New Interviews With Mick Garris and Director John Carpenter",
+        "key": "p-tZTc08Onk",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6385f7983d3557007fc59fbf",
+        "published_at": "2016-10-17T21:44:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "It's Alive!",
+        "key": "Pid5LVJrSXw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "5cac15b20e0a260807ae4faa",
+        "published_at": "2016-09-12T17:04:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Kill It!",
+        "key": "t6ELVugT3V8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "5cac16ccc3a3685c06e3dfaf",
+        "published_at": "2016-09-12T17:04:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "ySvzHdtCiWE",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "6385f62c3d35570096dc4d69",
+        "published_at": "2016-09-12T17:04:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Thing (1982) rare teaser trailer, \u2018ice block\u2019",
+        "key": "VnGBL-qrmvE",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Teaser",
+        "official": false,
+        "id": "67847f5c12cf9b29154e89a1",
+        "published_at": "2014-08-26T04:31:39.000Z"
+      }
+    ]
+  }
+}

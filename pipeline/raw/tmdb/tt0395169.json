@@ -1,0 +1,73 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/jkvvXaN7FPVKGlk8oj9PL0FHNtj.jpg",
+        "id": 205,
+        "title": "Hotel Rwanda",
+        "original_title": "Hotel Rwanda",
+        "overview": "Inspired by true events, this film takes place in Rwanda in the 1990s when more than a million Tutsis were killed in a genocide that went mostly unnoticed by the rest of the world. Hotel owner Paul Rusesabagina houses over a thousand refuges in his hotel in attempt to save their lives.",
+        "poster_path": "/p3pHw85UMZPegfMZBA6dZ06yarm.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "popularity": 4.1126,
+        "release_date": "2004-12-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.72,
+        "vote_count": 3335
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 205,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "y1G1uWhGGYs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "68d3b282fa9547dff12ec323",
+        "published_at": "2025-09-12T12:44:32.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "2x8UzELvKlY",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "id": "61eeac96c5ada50068117e67",
+        "published_at": "2021-02-08T15:30:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hotel Rwanda",
+        "key": "j2vMvyQeb1U",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": false,
+        "id": "533ec652c3a36854480001b8",
+        "published_at": "2007-01-23T14:57:17.000Z"
+      }
+    ]
+  }
+}

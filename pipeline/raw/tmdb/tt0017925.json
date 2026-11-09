@@ -1,0 +1,169 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/mzox4HbcV9W42MH2dB1QsdDVGo3.jpg",
+        "id": 961,
+        "title": "The General",
+        "original_title": "The General",
+        "overview": "During America\u2019s Civil War, Union spies steal engineer Johnnie Gray's beloved locomotive, 'The General'\u2014with Johnnie's lady love aboard an attached boxcar\u2014and he single-handedly must do all in his power to both get The General back and to rescue Annabelle.",
+        "poster_path": "/4NmV1Wei4LxT2lpjViCAScgCZLq.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10752,
+          10749
+        ],
+        "popularity": 3.1611,
+        "release_date": "1926-12-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.913,
+        "vote_count": 1491
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 961,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Train Chase Scene | Buster Keaton Uncouples the Soldiers\u2019 Carriage",
+        "key": "Aakzce05Ujs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a5285ff71ab62552d953da6",
+        "published_at": "2026-06-19T12:30:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Masters of Cinema Limited Edition UHD Blu-ray Unboxing",
+        "key": "moMfwN5ZwrE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "69fb839ffc68138b11ec84af",
+        "published_at": "2026-05-06T13:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Buster Keaton Rejected from the Army \u2013 Enlistment Scene",
+        "key": "Urte9VlasEA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "69fb82b22b817ff24fbf71b8",
+        "published_at": "2026-04-27T13:30:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Buster Keaton Clears the Tracks \u2013 Iconic Train Scene",
+        "key": "hDbMmFYyRzo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "69d16dd0830f11f4e39a23a6",
+        "published_at": "2026-03-31T13:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "15 sec Trailer",
+        "key": "S5edSbqv0UY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "69c68d9dc2658eae5c03d688",
+        "published_at": "2026-03-27T13:15:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Masters of Cinema 100th Anniversary Trailer",
+        "key": "eEVWb9NcSuY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "69a090ce899248a03d04ddf0",
+        "published_at": "2026-02-26T15:00:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Billy Crystal on Buster Keaton and THE GENERAL",
+        "key": "dylZmBLW3Pk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "67e3351e3dbe3ab1f2f0454f",
+        "published_at": "2025-03-21T21:02:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The General (1926) Trailer #1 | Movieclips Classic Trailers",
+        "key": "7EcZPcFfjqY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "62521031894ed600abc32eef",
+        "published_at": "2018-08-06T18:46:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "William Friedkin on Buster Keaton's THE GENERAL",
+        "key": "sgmypXdfCe0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec657c3a36854480006fa",
+        "published_at": "2013-02-05T20:12:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Critics' Picks - 'The General'",
+        "key": "-Dcxawya67g",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec657c3a36854480006f9",
+        "published_at": "2010-11-17T19:30:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The General 1927 Movie Trailer",
+        "key": "rBWdhiOUyEw",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": false,
+        "id": "5b2329920e0a265b4e001a57",
+        "published_at": "2009-12-05T10:47:49.000Z"
+      }
+    ]
+  }
+}

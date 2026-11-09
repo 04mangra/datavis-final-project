@@ -1,0 +1,72 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/u5IhDThM1SClL4pkCUp8hOmsDQJ.jpg",
+        "id": 335,
+        "title": "Once Upon a Time in the West",
+        "original_title": "C'era una volta il West",
+        "overview": "As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life.",
+        "poster_path": "/qbYgqOczabWNn2XKwgMtVrntD6P.jpg",
+        "media_type": "movie",
+        "original_language": "it",
+        "genre_ids": [
+          18,
+          37
+        ],
+        "popularity": 10.3888,
+        "release_date": "1968-12-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.259,
+        "vote_count": 5126
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 335,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Epic Final Duel",
+        "key": "CPuHpKxo0A0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "665d7e33b66592dc1b6d0ec7",
+        "published_at": "2024-05-31T12:59:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "Yw-Av9BpC-w",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "58b9f576c3a368663000e579",
+        "published_at": "2014-08-09T09:49:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "John Landis on Once Upon a Time in the West",
+        "key": "Ar3sHQB_rbU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec653c3a36854480002b1",
+        "published_at": "2014-02-13T23:27:10.000Z"
+      }
+    ]
+  }
+}

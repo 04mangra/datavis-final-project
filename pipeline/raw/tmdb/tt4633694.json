@@ -1,0 +1,290 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/1ntePsIqeklfmrQJqZPncCydsqY.jpg",
+        "id": 324857,
+        "title": "Spider-Man: Into the Spider-Verse",
+        "original_title": "Spider-Man: Into the Spider-Verse",
+        "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+        "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          878
+        ],
+        "popularity": 32.2547,
+        "release_date": "2018-12-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.4,
+        "vote_count": 18170
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 324857,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Behind The Voices of Spider-Man: Into the Spider-Verse",
+        "key": "I3NHvQ0x4f0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "61573fbe8e2ba600433fb15e",
+        "published_at": "2021-07-10T22:00:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Visual FX Breakdown",
+        "key": "7vD8P8501bg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "61573ffd8e2ba600433fb1aa",
+        "published_at": "2019-04-15T20:13:20.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Building New York City",
+        "key": "vH-LpARZurY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "61573f6f81c7be0025daed0b",
+        "published_at": "2019-04-11T00:00:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "All Released Bonus Features",
+        "key": "pXloqSOMm4s",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "61573f1c8e2ba6008bde4f63",
+        "published_at": "2019-04-06T18:00:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "How Animators Created the Spider-Verse",
+        "key": "l-wUKu_V2Lk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": false,
+        "id": "61573f634d6791008b805637",
+        "published_at": "2019-03-22T21:10:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Into The Spider-Verse's Production Designer Shares Secrets (Artists Alley)",
+        "key": "TGXEh-YEj40",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "61573f99156cc700692a3abd",
+        "published_at": "2019-03-19T19:05:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Animating Miles",
+        "key": "GKmxCdwQf8c",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "61573faa67dcc9008cf0463b",
+        "published_at": "2019-03-19T13:00:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Special Features \u201cSpider Gwen\"",
+        "key": "0tmSzhIdaLA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "61573f8c6f8d950091fa055e",
+        "published_at": "2019-03-14T21:52:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Different Animation Styles",
+        "key": "59h4Bcb1oyc",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Featurette",
+        "official": true,
+        "id": "61573f4bdd731b0062075a2b",
+        "published_at": "2019-03-06T22:31:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "First 9 Minutes of the Movie",
+        "key": "zzH4rV08TLI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "647c70f6caef2d0119c02105",
+        "published_at": "2019-02-28T21:14:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Embracing Imperfection",
+        "key": "vDjvhwgbsP8",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "61573f0f1c635b008f85d065",
+        "published_at": "2019-02-17T01:42:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Visual Effects Behind the Scenes",
+        "key": "ektfl9rZOOA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": false,
+        "id": "61573fe24d6791006279058b",
+        "published_at": "2019-01-09T21:12:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Everyone Knows (Now Playing)",
+        "key": "wPWUO1bAA8U",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "68033668e4753425efad62f3",
+        "published_at": "2018-12-14T19:31:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Fight or Flight",
+        "key": "ARIlzBXdzvo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68033627d317be5e5c9956f8",
+        "published_at": "2018-12-08T03:34:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Clip - Meet Spider-Ham",
+        "key": "Ed4ylzr4CKI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "699727f4c2305059896f8535",
+        "published_at": "2018-12-04T20:15:43.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Another, Another Dimension",
+        "key": "TiDQiIfQOSg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "60f5dea4d7cd060029a13a68",
+        "published_at": "2018-11-28T20:05:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "International Extended Sneak Peek",
+        "key": "62er1sB2Ttg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "61573ded81c7be008e0e297c",
+        "published_at": "2018-11-08T14:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Sizzle Reel - Paris & London Comic Con",
+        "key": "PZiJC7_eNSU",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "61573fcd67dcc9002a6d581e",
+        "published_at": "2018-10-29T21:18:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer #2",
+        "key": "tg52up16eq0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5c6d23c19251412fc40f82cd",
+        "published_at": "2018-10-02T13:00:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "g4Hbz2jLxvQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5c6d23b30e0a267f9d98cdff",
+        "published_at": "2018-06-06T13:00:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Teaser Trailer",
+        "key": "ii3n7hYQOl4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5c6d23bb0e0a261e06a06b92",
+        "published_at": "2017-12-09T18:38:08.000Z"
+      }
+    ]
+  }
+}

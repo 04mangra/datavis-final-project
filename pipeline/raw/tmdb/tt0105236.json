@@ -1,0 +1,84 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/jwt159hXWA9Q5xpBo8hWb3zwLi7.jpg",
+        "id": 500,
+        "title": "Reservoir Dogs",
+        "original_title": "Reservoir Dogs",
+        "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+        "poster_path": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "popularity": 12.2931,
+        "release_date": "1992-09-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.109,
+        "vote_count": 16013
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 500,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K UHD + Blu-ray Limited Edition Large Lenticular Hardbox Trailer",
+        "key": "zrkgS8GYjoY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "6ad9d63f7934d6e6d45700c8",
+        "published_at": "2026-10-01T05:41:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TIFF Press Conference",
+        "key": "aLnjBH8PQx8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "680683a637a722b8868a273e",
+        "published_at": "2025-04-17T16:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Park Circus Trailer",
+        "key": "2KLZ4fSXtgI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "63b0115f57530e00c481b360",
+        "published_at": "2017-01-17T14:54:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Opening Credits",
+        "key": "azwAJYpnKzQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "666fdf000eb602cf8bd1d6b5",
+        "published_at": "2012-12-03T15:24:38.000Z"
+      }
+    ]
+  }
+}

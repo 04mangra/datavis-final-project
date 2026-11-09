@@ -1,0 +1,84 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/c8Pi8F1FzpNebtgXcSjC9nWCdSW.jpg",
+        "id": 914,
+        "title": "The Great Dictator",
+        "original_title": "The Great Dictator",
+        "overview": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+        "poster_path": "/nhMXB8GTdswYMCL9nepDZymJCOr.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10752
+        ],
+        "popularity": 7.81,
+        "release_date": "1940-10-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.283,
+        "vote_count": 3869
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 914,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Trailer",
+        "key": "i1C6qZVeFtA",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "5e21e626cf4b8b0014f160c4",
+        "published_at": "2020-01-10T20:40:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Charlie Chaplin - Final Speech from The Great Dictator",
+        "key": "J7GY1Xg6X20",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": false,
+        "id": "6590f526028f1476eac581f1",
+        "published_at": "2016-03-10T14:03:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Three Reasons: The Great Dictator",
+        "key": "G4M3FSk4r_M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec657c3a36854480006ae",
+        "published_at": "2011-04-19T16:21:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "THE GREAT DICTATOR Trailer (1940) - The Criterion Collection",
+        "key": "k8bVG8XC-4I",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6679564658fa73b11b62e1cd",
+        "published_at": "2011-02-14T23:03:10.000Z"
+      }
+    ]
+  }
+}

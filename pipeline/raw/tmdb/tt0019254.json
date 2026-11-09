@@ -1,0 +1,72 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/uyYwhxRnXGuGWoCxiAdINlRExud.jpg",
+        "id": 780,
+        "title": "The Passion of Joan of Arc",
+        "original_title": "La Passion de Jeanne d'Arc",
+        "overview": "A classic of the silent age, this film tells the story of the doomed but ultimately canonized 15th-century teenage warrior. On trial for claiming she'd spoken to God, Jeanne d'Arc is subjected to inhumane treatment and scare tactics at the hands of church court officials. Initially bullied into changing her story, Jeanne eventually opts for what she sees as the truth. Her punishment, a famously brutal execution, earns her perpetual martyrdom.",
+        "poster_path": "/8OYGtQlO8k9PcOm49apV62eVJQo.jpg",
+        "media_type": "movie",
+        "original_language": "fr",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "popularity": 3.3607,
+        "release_date": "1928-04-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.968,
+        "vote_count": 1150
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 780,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "1mbsGj2WS1s",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "631fa0c7f621b20084ed2f2d",
+        "published_at": "2022-06-11T09:39:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "New & Exclusive Trailer",
+        "key": "Iz3XmfNzrNs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5969072ac3a36879cb020e6d",
+        "published_at": "2017-07-14T16:09:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Critics' Picks - 'Passion of Joan of Arc'",
+        "key": "X7ddz1S8pJ8",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec656c3a36854480005c2",
+        "published_at": "2011-04-14T13:30:22.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/28vvMlh490bxipmhkbYTQissiof.jpg",
+        "id": 198,
+        "title": "To Be or Not to Be",
+        "original_title": "To Be or Not to Be",
+        "overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+        "poster_path": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10752,
+          10749
+        ],
+        "popularity": 2.6104,
+        "release_date": "1942-03-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 883
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 198,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "To Be or Not To Be (1942) \u00abTr\u00e1iler Original\u00bb Ernst Lubitsch",
+        "key": "DM4PxOf3OxY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "69747e09de9bfb62a1a37759",
+        "published_at": "2025-04-01T03:24:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Three Reasons: To Be or Not to Be",
+        "key": "-HK2Man04C4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec652c3a36854480001ae",
+        "published_at": "2013-08-27T18:43:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Joe Dante on TO BE OR NOT TO BE",
+        "key": "zaC2bWF60A8",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec652c3a36854480001ad",
+        "published_at": "2012-05-09T05:00:07.000Z"
+      }
+    ]
+  }
+}

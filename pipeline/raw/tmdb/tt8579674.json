@@ -1,0 +1,313 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/2lBOQK06tltt8SQaswgb8d657Mv.jpg",
+        "id": 530915,
+        "title": "1917",
+        "original_title": "1917",
+        "overview": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+        "poster_path": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          10752,
+          18,
+          36
+        ],
+        "popularity": 13.3625,
+        "release_date": "2019-12-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.983,
+        "vote_count": 14099
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 530915,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "How '1917' Pulled Off the Plane Crash in One Seamless Shot!",
+        "key": "PyiNNRnZZnA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "6998963b0193bd0e9aab923d",
+        "published_at": "2026-02-18T17:00:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "An Unbroken Shot Extended Preview",
+        "key": "h1TBrxPoNfU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "659f61f39d89390127b2bbd2",
+        "published_at": "2024-01-03T17:00:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Incredible Story Behind 1917 | Extra Access",
+        "key": "qJ7qV54QIC8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "605e4fe163536a003cccbdbe",
+        "published_at": "2021-03-21T16:00:16.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"1917\" wins Best Visual Effects",
+        "key": "MqAe7U54ry0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655cfbce10923000feae76ff",
+        "published_at": "2020-03-11T16:05:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"1917\" wins Best Cinematography",
+        "key": "qi78h-kwhKo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655cfbc4f6787a013a5c96cb",
+        "published_at": "2020-03-11T16:05:21.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"1917\" wins Best Sound Mixing",
+        "key": "bCoEENF4Eik",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655cfbd87f054018d7919221",
+        "published_at": "2020-03-11T16:05:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The First 9 Minutes of 1917 (in One Unbroken Shot) - Extended Preview",
+        "key": "ISoPy3I6Us4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a25b54c3344b52fcd1137b9",
+        "published_at": "2020-02-26T17:00:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "1917 Wins Special Visual Effects | EE BAFTA Film Awards 2020",
+        "key": "wuhT6eOSE8E",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655cfb76109230011b45cfbc",
+        "published_at": "2020-02-03T00:30:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Sam Mendes & The Cast of 1917 Celebrate Their Best Film Win | EE BAFTA Film Awards 2020",
+        "key": "Jr6M5l9FZnY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655cfb7eea84c71096e0ac21",
+        "published_at": "2020-02-03T00:15:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "1917 Wins Production Design | EE BAFTA Film Awards 2020",
+        "key": "z4843nvcJQc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655cfb9a53866e00ff0abc57",
+        "published_at": "2020-02-02T23:30:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "1917 Wins Outstanding British Film | EE BAFTA Film Awards 2020",
+        "key": "W4f79INVaPs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655cfb4f10923000ab49cebf",
+        "published_at": "2020-02-02T23:30:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Roger Deakins Receives Cinematography Award For 1917 | EE BAFTA Film Awards 2020",
+        "key": "9MSD_vc8z0w",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655cfb887f054018d344f911",
+        "published_at": "2020-02-02T23:30:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Sam Mendes Wins Director for 1917 | EE BAFTA Film Awards 2020",
+        "key": "2ySbcz_a2Po",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655cfb90f6787a00aece3344",
+        "published_at": "2020-02-02T23:15:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Sam Mendes & the Crew of 1917 Discuss Winning Outstanding British Film | EE BAFTA Film Awards 2020",
+        "key": "URwZFBSLyZ0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655cfba3fd4a96011d7ce9b5",
+        "published_at": "2020-02-02T23:15:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "1917 Wins Best Film | EE BAFTA Film Awards 2020",
+        "key": "MiEx3UAHWX4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655cfb6d0816c700abc01891",
+        "published_at": "2020-02-02T23:00:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Sam Mendes Talks 1917 | EE BAFTA Film Awards 2020",
+        "key": "ahLraF8N4ic",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655cfbad3d745400ada29725",
+        "published_at": "2020-02-02T18:45:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer 3",
+        "key": "gZjQROMAh_s",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5e0c35611511aa0014afe590",
+        "published_at": "2019-12-18T16:59:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Academy Conversations: 1917",
+        "key": "ymuVfepvCOw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655cfbe253866e00ff0abc6b",
+        "published_at": "2019-12-17T22:55:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "1917 Exclusive Movie Clip - Running Through Ruins (2019) | Movieclips Coming Soon",
+        "key": "wlbJZQQJ528",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": false,
+        "id": "5dfa71025ed9620013e33ffd",
+        "published_at": "2019-12-12T18:00:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "1917 - Trailer HD",
+        "key": "obs5LQEJ_Ms",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "id": "67692128231202807d0b11a9",
+        "published_at": "2019-10-04T05:44:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer 2",
+        "key": "YqNYrYUiMfg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5d969fe63bd26e0011b721b9",
+        "published_at": "2019-10-03T20:29:43.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Behind The Scenes Featurette",
+        "key": "3hSjs2hBa94",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "5d96a0073bd26e13a4b64c5e",
+        "published_at": "2019-09-30T15:00:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "UcmZN0Mbl04",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5d43077cd8cc4a001435a1af",
+        "published_at": "2019-08-01T14:59:29.000Z"
+      }
+    ]
+  }
+}

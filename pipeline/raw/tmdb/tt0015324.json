@@ -1,0 +1,49 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/tSipsYTp565LkopntX1lZNLPYHP.jpg",
+        "id": 992,
+        "title": "Sherlock Jr.",
+        "original_title": "Sherlock Jr.",
+        "overview": "A film projectionist longs to be a detective, and puts his meager skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+        "poster_path": "/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          35,
+          9648
+        ],
+        "popularity": 2.8925,
+        "release_date": "1924-04-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.042,
+        "vote_count": 1237
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 992,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "SHERLOCK JR (1924) - Trailer",
+        "key": "JSEK1NUPrGA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5fe17eea6ee3d7003de9d3be",
+        "published_at": "2019-09-23T22:22:49.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/leF9AKe937UhQsfWGtXfG7tBRvU.jpg",
+        "id": 11659,
+        "title": "The Best of Youth",
+        "original_title": "La meglio giovent\u00f9",
+        "overview": "After a fateful encounter in the summer of 1966, the lifepaths of two brothers from a middle-class Roman family diverge, intersecting with some of the most significant events of postwar Italian history in the following decades.",
+        "poster_path": "/ltmcFRvTeAgBgMLUGa15KzDSQqs.jpg",
+        "media_type": "movie",
+        "original_language": "it",
+        "genre_ids": [
+          18,
+          36,
+          10749
+        ],
+        "popularity": 1.6786,
+        "release_date": "2003-06-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.024,
+        "vote_count": 625
+      }
+    ],
+    "person_results": [],
+    "tv_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/yyqHabIl4sV3cFuzb26xzRRT5eS.jpg",
+        "id": 86311,
+        "name": "The Best of Youth",
+        "original_name": "La meglio giovent\u00f9",
+        "overview": "A family saga set in Italy which chronicles the life of a middle-class family. It explores the relationship between two brothers Nicola and Matteo as their life paths separate during youth, encompassing major political and social events in post\u2013World War II Italian history.",
+        "poster_path": "/qSgmjqjm9LskEfQ3Z3rLduJk5tc.jpg",
+        "media_type": "tv",
+        "original_language": "it",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 2.8558,
+        "first_air_date": "2003-12-07",
+        "softcore": false,
+        "vote_average": 8.0,
+        "vote_count": 39,
+        "origin_country": [
+          "IT"
+        ]
+      }
+    ],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 11659,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The best of youth (trailer)",
+        "key": "eIozQwKTxp0",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": false,
+        "id": "54baa3d9c3a3686c6f00646b",
+        "published_at": "2008-04-16T19:38:03.000Z"
+      }
+    ]
+  }
+}

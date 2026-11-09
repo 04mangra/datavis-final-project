@@ -1,0 +1,85 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/hUn13Hom8OWMYpR1ay0diwswwdP.jpg",
+        "id": 2118,
+        "title": "L.A. Confidential",
+        "original_title": "L.A. Confidential",
+        "overview": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
+        "poster_path": "/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          53
+        ],
+        "popularity": 8.566,
+        "release_date": "1997-09-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.813,
+        "vote_count": 5859
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 2118,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "20th Anniversary Trailer",
+        "key": "QeIoelqDzsA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "65a2b35abc2cb300bc01de5c",
+        "published_at": "2017-10-09T18:59:56.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "kF2btFEyKrA",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "65a2b385238513012b6279fa",
+        "published_at": "2014-07-09T00:13:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"L.A. Confidential\" winning Best Adapted Screenplay",
+        "key": "j8decbkMhFU",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "67237c13fe2a8a011ed74619",
+        "published_at": "2014-02-10T18:15:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Kim Basinger winning Best Supporting Actress",
+        "key": "KZmJjPWgzJc",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "67237c2018827a9329f1a7ea",
+        "published_at": "2010-01-04T21:02:22.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
+        "id": 16869,
+        "title": "Inglourious Basterds",
+        "original_title": "Inglourious Basterds",
+        "overview": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+        "poster_path": "/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          53,
+          10752
+        ],
+        "popularity": 19.9417,
+        "release_date": "2009-08-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 25119
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 16869,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Arrow 4K Unboxing",
+        "key": "5txYYiPtdp4",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Featurette",
+        "official": true,
+        "id": "678fc7b6e93bd071355b4060",
+        "published_at": "2025-01-21T16:11:52.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Trailer",
+        "key": "uSEDz-my7XQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "671bc27fb3d5cbb842f41488",
+        "published_at": "2024-10-25T15:33:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Christoph Waltz's Iconic Opening Scene - Extended Preview",
+        "key": "coS2CdNd7Io",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "671bc1e21ea33928297d32e3",
+        "published_at": "2021-12-25T17:00:32.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Tarantino Killed the German Nazi Film For All Time\" | Brad Pitt & Tarantino on Inglourious Basterds",
+        "key": "VzMwAo9hUBw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "671bc234b3d5cbb842f4146a",
+        "published_at": "2020-02-14T17:00:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Quentin Tarantino on Inglourious Basterds",
+        "key": "chN3N2owYBQ",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "623307882dc44e00451794d6",
+        "published_at": "2019-07-15T15:27:16.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "QFIUD3aq_do",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "66980cc6dd90a2bd7c804979",
+        "published_at": "2012-05-21T15:01:57.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer #3",
+        "key": "-2cRY4p7KIk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "699c492195aa4a8dc80e5964",
+        "published_at": "2012-01-10T07:16:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer #1",
+        "key": "KnrRy6kSFF0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "699c48af84805f248e374a49",
+        "published_at": "2011-12-13T05:36:19.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Christoph Waltz Wins Supporting Actor: 2010 Oscars",
+        "key": "j-ZEeYcSb6M",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "671bcf9027bd57d91f629c15",
+        "published_at": "2010-03-12T17:05:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Christoph Waltz wins Best Supporting Actor BAFTA",
+        "key": "2H6p8ZQGmfs",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Featurette",
+        "official": true,
+        "id": "671bcfdb5be9e8759da738b7",
+        "published_at": "2010-02-21T22:33:02.000Z"
+      }
+    ]
+  }
+}

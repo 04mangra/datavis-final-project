@@ -1,0 +1,216 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/7i0L2ee4Iy0aXV6vR5u1ZmblOrx.jpg",
+        "id": 935,
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "original_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+        "poster_path": "/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10752
+        ],
+        "popularity": 9.7881,
+        "release_date": "1964-01-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.118,
+        "vote_count": 6464
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 935,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hello Dimitri?",
+        "key": "DgDLct4YVyc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a14a1bcfde0b8a33410c399",
+        "published_at": "2026-04-19T16:00:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "This is the War Room!",
+        "key": "eJTKjsF7JQg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a14a33ffde0b8a33410c3a6",
+        "published_at": "2026-01-20T17:01:16.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Trailer",
+        "key": "XjLsIWZdWmc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a159985e3da6b161454684e",
+        "published_at": "2025-04-11T16:00:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Armando Iannucci on a new stage version of Dr Strangelove, starring Steve Coogan | BFI Q&A",
+        "key": "9IkqYOztv7I",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "66fbd898061afe114bf17a83",
+        "published_at": "2024-10-01T10:00:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dr. Strangelove (1964) - The Doomsday Machine",
+        "key": "SpBAFOmdNgU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67514c5c72d1a8a59c2975d4",
+        "published_at": "2024-07-24T20:44:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "First 10 Minutes",
+        "key": "tyOLJ99ysdU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "62c4c3d0f5c824005e380caa",
+        "published_at": "2020-06-20T17:00:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Samuel L. Jackson on DR STRANGELOVE",
+        "key": "XTVt0Ay23SM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "66fbd95cd8064165bdf18011",
+        "published_at": "2020-04-03T17:09:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Robert De Niro Announces DR. STRANGELOVE as the AFI Movie Club pick of the day",
+        "key": "R_ZJPAZ5UlE",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "66fbd9238aa734b376a6737d",
+        "published_at": "2020-04-03T17:01:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Re-Release Trailer",
+        "key": "0rF5XftjRGM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "62c4c463244182005b26b277",
+        "published_at": "2019-03-07T08:39:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Michael Lehmann on DOCTOR STRANGELOVE",
+        "key": "fSD2wlDY4pg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "570d832bc3a3680a3900022c",
+        "published_at": "2016-04-11T01:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "50th Anniversary panel discussion",
+        "key": "MM7wSNf_J08",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "66fbda37d8064165bdf18049",
+        "published_at": "2014-01-31T13:57:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "98NaJ8ss4sY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5b1df8850e0a264fad0073c3",
+        "published_at": "2014-01-22T20:29:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Inside the Making of Dr. Strangelove",
+        "key": "iJ6BiRtGTAk",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Behind the Scenes",
+        "official": false,
+        "id": "64598eaf77d23b0119e0ffbc",
+        "published_at": "2013-03-18T19:57:59.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Robin Williams on Peter Sellers and DR. STRANGELOVE",
+        "key": "JqknnUs-ljA",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec657c3a36854480006d0",
+        "published_at": "2013-01-30T00:47:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Richard Dreyfuss on DR. STRANGELOVE",
+        "key": "RctVSSmITMI",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "66fbd8f66ec7804796d63d87",
+        "published_at": "2011-01-10T18:29:22.000Z"
+      }
+    ]
+  }
+}

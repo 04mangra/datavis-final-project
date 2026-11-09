@@ -1,0 +1,253 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg",
+        "id": 539,
+        "title": "Psycho",
+        "original_title": "Psycho",
+        "overview": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+        "poster_path": "/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53,
+          9648
+        ],
+        "popularity": 17.9107,
+        "release_date": "1960-06-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.404,
+        "vote_count": 11422
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 539,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "John Carpenter on Psycho",
+        "key": "qGjbVLFBoUI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "68fc63af1d088d944dfb674e",
+        "published_at": "2025-07-31T15:28:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Norman Bates and Marion's Chilling Dinner Conversation",
+        "key": "EB7mONv81fE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "680ffd7a5ad0b67c66eaee52",
+        "published_at": "2025-02-26T12:00:20.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Thank You Mr. Bates.\" - Extended Preview",
+        "key": "eXdQxdxyKSk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6719e18027bd57d91f624b9d",
+        "published_at": "2024-10-23T16:00:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Martin Scorsese on Psycho",
+        "key": "hqxrPvNykh0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "670d9c02b15d97b1a93d4461",
+        "published_at": "2024-10-14T19:47:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Quentin Tarantino on Psycho",
+        "key": "G0RplZBccDk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "67118fa3097c3d7760f86cd9",
+        "published_at": "2024-08-03T19:47:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Robert Osborne Outro : PSYCHO",
+        "key": "tAUqyEIPLpQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "66263efbeb79c20165d44814",
+        "published_at": "2022-07-11T22:26:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Marion Meets Norman Bates At The Bates Motel - Extended Preview",
+        "key": "46uCBJcNMQM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "628d07706c84927187b01f9e",
+        "published_at": "2022-05-23T16:00:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Reissue Trailer",
+        "key": "D90QhegiVvo",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "62be2308af6e94005aaab469",
+        "published_at": "2022-05-19T09:22:44.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Robert Osborne Intro : PSYCHO",
+        "key": "REpJo5lh61A",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "689bc97a4f4665d261b70939",
+        "published_at": "2022-05-06T21:03:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "LGBTQ Themes in Psycho and The Children's Hour [*Contains Movie Spoilers]",
+        "key": "tU2zJQCRb_g",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "653ffe68519bbb00ab6a1cf2",
+        "published_at": "2021-03-25T17:45:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"We All Go a Little Mad Sometimes\"",
+        "key": "4-EwNHerlko",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "64907fbbc3c89100ae5230ca",
+        "published_at": "2020-06-20T13:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Fathom Events Trailer",
+        "key": "Dy5MLD-vxiU",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "id": "62be27b4c8113d00c34512a7",
+        "published_at": "2015-09-21T22:45:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "BwVKSGu8wEA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a3366539530e1a4d8e3aad0",
+        "published_at": "2014-04-11T06:11:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "AJdPFYENJBo",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "62be271cea3949005a0b7778",
+        "published_at": "2013-11-11T10:07:21.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "How Hitchcock Got People To See \"Psycho\"",
+        "key": "DjRzj_Ufiew",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Featurette",
+        "official": true,
+        "id": "652e891bcaef2d00c5273768",
+        "published_at": "2012-04-23T16:17:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Psycho 50th Anniversary - Own it on Blu-ray 10/19 BTS: Audio Restoration",
+        "key": "_AQIwoHmLng",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "62be28f2532acb007d13b3f8",
+        "published_at": "2010-10-13T18:39:23.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "50th Anniversary Edition Blu-ray Trailer",
+        "key": "zn7dBPlFkA0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "62be26c4e640d6007e908051",
+        "published_at": "2010-09-20T19:00:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Anthony Perkins & Janet Leigh On PSYCHO",
+        "key": "ULOCG0YXPwY",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "652e88eb0cb33516f884e79d",
+        "published_at": "2009-04-14T23:01:36.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/pyvkujOZ5qvY2NlQVC71flfgVWE.jpg",
+        "id": 829,
+        "title": "Chinatown",
+        "original_title": "Chinatown",
+        "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
+        "poster_path": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          53
+        ],
+        "popularity": 6.0664,
+        "release_date": "1974-06-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.907,
+        "vote_count": 4482
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 829,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Chinatown (1974) Original Trailer [FHD]",
+        "key": "RKdXf-fiBcw",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "68e185b0801bd820ae25acc0",
+        "published_at": "2024-06-28T17:23:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jack Nicholson accepts his award on the set of One Flew Over the Cuckoo's Nest",
+        "key": "gtHI0ipkgEo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655cf51953866e00e29648a4",
+        "published_at": "2015-02-05T14:21:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "T37QkBc4IGY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "6331f55a2a210c007fd22d60",
+        "published_at": "2012-06-01T06:56:36.000Z"
+      }
+    ]
+  }
+}

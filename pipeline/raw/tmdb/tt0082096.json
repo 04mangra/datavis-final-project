@@ -1,0 +1,61 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/zzzhbZnSPMOON9uGt0LsdUJWYoC.jpg",
+        "id": 387,
+        "title": "Das Boot",
+        "original_title": "Das Boot",
+        "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+        "poster_path": "/hNfAYNCMRthp9iruF5Q6S1z4bVA.jpg",
+        "media_type": "movie",
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "popularity": 7.5825,
+        "release_date": "1981-09-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.087,
+        "vote_count": 2702
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 387,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Das Boot (1981) REMASTERED TRAILER [HD]",
+        "key": "KhNnU4h1Q50",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "62f705431cac8c007f2ea360",
+        "published_at": "2021-10-12T21:16:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Das Boot (director's Cut) (Subtitles)- Trailer",
+        "key": "r37MmBuFoc0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5760e008c3a36808bc0003a1",
+        "published_at": "2013-08-13T04:37:41.000Z"
+      }
+    ]
+  }
+}

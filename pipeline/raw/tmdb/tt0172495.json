@@ -1,0 +1,253 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
+        "id": 98,
+        "title": "Gladiator",
+        "original_title": "Gladiator",
+        "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+        "poster_path": "/aDb548BOkFfI4nFm0kx8A3Ezh7H.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          18,
+          12
+        ],
+        "popularity": 30.3267,
+        "release_date": "2000-05-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.233,
+        "vote_count": 21826
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 98,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Adam Savage Reacts to the Original Concept Designs Behind 'Gladiator'",
+        "key": "64DXB0R4bIA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a8f43d6f06e8774b836f06f",
+        "published_at": "2026-08-03T16:00:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Maximus Reveals His Identity to the Emperor",
+        "key": "mtGvNfvR3UY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a5e91c9b4e888b14a4b140a",
+        "published_at": "2026-07-20T19:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Maximus' First Colosseum Battle!",
+        "key": "aFdxBKvXWy8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67393f909c16dafa06f9b9bd",
+        "published_at": "2024-11-15T13:59:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Maximus vs Commodus in Epic Final Battle - Full Scene",
+        "key": "nLyoyriGNEg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "672e7e3917283c363b76a958",
+        "published_at": "2024-11-08T13:59:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Maximus Reveals Himself to Commodus",
+        "key": "wswyYRObcIc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "671d341ab3d5cbb842f4456a",
+        "published_at": "2024-10-26T12:59:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Are You Not Entertained?\"",
+        "key": "HmdpjkM3onk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "670d53e60b800537d75c8a5e",
+        "published_at": "2024-10-13T12:59:54.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Emperor Wounds Maximus Before Battle - Full Scene",
+        "key": "j5qCH1odB3M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "66fa61d7c59a2db32dcfffa1",
+        "published_at": "2024-09-28T11:59:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Are You Not Entertained\" Clip",
+        "key": "yD0XIowNAG8",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "61f965c0ae28110045f2ba63",
+        "published_at": "2022-01-27T17:45:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "P5ieIbInFpg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "61f966bab6abc4001ccaf063",
+        "published_at": "2021-06-17T15:59:56.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Every Gladiator Battle Scene",
+        "key": "KMcWh4nWqBE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "61f96851b7abb50066593f35",
+        "published_at": "2020-05-06T15:00:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Theatrical Trailer",
+        "key": "TcYIqlBihW4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "61f9673b559d220105d22efc",
+        "published_at": "2018-11-13T01:26:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Gladiator Wins Costume Design: 2001 Oscars",
+        "key": "rdD3mKd1qcY",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "673f244aab4d6d0e8d1ad281",
+        "published_at": "2016-02-04T20:40:23.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Gladiator\" and \"U-571\" winning Oscars\u00ae for Sound and Sound Editing",
+        "key": "sQKfkmCp25w",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "673f2456ab4d6d0e8d1ad283",
+        "published_at": "2016-02-04T20:40:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Story of the \"Gladiator\" Costume",
+        "key": "rB7HBbxVieI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "65c4bcb1fd6fa10187796324",
+        "published_at": "2015-08-17T16:57:44.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Gladiator\" winning the Oscar\u00ae for Visual Effects",
+        "key": "LXw8I2Q4O6s",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "673f240b99961e3a12674460",
+        "published_at": "2014-02-09T19:33:19.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Gladiator\" winning Best Picture | 73rd Oscars (2001)",
+        "key": "UBYNeTIX7zs",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "673f23fb8e1abaf482db6a37",
+        "published_at": "2011-07-29T23:56:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Russell Crowe winning Best Actor",
+        "key": "hwjqlN3jueg",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "673f23e999961e3a12674454",
+        "published_at": "2010-10-27T16:58:21.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Director Ridley Scott discussing \"Gladiator\"",
+        "key": "x2jDbgQ57ZM",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "63d17095a410c8125be657fe",
+        "published_at": "2008-06-03T20:21:02.000Z"
+      }
+    ]
+  }
+}

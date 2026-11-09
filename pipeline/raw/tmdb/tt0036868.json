@@ -1,0 +1,73 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/n0og4mDtl08x9RLTWXt8zUKpqXQ.jpg",
+        "id": 887,
+        "title": "The Best Years of Our Lives",
+        "original_title": "The Best Years of Our Lives",
+        "overview": "It's the hope that sustains the spirit of every GI: the dream of the day when he will finally return home. For three WWII veterans, the day has arrived. But for each man, the dream is about to become a nightmare.",
+        "poster_path": "/gd5EoAU4MM57sW3vlWxJ0NMM8cV.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10749,
+          10752
+        ],
+        "popularity": 3.6663,
+        "release_date": "1946-11-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.745,
+        "vote_count": 777
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 887,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "What Makes \u201cThe Best Years of Our Lives\u201d a Legendary Film? (Clip) | TCM Academy Conversations",
+        "key": "BKcV32ai9bQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "69aac1ddf50fab640231674c",
+        "published_at": "2026-03-04T12:00:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Warner Archive Trailer",
+        "key": "X9lufYAOxes",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": false,
+        "id": "6001b5e4be4b36003e50c3c1",
+        "published_at": "2021-01-09T00:44:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Homer's Homecoming",
+        "key": "cLDBiSPKgKI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "62e0fb54bbcae000557977db",
+        "published_at": "2013-10-22T22:43:50.000Z"
+      }
+    ]
+  }
+}

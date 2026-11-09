@@ -1,0 +1,47 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/sO2coXOiWWZL0sr6RsWTS3tu0J9.jpg",
+        "id": 13223,
+        "title": "Gran Torino",
+        "original_title": "Gran Torino",
+        "overview": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+        "poster_path": "/zUybYvxWdAJy5hhYovsXtHSWI1l.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 6.9053,
+        "release_date": "2008-12-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.987,
+        "vote_count": 11972
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 13223,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "35mm Theatrical Trailer [5.1] [4K] [FTD-1276]",
+        "key": "F8zue_BzNsw",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "65444bee9cc67b00ab45c4c2",
+        "published_at": "2023-09-28T05:00:14.000Z"
+      }
+    ]
+  }
+}

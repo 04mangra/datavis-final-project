@@ -1,0 +1,61 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+        "id": 3082,
+        "title": "Modern Times",
+        "original_title": "Modern Times",
+        "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time...",
+        "poster_path": "/AthaPakkuCLROdKxtRbKWclkDBK.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "popularity": 7.002,
+        "release_date": "1936-02-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.286,
+        "vote_count": 4255
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 3082,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Modern Times (1936) ORIGINAL TRAILER [HD 1080p]",
+        "key": "NNznUyDmSFc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "62e9546c1bf266005a61a595",
+        "published_at": "2018-07-17T19:34:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Peter Bogdanovich on Charlie Chaplin Film MODERN TIMES",
+        "key": "kNIh3C1k4aM",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec65dc3a3685448000d41",
+        "published_at": "2012-02-23T20:36:01.000Z"
+      }
+    ]
+  }
+}

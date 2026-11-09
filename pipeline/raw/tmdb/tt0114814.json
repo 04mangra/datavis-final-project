@@ -1,0 +1,109 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/hy0Hx9fMPk2fmw26Li60z1S2giU.jpg",
+        "id": 629,
+        "title": "The Usual Suspects",
+        "original_title": "The Usual Suspects",
+        "overview": "The lone survivor of an explosive heist gone wrong recounts for interrogators the events that began with five disparate criminals assembled for a police lineup - with alleged criminal mastermind Keyser Soze at the center of it all.",
+        "poster_path": "/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          53
+        ],
+        "popularity": 12.51,
+        "release_date": "1995-07-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.162,
+        "vote_count": 11941
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 629,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Sizzle",
+        "key": "jM3jrHGAsIE",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "67a0df9a176fdb2244cbab9c",
+        "published_at": "2025-02-03T12:59:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Unboxing I 4K",
+        "key": "EjEW97tvKxY",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Featurette",
+        "official": true,
+        "id": "67810fd0044b6ca6764eb626",
+        "published_at": "2025-01-10T11:42:43.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Trailer",
+        "key": "byMcINu1G5M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "671bc0d0e833d92ef0601a4f",
+        "published_at": "2024-10-25T15:34:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "x3t0Nc6fg7w",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "5eb56b5bcc277c001f675945",
+        "published_at": "2014-12-12T19:40:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Christopher McQuarrie winning an Oscar\u00ae for \"Usual Suspects\"",
+        "key": "a6KA9294ykE",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "671bc11da4ac8a432c5c440c",
+        "published_at": "2011-07-29T22:53:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Kevin Spacey Wins Supporting Actor: 1996 Oscars",
+        "key": "IVktfCKxf4M",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "671bc12c9ff681d9e0a40aae",
+        "published_at": "2010-01-04T20:53:38.000Z"
+      }
+    ]
+  }
+}

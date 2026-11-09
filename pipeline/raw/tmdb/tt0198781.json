@@ -1,0 +1,146 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
+        "id": 585,
+        "title": "Monsters, Inc.",
+        "original_title": "Monsters, Inc.",
+        "overview": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+        "poster_path": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          14
+        ],
+        "popularity": 23.0451,
+        "release_date": "2001-11-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 20493
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 585,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Theme Song with Office Supplies | ASM(Pixa)R",
+        "key": "fcAiy9sB2Yo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a86d9054c173f7d974cb149",
+        "published_at": "2026-08-11T17:00:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "35mm Theatrical Trailer [5.1] [4K] [FTD-1290]",
+        "key": "GnuQH_ASzu8",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "65444b52ed2ac200aeb0ccc7",
+        "published_at": "2023-10-12T05:00:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Monsters Inc. - Celia Gets Mad At Mike Wazowski!",
+        "key": "nhVD2nlIqQQ",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Clip",
+        "official": false,
+        "id": "6035e08ed132d6003fa22fc3",
+        "published_at": "2019-03-07T11:54:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Monsters, Inc. (2001) Trailer #1 | Movieclips Classic Trailers",
+        "key": "CGbgaHoapFM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6035deb6eec5b5003d1ad43d",
+        "published_at": "2017-11-07T21:35:32.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Touching Goodbye Scene - Monsters Inc (Boo & Kitty)",
+        "key": "BPaTaEN2wxY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": false,
+        "id": "6035dfd40d294400415b5d85",
+        "published_at": "2013-10-24T05:50:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"If I Didn't Have You\" from Monsters, Inc. Wins Best Song: 74th Oscars (2002)",
+        "key": "xx1n0ZkXcAI",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "63d159f19f51af007af844b6",
+        "published_at": "2013-07-30T19:19:23.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Monsters, Inc. 3D Trailer",
+        "key": "6tCxnHCqqxg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6035df41223e20003f03eaaf",
+        "published_at": "2012-09-06T16:00:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Monster's Inc Blooper",
+        "key": "CG2T7upUVAk",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Bloopers",
+        "official": false,
+        "id": "646140a78c44b901706f3c26",
+        "published_at": "2007-07-30T06:06:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Monsters Inc. Trailer",
+        "key": "cvOQeozL4S0",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Clip",
+        "official": false,
+        "id": "5aad63800e0a2665f5000b14",
+        "published_at": "2007-06-18T20:54:01.000Z"
+      }
+    ]
+  }
+}

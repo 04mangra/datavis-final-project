@@ -1,0 +1,120 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+        "id": 453,
+        "title": "A Beautiful Mind",
+        "original_title": "A Beautiful Mind",
+        "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+        "poster_path": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 11.654,
+        "release_date": "2001-12-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.855,
+        "vote_count": 11556
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 453,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "25th Anniversary",
+        "key": "RtDkC1tROG0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "6adba3db3fb9ed3c5a51ae4d",
+        "published_at": "2026-10-14T15:36:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "John Nash Puts His Baby at Risk",
+        "key": "jQxcW-0thXs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67c77c48a75500a87640a3e4",
+        "published_at": "2025-03-04T20:00:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "A Beautiful Mind Wins Adapted Screenplay: 2002 Oscars",
+        "key": "S6TRPHx7_e8",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6adba490959ffa690825882e",
+        "published_at": "2015-09-14T17:05:49.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "WFJgUm7iOKw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "54439d44c3a3683e050048b7",
+        "published_at": "2014-09-19T21:02:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "A Beautiful Mind Wins Best Picture | 74th Oscars (2002)",
+        "key": "zx2Yj-Gcdc0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6adba4533cca56786892caba",
+        "published_at": "2011-07-30T00:06:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jennifer Connelly Wins Best Supporting Actress | 74th Oscars (2002)",
+        "key": "IiQrI_F8z_M",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6adba463db6215304005483e",
+        "published_at": "2010-10-28T22:42:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ron Howard Wins Best Directing: 2002 Oscars",
+        "key": "EEmJxQspUZM",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6adba48280a49e695a92caa8",
+        "published_at": "2010-01-04T21:32:26.000Z"
+      }
+    ]
+  }
+}

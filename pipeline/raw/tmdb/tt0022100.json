@@ -1,0 +1,73 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/5Pk1rGAtyblh9Xaq72T7ARCQSDQ.jpg",
+        "id": 832,
+        "title": "M",
+        "original_title": "M - Eine Stadt sucht einen M\u00f6rder",
+        "overview": "In this classic German thriller, Hans Beckert, a serial killer who preys on children, becomes the focus of a massive Berlin police manhunt. Beckert's heinous crimes are so repellant and disruptive to city life that he is even targeted by others in the seedy underworld network. With both cops and criminals in pursuit, the murderer soon realizes that people are on his trail, sending him into a tense, panicked attempt to escape justice.",
+        "poster_path": "/bTdZk3q2DWpBRnLiaaItKFWOVhI.jpg",
+        "media_type": "movie",
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          53,
+          80
+        ],
+        "popularity": 4.2164,
+        "release_date": "1931-05-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.058,
+        "vote_count": 2594
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 832,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "M (1931) Original Trailer [FHD]",
+        "key": "DdR07aN3uoc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "62d8a92cac617c005c45872d",
+        "published_at": "2021-02-15T23:00:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Clip",
+        "key": "FUpwMmeT4ZA",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Clip",
+        "official": false,
+        "id": "593e38bcc3a3680f6702d19d",
+        "published_at": "2017-05-31T13:00:41.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "nsVproWjN6c",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "id": "541f26dc0e0a26179a0006c3",
+        "published_at": "2014-08-19T09:45:03.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
+        "id": 762,
+        "title": "Monty Python and the Holy Grail",
+        "original_title": "Monty Python and the Holy Grail",
+        "overview": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\".",
+        "poster_path": "/7nTkHjETdGMYK1phHwDbPsrzbYl.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          35,
+          14
+        ],
+        "popularity": 7.6423,
+        "release_date": "1975-04-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.801,
+        "vote_count": 6710
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 762,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer Fall 2023",
+        "key": "4b52A3sKz-I",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "652eac19358da75b5c0d12ee",
+        "published_at": "2023-10-17T14:00:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Trailer [FHD]",
+        "key": "67yCrKqAPQk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "62df52fb33a533051fb9f0f8",
+        "published_at": "2021-01-10T07:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Monty Python and the Holy Grail star Carol Cleveland | BFI Q&A",
+        "key": "rgjDNkhoOhU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "63285740bc2cb3007b74dd3e",
+        "published_at": "2019-11-04T12:38:59.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Monty Python and the Holy Grail \u2263 1975 \u2263 DVD trailer",
+        "key": "LRWJxhP-9n4",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": false,
+        "id": "66862369a1784ec9b1334384",
+        "published_at": "2017-07-30T16:07:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Adam Rifkin on MONTY PYTHON AND THE HOLY GRAIL",
+        "key": "qk4k0brx1P0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec656c3a3685448000596",
+        "published_at": "2013-09-17T09:18:38.000Z"
+      }
+    ]
+  }
+}

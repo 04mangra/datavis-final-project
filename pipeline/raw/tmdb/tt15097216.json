@@ -1,0 +1,37 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/40lmQ5vzKJhj5k7i0hvZuglneyj.jpg",
+        "id": 855400,
+        "title": "Jai Bhim",
+        "original_title": "\u0b9c\u0bc6\u0baf\u0bcd \u0baa\u0bc0\u0bae\u0bcd",
+        "overview": "A pregnant woman from a primitive tribal community, searches desperately for her husband, who is missing from police custody. So as to find her husband and seek justice for them, as their voice, a High Court advocate rises in support. Will their battle for justice succeed?",
+        "poster_path": "/ehybiOtBUtrMkmtB39zQEtq1Jie.jpg",
+        "media_type": "movie",
+        "original_language": "ta",
+        "genre_ids": [
+          80,
+          18,
+          9648,
+          36
+        ],
+        "popularity": 1.4574,
+        "release_date": "2021-11-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.413,
+        "vote_count": 265
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 855400,
+    "results": []
+  }
+}

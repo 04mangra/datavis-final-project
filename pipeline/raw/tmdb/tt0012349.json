@@ -1,0 +1,60 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/yJvv7kDmeWT18jUSW2ZugZmYg0i.jpg",
+        "id": 10098,
+        "title": "The Kid",
+        "original_title": "The Kid",
+        "overview": "A tramp cares for a boy after he's abandoned as a newborn by his mother. Later the mother has a change of heart and aches to be reunited with her son.",
+        "poster_path": "/drgMcyTsySQBnUPGaBThCHGdlWT.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 3.7518,
+        "release_date": "1921-01-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.134,
+        "vote_count": 2484
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 10098,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "THE KID \u2013 NEW 100TH ANNIVERSARY TRAILER",
+        "key": "O5WXokyub-4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "60d18f15957e6d0046fc2936",
+        "published_at": "2021-03-03T17:28:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jackie Coogan on THE KID",
+        "key": "3TIIFxoY5os",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "56cc66aac3a36865d90028cf",
+        "published_at": "2016-02-22T21:53:15.000Z"
+      }
+    ]
+  }
+}

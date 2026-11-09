@@ -1,0 +1,72 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/a5zBQfXmLk3qqRYF7AioWpiAxk2.jpg",
+        "id": 11778,
+        "title": "The Deer Hunter",
+        "original_title": "The Deer Hunter",
+        "overview": "Three steelworkers enlist in the army and are sent to Vietnam, one leaving behind a rushed marriage, the others a shared love. What they encounter during the war changes their lives forever.",
+        "poster_path": "/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "popularity": 8.4826,
+        "release_date": "1978-12-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.955,
+        "vote_count": 4463
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 11778,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Meryl Streep on her character Linda in THE DEER HUNTER",
+        "key": "o4TIYAVT0cU",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "65788932ec8a43011a3a7e60",
+        "published_at": "2023-12-12T00:04:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "g7q1SjVdsNk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "62e46b0b57530e00606777d5",
+        "published_at": "2018-06-18T11:08:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "What Robert De Niro did for The Deer Hunter | BFI",
+        "key": "kgVeO-gU7I8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "63285ee0d7a70a007c79a562",
+        "published_at": "2014-08-08T15:38:31.000Z"
+      }
+    ]
+  }
+}

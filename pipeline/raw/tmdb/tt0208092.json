@@ -1,0 +1,48 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/32V4uHVRU2fbDsQl1dsYsZm3uba.jpg",
+        "id": 107,
+        "title": "Snatch",
+        "original_title": "Snatch",
+        "overview": "Unscrupulous boxing promoters, violent bookies, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewellers fight to track down a priceless stolen diamond.",
+        "poster_path": "/kIBMvdZ3qLUycHLbT6IFs7UtaCq.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          35
+        ],
+        "popularity": 11.9821,
+        "release_date": "2000-09-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.831,
+        "vote_count": 10452
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 107,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Snatch (2000) - Trailer",
+        "key": "ni4tEtuTccc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "556cb50fc3a36858fd001b8b",
+        "published_at": "2014-07-10T21:45:28.000Z"
+      }
+    ]
+  }
+}

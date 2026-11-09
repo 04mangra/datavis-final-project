@@ -1,0 +1,73 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/tDn1dA52bQH9B85vilHeU7C83W1.jpg",
+        "id": 548,
+        "title": "Rashomon",
+        "original_title": "\u7f85\u751f\u9580",
+        "overview": "Four people recount different versions of the story of a man's murder and the rape of his wife.",
+        "poster_path": "/ijWibsAU1iBcCD8tuIZfTmDzMVE.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 6.0965,
+        "release_date": "1950-08-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.021,
+        "vote_count": 2664
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 548,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "BFI Re-Release Trailer",
+        "key": "L2E_DfExUmU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "637faaada410c800c88415cd",
+        "published_at": "2022-11-24T11:04:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Rash\u00f4mon (1950) ORIGINAL TRAILER [HD 1080p]",
+        "key": "Zqoyl2p8_lw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "61d8ddaf293835009568a2b8",
+        "published_at": "2018-11-15T20:31:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Robert Altman on Rashomon",
+        "key": "x4n0kLz80cY",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec654c3a36854480003e7",
+        "published_at": "2012-09-12T17:16:59.000Z"
+      }
+    ]
+  }
+}

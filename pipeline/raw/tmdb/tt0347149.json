@@ -1,0 +1,109 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
+        "id": 4935,
+        "title": "Howl's Moving Castle",
+        "original_title": "\u30cf\u30a6\u30eb\u306e\u52d5\u304f\u57ce",
+        "overview": "Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.",
+        "poster_path": "/13kOl2v0nD2OLbVSHnHk8GUFEhO.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          14,
+          16,
+          12
+        ],
+        "popularity": 29.6428,
+        "release_date": "2004-09-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.392,
+        "vote_count": 11650
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 4935,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "20th Anniversary Trailer",
+        "key": "ARCQf2CEr8k",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "66e1b6448e8fdd28818fd1eb",
+        "published_at": "2024-09-10T15:01:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer [Subtitled]",
+        "key": "2x5SejvTMeA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6561209a2b113d00eba7925b",
+        "published_at": "2023-11-24T22:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ghibli Fest 2023 Trailer",
+        "key": "0YNhAf4qxLg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6563aa6b244182012dac258c",
+        "published_at": "2023-09-01T14:59:52.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ghibli Fest 2023 :30 Sec Trailer",
+        "key": "x4vLJlWmIN8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "652b3dbd1f3e6000e2901e9a",
+        "published_at": "2023-08-31T16:34:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Behind the scenes of Howl's moving castle English dubbing",
+        "key": "iz5Hsud-Yac",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Behind the Scenes",
+        "official": false,
+        "id": "64a8e866d1a8930139d579c9",
+        "published_at": "2021-03-14T18:50:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "iwROgK94zcM",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "id": "5ac3ad2892514126b0036ef5",
+        "published_at": "2014-09-17T05:26:09.000Z"
+      }
+    ]
+  }
+}

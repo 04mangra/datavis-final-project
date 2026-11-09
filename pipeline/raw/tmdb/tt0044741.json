@@ -1,0 +1,59 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/fS4xXq5lVwu1V95qB4murKZgPFo.jpg",
+        "id": 3782,
+        "title": "Ikiru",
+        "original_title": "\u751f\u304d\u308b",
+        "overview": "Kanji Watanabe is a middle-aged man who has worked in the same monotonous bureaucratic position for decades. Learning he has cancer, he starts to look for the meaning of his life.",
+        "poster_path": "/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 10.4993,
+        "release_date": "1952-10-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.315,
+        "vote_count": 1425
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 3782,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ikiru (1952) Original Trailer [4K]",
+        "key": "geKhyNerWM8",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "64ade88066a0d300e375c070",
+        "published_at": "2023-06-30T12:25:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ikiru - The Moment He Started Living",
+        "key": "nr2d6PsRpsc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "5fb497e4db154f003f51dbda",
+        "published_at": "2012-10-10T13:32:52.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6Kn6qW3an3DkPl3MahWemTzrjCt.jpg",
+        "id": 11423,
+        "title": "Memories of Murder",
+        "original_title": "\uc0b4\uc778\uc758 \ucd94\uc5b5",
+        "overview": "A sadistic serial rapist and murderer of young women terrorizes a small province in 1980s South Korea. To prevent further crimes, three increasingly desperate detectives with conflicting methods race against time to unravel the violent mind of the killer in a futile effort to solve the case.",
+        "poster_path": "/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg",
+        "media_type": "movie",
+        "original_language": "ko",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "popularity": 11.0542,
+        "release_date": "2003-04-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.065,
+        "vote_count": 4929
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 11423,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "This Scene in 'Memories of Murder' Was 100% Real\u2014and Painful!",
+        "key": "ThCaszDZNiM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6872576c1b9a8ab1e8a977c5",
+        "published_at": "2025-07-07T16:00:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mark Kermode reviews Memories of Murder (2003) | BFI Player",
+        "key": "amH3NZpdZSc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "683e28ef2243f6b024fdb77a",
+        "published_at": "2025-05-23T15:00:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Clip",
+        "key": "Qt08rUY15m4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6678ecb7de5d26cbafedfe95",
+        "published_at": "2020-11-10T08:11:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "MEMORIES OF MURDER Trailer",
+        "key": "0n_HQwQU8ls",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5f5fa1de3f7e1d0037911ded",
+        "published_at": "2020-09-09T18:08:21.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official UK Teaser Trailer",
+        "key": "e7-fyFpoLPQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "636859a14ca6760079b27d91",
+        "published_at": "2020-09-04T14:00:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "MEMORIES OF MURDER Official Int'l Main Trailer",
+        "key": "pliylHilD_U",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "6678ed006b2ce4f684edff32",
+        "published_at": "2020-05-22T08:56:43.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Bong Joon Ho & Song Kang Ho Introduce Memories of Murder",
+        "key": "0A_xu5G5TgI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6678eccbf7719f0920f234ba",
+        "published_at": "2020-01-09T22:13:44.000Z"
+      }
+    ]
+  }
+}

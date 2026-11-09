@@ -1,0 +1,108 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
+        "id": 240,
+        "title": "The Godfather Part II",
+        "original_title": "The Godfather Part II",
+        "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+        "poster_path": "/8a1lJs7mFyGhGhZZDT1azJUoQiZ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 28.0116,
+        "release_date": "1974-12-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.572,
+        "vote_count": 14585
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 240,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Quentin Tarantino on The Godfather Part II",
+        "key": "XsB5DCfmHeM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "69e005e6302b4b20ffb4ce0f",
+        "published_at": "2026-04-15T19:35:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Al Pacino & Robert De Niro Praise Francis Ford Coppola: \"You Changed My Life\"",
+        "key": "F1b6iSedYgQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "686a4b48a722d3894b1034aa",
+        "published_at": "2025-06-19T05:30:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Sit-Down: Vito\u2019s First Power Move (Subtitled)",
+        "key": "FUqe7Hviii4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67df54c5ce605a1ed1c701ce",
+        "published_at": "2025-03-21T12:00:19.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"I Know It Was You, Fredo\" - Full Scene",
+        "key": "qEtuz1ktxeA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6760e8cf3e055e34ce192968",
+        "published_at": "2024-12-15T13:59:57.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "50th Anniversary Franchise Trailer",
+        "key": "7pfqivkYUlE",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "66ac60b2c1afc0fa87c0281b",
+        "published_at": "2022-09-22T13:06:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "9O1Iy9od7-A",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "58fa2a55c3a3687c7300cdc6",
+        "published_at": "2012-06-01T17:52:58.000Z"
+      }
+    ]
+  }
+}

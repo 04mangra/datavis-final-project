@@ -1,0 +1,47 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/ci8NMpK3HvuySQRGPMAPyBSlL7f.jpg",
+        "id": 13393,
+        "title": "My Father and My Son",
+        "original_title": "Babam ve O\u011flum",
+        "overview": "A left-wing journalist whose wife died while giving birth to his son during a military coup returns to his family's farm. Estranged from his father for turning his back on the family and wasting his life with political activism instead, he tries to reconnect with him so that his son will have a place to live as his health is deteriorating due to the extensive torture he had to endure.",
+        "poster_path": "/ephCcqJYZFUnkQC7Oudah2qUL6O.jpg",
+        "media_type": "movie",
+        "original_language": "tr",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 1.0753,
+        "release_date": "2005-11-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 410
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 13393,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Babam ve O\u011flum (My Father & My Son) \"English Trailer\"",
+        "key": "KTmrUXNxwWI",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": false,
+        "id": "533ec674c3a36854480024a5",
+        "published_at": "2013-02-08T14:41:58.000Z"
+      }
+    ]
+  }
+}

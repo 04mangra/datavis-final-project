@@ -1,0 +1,156 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/rLLhOCgAjuvlKmjUqVb7P1UAbUI.jpg",
+        "id": 1092,
+        "title": "The Third Man",
+        "original_title": "The Third Man",
+        "overview": "In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a \"third man\" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.",
+        "poster_path": "/vqnFHTx1phgTAsLfxZoejSbMVHA.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          9648
+        ],
+        "popularity": 4.7861,
+        "release_date": "1949-08-31",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.885,
+        "vote_count": 2222
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 1092,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "75th Anniversary Collector's Edition 4K SteelBook Official Trailer",
+        "key": "Y7nwySBGqCo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "67af6bb1a18ebf2ac58e6a14",
+        "published_at": "2025-02-11T21:00:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "STUDIOCANAL PRESENTS: THE PODCAST - Episode 3 | A deep dive into The Third Man",
+        "key": "gVTFD2t0klw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "62fa51931cac8c00860e2566",
+        "published_at": "2022-08-15T13:52:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ernest R. Dickerson on \u2018The Third Man\u2019 and Its Influential Cinematography | TCMFF 2022",
+        "key": "VHDjF2rxTNU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "653fedb0519bbb011b461f62",
+        "published_at": "2022-04-24T02:09:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K Restoration Official Trailer",
+        "key": "z40GSfq5Scc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "62e4acaa1749730060592675",
+        "published_at": "2020-11-29T16:00:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "U1LTnOvPiZQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "65b10abe15c6360193aabd21",
+        "published_at": "2019-08-06T11:04:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Restoring A Classic - Stunning 4K Edition",
+        "key": "OysfWAHSQp8",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "62f5946366a0d30093d85583",
+        "published_at": "2016-11-29T14:38:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Short Trailer",
+        "key": "MMxj32oe3s8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "62f594cc873f0000821c7982",
+        "published_at": "2016-04-14T15:58:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Martin Scorsese & Ben Wheatley On Graham Greene\u2019s Script - Discussion",
+        "key": "TII2yWP__2I",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "62f594f2873f00007d921ea9",
+        "published_at": "2015-07-24T12:59:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "r9yyDEDGlr0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "631d09aa0d2f53007c6b83ba",
+        "published_at": "2015-05-07T08:53:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Clip",
+        "key": "79XbidkPE_Y",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Clip",
+        "official": true,
+        "id": "62f594aeecbde9007d656f25",
+        "published_at": "2010-09-01T10:44:58.000Z"
+      }
+    ]
+  }
+}

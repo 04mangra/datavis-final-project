@@ -1,0 +1,131 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/2ndw55F40IkALzWyjCCza3M6nqM.jpg",
+        "id": 14,
+        "title": "American Beauty",
+        "original_title": "American Beauty",
+        "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+        "poster_path": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 10.7594,
+        "release_date": "1999-09-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.998,
+        "vote_count": 13533
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 14,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Theatrical Trailer",
+        "key": "XCxzXblZyfQ",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "id": "65b62601b6cff10163f72f50",
+        "published_at": "2021-01-12T04:12:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Theatrical Trailer 2",
+        "key": "ID8Z5qYSyI4",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "id": "65b6261dafe22400c03891ef",
+        "published_at": "2021-01-12T04:10:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Alan Ball Wins Original Screenplay: 2000 Oscars",
+        "key": "1UqPgBKmF1U",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "65b62681afe22401843a262a",
+        "published_at": "2014-02-14T18:26:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Conrad Hall Wins Cinematography: 2000 Oscars",
+        "key": "NmmeDU2kMbo",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "65b6268c0d2944014a5a9445",
+        "published_at": "2013-08-06T22:22:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "3ycmmJ6rxA8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5d16b2d9f8595800150d804b",
+        "published_at": "2012-05-07T17:18:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Sam Mendes \u202aWins Best Director | 72nd Oscars (2000)",
+        "key": "Ag_ijyOMjI8",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "65b62673f6596f0163ff1a77",
+        "published_at": "2010-11-29T19:45:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "American Beauty Wins Best Picture: 2000 Oscars",
+        "key": "5BpU0cwrkhg",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "65b6266712425c018349f918",
+        "published_at": "2010-10-26T17:20:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Kevin Spacey Wins Best Actor: 2000 Oscars",
+        "key": "WCjt7PME5_E",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "65b6265d0d294401645aadc8",
+        "published_at": "2010-01-04T21:11:51.000Z"
+      }
+    ]
+  }
+}

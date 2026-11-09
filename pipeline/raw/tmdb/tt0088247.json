@@ -1,0 +1,121 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+        "id": 218,
+        "title": "The Terminator",
+        "original_title": "The Terminator",
+        "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+        "poster_path": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          878
+        ],
+        "popularity": 19.2084,
+        "release_date": "1984-10-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.698,
+        "vote_count": 15398
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 218,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Highway Chase Scene",
+        "key": "ZuFkEzwi58o",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "663e1adc532723af3a02837d",
+        "published_at": "2024-05-09T18:00:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "From The Future",
+        "key": "ztaIu874bUc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "663bfe293869cb4a97a8ea42",
+        "published_at": "2024-05-08T18:00:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Come With Me If You Want To Live",
+        "key": "-CvG5Ll-A3o",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "663aa10008ba251f180525a9",
+        "published_at": "2024-05-07T18:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "nGrW-OR2uDk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "66395303cc277c0123243c1e",
+        "published_at": "2024-05-06T18:00:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TERMINATOR 1984 miniature effects",
+        "key": "SrDjnEvFl3I",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": false,
+        "id": "69f3bf1a0302fec91bd586a9",
+        "published_at": "2021-10-19T15:06:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "I\u2019ll Be Back",
+        "key": "nqWCUWNn5As",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "659fc6fcc14fee01246d787d",
+        "published_at": "2021-03-19T14:30:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Re-release Teaser Trailer",
+        "key": "hdHH0dEqMQ4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "659fc757b1131f012a7a7ce8",
+        "published_at": "2015-04-28T14:56:06.000Z"
+      }
+    ]
+  }
+}

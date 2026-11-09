@@ -1,0 +1,155 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/hs6OPto38fF589ScpGhl7uSU4MI.jpg",
+        "id": 938,
+        "title": "For a Few Dollars More",
+        "original_title": "Per qualche dollaro in pi\u00f9",
+        "overview": "Two bounty hunters both pursue the brutal and sadistic bandit, El Indio, who has a large bounty on his head.",
+        "poster_path": "/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+        "media_type": "movie",
+        "original_language": "it",
+        "genre_ids": [
+          37
+        ],
+        "popularity": 8.4101,
+        "release_date": "1965-12-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.028,
+        "vote_count": 4690
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 938,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Arrow UHD Unboxing",
+        "key": "oPV6APMgaPk",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Featurette",
+        "official": true,
+        "id": "6835d4e72f025fa43a7303d0",
+        "published_at": "2025-05-27T14:25:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Sizzle",
+        "key": "xZm8i5sGlWI",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "682b457117f4b9cfc8db2d37",
+        "published_at": "2025-05-19T11:47:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Best Shots in For a Few Dollars More (1965) | Compilation",
+        "key": "V0ploUdVBl0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "678463fe218fd57acf4f2394",
+        "published_at": "2025-01-11T19:00:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mortimer Arrives in Town",
+        "key": "flZ-im6YMGI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63c6d6465ad76b0093bba8b4",
+        "published_at": "2023-01-14T21:00:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Gunfight In The Church Scene",
+        "key": "NJ0tF1Vdy9U",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63c1fdec23be4600d960e552",
+        "published_at": "2023-01-13T21:00:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Monco Shoots The Apple Tree",
+        "key": "8edw1s8kEXk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63c1fdfc05a5330085a52d0e",
+        "published_at": "2023-01-12T21:00:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Monco Meets His Match",
+        "key": "YxNtETgAkQ8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63c1fe0723be4600892d758c",
+        "published_at": "2023-01-11T21:00:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "bNt9NcLteoU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "63c1fefb8efe730087a8f996",
+        "published_at": "2022-04-28T23:00:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Saloon Scene",
+        "key": "DoyP6LyJOas",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63c1ff478efe7300f0a33b3a",
+        "published_at": "2022-04-27T23:00:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ernest Dickerson on FOR A FEW DOLLARS MORE",
+        "key": "cs1-y5E4UIE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec657c3a36854480006d3",
+        "published_at": "2013-07-01T07:00:25.000Z"
+      }
+    ]
+  }
+}

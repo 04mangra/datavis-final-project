@@ -1,0 +1,204 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/77ElMccPnTMPouRxSdbJ4nEjf69.jpg",
+        "id": 115,
+        "title": "The Big Lebowski",
+        "original_title": "The Big Lebowski",
+        "overview": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+        "poster_path": "/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "popularity": 12.9799,
+        "release_date": "1998-03-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.858,
+        "vote_count": 12802
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 115,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mr. Lebowski Receives A Ransom Note",
+        "key": "QA80t0qkQ9M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68ef28a403589e1db6aeddf4",
+        "published_at": "2025-10-11T16:00:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Stranger's Monologue \"The Dude Abides\"",
+        "key": "dZxxMg-FCt4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67d629e231678cc3f801511d",
+        "published_at": "2025-03-15T21:00:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"I'm The Dude\" - Extended Preview",
+        "key": "rzp4KKEEcV0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "671fed4c427c5c19f0268655",
+        "published_at": "2024-10-28T18:00:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original memorabilia from THE BIG LEBOWSKI up for auction",
+        "key": "8hmkQHURt7Y",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "65989a511d1bf4025edd7ebb",
+        "published_at": "2023-12-16T01:58:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Wild Bowling Dream",
+        "key": "8CU0dlLfBtg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "64f9e19a5f2b8d00fef64eaa",
+        "published_at": "2023-08-19T18:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Dude Meets The Lebowskis",
+        "key": "_Rykzji5PYs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63c899e7abdec00087334699",
+        "published_at": "2022-12-28T23:00:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Park Circus Official Trailer",
+        "key": "GiwMMziJdqg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "63839c375b4fed0086b3539e",
+        "published_at": "2018-08-24T11:34:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Dude's Story Clip",
+        "key": "Yx-RklJ5fgo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63839cfc229ae215b45ec31f",
+        "published_at": "2018-07-13T21:17:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dude Vs. Lebowski Clip",
+        "key": "sxp-YPPtrxA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63839d07bf09d1007f24cfb8",
+        "published_at": "2018-07-13T21:17:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"There's A Beverage Here!\" Clip",
+        "key": "p-o7xlKh7CA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63839d2eb3316b0096b3df34",
+        "published_at": "2018-07-13T21:17:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "20th Anniversary Spot",
+        "key": "MjMcMeLXWxA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "63839d46a410c800c8857a5e",
+        "published_at": "2018-06-29T16:56:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Blu-ray Trailer",
+        "key": "3QY0ckqBgDw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "63839ba2b3316b007f3c0d08",
+        "published_at": "2011-06-07T22:31:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "DVD Trailer",
+        "key": "VgSqm8-wXWA",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "63839bfd5e14e500862fbc82",
+        "published_at": "2011-04-13T19:07:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "cd-go0oBF4Y",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "533ec652c3a36854480000ea",
+        "published_at": "2011-03-15T13:54:17.000Z"
+      }
+    ]
+  }
+}

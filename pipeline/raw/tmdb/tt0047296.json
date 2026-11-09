@@ -1,0 +1,133 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/j0qTehcyVVV1VEzrJ7YYtoFmWNw.jpg",
+        "id": 654,
+        "title": "On the Waterfront",
+        "original_title": "On the Waterfront",
+        "overview": "A prizefighter-turned-longshoreman with a conscience goes up against labor leaders to expose corruption, extortion, and murder among the union ranks.",
+        "poster_path": "/d4S8LpbCyFJsh1tGgwGQSJdGzKm.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10749
+        ],
+        "popularity": 5.074,
+        "release_date": "1954-06-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.849,
+        "vote_count": 1877
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 654,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Terry Malloy and Edie Argue Over The Right Thing To Do | On the Waterfront (1954) | TCM",
+        "key": "CeRET_AATic",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "680ff944eb1d4b06de0fb60e",
+        "published_at": "2025-04-27T11:00:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Terry Malloy Could've Been a Contender | On the Waterfront (1954) | TCM",
+        "key": "-lbQ3hReaJI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "680ffbe05ad0b67c66eaedf8",
+        "published_at": "2025-03-28T11:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "On the Waterfront (1954) ORIGINAL TRAILER [HD 1080p]",
+        "key": "boekTHsOIY8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "61eefe72a402c1001c78e0fe",
+        "published_at": "2019-08-13T14:00:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "John Bishop introduces On the Waterfront | BFI",
+        "key": "gbhdb68HFxY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "63383022c2ff3d00823e4c43",
+        "published_at": "2016-07-24T07:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "On the Waterfront: Three Reasons",
+        "key": "v3emSXXmXgo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec655c3a36854480004f7",
+        "published_at": "2013-02-26T18:08:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Martin Scorsese and Kent Jones Discuss On the Waterfront",
+        "key": "1BaUJk3YlEI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec655c3a36854480004f8",
+        "published_at": "2013-02-20T18:15:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "On the Waterfront - Aspect Ratio Visual Essay",
+        "key": "s7-aMi4Rr-4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec655c3a36854480004f9",
+        "published_at": "2013-02-19T20:33:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "John Badham on On The Waterfront",
+        "key": "qZei2-qiUpw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec655c3a36854480004f6",
+        "published_at": "2013-02-04T08:00:56.000Z"
+      }
+    ]
+  }
+}

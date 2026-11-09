@@ -1,0 +1,48 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg",
+        "id": 19,
+        "title": "Metropolis",
+        "original_title": "Metropolis",
+        "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
+        "poster_path": "/kr9wXRN23zLuWJIelahas1mtnYj.jpg",
+        "media_type": "movie",
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          878
+        ],
+        "popularity": 6.0225,
+        "release_date": "1927-01-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.083,
+        "vote_count": 3260
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 19,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "ZAvzaOxDt2c",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "65a12fcad207f3012ee769da",
+        "published_at": "2023-12-05T20:29:04.000Z"
+      }
+    ]
+  }
+}

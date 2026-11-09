@@ -1,0 +1,217 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/95qi5TJMIBI5VzWHia88Pbrye7Z.jpg",
+        "id": 38,
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "original_title": "Eternal Sunshine of the Spotless Mind",
+        "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+        "poster_path": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          18,
+          10749
+        ],
+        "popularity": 16.037,
+        "release_date": "2004-03-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.1,
+        "vote_count": 16964
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 38,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"This is the Day We Met\"",
+        "key": "JrEj-tVUxu8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a93fcaceed2f3f958b1247e",
+        "published_at": "2026-07-31T21:00:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Joel Finds Out Clem Erased Him From Her Memory",
+        "key": "OeRV2pvx1UU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a93fcbff830e57b05b12319",
+        "published_at": "2026-07-30T21:00:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Moment Clementine Meets Joel on the Train",
+        "key": "2CVQJNuFJO0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a93fcd3039f7be2e85aeb40",
+        "published_at": "2026-07-29T21:00:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Joel's Goodbye to Clementine as She Fades From Memory",
+        "key": "xpQhKRzENGE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67db7d9a7891a7682b7f8428",
+        "published_at": "2025-03-19T21:00:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Organic Filmmaking: Eternal Sunshine of the Spotless Mind",
+        "key": "Bo1LfPkifhA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6867b0b06b3f69de397b7adc",
+        "published_at": "2025-01-28T20:05:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Let's Try Again",
+        "key": "1_zwEV5XYXE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65fb0e8f04733f017de6c864",
+        "published_at": "2024-03-20T16:00:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Joel & Clementine Meet",
+        "key": "0XXbYjCkClE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65369d5dc14fee0100ea376a",
+        "published_at": "2023-09-23T20:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Eternal Sunshine of the Spotless Mind Original Trailer Uncut (35mm Scan 4K)",
+        "key": "c2e-bj6qy8Y",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "68629f693a573df4718e0fe2",
+        "published_at": "2023-02-05T03:50:56.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "A Romp in the Snow",
+        "key": "Z3oSxyslN2k",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "625c697513af5f158f6a0ec7",
+        "published_at": "2022-01-20T18:41:52.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Train Ride",
+        "key": "XtrSqANA5sQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "625c69b6ae366800663ee97c",
+        "published_at": "2020-05-28T16:00:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Erased From Her Memories",
+        "key": "oJLFdizW1YU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "625c699d945d360067b35a2c",
+        "published_at": "2020-05-14T16:00:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Remember Me'",
+        "key": "GCvQfMB1eT8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "625c698fcb3084185da4cae2",
+        "published_at": "2020-05-06T21:32:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'He's Off The Map'",
+        "key": "Oog3K_KrU9E",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "625c69a7a6fdaa00670c28c7",
+        "published_at": "2019-11-23T00:41:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Meet Me In Montauk",
+        "key": "vjnkqU6xD6E",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "625c69c4229ae219c7b1eb1d",
+        "published_at": "2019-03-27T21:49:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Hand-crafted Art of ETERNAL SUNSHINE OF THE SPOTLESS MIND",
+        "key": "NjOpy7UJl4U",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "625c69edb2681f00535190a6",
+        "published_at": "2012-07-13T18:12:11.000Z"
+      }
+    ]
+  }
+}

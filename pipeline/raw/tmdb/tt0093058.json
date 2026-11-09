@@ -1,0 +1,288 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/3k2TRmqMjgt7tcwkYwZQdctnty3.jpg",
+        "id": 600,
+        "title": "Full Metal Jacket",
+        "original_title": "Full Metal Jacket",
+        "overview": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+        "poster_path": "/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10752
+        ],
+        "popularity": 12.6196,
+        "release_date": "1987-06-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.119,
+        "vote_count": 11923
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 600,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "First Moments in Vietnam - \"These Boots are Made for Walking\"",
+        "key": "_qDEtFzOvmM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6adf288c0d60159dfdc1828f",
+        "published_at": "2026-09-06T16:00:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Do You Know Who Charles Whitman Was?",
+        "key": "s4vl8xCwBms",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6adf2989f1c99875774d743f",
+        "published_at": "2026-06-25T16:00:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Kubrick in Conversation - Vincent D'Onofrio on Full Metal Jacket",
+        "key": "qwl-qmwUDx8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a14a1923a26dcbc8158bd2b",
+        "published_at": "2026-05-03T16:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mickey Mouse March",
+        "key": "uCBHG9XvQ_I",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a14a2082ef9cc908958bd93",
+        "published_at": "2026-04-05T16:01:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ain't War Hell?",
+        "key": "-vaSsA0qvjQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "696fff84455206d16e7ac040",
+        "published_at": "2026-01-15T14:30:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Kubrick In Conversation - Matthew Modine on Full Metal Jacket",
+        "key": "FDqCjaxrm4k",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a14a42d99ec4323501d50e6",
+        "published_at": "2025-11-01T11:57:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Marines Haircut",
+        "key": "SRYi4orfQ9A",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a14a4d0fabee7bbe1858774",
+        "published_at": "2025-10-12T16:00:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Press Meeting",
+        "key": "6EmbpM8wFs8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a14a5222a8a86456559a84d",
+        "published_at": "2025-09-01T16:00:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Gunnery Sergeant Hartman Introduction",
+        "key": "E3-GT_0eWP0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68bf61158d71c7c8b68cf2f8",
+        "published_at": "2025-08-27T15:58:49.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jelly Donut",
+        "key": "t_iqtJXgeDw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a14a5d274d37fd0c2ee0fdb",
+        "published_at": "2025-06-30T16:01:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Private Pyle Decends into Madness",
+        "key": "xX1O6mMajcI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6864010d4167ca6cf81f80e7",
+        "published_at": "2025-06-29T15:27:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Marines Meet Gunnery Sergeant Hartman",
+        "key": "7yFMAB2xa1c",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a1599cb78553aa834f8d2a2",
+        "published_at": "2025-03-24T17:00:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Joker Reunites With Cowboy",
+        "key": "I3AytcP6cvY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67514b5980e5b8f0a75603c9",
+        "published_at": "2024-10-18T16:00:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Bird is the Word",
+        "key": "j-juHLOCyoQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67514b671234b99a9473d5de",
+        "published_at": "2024-09-11T16:00:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Insults Compilation",
+        "key": "ab_tRQ2qa6E",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "67514b7c80e5b8f0a75603d0",
+        "published_at": "2024-05-30T16:00:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K Trailer",
+        "key": "n2i917l5RFc",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "61ec62091ad93b009ab4833e",
+        "published_at": "2020-08-14T00:59:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "How R. Lee Ermey knew how to act in Full Metal Jacket, 1987",
+        "key": "MjffzVCno84",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "686401a99b677a4572bb3ab5",
+        "published_at": "2018-04-24T18:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Section 8",
+        "key": "LjXadFaSAJM",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Clip",
+        "official": true,
+        "id": "6864016a03ae9bdaf9f83f14",
+        "published_at": "2012-07-25T23:52:52.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Pray",
+        "key": "oxUYalO_YvI",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Clip",
+        "official": true,
+        "id": "68640188ae1a6e307b520d1b",
+        "published_at": "2012-07-25T23:45:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "UuWmCVdwhKg",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "579234769251411f71002baa",
+        "published_at": "2012-04-11T20:37:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "3Un-WBlVHPw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "579239039251410d120000b0",
+        "published_at": "2012-04-07T02:14:55.000Z"
+      }
+    ]
+  }
+}

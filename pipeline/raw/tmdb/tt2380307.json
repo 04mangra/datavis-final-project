@@ -1,0 +1,170 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+        "id": 354912,
+        "title": "Coco",
+        "original_title": "Coco",
+        "overview": "Despite his family\u2019s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+        "poster_path": "/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          10402,
+          12
+        ],
+        "popularity": 252.9176,
+        "release_date": "2017-10-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.207,
+        "vote_count": 21818
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 354912,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "From Coco to the Kitchen: Making Tamales | Dish Up Disney",
+        "key": "kmFZc7mdEec",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a10ce951ec4d7331c6b56ab",
+        "published_at": "2026-05-17T08:00:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Day of the Dead - Coco Cast Booth to Screen",
+        "key": "Jzz2Nt4rrFA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "690441f8ff77de2fe70808fd",
+        "published_at": "2025-10-30T19:00:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Coco | All the Facts | Disney+ Deets",
+        "key": "rKCUPdZHyyc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "62c042a4af6e94125c84948d",
+        "published_at": "2021-11-01T20:00:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Anthony Gonzalez, Gael Garc\u00eda Bernal - Un Poco Loco",
+        "key": "yg8116aeD7E",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": false,
+        "id": "5a6510769251410b2102b70f",
+        "published_at": "2017-12-21T18:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Facts About Coco",
+        "key": "dPw0J6Kaj04",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "5a6510ce9251410b2a02c42c",
+        "published_at": "2017-12-08T23:31:19.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Music of Coco",
+        "key": "O7PUsrGUUh0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "5aefc4580e0a261d7a00bd2b",
+        "published_at": "2017-11-29T16:58:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Final Trailer",
+        "key": "Rvr68u6k5sI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5a650fa29251410b1f02c5f9",
+        "published_at": "2017-11-06T17:00:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Crafting Coco",
+        "key": "946WZKoMSlU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "5aefc3b40e0a261d8000d2d9",
+        "published_at": "2017-10-17T19:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official US \"Find Your Voice\" Trailer",
+        "key": "bvomHFZO0mk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5a313af40e0a264cca185ac7",
+        "published_at": "2017-09-13T16:00:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official US Trailer",
+        "key": "xlnPHQ3TLX8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5a313ad0c3a36814a8001415",
+        "published_at": "2017-06-07T23:30:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official US Teaser Trailer",
+        "key": "zNCz4mQzfEI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5a313ab2c3a3680b9d1774a9",
+        "published_at": "2017-03-15T13:00:17.000Z"
+      }
+    ]
+  }
+}

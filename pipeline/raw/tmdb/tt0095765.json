@@ -1,0 +1,60 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+        "id": 11216,
+        "title": "Cinema Paradiso",
+        "original_title": "Nuovo Cinema Paradiso",
+        "overview": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+        "poster_path": "/aRgPnx4aPS96f7CnhJH7IG5dN1A.jpg",
+        "media_type": "movie",
+        "original_language": "it",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 14.0606,
+        "release_date": "1988-11-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.433,
+        "vote_count": 5046
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 11216,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Cinema Paradiso Official Trailer",
+        "key": "JMyVSD6OvO8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "62b5d10fb77d4b0052ad2d7a",
+        "published_at": "2020-11-30T14:34:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Cinema Paradiso Official 25th Anniversary trailer from Arrow Films",
+        "key": "stLekU5BnbI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6683315cfe680e31fe85b09e",
+        "published_at": "2013-11-14T09:45:07.000Z"
+      }
+    ]
+  }
+}

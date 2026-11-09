@@ -1,0 +1,120 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+        "id": 1578,
+        "title": "Raging Bull",
+        "original_title": "Raging Bull",
+        "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+        "poster_path": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "popularity": 6.5505,
+        "release_date": "1980-11-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.888,
+        "vote_count": 4976
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 1578,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Sugar Ray Robinson Defeats Robert De Niro in the Boxing Ring | Raging Bull (1980) | TCM",
+        "key": "beogTxFhihI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "680ffcbc0c125a95530fb62b",
+        "published_at": "2025-03-10T11:00:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K Restoration Official Trailer",
+        "key": "G5RHRg6zEhY",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "6410ea1e176a9400f3c2fc3f",
+        "published_at": "2023-03-09T18:04:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hit Me in the Face",
+        "key": "MSspmsYAOq0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6287bc48f10a1a33aaad519a",
+        "published_at": "2022-05-17T23:00:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "F2UKuKxCJqc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6287bc1c0859b451c8e8dd2c",
+        "published_at": "2022-05-14T23:00:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Bong Joon-ho \ubd09\uc900\ud638 on RAGING BULL",
+        "key": "YuUR9PS-fJ0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "65415eba6d97e6010ca16484",
+        "published_at": "2019-12-08T15:00:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Raging Bull Wins Film Editing",
+        "key": "_n_T3JFKIkM",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "64446987a06efe0578a4df8f",
+        "published_at": "2013-03-21T19:17:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Robert De Niro Wins Best Actor",
+        "key": "sH5c-WeE07c",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "63d2d0434a52f80085be11f2",
+        "published_at": "2008-10-03T00:36:48.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/9sVMciEvGTc6wOTD0hi5regoyxZ.jpg",
+        "id": 31534,
+        "title": "The Chaos Class Failed the Class",
+        "original_title": "Hababam S\u0131n\u0131f\u0131 S\u0131n\u0131fta Kald\u0131",
+        "overview": "A young and beautiful female teacher starts working in an all boys high school.",
+        "poster_path": "/zMfsVXGxJy2xh0FwUWcZ1XXDZus.jpg",
+        "media_type": "movie",
+        "original_language": "tr",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 1.6529,
+        "release_date": "1976-01-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 158
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 31534,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hababam S\u0131n\u0131f\u0131 S\u0131n\u0131fta Kald\u0131 - Veli Toplant\u0131s\u0131",
+        "key": "zTzDY81qv-o",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Clip",
+        "official": false,
+        "id": "57321f07c3a36869150000bc",
+        "published_at": "2015-04-30T08:36:38.000Z"
+      }
+    ]
+  }
+}

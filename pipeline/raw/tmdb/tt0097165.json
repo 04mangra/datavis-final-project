@@ -1,0 +1,119 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/lFIXZpwwlF9hg8NM3RazaIJDuaj.jpg",
+        "id": 207,
+        "title": "Dead Poets Society",
+        "original_title": "Dead Poets Society",
+        "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+        "poster_path": "/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 18.4899,
+        "release_date": "1989-06-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.295,
+        "vote_count": 13153
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 207,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dead Poets Society (1989) Theatrical trailer [4K] [FTD-0905]",
+        "key": "l8TYfccpdEU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6adf2cb9a0ad02b9dce1e7a1",
+        "published_at": "2022-09-22T05:00:16.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dead Poets Society (1989) Trailer Full HD",
+        "key": "s_jsDreXFZU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "630f41e6735205007d989d59",
+        "published_at": "2021-01-10T16:10:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dead Poets Society (1989) Trailer #1 | Movieclips Classic Trailers",
+        "key": "ye4KFyWu2do",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6adf2ca6c745742c130d1ee7",
+        "published_at": "2020-05-15T13:00:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dead Poets Society \u2263 1989 \u2263 Trailer",
+        "key": "rLCJaTDdWtw",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": false,
+        "id": "6685b98fa1784ec9b1332af8",
+        "published_at": "2017-07-22T16:14:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dead Poets Behind The Scenes",
+        "key": "dMzJSEJyR9Q",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Behind the Scenes",
+        "official": false,
+        "id": "610c7f307719d70045783cee",
+        "published_at": "2017-03-20T01:38:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "What will your verse be?",
+        "key": "-7OE6bDfM2M",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": false,
+        "id": "6459904377d23b00fccb0bb2",
+        "published_at": "2015-02-19T11:18:57.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dead Poets Society (Laserdisc Deleted Scenes)",
+        "key": "b_IRNN_XzPs",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": false,
+        "id": "610c7f205bce9e002cf8d5b0",
+        "published_at": "2012-03-03T04:40:39.000Z"
+      }
+    ]
+  }
+}

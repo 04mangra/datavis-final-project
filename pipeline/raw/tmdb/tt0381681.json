@@ -1,0 +1,60 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/tcZi0LQc5iu2u6i5aOWyj9NBBvl.jpg",
+        "id": 80,
+        "title": "Before Sunset",
+        "original_title": "Before Sunset",
+        "overview": "Nine years later, Jesse travels across Europe giving readings from a book he wrote about the night he spent in Vienna with Celine. After his reading in Paris, Celine finds him, and they spend part of the day together before Jesse has to again leave for a flight. They are both in relationships now, and Jesse has a son, but as their strong feelings for each other start to return, both confess a longing for more.",
+        "poster_path": "/gycdE1ARByGQcK4fYR2mgpU6OO.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10749
+        ],
+        "popularity": 4.9451,
+        "release_date": "2004-06-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.81,
+        "vote_count": 3987
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 80,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jesse Saw Celine At His Wedding",
+        "key": "dBEvWpLykFw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6aa178c4c516286e36c93674",
+        "published_at": "2026-08-22T14:00:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "jx0UWbMMZOQ",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "65552f0667b61345dbc0c2b8",
+        "published_at": "2014-07-09T00:03:18.000Z"
+      }
+    ]
+  }
+}

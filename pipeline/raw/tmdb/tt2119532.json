@@ -1,0 +1,73 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/vDKRMZGFTKP9nQolzeSB1rB1w6p.jpg",
+        "id": 324786,
+        "title": "Hacksaw Ridge",
+        "original_title": "Hacksaw Ridge",
+        "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+        "poster_path": "/fnOMP6mjmOmZwmlC1n0K7ivrzt1.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "popularity": 18.7648,
+        "release_date": "2016-10-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.193,
+        "vote_count": 15499
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 324786,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hacksaw Ridge (2016 - Movie) Official Clip \u2013 \u201cRescue\u201d",
+        "key": "iX193z7vE78",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "58ba503d925141606b017df9",
+        "published_at": "2016-10-21T22:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hacksaw Ridge (2016 - Movie) Official TV Spot \u2013 \u201cDuty\u201d",
+        "key": "2GJAIRDuVjQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "58ba50719251416073016f28",
+        "published_at": "2016-10-05T22:04:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hacksaw Ridge (2016) Official Trailer \u2013 \u201cBelieve\u201d - Andrew Garfield",
+        "key": "s2-1hz1juBI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "58ba4fdec3a368664d0170a4",
+        "published_at": "2016-07-28T12:59:49.000Z"
+      }
+    ]
+  }
+}

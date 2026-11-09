@@ -1,0 +1,61 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/dHnki2Dh6lbOtfksrh8H5lg08f5.jpg",
+        "id": 265195,
+        "title": "Wild Tales",
+        "original_title": "Relatos salvajes",
+        "overview": "Injustice and the demands of the world can cause stress for many people. Some of them, however, explode. This includes a waitress serving a grouchy loan shark, an altercation between two motorists, an ill-fated wedding reception, and a wealthy businessman who tries to buy his family out of trouble.",
+        "poster_path": "/vmeCDuWJ6B2cqi9f3QFyIwRKqFV.jpg",
+        "media_type": "movie",
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          53,
+          35
+        ],
+        "popularity": 4.1448,
+        "release_date": "2014-08-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.868,
+        "vote_count": 3935
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 265195,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Brian Trenchard-Smith on WILD TALES",
+        "key": "h0FHkCGuXA8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "55d4d824925141154e001d5a",
+        "published_at": "2015-07-24T04:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Wild Tales Official Trailer 1 (2014) - Oscar-Nominated Brazil Anthology HD",
+        "key": "Utq0aDEp084",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": false,
+        "id": "54d3b32ec3a3686abf005779",
+        "published_at": "2015-02-04T17:17:30.000Z"
+      }
+    ]
+  }
+}

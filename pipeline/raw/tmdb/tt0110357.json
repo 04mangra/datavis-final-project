@@ -1,0 +1,301 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+        "id": 8587,
+        "title": "The Lion King",
+        "original_title": "The Lion King",
+        "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+        "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          18
+        ],
+        "popularity": 21.0153,
+        "release_date": "1994-06-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.25,
+        "vote_count": 20381
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 8587,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Scar Character Breakdown - Notes on a Scene",
+        "key": "ZqsJ2Hi-YJU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a18877f8edce6f5a0e721d2",
+        "published_at": "2026-05-28T17:00:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Simba and Nala Reunite",
+        "key": "ZUZBPwM5An0",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "6a27d00c83a0180b0064b44c",
+        "published_at": "2026-05-14T13:00:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Meet Simba",
+        "key": "DlFV7PQCmMk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a27d05ffae83b1c611939fb",
+        "published_at": "2026-05-01T13:00:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Wisdom From Pride Rock",
+        "key": "HPKCTSQYGHg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a27d10ba0a90c4084a51658",
+        "published_at": "2026-03-27T17:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Behind the Scenes",
+        "key": "kjm7Q28SNGQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "69a55bbd08c06d391a418b7f",
+        "published_at": "2026-02-24T14:07:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Lion King - 1994 Re-Release Theatrical Trailer (35mm 4K)",
+        "key": "UgjEj5mXLlk",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "65d8e0e6d55c3d017fdb10b8",
+        "published_at": "2024-02-23T00:56:43.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Teaser Trailer #1",
+        "key": "adqdIxiB74s",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "634b196da61de100797c6846",
+        "published_at": "2022-04-16T17:31:19.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "2002 IMAX Trailer",
+        "key": "5lQCsWolER8",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": false,
+        "id": "634b19df8e2ba6007cec87d4",
+        "published_at": "2022-03-27T16:14:19.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Sneak Peek #2",
+        "key": "hozRF31GK3g",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": false,
+        "id": "634b1984389da10079e53cfa",
+        "published_at": "2022-03-07T01:02:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Sneak Peek #1",
+        "key": "JRdjk1Zs9dE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": false,
+        "id": "634b193dc8a2d4009187332f",
+        "published_at": "2022-03-05T03:04:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Imagination to Animation: The Lion King",
+        "key": "t6xMn7Auqco",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "62c046a01056110ed018bc72",
+        "published_at": "2020-03-20T16:00:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Trailer",
+        "key": "lFzVJEksoDY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "61022a41e9c0dc005e3887a2",
+        "published_at": "2019-11-08T17:00:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Lion King Vegetable Savannah",
+        "key": "X73itN5ca30",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "6852d132484e7807ea0660ff",
+        "published_at": "2016-01-16T08:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "James Baxter on \"The Lion King\" and Milt Kahl",
+        "key": "nxSTrG9Ji-4",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Featurette",
+        "official": true,
+        "id": "6852cd09d70870a5110e8077",
+        "published_at": "2014-03-21T18:29:20.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Blu-ray Trailer",
+        "key": "_YZ9qZSIjo0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "68552e4cb969a2ffba1e23bd",
+        "published_at": "2011-10-31T13:08:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Lion King Soundtrack - Deluxe Edition - Album Sampler",
+        "key": "X4S8nU9cYPw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6852d154865b5c118792e2f7",
+        "published_at": "2011-10-26T11:54:32.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hans Zimmer winning Best Original Score for \"The Lion King\" | 67th Oscars (1995)",
+        "key": "uB5k_flnqf0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "68475235c617d94dea20652f",
+        "published_at": "2011-09-28T00:01:23.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Lion King 3D: Bloopers & Outtakes - Bluray quality 1080p",
+        "key": "gLri7hpHHVU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Bloopers",
+        "official": false,
+        "id": "65be4be812c6040162ffb942",
+        "published_at": "2011-09-10T11:54:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Nathan Lane Compares BAMBI & THE LION KING",
+        "key": "oE05SDwP8sY",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "685a8b9fe9a2abdbe9a84d1b",
+        "published_at": "2009-08-19T22:11:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Nathan Lane On THE LION KING",
+        "key": "obVUQnz9OZo",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "685a8b63c71425e8c1a84d42",
+        "published_at": "2009-08-18T23:09:52.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "James Earl Jones On Playing Mufasa In THE LION KING",
+        "key": "PiAnKEz7gQs",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "685a8ab89b18f3f1720ccf08",
+        "published_at": "2009-07-10T19:28:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Elton John and Tim Rice Win Original Song: 1995 Oscars",
+        "key": "F-EsrOB1yNg",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "68475249d3c8daa0aa9f51b6",
+        "published_at": "2009-07-02T00:32:19.000Z"
+      }
+    ]
+  }
+}

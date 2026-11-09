@@ -1,0 +1,157 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/zlg0d4pnq1xDOU4cQxqGG8bX5l0.jpg",
+        "id": 5925,
+        "title": "The Great Escape",
+        "original_title": "The Great Escape",
+        "overview": "The Nazis, exasperated at the number of escapes from their prison camps by a relatively small number of Allied prisoners, relocate them to a high-security 'escape-proof' camp to sit out the remainder of the war. Undaunted, the prisoners plan one of the most ambitious escape attempts of World War II. Based on a true story.",
+        "poster_path": "/gBH4H8UMFxl139HaLz6lRuvsel8.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          18,
+          10752
+        ],
+        "popularity": 6.3567,
+        "release_date": "1963-07-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.923,
+        "vote_count": 3004
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 5925,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Steve McQueen Tries To Find a Way out of a POW Camp | The Great Escape | TCM",
+        "key": "ZWiy2qEGXbk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "680ffd995ad0b67c66eaee58",
+        "published_at": "2025-02-21T12:00:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Sizzle",
+        "key": "8No6XGbvr0w",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "67604f1534475e134c92855c",
+        "published_at": "2024-12-16T15:53:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Unboxing Arrow 4K Blu-ray",
+        "key": "-3JLb6NNjEw",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Featurette",
+        "official": true,
+        "id": "674db2f1465c6ba6dd93cd72",
+        "published_at": "2024-12-02T09:52:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Trailer",
+        "key": "nzHYjrKwZgo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "66fd85bec9a10d46ea7c56b4",
+        "published_at": "2024-10-02T15:58:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Homemade Moonshine",
+        "key": "pEh9RuBCEMc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65e24faca806730184abd8b0",
+        "published_at": "2024-02-29T19:00:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Building An Escape Tunnel",
+        "key": "M7CljzYlacE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65e4e6ca278d8a0185c16608",
+        "published_at": "2024-02-28T19:00:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hilts Get Sent To The Cooler",
+        "key": "wbH9x_ajimo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65df4f2a98f1f1017d99f00b",
+        "published_at": "2024-02-27T19:00:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "First Escape Attempt",
+        "key": "MwMxP_SLL9s",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65ddc33b2ac499017dcb792f",
+        "published_at": "2024-02-26T19:00:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "In Trouble Over Baseball",
+        "key": "2jiki81iGvk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65ddc3a139549a01874f9104",
+        "published_at": "2022-04-29T23:00:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "M2bEzJFVdQ4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "65ddc35ceea34d0164b18a16",
+        "published_at": "2022-04-26T23:00:09.000Z"
+      }
+    ]
+  }
+}

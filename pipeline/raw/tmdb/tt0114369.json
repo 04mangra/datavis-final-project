@@ -1,0 +1,181 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/i5H7zusQGsysGQ8i6P361Vnr0n2.jpg",
+        "id": 807,
+        "title": "Se7en",
+        "original_title": "Se7en",
+        "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+        "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          53
+        ],
+        "popularity": 28.2911,
+        "release_date": "1995-09-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.382,
+        "vote_count": 24174
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 807,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "What's In The Box??",
+        "key": "WIi1f5cUADQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "691982395b452b4483a0ef16",
+        "published_at": "2025-11-08T15:00:56.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Finding John Doe's Apartment",
+        "key": "qXtjko9KE_g",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68724dabf3fe3cf5cb6ea05b",
+        "published_at": "2025-07-10T14:17:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Se7en (1995) 35mm film trailer, flat open matte, 4K *CROPPED",
+        "key": "Z86bQ-Arguc",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": false,
+        "id": "6ad7b8c45ce939ab0ab40208",
+        "published_at": "2025-03-14T16:00:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Movie Clip - The Box",
+        "key": "LAjKzmjHi70",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "678c5924859fb4e6a86de3dc",
+        "published_at": "2025-01-17T15:00:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Movie Clip - How Much Money Do You Got?",
+        "key": "j6_g9Wty2y8",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "67867d8d2256023dfd4e976c",
+        "published_at": "2025-01-14T15:01:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Movie Clip - Upside Down",
+        "key": "JmdvGa-MTX4",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "6781377638817437e2bb21ce",
+        "published_at": "2025-01-10T15:00:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official 4K Trailer",
+        "key": "KPOuJGkpblk",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "673d550804c6b20c746ef3cb",
+        "published_at": "2024-11-19T19:02:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Entering The Killers Apartment",
+        "key": "6CDem194RaU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a21ca557eab27846980015b",
+        "published_at": "2024-08-12T14:00:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Gruesome Discovery of Sloth",
+        "key": "YyhelkaLTsU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a21ca74f516cecb278b8ce3",
+        "published_at": "2024-07-20T14:00:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Seven (1995) Theatrical Trailer [4K]",
+        "key": "fInchkjHggg",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "6ad7b900cfd83c693b210c64",
+        "published_at": "2023-11-27T06:00:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Full Movie Preview",
+        "key": "BJKukbTDLto",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "653977f9955c650138bbf576",
+        "published_at": "2020-06-22T17:59:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "vr3UZ-axauU",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "64fb164da35c8e00adc4a975",
+        "published_at": "2014-07-08T23:24:28.000Z"
+      }
+    ]
+  }
+}

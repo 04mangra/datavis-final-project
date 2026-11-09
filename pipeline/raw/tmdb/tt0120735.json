@@ -1,0 +1,60 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/qQz3DeR9PxrMBtVGMnH3EqvMlVU.jpg",
+        "id": 100,
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "original_title": "Lock, Stock and Two Smoking Barrels",
+        "overview": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.",
+        "poster_path": "/6pJB2t3MbQUy9m5pFIBHXLqnqNd.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "popularity": 4.6423,
+        "release_date": "1998-08-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.095,
+        "vote_count": 7513
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 100,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "International Digital Trailer",
+        "key": "124564828",
+        "site": "Vimeo",
+        "size": 720,
+        "type": "Trailer",
+        "official": false,
+        "id": "5ff13d71d2f5b5003d2cc40b",
+        "published_at": "2015-04-09T21:10:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "HY7mRdQuUSw",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "64fffb83ffc9de0ee00d3a84",
+        "published_at": "2014-03-20T21:01:38.000Z"
+      }
+    ]
+  }
+}

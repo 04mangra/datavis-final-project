@@ -1,0 +1,253 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg",
+        "id": 1891,
+        "title": "The Empire Strikes Back",
+        "original_title": "The Empire Strikes Back",
+        "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+        "poster_path": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
+        "popularity": 13.585,
+        "release_date": "1980-05-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.392,
+        "vote_count": 19104
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 1891,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "George Lucas Reveals Why Yoda Talks Backwards at \u2018Empire Strikes Back\u2019 Anniversary Screening",
+        "key": "beg2pnU-0OU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "680f78e910d1e453d2eb3c20",
+        "published_at": "2025-04-26T06:45:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Celebrating 40 Years of Empire: The Legacy",
+        "key": "9ua2v64mh9o",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "680f7efa4603571ead0f9058",
+        "published_at": "2020-12-17T17:00:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Celebrating 40 Years of Empire: Behind the Scenes",
+        "key": "yix_9g_Ob74",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "680f7f1e71dedcb8aceb426f",
+        "published_at": "2020-12-16T17:00:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Empire Strikes Back (1980) Original Scope Theatrical Trailer [FTD-0160]",
+        "key": "e0QkbuRaEDc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6a021d3d25b0b78f99360c7d",
+        "published_at": "2020-09-07T05:00:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Time Capsule",
+        "key": "Ppedjj7pvZ4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "680f7ecd71dedcb8aceb4256",
+        "published_at": "2020-05-21T16:00:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Empire Strikes Back Receives a Special Award: 1981 Oscars",
+        "key": "_mzbH3DD73M",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "680f7c705a9b78d272815b5f",
+        "published_at": "2015-04-10T23:25:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Empire Strikes Back - Star Wars: The Digital Movie Collection",
+        "key": "vU6L3jXt2r8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6405115a39271200a9f3cc2e",
+        "published_at": "2015-04-07T02:30:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Empire Strikes Back Wins Sound: 1981 Oscars",
+        "key": "DxH7SyleqDI",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "680f7c605a9b78d272815b5c",
+        "published_at": "2015-03-18T21:37:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ben Burtt Interview: The Imperial Walkers",
+        "key": "wP1GamZSOnM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "680f7f61dde6e180f680e36c",
+        "published_at": "2014-03-01T02:12:21.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Leonard Maltin Interviews George Lucas, Part 2: The Empire Strikes Back",
+        "key": "Wc9kGZ57q5M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "680f7f324603571ead0f906f",
+        "published_at": "2014-02-12T17:35:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Flight Through the Asteroids - A Storyboard Comparison",
+        "key": "SHEFkHm20KQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "58f72a10c3a368415e0095a4",
+        "published_at": "2013-12-04T20:41:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Theatrical Trailer #2",
+        "key": "4_46P3Dzvvw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "58f729bdc3a368416d009cc9",
+        "published_at": "2013-11-06T20:59:19.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Teaser Trailer",
+        "key": "omcxaMEGha0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "58f7292b9251415de800a2ab",
+        "published_at": "2013-10-16T17:49:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Empire Strikes Back 1981 re-release TV trailer #2",
+        "key": "KwYa7UpoWtM",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Teaser",
+        "official": false,
+        "id": "533ec65ac3a3685448000a19",
+        "published_at": "2013-03-28T21:03:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "JNwNXF9Y6kY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "533ec65ac3a3685448000a1c",
+        "published_at": "2012-07-05T23:24:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Empire Strikes Back 1981 re-release TV trailer",
+        "key": "53giwyPSDnM",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Teaser",
+        "official": false,
+        "id": "533ec65ac3a3685448000a1a",
+        "published_at": "2012-05-18T22:01:21.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Empire Strikes Back 1980 TV trailer #2",
+        "key": "RtqDPxErX8Q",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Teaser",
+        "official": false,
+        "id": "533ec65ac3a3685448000a1b",
+        "published_at": "2012-05-05T22:14:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "James Earl Jones On Playing Darth Vader",
+        "key": "d0uPzrx0n90",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "680f7fbe71dedcb8aceb42b6",
+        "published_at": "2009-07-10T17:51:24.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/rtVwkTqllcmyY4TVOycgVBHppWf.jpg",
+        "id": 426,
+        "title": "Vertigo",
+        "original_title": "Vertigo",
+        "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+        "poster_path": "/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          10749,
+          53
+        ],
+        "popularity": 9.4758,
+        "release_date": "1958-05-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.131,
+        "vote_count": 6611
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 426,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Bill Hader on Vertigo",
+        "key": "izWxu04qtFA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "69ed3e0fdc5d09756328d9bd",
+        "published_at": "2025-06-18T15:44:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Making of Hitchcock's 'Vertigo'",
+        "key": "AznSJTfOT3c",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": false,
+        "id": "652dd755caef2d00c526c613",
+        "published_at": "2022-03-18T16:25:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official 60th Anniversary Trailer",
+        "key": "95o-QM-lz8g",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "61f062c5c669ad011f71512a",
+        "published_at": "2018-05-03T12:38:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Vertigo 60th Anniversary (1958): Presented by TCM - Verified Vertigo Facts",
+        "key": "KtHyRmz7umg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "639f3047da10f000a7ed81b8",
+        "published_at": "2018-03-16T19:38:20.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Vertigo 60th Anniversary (1958): Presented by TCM - What Is Vertigo",
+        "key": "5foXpD-rxi8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "639f2fc32f3b170085db9996",
+        "published_at": "2018-03-14T19:44:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Vertigo 60th Anniversary (1958): Presented by TCM - Midge One Liners",
+        "key": "SW9W7dkHEhs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "639f2fff4f33ad00a2b0ed61",
+        "published_at": "2018-03-12T16:42:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Vertigo 60th Anniversary (1958): \"If You Love Me\" Clip",
+        "key": "wcxlJByD_BQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "639f2fd7be6d88008cafd857",
+        "published_at": "2018-02-23T20:14:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Vertigo 60th Anniversary (1958): Rooftop Chase Clip",
+        "key": "JC9g6M7e0X8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "639f300b2f3b170085db99ae",
+        "published_at": "2018-02-23T20:14:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Vertigo 60th Anniversary (1958): Scottie's Nightmare Clip",
+        "key": "bxIRHJz8DmY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "639f306e8ddc3414969bc19c",
+        "published_at": "2018-02-23T20:14:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TCM 60th Anniversary Spot",
+        "key": "nA2ZcD_XAuY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "639f2f90da10f000a7ed8168",
+        "published_at": "2018-02-14T17:17:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "UHhsEYDg8GI",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "5c08a417c3a3682523008e93",
+        "published_at": "2013-11-11T10:22:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dan Ireland on Vertigo",
+        "key": "yUJNZU96iYY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec654c3a368544800033d",
+        "published_at": "2013-05-20T07:00:43.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Martin Scorsese on Vertigo",
+        "key": "StcvV1pZXz4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "639ef82fbe6d88008cafbc28",
+        "published_at": "2012-08-02T15:58:29.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Kim Novak on Vertigo",
+        "key": "0Im8wCTSCw4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "639ef8402f3b1700a0103246",
+        "published_at": "2012-08-01T17:47:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Director William Friedkin on Alfred Hitchcock and VERTIGO",
+        "key": "a-RnaJ6sIsw",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec654c3a368544800033e",
+        "published_at": "2011-08-12T19:51:23.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Martin Scorsese on VERTIGO",
+        "key": "uqIOQK1L6QE",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec654c3a368544800033f",
+        "published_at": "2011-05-26T23:51:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Vertigo' | Critics' Picks | The New York Times",
+        "key": "rHxdPHMsIdk",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": false,
+        "id": "65eddb4a447f9c0187611e78",
+        "published_at": "2009-10-21T20:34:53.000Z"
+      }
+    ]
+  }
+}

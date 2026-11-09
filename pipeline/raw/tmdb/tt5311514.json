@@ -1,0 +1,97 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
+        "id": 372058,
+        "title": "Your Name.",
+        "original_title": "\u541b\u306e\u540d\u306f\u3002",
+        "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki\u2019s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+        "poster_path": "/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10749,
+          18
+        ],
+        "popularity": 25.3309,
+        "release_date": "2016-07-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 13184
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 372058,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official English Trailer [Dubbed]",
+        "key": "TYku4P7MHdo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a942b699b5024ad8de06294",
+        "published_at": "2026-08-14T16:00:32.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer [Subtitled]",
+        "key": "RuyHIkXdYf8",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a6a8267b2f0202c130e78df",
+        "published_at": "2026-07-29T18:01:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "How to be an anime voice actor, with Your Name stars Stephanie Sheh and Michael Sinterniklaas | BFI",
+        "key": "SlNVu5pnZuc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "63285b9f20af77007bfcfb4e",
+        "published_at": "2018-05-16T11:51:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer (Dubbed)",
+        "key": "o4-URMnBOPU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6326a00bdcb6a3007dd96ce7",
+        "published_at": "2017-03-10T17:37:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer [English Subtitled]",
+        "key": "xU47nhruN-Q",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "59d8852bc3a36861df0240bd",
+        "published_at": "2016-10-06T10:18:34.000Z"
+      }
+    ]
+  }
+}

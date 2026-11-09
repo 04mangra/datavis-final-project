@@ -1,0 +1,61 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/cGi9obHiooPoNR4JX72L9RooeOY.jpg",
+        "id": 826,
+        "title": "The Bridge on the River Kwai",
+        "original_title": "The Bridge on the River Kwai",
+        "overview": "The classic story of English POWs in Burma forced to build a bridge to aid the war effort of their Japanese captors. British and American intelligence officers conspire to blow up the structure, but Col. Nicholson, the commander who supervised the bridge's construction, has acquired a sense of pride in his creation and tries to foil their plans.",
+        "poster_path": "/7paXMt2e3Tr5dLmEZOGgFEn2Vo7.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          36,
+          10752
+        ],
+        "popularity": 6.968,
+        "release_date": "1957-10-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.818,
+        "vote_count": 2507
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 826,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Bridge on the River Kwai (1957) Re-Release Trailer",
+        "key": "B0FkqP8ipNY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "645844b66c849201625fa002",
+        "published_at": "2023-05-08T00:29:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Trailer",
+        "key": "RlC7XBayj0s",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "61ef351ed40d4c006d76e19c",
+        "published_at": "2014-01-22T16:31:52.000Z"
+      }
+    ]
+  }
+}

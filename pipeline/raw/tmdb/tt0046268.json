@@ -1,0 +1,97 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/pYj2esro7xK6uqt7Kjk3Jicjigr.jpg",
+        "id": 204,
+        "title": "The Wages of Fear",
+        "original_title": "Le Salaire de la peur",
+        "overview": "In a run-down South American town, four men are paid to drive trucks loaded with nitroglycerin into the jungle through to the oil field. Friendships are tested and rivalries develop as they embark upon the perilous journey.",
+        "poster_path": "/sNOvIp4X0fmCMfgEs2ww5IyMgFm.jpg",
+        "media_type": "movie",
+        "original_language": "fr",
+        "genre_ids": [
+          18,
+          53,
+          12
+        ],
+        "popularity": 3.6122,
+        "release_date": "1953-04-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.999,
+        "vote_count": 1152
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 204,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official 4K Restoration Trailer",
+        "key": "ZYDZ3vNa-MQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "673384fcb7370ea6dc4131ec",
+        "published_at": "2024-11-12T16:37:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mark Kermode reviews The Wages of Fear (1953) | BFI Player",
+        "key": "H-hRjD15_Dc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655a1a832222f600c56fbbbb",
+        "published_at": "2023-11-16T18:15:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "BFI Trailer",
+        "key": "XyrKDIRSpuM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "61f05c43d40d4c00d33a9c6f",
+        "published_at": "2017-10-30T17:54:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Clip",
+        "key": "cmToeytaVoc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "655a1ab67f054018d7901bef",
+        "published_at": "2017-09-22T13:29:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "2_0OrSG5RWA",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "533ec652c3a36854480001b7",
+        "published_at": "2011-08-25T07:13:04.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg",
+        "id": 197,
+        "title": "Braveheart",
+        "original_title": "Braveheart",
+        "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+        "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          36,
+          18,
+          10752
+        ],
+        "popularity": 16.0583,
+        "release_date": "1995-05-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.947,
+        "vote_count": 11600
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 197,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "They Will Never Take Our Freedom",
+        "key": "Pw93KtPCqdA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6890cfaf65d7348aeeb2307d",
+        "published_at": "2025-08-03T17:00:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Lois Burwell | 'Braveheart' | Behind the Oscars Speech",
+        "key": "dpbKW2ck19I",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "655caf7b7f054018d344df19",
+        "published_at": "2023-11-12T17:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer: Braveheart (1995)",
+        "key": "WtO3CsleMDg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "589e5ca2925141171e0021b3",
+        "published_at": "2013-08-30T08:59:23.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "nMft5QDOHek",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "533ec652c3a36854480001a7",
+        "published_at": "2012-05-23T01:44:27.000Z"
+      }
+    ]
+  }
+}

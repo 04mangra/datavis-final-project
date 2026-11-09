@@ -1,0 +1,181 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+        "id": 10193,
+        "title": "Toy Story 3",
+        "original_title": "Toy Story 3",
+        "overview": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+        "poster_path": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          35
+        ],
+        "popularity": 18.4253,
+        "release_date": "2010-06-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.818,
+        "vote_count": 16438
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 10193,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Andy Leaves for College - Official Clip",
+        "key": "9TnHtSCG9JY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68db6bd55afb57f2ce5310fb",
+        "published_at": "2025-09-27T15:30:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Toy Story 3 On YouTube...",
+        "key": "Qx96Qp8c6b8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a38461be8496a151c83eee4",
+        "published_at": "2010-06-15T23:54:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ken's Dating Tips: Tip # 48",
+        "key": "SnFMhr8fNAI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a384665eac02d6f3ee47337",
+        "published_at": "2010-06-14T19:33:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ken's Dating Tips: Tip # 31",
+        "key": "knt8GclF14Y",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a38467aeac02d6f3ee47339",
+        "published_at": "2010-06-14T19:32:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ken's Dating Tips: Tip # 24",
+        "key": "9eqJ3KKiO2U",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a38465249737edb2228512f",
+        "published_at": "2010-06-14T19:30:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Great Escape\"",
+        "key": "hIs3k4iKFjM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a3845bc729251df76eebe88",
+        "published_at": "2010-06-08T00:52:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Biggest Ever TV Spot",
+        "key": "sIBpLc-Cwak",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "69af38a17df870fb187949c9",
+        "published_at": "2010-05-22T01:07:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer #2 (Official!)",
+        "key": "6c3K7LhA9Yc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a3845552feb6c81d5347490",
+        "published_at": "2010-02-11T18:29:31.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Teaser #2",
+        "key": "JwRd6VIs2Tc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "69af38b4e2ca3709a080ef47",
+        "published_at": "2010-02-10T19:07:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "International Trailer Montage",
+        "key": "PWgG8BDy4FY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a3846d5b15711a0e8a72f38",
+        "published_at": "2010-01-20T04:17:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "2BlMNH1QTeE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "67b216768dce29e3fbe0dfbf",
+        "published_at": "2009-10-15T18:39:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Teaser Trailer",
+        "key": "-6aLdp6KUQY",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "699ff058b43b40a02504da29",
+        "published_at": "2009-07-16T00:09:27.000Z"
+      }
+    ]
+  }
+}

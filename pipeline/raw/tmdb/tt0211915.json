@@ -1,0 +1,204 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+        "id": 194,
+        "title": "Am\u00e9lie",
+        "original_title": "Le Fabuleux Destin d'Am\u00e9lie Poulain",
+        "overview": "At a tiny Parisian caf\u00e9, the adorable yet painfully shy Am\u00e9lie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+        "poster_path": "/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
+        "media_type": "movie",
+        "original_language": "fr",
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "popularity": 14.3865,
+        "release_date": "2001-04-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.92,
+        "vote_count": 12813
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 194,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "How 'Am\u00e9lie' Convinced Eva Longoria She Was in Paris!",
+        "key": "LqZ3eW33oRw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a5227ae40554f7ebe595b90",
+        "published_at": "2026-07-01T16:00:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Behind the scenes with Javi Aznarez, illustrator of the AM\u00c9LIE 25th anniversary poster",
+        "key": "I-WJ8Hwp7vU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a078de510414e512c0fcd61",
+        "published_at": "2026-05-05T13:28:32.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "One-Word Reactions.",
+        "key": "KKroz2iyjUM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "69ebc68fdd8e1736a115015a",
+        "published_at": "2026-04-21T11:52:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "25 years of Am\u00e9lie (2001)",
+        "key": "plJwBl7uDls",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "69d368c48e2ea59ac64d967b",
+        "published_at": "2026-04-03T11:01:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Wait is Over! It's time to get (re)Acquainted with AM\u00c9LIE. [Subtitled]",
+        "key": "j0aotpJRPgc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "69d0d79c85fd8a43464d29e0",
+        "published_at": "2026-04-03T07:45:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "AM\u00c9LIE Is Coming Back to The Big Screen on 3 April [Subtitled]",
+        "key": "NkvJh8cpVCE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "69b2b94d0f132ad972a76f8d",
+        "published_at": "2026-03-11T11:30:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "25th Anniversary | Official UK & IRE Trailer [Subtitled]",
+        "key": "555A7T_kmIc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "69a01508b967d1f25af5cdcf",
+        "published_at": "2026-02-24T12:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "Py7cDXQae2U",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "658588af3acd2054717b5c24",
+        "published_at": "2023-12-20T19:30:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "True Love",
+        "key": "UkLkim0HYME",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6585890cd64ac21b0c14265f",
+        "published_at": "2016-07-01T14:00:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Letter",
+        "key": "e2vTkFFuQYY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "658588ff4f33ad5c70020194",
+        "published_at": "2016-07-01T14:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Phone Booth",
+        "key": "vD0h-Nb5qhs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "658588ee71f095582423de85",
+        "published_at": "2016-07-01T14:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\u2018You Two Belong Together'",
+        "key": "cT0bGB0eCpI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6585891f4f33ad5c7002019f",
+        "published_at": "2016-07-01T14:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Hidden Box",
+        "key": "YWqs2hDO4Eg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6585895743cd54546c3c371e",
+        "published_at": "2016-07-01T14:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "2UT5xaAfxWU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5cafa362c3a3683c30ab2680",
+        "published_at": "2014-11-20T17:00:21.000Z"
+      }
+    ]
+  }
+}

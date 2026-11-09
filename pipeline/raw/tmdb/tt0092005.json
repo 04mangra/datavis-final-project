@@ -1,0 +1,192 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/yjGllQUm28R4X9xD9T5xMszirgw.jpg",
+        "id": 235,
+        "title": "Stand by Me",
+        "original_title": "Stand by Me",
+        "overview": "After learning that a boy their age has been accidentally killed near their rural homes, four boys decide to go see the body. Gordie, Vern, Chris, and Teddy encounter a mean junk man and a marsh full of leeches, but they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+        "poster_path": "/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          12
+        ],
+        "popularity": 9.5961,
+        "release_date": "1986-08-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.834,
+        "vote_count": 6842
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 235,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "40th Anniversary | Official 4K Trailer",
+        "key": "2rBenGsz23E",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "69ce71f9659f8ac0b99a1115",
+        "published_at": "2026-03-30T14:58:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\u201cI\u2019m in the prime of my youth! And I\u2019ll only be young once!\u201d",
+        "key": "xEhNkv-v4i8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "69b808e1e465a8b6ea02017b",
+        "published_at": "2026-03-12T17:22:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "40th Anniversary - Official Trailer",
+        "key": "9UUcTNZKrks",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "69a1db52cb9defbf47e2aa73",
+        "published_at": "2026-02-27T16:07:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official HD Trailer",
+        "key": "2YOHpIjaUqI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "682c33c812724a38630bdb7a",
+        "published_at": "2022-03-05T15:30:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Gordie Stands Up To Ace",
+        "key": "l_IgiF8MvP0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "64725fd88813e400a8f489d9",
+        "published_at": "2021-08-19T15:00:16.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Gordie Breaks Down",
+        "key": "qSturnqZjXE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "64725fb6dd731b00a7208110",
+        "published_at": "2021-08-17T16:00:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Chris Confides In Gordie",
+        "key": "YfXF0nuJCss",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "64725fe9a199a60116c7149b",
+        "published_at": "2021-08-16T15:00:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Chris Encourages Gordie To Write",
+        "key": "HGMIbvL-UhU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "64725f64a199a60116c71479",
+        "published_at": "2021-08-14T15:00:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Teddy Faces A Train",
+        "key": "uhH-p9frLRM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "64725f9dbe2d490116c8e0e4",
+        "published_at": "2021-08-13T15:00:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Wil Wheaton and Corey Feldman on Getting Cast in Stand By Me | AFI Movie Club",
+        "key": "iHkE4rJ-yvY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "69b8092b8c0bdcf633674161",
+        "published_at": "2021-07-14T15:31:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "Ao9AI1pLeG0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "621e1b8f9f1be7001b11b7b5",
+        "published_at": "2020-08-22T05:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Water Fight",
+        "key": "2OH5WKnWMOA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6374c83b57d37800c8c66977",
+        "published_at": "2020-07-31T14:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Clip",
+        "key": "HkFudCvaxtk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": false,
+        "id": "592b44879251413b450689f9",
+        "published_at": "2013-04-17T09:50:39.000Z"
+      }
+    ]
+  }
+}

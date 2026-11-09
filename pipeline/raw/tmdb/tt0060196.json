@@ -1,0 +1,155 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+        "id": 429,
+        "title": "The Good, the Bad and the Ugly",
+        "original_title": "Il buono, il brutto, il cattivo",
+        "overview": "While the Civil War rages on between the Union and the Confederacy, three men \u2013 a quiet loner, a ruthless hitman, and a Mexican bandit \u2013 comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+        "poster_path": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+        "media_type": "movie",
+        "original_language": "it",
+        "genre_ids": [
+          37
+        ],
+        "popularity": 23.4156,
+        "release_date": "1966-12-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.468,
+        "vote_count": 10125
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 429,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Arrow UHD Unboxing",
+        "key": "9aRhYxWC7bM",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Featurette",
+        "official": true,
+        "id": "6899a970524ec651e6b6ff63",
+        "published_at": "2025-08-11T08:07:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Sizzle",
+        "key": "WCnRSl24FPA",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "686641a4519b363dc3705753",
+        "published_at": "2025-07-03T08:28:57.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Tuco's Ambush",
+        "key": "pyTW_E1st-w",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "62fb72d7175051007c59e5e6",
+        "published_at": "2022-08-08T20:00:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Bounty Scheme",
+        "key": "00y8Oajzjs0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "62fb72ce1cac8c00860e7ea8",
+        "published_at": "2022-08-06T20:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Opening Scene",
+        "key": "9sDUQt4suHk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "62fb72c0258823007f613ce0",
+        "published_at": "2022-08-05T20:00:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "IFNUGzCOQoI",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "6294053ba410c8009b0fc163",
+        "published_at": "2021-01-10T15:15:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Danny Trejo announces THE GOOD, THE BAD AND THE UGLY for AFI Movie Club",
+        "key": "v0EOrGaQEW8",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "6866431666a3c045ab743203",
+        "published_at": "2020-10-07T17:22:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "3VQjSSB78es",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6294057c76eecf590ca60048",
+        "published_at": "2014-05-17T00:07:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ernest Dickeron on THE GOOD, THE BAD, AND THE UGLY",
+        "key": "OLNktcDs05Y",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec654c3a3685448000342",
+        "published_at": "2013-07-01T07:00:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "2010 Governors Awards -- Clint Eastwood on Eli Wallach",
+        "key": "a2T_zJFZ3us",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "686642af0a2a4a7434c116ef",
+        "published_at": "2010-11-15T22:36:27.000Z"
+      }
+    ]
+  }
+}

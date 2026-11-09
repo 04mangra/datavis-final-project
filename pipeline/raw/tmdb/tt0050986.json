@@ -1,0 +1,71 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/BBVAUchYvkmPThVIqipgAfabfl.jpg",
+        "id": 614,
+        "title": "Wild Strawberries",
+        "original_title": "Smultronst\u00e4llet",
+        "overview": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
+        "poster_path": "/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+        "media_type": "movie",
+        "original_language": "sv",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 5.9185,
+        "release_date": "1957-08-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.073,
+        "vote_count": 1884
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 614,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Three Reasons: Wild Strawberries",
+        "key": "EwMgTyVbCS0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "533ec655c3a368544800049c",
+        "published_at": "2013-06-24T18:07:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Behind the Scenes of Wild Strawberries",
+        "key": "bIcE-crNU_4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec655c3a368544800049b",
+        "published_at": "2013-06-11T19:15:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Wild Strawberries - trailer",
+        "key": "fs_j7y_QyM8",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": false,
+        "id": "646eb611ea394900f83a5d8e",
+        "published_at": "2008-12-14T15:12:24.000Z"
+      }
+    ]
+  }
+}

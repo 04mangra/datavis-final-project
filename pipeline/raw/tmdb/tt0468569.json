@@ -1,0 +1,205 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+        "id": 155,
+        "title": "The Dark Knight",
+        "original_title": "The Dark Knight",
+        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+        "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "popularity": 1112.4836,
+        "release_date": "2008-07-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.54,
+        "vote_count": 37279
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 155,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Car Chase Scene",
+        "key": "bS8TNDFBAHE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68cf7726519f725d68cc32aa",
+        "published_at": "2025-09-19T15:17:23.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Batman INTERROGATES The Joker - Movie Clip",
+        "key": "co2bs_OjLG8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68c9cc925cf6bd264f8050cb",
+        "published_at": "2025-09-16T14:01:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "DC Super Scenes: The Hero Gotham Deserves",
+        "key": "7pVaGNOp5Vc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67724cad77e2b6d47892934e",
+        "published_at": "2024-12-28T17:00:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Batman Becomes the Villain Clip",
+        "key": "QEBCT-Lsh-A",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "621efa377719d7006da0d9ae",
+        "published_at": "2022-03-02T01:00:52.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Joker Visits Gotham Hospital Clip",
+        "key": "sW7Ihg_o5E8",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "62298d26d34eb3006d44adba",
+        "published_at": "2022-02-09T01:00:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Best Joker Scenes in The Dark Knight",
+        "key": "lNLmk7CPtOw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "62298d72069f0e001d9e8866",
+        "published_at": "2020-11-21T17:00:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "_PZpmTj1Q8Q",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "67a551884501b2f23366fbe3",
+        "published_at": "2014-07-09T00:14:49.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Joker's Interrogation Clip",
+        "key": "_XGnc0rz_Nc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "622990876e938a004560133f",
+        "published_at": "2013-09-20T00:55:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Harvey Dent and The Joker Clip",
+        "key": "O4Ytmpb-ReQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "62299039498ef9006d13291c",
+        "published_at": "2013-09-20T00:55:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mr. Reese's Plan Clip",
+        "key": "7zJ0DLJmXl8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "62298ffd770700006e2e5ef1",
+        "published_at": "2013-09-20T00:54:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "LDG9bisJEaI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "699cf9210018171c160e5bd5",
+        "published_at": "2013-07-26T21:43:57.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer 3",
+        "key": "jXAYAN6jO5k",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6908680dddefc508ce5986b9",
+        "published_at": "2013-02-20T22:59:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer 2",
+        "key": "TQfATDZY5Y4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "69086797a59b14879f598620",
+        "published_at": "2013-02-20T22:32:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "kmJLuwP3MbY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "58f284f49251413da7003225",
+        "published_at": "2011-04-01T22:34:24.000Z"
+      }
+    ]
+  }
+}

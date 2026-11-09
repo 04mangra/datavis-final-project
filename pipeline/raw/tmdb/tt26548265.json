@@ -1,0 +1,49 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/ot1UteJ1TL3xWuhkLRNzBULw4KJ.jpg",
+        "id": 1118224,
+        "title": "Maharaja",
+        "original_title": "\u0bae\u0b95\u0bbe\u0bb0\u0bbe\u0b9c\u0bbe",
+        "overview": "A barber seeks vengeance after his home is burglarized, cryptically telling police his \"Lakshmi\" has been taken, leaving them uncertain if it's a person or object, jeer at his request until they learn what they're really looking for.",
+        "poster_path": "/s0m4TM1XRAftQStgKpw024RvkJo.jpg",
+        "media_type": "movie",
+        "original_language": "ta",
+        "genre_ids": [
+          28,
+          53,
+          9648
+        ],
+        "popularity": 2.873,
+        "release_date": "2024-06-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.73,
+        "vote_count": 280
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 1118224,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "Otcr-vRuaQs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "668dcbaa1305a62731ae12af",
+        "published_at": "2024-07-08T05:30:00.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/zarxsF8exAYk58HjS1ZNxY8KkXw.jpg",
+        "id": 895006,
+        "title": "Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc",
+        "original_title": "\u9b3c\u6ec5\u306e\u5203 \u9f13\u5c4b\u6577\u7de8",
+        "overview": "Tanjiro ventures to the south-southeast where he encounters a cowardly young man named Zenitsu Agatsuma, a fellow survivor from Final Selection. His sparrow asks Tanjiro to help keep him in line. A recap of Kimetsu no Yaiba episodes 11\u201314, with new footage and special end credits.",
+        "poster_path": "/2yiDQCDj7hlq2SwLojV9xrFkCnr.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          28,
+          14
+        ],
+        "popularity": 1.5731,
+        "release_date": "2022-09-15",
+        "softcore": false,
+        "video": true,
+        "vote_average": 7.401,
+        "vote_count": 192
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 895006,
+    "results": []
+  }
+}

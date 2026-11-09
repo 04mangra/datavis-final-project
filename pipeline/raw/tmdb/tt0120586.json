@@ -1,0 +1,59 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6qHI1IYj7QlLSCwHRzkL62X175s.jpg",
+        "id": 73,
+        "title": "American History X",
+        "original_title": "American History X",
+        "overview": "Derek Vineyard is paroled after serving 3 years in prison for killing two African-American men. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
+        "poster_path": "/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 12.9787,
+        "release_date": "1998-07-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.324,
+        "vote_count": 13121
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 73,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Derek's Out of Prison",
+        "key": "5OuhJ0koab8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6806619d276bf64e41aad649",
+        "published_at": "2025-04-17T15:00:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "American History X (1998) Original Trailer [HD]",
+        "key": "el6JxnW2Tyg",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "68e137aadd68fcfd46f810d1",
+        "published_at": "2024-05-04T23:39:42.000Z"
+      }
+    ]
+  }
+}

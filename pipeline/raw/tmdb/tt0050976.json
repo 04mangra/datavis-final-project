@@ -1,0 +1,60 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+        "id": 490,
+        "title": "The Seventh Seal",
+        "original_title": "Det sjunde inseglet",
+        "overview": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+        "poster_path": "/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+        "media_type": "movie",
+        "original_language": "sv",
+        "genre_ids": [
+          14,
+          18
+        ],
+        "popularity": 5.6753,
+        "release_date": "1957-02-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.134,
+        "vote_count": 3510
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 490,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Seventh Seal (1957) ORIGINAL TRAILER [HD 1080p]",
+        "key": "vZucwtdSvJ8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "61f0593dd40d4c00d33a9842",
+        "published_at": "2018-12-19T13:53:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mark Kermode reviews The Seventh Seal | BFI Player",
+        "key": "tkVstAERaqQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "623dd497d399e6005caa6c72",
+        "published_at": "2018-06-08T11:00:04.000Z"
+      }
+    ]
+  }
+}

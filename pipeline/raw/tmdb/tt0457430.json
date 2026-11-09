@@ -1,0 +1,217 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+        "id": 1417,
+        "title": "Pan's Labyrinth",
+        "original_title": "El laberinto del fauno",
+        "overview": "In post\u2013civil war Spain, 10-year-old Ofelia moves with her pregnant mother to live under the control of her cruel stepfather. Drawn into a mysterious labyrinth, she meets a faun who reveals that she may be a lost princess from an underground kingdom. To return to her true father, she must complete a series of surreal and perilous tasks that blur the line between reality and fantasy.",
+        "poster_path": "/khBQ6nN5FLfg9XgPXIZDkABJjqo.jpg",
+        "media_type": "movie",
+        "original_language": "es",
+        "genre_ids": [
+          14,
+          18,
+          10752
+        ],
+        "popularity": 17.6498,
+        "release_date": "2006-10-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.771,
+        "vote_count": 11902
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 1417,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official 20th Anniversary Featurette",
+        "key": "aaH3jpNY-rE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6aa7d254beff50891ba98b51",
+        "published_at": "2026-09-09T19:00:19.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official 20th Anniversary Trailer",
+        "key": "OBGKGm3RYos",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a457d26818db9763c49e196",
+        "published_at": "2026-06-30T14:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Crafting Guillermo Navarro's Oscar-Winning Cinematography",
+        "key": "3tOP9xOhkvA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "652e873cea84c7014e06c75d",
+        "published_at": "2023-10-09T16:00:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ofelia Meets The Pale Man",
+        "key": "ioe5bgRq30Q",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65171318c50ad2010bfd38d2",
+        "published_at": "2023-09-29T14:30:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ofelia meets the Faun Clip",
+        "key": "5GtDgxRJ1K0",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "63c4178e0231f200826acb52",
+        "published_at": "2021-11-15T16:59:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official 4K Trailer",
+        "key": "6tYUOAMsydg",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "63c415bcae384300a0b4d5f0",
+        "published_at": "2021-10-25T17:59:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Emilia Clarke announces PAN'S LABYRINTH for AFI Movie Club",
+        "key": "KxocbxqjdUc",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "65b8f28690fca3017b06d819",
+        "published_at": "2020-10-28T16:08:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Full Movie Preview",
+        "key": "PtjO62UAl7U",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "615f9da74df2910029be29e2",
+        "published_at": "2020-07-20T17:59:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "jVZRnnVSQ8k",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "60f3e64662fcd3007e3ed70b",
+        "published_at": "2020-03-27T10:43:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Guillermo del Toro on the Making of Pan's Labyrinth",
+        "key": "8-G8pKiuG8Q",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "652e8962a8023600e0ac4be7",
+        "published_at": "2019-09-30T17:07:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Guillermo del Toro On Why 4K Matters",
+        "key": "oW1T3lKRLFE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "63c4167faaec710087a9aea1",
+        "published_at": "2019-09-10T17:47:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "PST LA/LA at the Academy: \u201cPan\u2019s Labyrinth\u201d",
+        "key": "jcia8aFBNMM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "652e87a9024ec800aecd6d81",
+        "published_at": "2017-10-31T06:10:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Pan's Labyrinth Wins Art Direction: 2007 Oscars",
+        "key": "7XBpy5RGtx0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "652e8789358da75b5a2f39d4",
+        "published_at": "2014-06-24T19:16:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Pan's Labyrinth Wins Cinematography: 2007 Oscars",
+        "key": "RJUq_GAvK5A",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "652e877bcaef2d00ff539987",
+        "published_at": "2013-04-12T21:47:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "DVD TV Spot",
+        "key": "__zGGNQ8-R4",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Teaser",
+        "official": true,
+        "id": "64726e7795665800c1ed60eb",
+        "published_at": "2007-05-09T20:51:28.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
+        "id": 524,
+        "title": "Casino",
+        "original_title": "Casino",
+        "overview": "In Las Vegas, two best friends-a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+        "poster_path": "/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 8.7561,
+        "release_date": "1995-11-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.999,
+        "vote_count": 6860
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 524,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ginger Freaks Out on Sam",
+        "key": "x6QssutxoO4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6919ad6ae24e363ff9877212",
+        "published_at": "2025-11-15T20:00:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "How To Make A Lot Of Money - Extended Preview",
+        "key": "u1GHXwa6IS0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "673e415887081c725a97080a",
+        "published_at": "2024-11-19T18:00:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Robert De Niro & Sharon Stone",
+        "key": "VJ22ZlNarpY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65681271a44d0901501ca77f",
+        "published_at": "2023-11-25T23:00:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "How Robert De Niro Deals with Scammers",
+        "key": "ZxJVaQTWQ24",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68b6c10f1c658d8eed3f0902",
+        "published_at": "2022-02-16T23:00:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Opening the New Casino",
+        "key": "rIETsgWVh_c",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63dc0fdda9117f0093cf2cd8",
+        "published_at": "2020-11-22T14:00:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "zFUKn_75m1o",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "63dc10ff1092300098231045",
+        "published_at": "2014-10-07T02:00:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Clip",
+        "key": "gBXH7L5toqc",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Clip",
+        "official": true,
+        "id": "63dc1031d40d4c00abbb0b37",
+        "published_at": "2010-09-01T19:12:41.000Z"
+      }
+    ]
+  }
+}

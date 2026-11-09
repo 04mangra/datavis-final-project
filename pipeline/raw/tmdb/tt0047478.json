@@ -1,0 +1,132 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+        "id": 346,
+        "title": "Seven Samurai",
+        "original_title": "\u4e03\u4eba\u306e\u4f8d",
+        "overview": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+        "poster_path": "/lOMGc8bnSwQhS4XyE1S99uH8NXf.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "popularity": 17.6193,
+        "release_date": "1954-04-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.452,
+        "vote_count": 4452
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 346,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Clip - Surrounded By Losers",
+        "key": "-vromFdkqzE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68e98702f3455289514b1300",
+        "published_at": "2025-09-19T03:43:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jim Cummings on SEVEN SAMURAI",
+        "key": "faajRQrPPs8",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Featurette",
+        "official": false,
+        "id": "674e305ad38fa29707a8babc",
+        "published_at": "2024-11-18T05:00:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "BFI 4K Restoration Trailer [Subtitled]",
+        "key": "RsRN65PlaIM",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "66c73762fc44f7c6605850bf",
+        "published_at": "2024-08-20T10:30:16.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official 4K Restoration Trailer [Subtitled]",
+        "key": "fRUsjrkGs_A",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "66622e2f5dda8e63c45202d9",
+        "published_at": "2024-06-06T15:42:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "BFI Re-Release Trailer",
+        "key": "5dZioLIejeo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "61ef13b5e9da69006921a830",
+        "published_at": "2021-08-18T13:04:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Japanese Theatrical Trailer [Subtitled]",
+        "key": "7mw6LyyoeGE",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "id": "533ec653c3a36854480002c9",
+        "published_at": "2013-10-01T09:22:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "On the Violence of Seven Samurai",
+        "key": "h1JziA0nNkQ",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec653c3a36854480002c8",
+        "published_at": "2012-10-04T14:12:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Three Reasons: Seven Samurai",
+        "key": "8V4dEWPJKNk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "549f4fbcc3a3682f2100922e",
+        "published_at": "2011-06-02T21:55:42.000Z"
+      }
+    ]
+  }
+}

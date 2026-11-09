@@ -1,0 +1,84 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/byQdu1nzQLI9t1VeoP1xuQfru3L.jpg",
+        "id": 996,
+        "title": "Double Indemnity",
+        "original_title": "Double Indemnity",
+        "overview": "An insurance representative is seduced by a dissatisfied housewife into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, a claims investigator.",
+        "poster_path": "/rVNYZZgfhwqVMMWlBmxOfWqnwCj.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "popularity": 5.0461,
+        "release_date": "1944-07-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.09,
+        "vote_count": 2135
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 996,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Walter Neff Flirts with Phyllis Dietrichson | Double Indemnity (1944) | TCM",
+        "key": "qPHETCKVugU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "680ffb4e0c125a95530fb5a3",
+        "published_at": "2025-03-29T11:01:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Truth Comes Out",
+        "key": "I-LZbpPJQM4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "66282500b9a0bd017ad8bd7f",
+        "published_at": "2024-04-23T19:00:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "9oxVkwB05rU",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "658846d5b0cd20524958651a",
+        "published_at": "2014-08-18T19:29:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Billy Wilder: Alternate Ending For DOUBLE INDEMNITY",
+        "key": "sRXW-OaXzJ0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Clip",
+        "official": true,
+        "id": "680ffb8310d1e453d2eb58ff",
+        "published_at": "2009-09-14T21:30:00.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/uRNgkJSkNBFbbn9fPsEjDIy8Sh3.jpg",
+        "id": 22,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "overview": "When wily pirate Captain Barbossa seizes Jack Sparrow\u2019s beloved ship, the Black Pearl, and kidnaps the governor\u2019s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her\u2014only to uncover a terrifying curse that turns Barbossa\u2019s crew into the undead.",
+        "poster_path": "/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "popularity": 23.8032,
+        "release_date": "2003-07-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.837,
+        "vote_count": 23054
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 22,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Skeleton Crew | Official Clip",
+        "key": "Dtdv0p4eeo8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6ad79da32cdc213c1c04d283",
+        "published_at": "2026-10-16T16:00:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Elizabeth Swann House Chase Scene",
+        "key": "tts4yMuFSzI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a1a0843c4e895e915964c56",
+        "published_at": "2026-05-27T11:00:16.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Young Elizabeth Swann Meets Will Turner",
+        "key": "Yj-6KoqAWBQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "69fb222c8a3b25408acd0e01",
+        "published_at": "2026-04-18T10:00:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "High Quality Trailer",
+        "key": "-9HT0l9HV4c",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "67e434d2cd4c4a62d0dc4f46",
+        "published_at": "2018-01-11T17:20:20.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer 1",
+        "key": "naQr0uTrH_s",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "58f5210792514127710020ff",
+        "published_at": "2013-09-20T00:50:25.000Z"
+      }
+    ]
+  }
+}

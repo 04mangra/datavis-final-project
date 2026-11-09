@@ -1,0 +1,71 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/9UAKA6ceZi6TgQwTAAMt7DWwYPI.jpg",
+        "id": 7345,
+        "title": "There Will Be Blood",
+        "original_title": "There Will Be Blood",
+        "overview": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.",
+        "poster_path": "/fa0RDkAlCec0STeMNAhPaF89q6U.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 11.0823,
+        "release_date": "2007-12-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.061,
+        "vote_count": 7872
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 7345,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "First Five Minutes ft. Daniel Day-Lewis",
+        "key": "d1VGlpshNqY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "68b31b80fd136946b73efa8d",
+        "published_at": "2025-08-30T12:59:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "There Will Be Blood (2007) Original Trailer [FHD]",
+        "key": "-bEwlq_7f4s",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "68e12b3ed1a74a590bf81022",
+        "published_at": "2024-04-19T15:00:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "0FIm5ATyAY0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "5bb9cac0c3a3682418025d6d",
+        "published_at": "2016-07-22T14:00:01.000Z"
+      }
+    ]
+  }
+}

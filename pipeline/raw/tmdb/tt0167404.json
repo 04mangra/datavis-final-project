@@ -1,0 +1,85 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+        "id": 745,
+        "title": "The Sixth Sense",
+        "original_title": "The Sixth Sense",
+        "overview": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
+        "poster_path": "/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          53,
+          18
+        ],
+        "popularity": 16.0083,
+        "release_date": "1999-08-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 13588
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 745,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Sixth Sense (1999) Original Trailer [HD]",
+        "key": "HXG4HTIlc1U",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "680a91c0130f76eb3b9d203c",
+        "published_at": "2023-09-09T13:00:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "M. Night Shyamalan Returns to \u201cThe Sixth Sense\u201d Landmarks | On Location w/ Josh Horowitz",
+        "key": "lhPYMlRBflM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "645154d741429100e3ce54bf",
+        "published_at": "2019-10-29T16:32:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Sixth Sense (1999) Trailer #1 | Movieclips Classic Trailers",
+        "key": "3-ZP95NF_Wk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "680a91b515a1d5a614ab333c",
+        "published_at": "2019-08-09T16:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Sixth Sense Trailer HD",
+        "key": "VG9AGf66tXM",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": false,
+        "id": "66a3f1c5947d359b9191037e",
+        "published_at": "2009-08-11T00:08:55.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+        "id": 679,
+        "title": "Aliens",
+        "original_title": "Aliens",
+        "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+        "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          878
+        ],
+        "popularity": 15.569,
+        "release_date": "1986-07-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.97,
+        "vote_count": 11359
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 679,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Gale Anne Hurd on Producing ALIENS",
+        "key": "Gc_FCxz0lc4",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a522da57f651e0ff6595d7a",
+        "published_at": "2026-07-10T21:14:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Aliens. 1986 - EXTRA, Deleted Footages",
+        "key": "C2FZNO7JoIg",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": false,
+        "id": "6481016cbf31f200aec67ca3",
+        "published_at": "2020-12-19T07:47:16.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Modern Trailer",
+        "key": "8OxirbuHsBA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5db9a9792d37210019eb4062",
+        "published_at": "2018-04-12T17:25:16.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Aliens 30th Anniversary | Live Fan Q&A Highlights",
+        "key": "dvb3vvbMsww",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6235cf008e8d30007840e72c",
+        "published_at": "2016-08-02T13:04:43.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Aliens 30th Anniversary | James Cameron, Sigourney Weaver, and Gale Anne Hurd Interview",
+        "key": "YVNGp2W58LE",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Featurette",
+        "official": true,
+        "id": "6235cf1d34e1520073425453",
+        "published_at": "2016-08-02T13:04:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Aliens 30th Anniversary | Sigourney Weaver Interview",
+        "key": "IiZBI2Mzkzo",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Featurette",
+        "official": true,
+        "id": "6235cf13d7cd060076e8fa87",
+        "published_at": "2016-08-02T13:04:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "James Cameron on directing Aliens | Film4 Interview Special",
+        "key": "ezU5T9bdzcU",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "6235cca58ac3d000756f55f7",
+        "published_at": "2016-03-31T11:43:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Theatrical Trailer",
+        "key": "Ahi3JNdCD2U",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6235cd51db4ed6001bfc0bf8",
+        "published_at": "2014-07-24T17:02:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Aliens Wins Visual Effects: 1987 Oscars",
+        "key": "jb3ioX0B1Qs",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "667b030ffae09751713b66b8",
+        "published_at": "2014-02-06T17:54:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TV trailer #2 1986",
+        "key": "zBvTd9iFqG8",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Teaser",
+        "official": false,
+        "id": "533ec655c3a368544800053a",
+        "published_at": "2012-05-25T10:31:26.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/gUIVD0rFWVB8Okk8wU8dQxjOYnZ.jpg",
+        "id": 7984,
+        "title": "In the Name of the Father",
+        "original_title": "In the Name of the Father",
+        "overview": "A small-time Belfast thief, Gerry Conlon, is wrongly convicted of an IRA bombing in London, along with his father and friends, and spends 15 years in prison fighting to prove his innocence.",
+        "poster_path": "/3NcIkKxaO2SmRVsG1v50XhtmL0f.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 4.274,
+        "release_date": "1993-12-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.9,
+        "vote_count": 2082
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 7984,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "IN THE NAME OF THE FATHER (1993) VHS [Trailer] #vhsrip",
+        "key": "aF-JdPpQNoo",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": false,
+        "id": "69ba25586b207bb41208fed4",
+        "published_at": "2025-10-05T20:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Not to Be Shown to the Defense\"",
+        "key": "pYDhp11S34A",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "683626c49cf397c510037d70",
+        "published_at": "2025-05-27T19:00:49.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "In The Name Of The Father (1993) TRAILER",
+        "key": "H0ff5KjZ7vM",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": false,
+        "id": "533ec662c3a3685448001285",
+        "published_at": "2007-02-09T14:41:08.000Z"
+      }
+    ]
+  }
+}

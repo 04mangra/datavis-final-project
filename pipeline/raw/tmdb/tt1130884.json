@@ -1,0 +1,73 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/lavdyiJWciCJvyLG37ZOs6HJijg.jpg",
+        "id": 11324,
+        "title": "Shutter Island",
+        "original_title": "Shutter Island",
+        "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+        "poster_path": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          53,
+          9648
+        ],
+        "popularity": 20.8941,
+        "release_date": "2010-02-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.195,
+        "vote_count": 26772
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 11324,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "End Scene",
+        "key": "x9lGthLqe3E",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65fa3f9d7f0540017c0754dc",
+        "published_at": "2024-03-08T13:59:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Catch Not Kill Clip",
+        "key": "lhX-IJS82JU",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "62731c7e7a1bd60066c51cfb",
+        "published_at": "2021-10-28T15:59:53.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "qdPw9x9h5CY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "62be8e093009aa00d14f50df",
+        "published_at": "2013-09-26T07:55:27.000Z"
+      }
+    ]
+  }
+}

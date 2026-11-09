@@ -1,0 +1,73 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/l0fNAHLOFReQJsxCOmGWvJDnimn.jpg",
+        "id": 360814,
+        "title": "Dangal",
+        "original_title": "\u0926\u0902\u0917\u0932",
+        "overview": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
+        "poster_path": "/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg",
+        "media_type": "movie",
+        "original_language": "hi",
+        "genre_ids": [
+          18,
+          10751,
+          35
+        ],
+        "popularity": 5.5538,
+        "release_date": "2016-12-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.865,
+        "vote_count": 1250
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 360814,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ready at 5 o'clock in the morning - Promo [ENG SUB]",
+        "key": "9jyD4Ykbq8Y",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "69591ae76af8a26cdac381d3",
+        "published_at": "2016-12-15T10:02:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Fat To Fit | Aamir Khan Body Transformation [ENG SUB]",
+        "key": "1aVw1gZ9Ncg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "69591b192eac872576e4107f",
+        "published_at": "2016-11-29T04:37:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer [ENG SUB]",
+        "key": "x_7YlGv9u1g",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "581466b2925141568002e686",
+        "published_at": "2016-10-20T05:29:24.000Z"
+      }
+    ]
+  }
+}

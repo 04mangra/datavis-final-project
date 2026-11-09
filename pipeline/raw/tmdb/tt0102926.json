@@ -1,0 +1,289 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/mbOx1wxMLikzwWUO9TKAcFIy6op.jpg",
+        "id": 274,
+        "title": "The Silence of the Lambs",
+        "original_title": "The Silence of the Lambs",
+        "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+        "poster_path": "/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          53,
+          18
+        ],
+        "popularity": 5.7676,
+        "release_date": "1991-02-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.345,
+        "vote_count": 18816
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 274,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Anthony Hopkins & Jodie Foster Re-Watch THE SILENCE OF THE LAMBS | Criterion Commentary",
+        "key": "M2N681njUqU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a46cbe4b7a8dcb86bad07a3",
+        "published_at": "2026-07-02T19:41:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "35th Anniversary Spot",
+        "key": "BZIsoqmrBqw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "69b0732750e99de691577307",
+        "published_at": "2026-02-23T21:41:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Tim Curry Regrets Not Playing Hannibal Lecter In 'Silence of the Lambs'",
+        "key": "r-FcLXkyYZA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "699896c9f1c829e2bfba3a80",
+        "published_at": "2026-02-17T17:01:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Arrow Unboxing",
+        "key": "DNQpd1LnqQo",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Featurette",
+        "official": true,
+        "id": "66d5b6d36cae0333884ce7ba",
+        "published_at": "2024-09-02T08:32:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Screaming Lambs",
+        "key": "mIj6hqPUnio",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6466714e4c1d9a0175167911",
+        "published_at": "2023-05-12T20:00:21.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hannibal Meets The Senator",
+        "key": "I5TzaGs9ucg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "645cc1d96aa8e0017382315f",
+        "published_at": "2023-05-10T20:00:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Buffalo Bill Kidnaps Catherine",
+        "key": "z-jT0jDPh0Q",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "645cc1d2fe077a5cadf7abe9",
+        "published_at": "2023-05-09T20:00:16.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "6iB21hsprAQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "645a53813fe16000e328eb24",
+        "published_at": "2023-05-08T22:00:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Back in Cinemas Official Trailer",
+        "key": "Msigx2eqO6s",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6536e42341aac400aa078bd0",
+        "published_at": "2021-10-06T11:19:57.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Clarice and Hannibal's First Meeting",
+        "key": "EnMV60UDuF0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "632859eeac8e6b007aabd1b3",
+        "published_at": "2021-03-17T14:30:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"It Rubs the Lotion On Its Skin\"",
+        "key": "wI071eNxtPk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "632859fbb18f320080135244",
+        "published_at": "2021-02-14T15:30:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Becoming Hannibal Lecter",
+        "key": "WhkrhBNvgmA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "632859b4ac8e6b007aabd190",
+        "published_at": "2020-10-30T22:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "In conversation with... Jodie Foster, on The Silence of the Lambs",
+        "key": "ZETEx_uAq9g",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "632858e4124c8d007d639f16",
+        "published_at": "2017-11-16T14:27:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "UK Re-release Trailer",
+        "key": "gSQciiKhqXc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "63285a3fd7a70a0081ce8c9c",
+        "published_at": "2017-10-25T16:06:30.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Silence of the Lambs Wins Adapted Screenplay: 1992 Oscars",
+        "key": "9ZgaDDCspTI",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "63d3220c66ae4d0084283cb1",
+        "published_at": "2013-10-31T23:56:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jonathan Demme Wins Best Directing: 1992 Oscars",
+        "key": "1YS2ovtUveQ",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "63d321fc031a1d0079d5a955",
+        "published_at": "2013-04-26T18:10:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Silence of the Lambs Official Trailer #1 - Anthony Hopkins Movie (1991) HD",
+        "key": "W6Mm8Sbe__o",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6a973c99d00db087f55ee00f",
+        "published_at": "2012-10-05T20:06:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Silence of the Lambs Wins Best Picture: 1992 Oscars",
+        "key": "28ZkmJJ8320",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "63d321edcb71b80085de0a7c",
+        "published_at": "2010-11-24T23:03:57.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jodie Foster On Hannibal Lecter",
+        "key": "8xWbc_kFus4",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "5a859a309251410aae02170c",
+        "published_at": "2010-10-25T19:56:12.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jodie Foster Wins Best Actress | 64th Oscars (1992)",
+        "key": "CYikmz2AI24",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "63d321df031a1d0079d5a935",
+        "published_at": "2010-08-25T17:29:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Anthony Hopkins Wins Best Actor | 64th Oscars (1992)",
+        "key": "ftUGtsdSXeU",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "63d321ca031a1d00a11f5152",
+        "published_at": "2010-01-04T20:36:09.000Z"
+      }
+    ]
+  }
+}

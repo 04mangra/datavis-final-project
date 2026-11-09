@@ -1,0 +1,205 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/uI22JkEMediWyiRqhllNqeeGtW0.jpg",
+        "id": 949,
+        "title": "Heat",
+        "original_title": "Heat",
+        "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+        "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          28
+        ],
+        "popularity": 17.7981,
+        "release_date": "1995-12-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.947,
+        "vote_count": 8874
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 949,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Michael Mann on the Legendary Shootout in HEAT (2015) | TIFF REWIND",
+        "key": "YliNT1ArpIk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a523003205448f7fc595cf5",
+        "published_at": "2026-05-14T15:40:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Bank Robbery Scene",
+        "key": "7ntQf1Mjy-M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65af905239756100ec211767",
+        "published_at": "2024-01-22T18:47:43.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Michael Mann on How \"Action is the Juice\" in HEAT | ON FILM | TIFF 2023",
+        "key": "sBoQeDVsuzQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6585b8ccaf9590798168e382",
+        "published_at": "2023-12-15T14:00:41.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Michael Mann Talks about \u201cHeat\u201d | On Location w/ Josh Horowitz",
+        "key": "FxNsFbQavx0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "62e3daec66a0d30061d20c0e",
+        "published_at": "2019-12-11T20:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Michael Mann discusses HEAT | TIFF 2015",
+        "key": "ml7xc1cM0q4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6585b8a2037264728b7b9e7a",
+        "published_at": "2017-12-01T13:08:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Sound and Music",
+        "key": "2eyxTk0eaMI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "63d13738a410c81215b60ee6",
+        "published_at": "2016-09-09T03:10:41.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Look of the Film",
+        "key": "Pva7cEdC4l0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "63d1372de72fe800b2048a41",
+        "published_at": "2016-09-09T03:10:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Writing the Film",
+        "key": "-f0tTbuOTPo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "63d1374266ae4d009e9e395c",
+        "published_at": "2016-09-09T03:09:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Eady, Justine, and Drucker",
+        "key": "3oSPOpki6fI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "63d137519e45860079cdd1e7",
+        "published_at": "2016-09-09T03:07:49.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Coffee Shop Scene | Academy Conversations",
+        "key": "EWwbIHi9D90",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "63d136fbcb71b80085dd39d4",
+        "published_at": "2016-09-09T03:05:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Vincent and Neil",
+        "key": "GSKhCfKrZRE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "63d10500e72fe800e9e5e750",
+        "published_at": "2016-09-09T03:02:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "14oNcFxiVaQ",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "5ad77e8dc3a36847e80128ee",
+        "published_at": "2014-07-09T00:02:53.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Face To Face",
+        "key": "_rIYXfztyxA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63d10487cb71b80085dd1f4a",
+        "published_at": "2013-05-01T17:06:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Crew",
+        "key": "1zvgrhn9el4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63d10478e72fe800e9e5e70e",
+        "published_at": "2013-05-01T16:56:14.000Z"
+      }
+    ]
+  }
+}

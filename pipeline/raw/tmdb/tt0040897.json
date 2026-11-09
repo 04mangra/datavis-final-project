@@ -1,0 +1,157 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/osytHgkv86CTFKxo46l9P7ACEjm.jpg",
+        "id": 3090,
+        "title": "The Treasure of the Sierra Madre",
+        "original_title": "The Treasure of the Sierra Madre",
+        "overview": "Two jobless Americans convince a prospector to travel to the mountains of Mexico with them in search of gold. But the hostile wilderness, local bandits, and greed all get in the way of their journey.",
+        "poster_path": "/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          18,
+          37
+        ],
+        "popularity": 3.4156,
+        "release_date": "1948-01-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.0,
+        "vote_count": 1422
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 3090,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Collecting Money and Entering Bandit Country",
+        "key": "tGnX8BeUnRY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "677c263a817d356a1a723919",
+        "published_at": "2025-01-06T15:15:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Bandits Pose as Federales",
+        "key": "mHn004LGClc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "677c26709cb089e05167106b",
+        "published_at": "2024-06-28T15:00:53.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TCM Big Screen Classics Spot",
+        "key": "07NGhi1qXFc",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Teaser",
+        "official": true,
+        "id": "677c2858cf4d59c84f7259d7",
+        "published_at": "2018-01-11T16:46:32.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "70th Anniversary Spot",
+        "key": "rtEu9Pe9jHc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "677c26a24bf0f0e3b474d6c8",
+        "published_at": "2017-12-13T02:48:40.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "1DwXNmorsa0",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "677c26c94bf0f0e3b474d6e0",
+        "published_at": "2014-07-08T22:31:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Walter Huston winning Best Supporting Actor for \"The Treasure of the Sierra Madre\"",
+        "key": "suCCTxjZ2J4",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "677c27236d7ca00e7872e56d",
+        "published_at": "2014-04-18T18:44:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"The Treasure of the Sierra Madre\" and \"The Search\" winning Writing Oscars\u00ae",
+        "key": "3v4_o8dCQ00",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "677c27364bf0f0e3b474d71c",
+        "published_at": "2014-04-15T18:21:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Anjelica Huston on THE TREASURE OF THE SIERRA MADRE",
+        "key": "gde-Vmz_5Ks",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec65dc3a3685448000d50",
+        "published_at": "2011-08-05T23:20:41.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Treasure of the Sierra Madre (1948) Trailer",
+        "key": "vGpvO8JabEc",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": false,
+        "id": "533ec65dc3a3685448000d51",
+        "published_at": "2010-01-21T09:14:59.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Treasure of the Sierra Madre",
+        "key": "EQyqvFVe4Y4",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Clip",
+        "official": false,
+        "id": "533ec65dc3a3685448000d4f",
+        "published_at": "2009-10-15T06:11:33.000Z"
+      }
+    ]
+  }
+}

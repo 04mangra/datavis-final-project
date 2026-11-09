@@ -1,0 +1,146 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
+        "id": 9806,
+        "title": "The Incredibles",
+        "original_title": "The Incredibles",
+        "overview": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+        "poster_path": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          16,
+          10751
+        ],
+        "popularity": 18.5257,
+        "release_date": "2004-10-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.73,
+        "vote_count": 19512
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 9806,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Who Remembers The Incredibles DVD Menu?",
+        "key": "6vUNJDdnJjw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6aeb7f2de006ed93fb591859",
+        "published_at": "2026-11-03T16:30:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Wedding",
+        "key": "sHBLVaIEwj4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6991120b0018f363521aeab0",
+        "published_at": "2026-02-13T17:01:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Honey!? Where's my Super Suit? - Official Clip",
+        "key": "5kw9A39j57c",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "691f5bfdb41a7156f82e2ae6",
+        "published_at": "2025-11-19T16:30:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "All the Facts",
+        "key": "Ae-rRcJSkKI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "62c0431828723c004c810fd9",
+        "published_at": "2020-11-05T19:00:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Teaser",
+        "key": "6Uk7D3hILF4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": false,
+        "id": "5acab19f0e0a2631f7005639",
+        "published_at": "2018-04-09T00:04:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer #2",
+        "key": "sJCjKQQOqT0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "5db379aff056d500140bfa5b",
+        "published_at": "2017-11-10T22:50:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer #1",
+        "key": "-UaGUdNJdRQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "5ca984a7c3a3683f4a60c62e",
+        "published_at": "2017-11-10T22:50:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Pixar Home Video",
+        "key": "ElwbOY5MNeM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "691f5c240e90f9d26e21a80f",
+        "published_at": "2017-03-19T16:00:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Incredibles",
+        "key": "sZwWCrFNfzQ",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": false,
+        "id": "5db379854b0c630012ec309c",
+        "published_at": "2012-03-11T21:52:58.000Z"
+      }
+    ]
+  }
+}

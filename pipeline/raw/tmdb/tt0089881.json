@@ -1,0 +1,61 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/vxEfLEdPbUJW8ZD9ymGQ6ZJzuyf.jpg",
+        "id": 11645,
+        "title": "Ran",
+        "original_title": "\u4e71",
+        "overview": "Shakespeare's King Lear is reimagined as a singular historical epic set in sixteenth-century Japan where an aging warlord divides his kingdom between his three sons.",
+        "poster_path": "/dGgiXMWDcS5aJTBEFu7bmaQPNox.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          28,
+          18,
+          36
+        ],
+        "popularity": 10.1417,
+        "release_date": "1985-06-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.03,
+        "vote_count": 1964
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 11645,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ran (1985) Original Trailer [HD]",
+        "key": "29ukiH4_GvQ",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "68e12c6a2be556d05b960df8",
+        "published_at": "2024-04-21T18:17:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "YwP_kXyd-Rw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "56d0a7839251413e590068a6",
+        "published_at": "2016-02-26T12:00:01.000Z"
+      }
+    ]
+  }
+}

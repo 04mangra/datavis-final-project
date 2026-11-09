@@ -1,0 +1,145 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg",
+        "id": 1422,
+        "title": "The Departed",
+        "original_title": "The Departed",
+        "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+        "poster_path": "/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          53,
+          80
+        ],
+        "popularity": 17.9183,
+        "release_date": "2006-10-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.16,
+        "vote_count": 16898
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 1422,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Leonardo DiCaprio Compilation",
+        "key": "AgfeINxj6lQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6ad818382036c5406cb844b6",
+        "published_at": "2026-10-06T13:00:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dignam Gets Revenge",
+        "key": "UUi38Txav00",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6903a45fd0f4b4705fe997e7",
+        "published_at": "2025-10-16T14:01:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Billy Confronts Colin",
+        "key": "jyqgP-iiAjk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67e71bd256ac4f47a43a8173",
+        "published_at": "2025-03-21T14:00:49.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Fallout",
+        "key": "NiMPqcpG7UI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "677c796bec51791dfe66a0c8",
+        "published_at": "2024-11-11T15:00:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K Ultra HD Extended Preview",
+        "key": "lZdsIpDa7zQ",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "66282a59e295b401649b3591",
+        "published_at": "2024-04-23T14:00:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K Ultra HD Official Trailer",
+        "key": "r-MiSNsCdQ4",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "id": "65e7b29ae3294301869bfc72",
+        "published_at": "2024-03-05T19:00:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "ggs6Ip97vRU",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "63c43b34871b3400b5e77f4c",
+        "published_at": "2014-07-08T22:54:58.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Elite Unit",
+        "key": "tYwz0cctuTY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63c43a9485005d007d0631d8",
+        "published_at": "2013-05-01T16:32:21.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer #2",
+        "key": "n4O3x5BH18E",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": true,
+        "id": "63c43b6a871b34007ce11b45",
+        "published_at": "2011-05-06T02:59:04.000Z"
+      }
+    ]
+  }
+}

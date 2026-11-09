@@ -1,0 +1,85 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg",
+        "id": 101,
+        "title": "L\u00e9on: The Professional",
+        "original_title": "L\u00e9on",
+        "overview": "L\u00e9on, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in L\u00e9on's footsteps.",
+        "poster_path": "/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+        "media_type": "movie",
+        "original_language": "fr",
+        "genre_ids": [
+          80,
+          18,
+          28
+        ],
+        "popularity": 19.676,
+        "release_date": "1994-09-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.289,
+        "vote_count": 16772
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 101,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Clip - Charades",
+        "key": "Ar2Xjmy_i5o",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67b1cf8785f576e97d6db84f",
+        "published_at": "2024-12-04T04:50:54.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "30 Year Anniversary 4K Restoration - Official Trailer",
+        "key": "DD-6bmOY__g",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "67b1cf9f80270b0e089faf5d",
+        "published_at": "2024-11-27T22:53:05.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "Nq101UyQyTo",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Trailer",
+        "official": true,
+        "id": "65f11f42fbe36f0148ed1ec2",
+        "published_at": "2023-05-01T06:44:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "aNQqoExfQsg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5c08a495c3a368252d0098a9",
+        "published_at": "2015-10-21T23:42:18.000Z"
+      }
+    ]
+  }
+}

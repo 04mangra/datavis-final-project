@@ -1,0 +1,108 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/caKZWDGmv5iW2U99skHs75MmOmU.jpg",
+        "id": 96721,
+        "title": "Rush",
+        "original_title": "Rush",
+        "overview": "In the 1970s, a rivalry propels race car drivers Niki Lauda and James Hunt to fame and glory \u2014 until a horrible accident threatens to end it all.",
+        "poster_path": "/yqR7mzBKCv1ih6F2cXa0I8vFh3v.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          28
+        ],
+        "popularity": 9.48,
+        "release_date": "2013-09-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.748,
+        "vote_count": 8153
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 96721,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "F1 Racer Chris Hemsworth Accused Of Cheating - Extended Preview",
+        "key": "_TErhSuWsmo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "665500a0769475fbceea504a",
+        "published_at": "2024-05-25T16:00:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Film Clip",
+        "key": "tdC8X9HBupE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "625eca0b67b6130069b86087",
+        "published_at": "2022-04-19T14:00:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer 3",
+        "key": "QKAr42gxjhM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "533ec6d9c3a3685448008075",
+        "published_at": "2013-07-17T16:27:38.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer 2",
+        "key": "sjp58RDeeIg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5ce4afc19251414923ba3fe3",
+        "published_at": "2013-05-24T16:06:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Theatrical Trailer",
+        "key": "9ZJqxgR-5Xc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5ce4afe90e0a265779cbfd4d",
+        "published_at": "2013-04-13T00:07:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official International Teaser Trailer",
+        "key": "-URkBFAVZqc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5ce4b05fc3a3684511240e01",
+        "published_at": "2013-04-09T09:07:41.000Z"
+      }
+    ]
+  }
+}

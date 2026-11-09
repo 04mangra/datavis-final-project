@@ -1,0 +1,167 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/xj1Sv1xm4Y0ydBueGuf10Y9qM0O.jpg",
+        "id": 489,
+        "title": "Good Will Hunting",
+        "original_title": "Good Will Hunting",
+        "overview": "Will Hunting is a headstrong, working-class genius who is failing the lessons of life. After one too many run-ins with the law, Will's last chance is a psychology professor, who might be the only man who can reach him.",
+        "poster_path": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 18.7463,
+        "release_date": "1997-12-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.168,
+        "vote_count": 14560
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 489,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Sean Gives Will Dating Advice",
+        "key": "gxmF_lNKuys",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "683f96b55dfae176b8fcafe2",
+        "published_at": "2025-06-03T17:01:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"How Do You Like Them Apples\"",
+        "key": "9Z8pQds_GwQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6812f8bf1088c43eb9b7517e",
+        "published_at": "2025-04-30T22:00:19.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "GOOD WILL HUNTING Official Trailer [1997]",
+        "key": "_X0XUBOcsxI",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "68d8db0290957a399fb99a85",
+        "published_at": "2022-06-16T21:55:25.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Robin Williams' Speech",
+        "key": "8GY3sO47YYo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "626cc500d363e50a499f3e96",
+        "published_at": "2022-04-29T22:00:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Robin Williams & Matt Damon's \ufeffEmotional Scene",
+        "key": "878opMmCdp0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "626b6deedff66e00518718f8",
+        "published_at": "2022-04-20T23:00:29.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'My Boy's Wicked Smart'",
+        "key": "hIdsjNGCGz4",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "647c5cfb93828e011624ea61",
+        "published_at": "2015-02-26T20:24:56.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'What Are You So Scared Of?'",
+        "key": "-kXAeKj3Fgw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "647c5d3ae323f30106159043",
+        "published_at": "2015-02-26T20:22:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Perfect for Each Other'",
+        "key": "ltNhwj-F7c8",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "647c5cb9caef2d00df88fea2",
+        "published_at": "2015-02-26T20:22:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'It's Not Your Fault'",
+        "key": "ZQht2yOX9Js",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "647c5c12e323f30106158fdf",
+        "published_at": "2015-01-14T23:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'Your Move Chief'",
+        "key": "oRG2jlQWCsY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "647c5c3c93828e00a764ea6c",
+        "published_at": "2015-01-14T20:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "ReIJ1lbL-Q8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "59031517c3a36828b8007ea7",
+        "published_at": "2015-01-14T17:00:03.000Z"
+      }
+    ]
+  }
+}

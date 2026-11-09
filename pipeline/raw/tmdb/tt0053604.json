@@ -1,0 +1,217 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/vRTKNKNWLZ22fAgPa5kY8wT2b1F.jpg",
+        "id": 284,
+        "title": "The Apartment",
+        "original_title": "The Apartment",
+        "overview": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+        "poster_path": "/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "popularity": 6.4217,
+        "release_date": "1960-06-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.187,
+        "vote_count": 2838
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 284,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K UHD Unboxing",
+        "key": "rV1bREWZ_DA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "69456e9852827378fa8cd873",
+        "published_at": "2025-12-18T18:01:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Arrow Trailer",
+        "key": "ekDkUUPSWuY",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "691f584848432d2bb2eb68ed",
+        "published_at": "2025-11-20T18:00:50.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Shirley MacLaine shares behind-the-scenes memories from the making of THE APARTMENT.",
+        "key": "nZvoAbgV_TM",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "685066edcb036e9ff1b99e8b",
+        "published_at": "2025-06-15T18:00:46.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K Restoration | Official Trailer",
+        "key": "isjfwA0B5xQ",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "678af332a915feb71064d562",
+        "published_at": "2025-01-17T10:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Office Christmas Party Scene",
+        "key": "cktAgwbtbxw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63af57868741c4008cb7e555",
+        "published_at": "2022-12-20T21:00:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Baxter Gets A Promotion",
+        "key": "R_e57AjiJh4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "63af5792c56d2d00f30ea4f9",
+        "published_at": "2022-12-17T21:00:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Elevator Operator With Shirley MacLaine",
+        "key": "mL0pISorUNw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "639d9a84be6d880084eafaac",
+        "published_at": "2022-12-16T21:00:18.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Opening Scene",
+        "key": "GpTa7kgLqrU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6399c2fbe263bb0080fb0006",
+        "published_at": "2022-12-13T21:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "OcslkrBMLGc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "622341158ee49c0044c66514",
+        "published_at": "2021-06-28T13:00:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"The Apartment\" and \"Spartacus\" winning Art Direction Oscars\u00ae",
+        "key": "FhevYSMU0cI",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "68472b0ccb13e4c617de74c7",
+        "published_at": "2014-02-24T22:00:13.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"The Apartment\" winning the Oscar\u00ae for Film Editing",
+        "key": "STZnnSbF148",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "68472c161516e3e64b342c55",
+        "published_at": "2014-02-03T18:58:32.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Billy Wilder winning the Oscar\u00ae for Writing\u202c\u202c\u202c\u202c \"The Apartment\"",
+        "key": "wg5SdYUQz-A",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "68472c28798d308006fd61c8",
+        "published_at": "2012-09-14T22:26:22.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Billy Wilder winning the Oscar\u00ae for Directing\u202c\u202c\u202c\u202c \"The Apartment\"",
+        "key": "S2X_BenTWNA",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "68472bd94e83f7c09bde7306",
+        "published_at": "2012-08-28T17:31:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"The Apartment\" winning Best Picture",
+        "key": "tC99FU4bdAg",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "68472bcf72276fc73bbb33aa",
+        "published_at": "2012-03-14T16:29:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Jack Lemmon On THE APARTMENT",
+        "key": "frUrR3vc3M8",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec653c3a3685448000255",
+        "published_at": "2010-12-10T23:43:53.000Z"
+      }
+    ]
+  }
+}

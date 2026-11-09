@@ -1,0 +1,155 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/wyvUmyzqGOBDyqLHRSukGDjI7bH.jpg",
+        "id": 50014,
+        "title": "The Help",
+        "original_title": "The Help",
+        "overview": "Aibileen Clark is a middle-aged African-American maid who has spent her life raising white children and has recently lost her only son; Minny Jackson is an African-American maid who has often offended her employers despite her family's struggles with money and her desperate need for jobs; and Eugenia \"Skeeter\" Phelan is a young white woman who has recently moved back home after graduating college to find out her childhood maid has mysteriously disappeared. These three stories intertwine to explain how life in Jackson, Mississippi revolves around \"the help\"; yet they are always kept at a certain distance because of racial lines.",
+        "poster_path": "/3kmfoWWEc9Vtyuaf9v5VipRgdjx.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 11.2524,
+        "release_date": "2011-08-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.206,
+        "vote_count": 9411
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 50014,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Celia Cooks a \"Thank You\" Dinner for Minny",
+        "key": "dN53QnTXdxY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67fd41e39d1f778ab8992afd",
+        "published_at": "2025-04-11T22:00:54.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Minny Makes a Pie",
+        "key": "bjop6F43wwM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "67f86525ea80d85175998216",
+        "published_at": "2025-04-10T22:00:43.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "A Social Awakening",
+        "key": "5-7EzuQvQzA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "5dcac1d56c0e4f00183e2e79",
+        "published_at": "2012-02-09T18:47:28.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Help -- Accolades",
+        "key": "dM2Z_kw1zKQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "5dcac21aab1bc7001809c239",
+        "published_at": "2012-01-28T03:18:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Shinolator",
+        "key": "j9MWO4iIad0",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "5dcac1b36e44bf0013ef4622",
+        "published_at": "2011-10-14T17:21:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Put Mama in a Chair\"",
+        "key": "rK51ruZhnzY",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "5dcac14b344a8e001651d3aa",
+        "published_at": "2011-10-14T17:15:43.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"You Should Read the Book\"",
+        "key": "r14hV_oLygA",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "5dcac182344a8e001651d3d7",
+        "published_at": "2011-10-14T16:30:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Skeeter's Interview",
+        "key": "9KdLBjL_XQg",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "5dcac1656e44bf0013ef45c5",
+        "published_at": "2011-10-14T16:28:36.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Skeeter Needs Aibileen's Help",
+        "key": "CLCOiY1kaOM",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "5dcac121470ead00159b16ac",
+        "published_at": "2011-10-14T16:25:53.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "3eajzW3XW7Q",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "5dcac0d16e44bf0013ef4521",
+        "published_at": "2011-05-02T20:11:49.000Z"
+      }
+    ]
+  }
+}

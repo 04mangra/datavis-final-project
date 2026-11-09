@@ -1,0 +1,84 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
+        "id": 37165,
+        "title": "The Truman Show",
+        "original_title": "The Truman Show",
+        "overview": "In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a long-running real-time reality TV show.",
+        "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 22.2328,
+        "release_date": "1998-06-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.16,
+        "vote_count": 21194
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 37165,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "\"Escape Town on a Bus\" Clip",
+        "key": "gPPN8OPYMsQ",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "64e3675365e0a20139ff9a18",
+        "published_at": "2023-08-12T14:09:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Every Time Jim Carrey Spots a Creepy Fake Ad",
+        "key": "TcG157VFbuY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "64c0db0b2f1be0014ef5b52f",
+        "published_at": "2023-07-14T15:00:19.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Truman Show - Trailer",
+        "key": "N1VlDVRiFrk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6615a0009bcd0f017d2c3df0",
+        "published_at": "2015-02-03T21:21:49.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "loTIzXAS7v4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "5b6405fd0e0a267ee704cf26",
+        "published_at": "2012-05-17T16:56:13.000Z"
+      }
+    ]
+  }
+}

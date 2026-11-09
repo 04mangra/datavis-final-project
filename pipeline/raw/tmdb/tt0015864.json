@@ -1,0 +1,61 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/66h0ReXG6DVOKtdVCRwMduAia9P.jpg",
+        "id": 962,
+        "title": "The Gold Rush",
+        "original_title": "The Gold Rush",
+        "overview": "A gold prospector in Alaska struggles to survive the elements and win the heart of a dance hall girl.",
+        "poster_path": "/eQRFo1qwRREYwj47Yoe1PisgOle.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          35,
+          18
+        ],
+        "popularity": 4.1522,
+        "release_date": "1925-07-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.96,
+        "vote_count": 1928
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 962,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "New 100th Anniversary Trailer",
+        "key": "DJwOpY84Oq4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "682ed99df9ae293269343de4",
+        "published_at": "2025-05-20T15:32:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Three Reasons: The Gold Rush",
+        "key": "dSFqXOUevRE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "533ec657c3a36854480006fc",
+        "published_at": "2012-05-10T17:18:37.000Z"
+      }
+    ]
+  }
+}

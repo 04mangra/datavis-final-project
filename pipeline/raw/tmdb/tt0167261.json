@@ -1,0 +1,85 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+        "id": 121,
+        "title": "The Lord of the Rings: The Two Towers",
+        "original_title": "The Lord of the Rings: The Two Towers",
+        "overview": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers - Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor.",
+        "poster_path": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "popularity": 27.7344,
+        "release_date": "2002-12-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.432,
+        "vote_count": 24933
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 121,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "4K Ultra HD",
+        "key": "nuTU5XcZTLA",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": true,
+        "id": "5fc8aafe3f8ede004000808c",
+        "published_at": "2020-12-02T17:34:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "10 Minute Preview",
+        "key": "lgEfUC8md88",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "615f954f43d9b10063a98f07",
+        "published_at": "2020-06-05T14:14:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Original Theatrical Trailer",
+        "key": "Y4neBR0h39c",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "699bb4cd84805f248e3747da",
+        "published_at": "2014-07-08T23:35:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer #1",
+        "key": "hYcw5ksV8YQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "699bb4de19b9d62c03590f72",
+        "published_at": "2014-05-15T03:45:46.000Z"
+      }
+    ]
+  }
+}

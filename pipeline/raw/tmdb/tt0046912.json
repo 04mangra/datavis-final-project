@@ -1,0 +1,169 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/mD6EAjfIr7CLdFlCIJjh7CJeWX3.jpg",
+        "id": 521,
+        "title": "Dial M for Murder",
+        "original_title": "Dial M for Murder",
+        "overview": "When her American lover visits London, a wealthy woman\u2019s jealous husband hatches a plan to murder her and inherit her fortune.",
+        "poster_path": "/2gDCAgl2iBQNuJuk6p2xtuS1ewg.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          80,
+          18
+        ],
+        "popularity": 4.3784,
+        "release_date": "1954-05-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.003,
+        "vote_count": 2994
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 521,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Margot (Grace Kelly) Is Attacked While Answering the Telephone | Dial M for Murder (1954) | TCM",
+        "key": "2eVEmRcGviI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "680ffc46930c895e280fa21d",
+        "published_at": "2025-03-23T11:00:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dial M for Murder - Trailer 1",
+        "key": "kR_NZuW28XE",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "653508d742d837012c76c9d3",
+        "published_at": "2014-07-08T23:12:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dial M for Murder (1954) Official Trailer - Alfred Hitchcock, Grace Kelly Movie HD",
+        "key": "JWP_hrNHSN4",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": false,
+        "id": "67ef2f238b1f32eb79d90f47",
+        "published_at": "2013-12-07T01:31:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Mark Pellington on DIAL M FOR MURDER",
+        "key": "IVLTgKsu_8s",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec654c3a36854480003ba",
+        "published_at": "2013-09-18T16:22:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Martin Scorsese on \"Dial M for Murder\"",
+        "key": "p0DVWbVE0Ww",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Featurette",
+        "official": true,
+        "id": "65350949c14fee013a4d197f",
+        "published_at": "2013-06-20T16:39:29.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dial M For Murder official trailer for rerelease",
+        "key": "_rLa7HIkkQc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "655ae4e40816c700fd32cced",
+        "published_at": "2013-06-18T15:48:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dial M for Murder | Grace Kelly, The Actress | Warner Bros. Entertainment",
+        "key": "IPdhcv9htvQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6535091bc14fee00ad9e5001",
+        "published_at": "2012-10-12T22:00:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dial M for Murder | 3D - Tomorrow Night | Warner Bros. Entertainment",
+        "key": "WeT3VN5mi8Q",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6535090d2b2108013f5ab984",
+        "published_at": "2012-10-02T21:36:32.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dial M for Murder | 3D - Murder | Warner Bros. Entertainment",
+        "key": "5QQjSUNVM7o",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Clip",
+        "official": true,
+        "id": "653508efc14fee0100e982de",
+        "published_at": "2012-10-02T21:36:10.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dial M for Murder | 3D - Blackmail | Warner Bros. Entertainment",
+        "key": "JYH5B3S5l5k",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "65350902c8a5ac011cf02559",
+        "published_at": "2012-10-02T21:35:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Leonard Maltin On DIAL M FOR MURDER",
+        "key": "yNnNBidE2R0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6535095a8cfcc7014c8dde6c",
+        "published_at": "2009-10-05T22:01:35.000Z"
+      }
+    ]
+  }
+}

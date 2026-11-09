@@ -1,0 +1,313 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/nk5gq5rNLBJiHvNGMRT6I9VRQX7.jpg",
+        "id": 665,
+        "title": "Ben-Hur",
+        "original_title": "Ben-Hur",
+        "overview": "In ancient Judea, a Jewish aristocrat opposing Roman occupation of his homeland reunites with his childhood friend, now a Roman commander \u2014 setting in motion a saga of betrayal, adventure, tragedy, revenge, and faith.",
+        "poster_path": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          36,
+          18,
+          12
+        ],
+        "popularity": 9.5971,
+        "release_date": "1959-11-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.891,
+        "vote_count": 3333
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 665,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Chariot Race - Movie Clip",
+        "key": "n4MT5oEs9Yg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "699dae69f9ba68c7f82b0181",
+        "published_at": "2026-02-24T13:01:24.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Judah & Messala Reunite",
+        "key": "MTUcAwOQt9U",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6994833201a5cd7d4d1afb20",
+        "published_at": "2026-02-17T15:00:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Fathom Events Spot",
+        "key": "nUSoNmIK-Dk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "698e500277e5067fdacc8882",
+        "published_at": "2026-02-12T16:25:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Macedonian Pirates Attack the Roman Fleet - Movie Clip",
+        "key": "B1IMQ5TkR6o",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Clip",
+        "official": true,
+        "id": "695e4d56a23bee26cda2da65",
+        "published_at": "2026-01-06T13:00:20.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Condemned to the Galleys",
+        "key": "yioK4GsCBts",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "684406a3d87a151c53341ea2",
+        "published_at": "2025-06-06T14:29:15.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Macedonian Pirates Attack the Roman Fleet",
+        "key": "BF-HAXoTjx4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6786edf3bd793c03544f1188",
+        "published_at": "2025-01-10T15:15:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Chariot Race - Full Scene",
+        "key": "1LVp4tvl5O4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6786ee0b601acfe7bd4f91e0",
+        "published_at": "2024-07-19T14:00:02.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Full Movie Preview",
+        "key": "gmi8gZxiYIU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6786ee1f1fc0ec7f087b21d4",
+        "published_at": "2020-04-12T19:59:51.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TCM's Ben Mankiewicz Announces BEN HUR for AFI Movie Club",
+        "key": "IZ44MtAnuJY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6786ee5c601acfe7bd4f91fb",
+        "published_at": "2020-04-12T15:12:44.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Charlton Heston & Martin Scorsese on BEN HUR",
+        "key": "aNKgWABhKsM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6786ee94ababbba040bbb48b",
+        "published_at": "2020-04-12T15:11:09.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TCM 60th Anniversary Spot",
+        "key": "2VqQjoZyhKE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "698e4fdf7462c7f7accd6e85",
+        "published_at": "2019-03-06T17:41:48.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Diary of Anne Frank and Ben-Hur Win Cinematography: 1960 Oscars",
+        "key": "_SLSzowx6V4",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6786ef85db4fe022ad4eac76",
+        "published_at": "2016-02-04T19:50:07.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Diary of Anne Frank and Ben-Hur winning Art Direction: 1960 Oscars",
+        "key": "5A746bBYCPQ",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6786f025ababbba040bbb4e4",
+        "published_at": "2016-02-04T19:49:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ben-Hur Wins Film Editing: 1960 Oscars",
+        "key": "bvGbPEjbKwo",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6786ef74ababbba040bbb4a6",
+        "published_at": "2016-02-04T19:49:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ben-Hur Wins Sound: 1960 Oscars",
+        "key": "Ly0cMG7IVxs",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6786ef491fc0ec7f087b2205",
+        "published_at": "2016-02-04T19:46:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ben-Hur Wins Special Effects: 1960 Oscars",
+        "key": "Ias8zVL-Kik",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6786ef2eababbba040bbb49d",
+        "published_at": "2016-02-04T19:45:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Some Like It Hot and Ben-Hur Win Costume Design: 1960 Oscars",
+        "key": "uyhGiyKVQZ0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6786efbcdb4fe022ad4eac9c",
+        "published_at": "2014-03-12T16:48:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Porgy and Bess and Ben-Hur Win Music Awards: 1960 Oscars",
+        "key": "cID51wQT5ns",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6786f08ab9094c7dfebb7917",
+        "published_at": "2014-02-21T23:36:20.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hugh Griffith Wins Supporting Actor: 1960 Oscars",
+        "key": "PXNC3Br9EM0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6786f058ababbba040bbb4e9",
+        "published_at": "2014-02-18T20:30:19.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "John Landis on BEN-HUR",
+        "key": "CISLKr28-Jc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "533ec655c3a368544800050c",
+        "published_at": "2014-01-16T20:39:42.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Ben-Hur and William Wyler Win Best Picture and Directing: 1960 Oscars",
+        "key": "m65l5gxxMi0",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6786eedf601acfe7bd4f9219",
+        "published_at": "2013-08-12T19:56:37.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Charlton Heston Wins Best Actor: 1960 Oscars",
+        "key": "lJrYn8R-2J4",
+        "site": "YouTube",
+        "size": 480,
+        "type": "Featurette",
+        "official": true,
+        "id": "6786ef07ababbba040bbb499",
+        "published_at": "2013-01-08T17:49:57.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "50th Anniversary Ultimate Collector's Edition Trailer",
+        "key": "f2y1gDeZ230",
+        "site": "YouTube",
+        "size": 360,
+        "type": "Trailer",
+        "official": true,
+        "id": "6786f17b2b1e40e83fbb2570",
+        "published_at": "2011-06-21T15:18:02.000Z"
+      }
+    ]
+  }
+}

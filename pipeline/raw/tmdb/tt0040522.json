@@ -1,0 +1,71 @@
+{
+  "find": {
+    "movie_results": [
+      {
+        "adult": false,
+        "backdrop_path": "/kTUUiKGKrdRhJsCcYT3Ivtfuuzh.jpg",
+        "id": 5156,
+        "title": "Bicycle Thieves",
+        "original_title": "Ladri di biciclette",
+        "overview": "Unemployed Antonio is elated when he finally finds work hanging posters around war-torn Rome. However on his first day, his bicycle\u2014essential to his work\u2014gets stolen. His job is doomed unless he can find the thief. With the help of his son, Antonio combs the city, becoming desperate for justice.",
+        "poster_path": "/iPdVqIpmR3bRvOQJPrn4pr2KR3q.jpg",
+        "media_type": "movie",
+        "original_language": "it",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 4.8959,
+        "release_date": "1948-07-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.162,
+        "vote_count": 2800
+      }
+    ],
+    "person_results": [],
+    "tv_results": [],
+    "tv_episode_results": [],
+    "tv_season_results": []
+  },
+  "videos": {
+    "id": 5156,
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Bicycle Thieves (1948) Trailer #1",
+        "key": "H2P4xo9kmPM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "5eaee7ed71f0950024ad7fd3",
+        "published_at": "2018-02-08T21:54:26.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Suso Cecchi D'Amico on BICYCLES THIEVES",
+        "key": "d2Gs37JdQak",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "571531c59251417a22000829",
+        "published_at": "2016-04-15T16:00:39.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Enzo Staiola on BICYCLE THIEVES",
+        "key": "NAvd8gFRfSQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "571531dc9251410fa40006ae",
+        "published_at": "2016-04-15T16:00:15.000Z"
+      }
+    ]
+  }
+}
