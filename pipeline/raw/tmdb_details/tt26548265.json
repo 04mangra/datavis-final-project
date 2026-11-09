@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/ot1UteJ1TL3xWuhkLRNzBULw4KJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1118224,
+  "imdb_id": "tt26548265",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "ta",
+  "original_title": "\u0bae\u0b95\u0bbe\u0bb0\u0bbe\u0b9c\u0bbe",
+  "overview": "A barber seeks vengeance after his home is burglarized, cryptically telling police his \"Lakshmi\" has been taken, leaving them uncertain if it's a person or object, jeer at his request until they learn what they're really looking for.",
+  "popularity": 2.873,
+  "poster_path": "/s0m4TM1XRAftQStgKpw024RvkJo.jpg",
+  "production_companies": [
+    {
+      "id": 99430,
+      "logo_path": "/1awi9lZqmKwezdQvKwysg3QmlVg.png",
+      "name": "Passion Studios",
+      "origin_country": "IN"
+    },
+    {
+      "id": 182074,
+      "logo_path": null,
+      "name": "The Route",
+      "origin_country": "IN"
+    },
+    {
+      "id": 164726,
+      "logo_path": null,
+      "name": "Think Studios",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2024-06-14",
+  "revenue": 10758542,
+  "runtime": 141,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Maharaja",
+  "video": false,
+  "vote_average": 7.73,
+  "vote_count": 280
+}

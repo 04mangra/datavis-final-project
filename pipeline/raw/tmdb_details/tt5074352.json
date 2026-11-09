@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/l0fNAHLOFReQJsxCOmGWvJDnimn.jpg",
+  "belongs_to_collection": null,
+  "budget": 10400000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 360814,
+  "imdb_id": "tt5074352",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "\u0926\u0902\u0917\u0932",
+  "overview": "Dangal is an extraordinary true story based on the life of Mahavir Singh and his two daughters, Geeta and Babita Phogat. The film traces the inspirational journey of a father who trains his daughters to become world class wrestlers.",
+  "popularity": 5.9283,
+  "poster_path": "/cJRPOLEexI7qp2DKtFfCh7YaaUG.jpg",
+  "production_companies": [
+    {
+      "id": 2140,
+      "logo_path": "/yJIGEhIk3yAWAIiZ4p3xEV1dzwR.png",
+      "name": "Aamir Khan Productions",
+      "origin_country": "IN"
+    },
+    {
+      "id": 2320,
+      "logo_path": "/nSAXfUCy16cNRiPlBMHeb700t9p.png",
+      "name": "UTV Motion Pictures",
+      "origin_country": "IN"
+    },
+    {
+      "id": 164864,
+      "logo_path": null,
+      "name": "Disney India Media Networks",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2016-12-21",
+  "revenue": 311000000,
+  "runtime": 161,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dangal",
+  "video": false,
+  "vote_average": 7.865,
+  "vote_count": 1250
+}
