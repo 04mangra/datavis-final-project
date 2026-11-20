@@ -8,6 +8,9 @@ node_modules
 /.svelte-kit
 /build
 
+# vscode
+.vscode
+
 # OS
 .DS_Store
 Thumbs.db
@@ -21,3 +24,10 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Python pipeline
+pipeline/.venv/
+__pycache__/
+
+# claude
+CLAUDE.md
