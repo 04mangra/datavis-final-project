@@ -16,7 +16,7 @@
 		height: 2.75rem;
 		border-radius: 50%;
 		color: var(--text);
-		background: rgb(20 20 24 / 0.75);
+		background: color-mix(in srgb, var(--bg) 75%, transparent);
 		border: 1px solid var(--border);
 		backdrop-filter: blur(6px);
 		transition: border-color 0.15s, color 0.15s;

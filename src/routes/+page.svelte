@@ -44,7 +44,7 @@
 		max-width: 64rem;
 		margin: 0 auto;
 		padding: 4rem 1rem;
-		background: radial-gradient(ellipse at top, rgb(227 178 60 / 0.08), transparent 60%);
+		background: radial-gradient(ellipse at top, color-mix(in srgb, var(--gold) 14%, transparent), transparent 60%);
 	}
 	header {
 		text-align: center;
