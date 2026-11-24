@@ -1,0 +1,1736 @@
+country_name,country_iso2,genre,film_weeks,share,global_share,lift,region,subregion,languages
+Argentina,AR,Western,2.5,0.0047,0.0019,2.4347,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,Drama,98.8167,0.1868,0.1398,1.3359,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,History,7.4,0.014,0.0109,1.2835,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,Mystery,22.4167,0.0424,0.0379,1.1171,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,Family,24.3833,0.0461,0.0425,1.0838,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,Horror,21.5833,0.0408,0.0377,1.0811,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,War,5.1667,0.0098,0.0096,1.0131,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,Romance,38.9333,0.0736,0.0732,1.0056,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,Comedy,82.7833,0.1565,0.1569,0.9975,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,Thriller,66.1167,0.125,0.1263,0.9897,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,Music,3.75,0.0071,0.0072,0.9818,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,Animation,13.3833,0.0253,0.0263,0.9629,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,Crime,34.6667,0.0655,0.0684,0.9586,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,Action,53.5667,0.1013,0.1204,0.8409,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,Adventure,23.7167,0.0448,0.058,0.7727,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,Fantasy,12.4167,0.0235,0.0309,0.7585,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,Science Fiction,10.7333,0.0203,0.0289,0.7018,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,Documentary,6.3333,0.012,0.0207,0.5783,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Argentina,AR,TV Movie,0.3333,0.0006,0.0023,0.2748,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Australia,AU,Western,1.9167,0.0036,0.0019,1.8631,Oceania,Australia and New Zealand,English
+Australia,AU,Documentary,18.8333,0.0355,0.0207,1.7163,Oceania,Australia and New Zealand,English
+Australia,AU,Fantasy,27.1333,0.0512,0.0309,1.6543,Oceania,Australia and New Zealand,English
+Australia,AU,Animation,20.7167,0.0391,0.0263,1.4877,Oceania,Australia and New Zealand,English
+Australia,AU,War,7.25,0.0137,0.0096,1.4189,Oceania,Australia and New Zealand,English
+Australia,AU,Family,31.0833,0.0586,0.0425,1.379,Oceania,Australia and New Zealand,English
+Australia,AU,History,7.8333,0.0148,0.0109,1.3561,Oceania,Australia and New Zealand,English
+Australia,AU,Adventure,40.3333,0.0761,0.058,1.3117,Oceania,Australia and New Zealand,English
+Australia,AU,Music,4.8167,0.0091,0.0072,1.2587,Oceania,Australia and New Zealand,English
+Australia,AU,Science Fiction,17.7333,0.0335,0.0289,1.1573,Oceania,Australia and New Zealand,English
+Australia,AU,Comedy,79.8167,0.1506,0.1569,0.96,Oceania,Australia and New Zealand,English
+Australia,AU,Mystery,18.7333,0.0353,0.0379,0.9318,Oceania,Australia and New Zealand,English
+Australia,AU,Thriller,59.5167,0.1123,0.1263,0.8893,Oceania,Australia and New Zealand,English
+Australia,AU,Crime,32.0833,0.0605,0.0684,0.8855,Oceania,Australia and New Zealand,English
+Australia,AU,Horror,17.4333,0.0329,0.0377,0.8716,Oceania,Australia and New Zealand,English
+Australia,AU,Drama,62.4,0.1177,0.1398,0.842,Oceania,Australia and New Zealand,English
+Australia,AU,Action,53.35,0.1007,0.1204,0.836,Oceania,Australia and New Zealand,English
+Australia,AU,Romance,28.1833,0.0532,0.0732,0.7266,Oceania,Australia and New Zealand,English
+Australia,AU,TV Movie,0.8333,0.0016,0.0023,0.6856,Oceania,Australia and New Zealand,English
+Austria,AT,TV Movie,3.3333,0.0063,0.0023,2.7423,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,War,9.3333,0.0176,0.0096,1.8267,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,Documentary,19.8333,0.0374,0.0207,1.8075,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,Science Fiction,19.9167,0.0376,0.0289,1.2998,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,History,6.9167,0.0131,0.0109,1.1974,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,Romance,45.0833,0.0851,0.0732,1.1622,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,Comedy,91.6,0.1728,0.1569,1.1017,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,Horror,21.6667,0.0409,0.0377,1.0833,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,Mystery,21.5833,0.0407,0.0379,1.0736,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,Crime,36.0,0.0679,0.0684,0.9936,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,Adventure,29.5167,0.0557,0.058,0.9599,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,Drama,69.5833,0.1313,0.1398,0.9389,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,Thriller,60.8333,0.1148,0.1263,0.9089,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,Music,3.25,0.0061,0.0072,0.8493,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,Action,53.5167,0.101,0.1204,0.8386,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,Family,16.9333,0.0319,0.0425,0.7512,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,Fantasy,11.5,0.0217,0.0309,0.7011,Europe,Western Europe,Austro-Bavarian German
+Austria,AT,Animation,9.6,0.0181,0.0263,0.6894,Europe,Western Europe,Austro-Bavarian German
+Bahamas,BS,TV Movie,2.0833,0.0039,0.0023,1.714,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Western,1.75,0.0033,0.0019,1.7011,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Romance,44.15,0.0833,0.0732,1.1382,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Drama,83.25,0.1571,0.1398,1.1233,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Action,70.7333,0.1335,0.1204,1.1084,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Thriller,72.6667,0.1371,0.1263,1.0857,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Music,4.0,0.0075,0.0072,1.0453,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Horror,20.4167,0.0385,0.0377,1.0208,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Comedy,84.55,0.1595,0.1569,1.0169,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Mystery,20.05,0.0378,0.0379,0.9973,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Crime,35.3,0.0666,0.0684,0.9743,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Fantasy,15.9333,0.0301,0.0309,0.9714,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Science Fiction,13.2333,0.025,0.0289,0.8636,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Family,18.15,0.0342,0.0425,0.8052,Americas,Latin America and the Caribbean,English
+Bahamas,BS,War,3.7833,0.0071,0.0096,0.7405,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Adventure,22.2667,0.042,0.058,0.7241,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Animation,10.0667,0.019,0.0263,0.7229,Americas,Latin America and the Caribbean,English
+Bahamas,BS,Documentary,5.0,0.0094,0.0207,0.4557,Americas,Latin America and the Caribbean,English
+Bahamas,BS,History,2.6167,0.0049,0.0109,0.453,Americas,Latin America and the Caribbean,English
+Bahrain,BH,Western,2.0833,0.0039,0.0019,2.0251,Asia,Western Asia,Arabic
+Bahrain,BH,Thriller,91.8667,0.1733,0.1263,1.3726,Asia,Western Asia,Arabic
+Bahrain,BH,Crime,46.35,0.0875,0.0684,1.2792,Asia,Western Asia,Arabic
+Bahrain,BH,Action,77.9833,0.1471,0.1204,1.222,Asia,Western Asia,Arabic
+Bahrain,BH,Mystery,23.35,0.0441,0.0379,1.1615,Asia,Western Asia,Arabic
+Bahrain,BH,Comedy,77.3167,0.1459,0.1569,0.9299,Asia,Western Asia,Arabic
+Bahrain,BH,Adventure,28.2667,0.0533,0.058,0.9193,Asia,Western Asia,Arabic
+Bahrain,BH,Drama,68.0833,0.1285,0.1398,0.9187,Asia,Western Asia,Arabic
+Bahrain,BH,Romance,33.5167,0.0632,0.0732,0.8641,Asia,Western Asia,Arabic
+Bahrain,BH,Horror,16.8333,0.0318,0.0377,0.8416,Asia,Western Asia,Arabic
+Bahrain,BH,History,4.6167,0.0087,0.0109,0.7992,Asia,Western Asia,Arabic
+Bahrain,BH,Family,17.0167,0.0321,0.0425,0.7549,Asia,Western Asia,Arabic
+Bahrain,BH,Science Fiction,11.4,0.0215,0.0289,0.744,Asia,Western Asia,Arabic
+Bahrain,BH,Fantasy,11.55,0.0218,0.0309,0.7042,Asia,Western Asia,Arabic
+Bahrain,BH,Animation,9.65,0.0182,0.0263,0.693,Asia,Western Asia,Arabic
+Bahrain,BH,War,3.1167,0.0059,0.0096,0.61,Asia,Western Asia,Arabic
+Bahrain,BH,Documentary,5.1667,0.0097,0.0207,0.4708,Asia,Western Asia,Arabic
+Bahrain,BH,Music,1.5,0.0028,0.0072,0.392,Asia,Western Asia,Arabic
+Bahrain,BH,TV Movie,0.3333,0.0006,0.0023,0.2742,Asia,Western Asia,Arabic
+Bangladesh,BD,Thriller,89.5833,0.1693,0.1263,1.341,Asia,Southern Asia,Bengali
+Bangladesh,BD,Drama,98.4167,0.186,0.1398,1.3305,Asia,Southern Asia,Bengali
+Bangladesh,BD,Action,75.6667,0.143,0.1204,1.1879,Asia,Southern Asia,Bengali
+Bangladesh,BD,Crime,42.1833,0.0797,0.0684,1.1664,Asia,Southern Asia,Bengali
+Bangladesh,BD,History,6.2,0.0117,0.0109,1.0753,Asia,Southern Asia,Bengali
+Bangladesh,BD,Romance,41.1667,0.0778,0.0732,1.0633,Asia,Southern Asia,Bengali
+Bangladesh,BD,Music,3.6667,0.0069,0.0072,0.96,Asia,Southern Asia,Bengali
+Bangladesh,BD,Horror,18.0,0.034,0.0377,0.9016,Asia,Southern Asia,Bengali
+Bangladesh,BD,Comedy,73.7833,0.1395,0.1569,0.8891,Asia,Southern Asia,Bengali
+Bangladesh,BD,Adventure,22.7667,0.043,0.058,0.7418,Asia,Southern Asia,Bengali
+Bangladesh,BD,Science Fiction,11.05,0.0209,0.0289,0.7225,Asia,Southern Asia,Bengali
+Bangladesh,BD,Mystery,13.1333,0.0248,0.0379,0.6545,Asia,Southern Asia,Bengali
+Bangladesh,BD,Animation,7.9,0.0149,0.0263,0.5684,Asia,Southern Asia,Bengali
+Bangladesh,BD,War,2.7,0.0051,0.0096,0.5294,Asia,Southern Asia,Bengali
+Bangladesh,BD,Family,11.7333,0.0222,0.0425,0.5215,Asia,Southern Asia,Bengali
+Bangladesh,BD,Fantasy,7.3,0.0138,0.0309,0.4459,Asia,Southern Asia,Bengali
+Bangladesh,BD,TV Movie,0.5,0.0009,0.0023,0.4121,Asia,Southern Asia,Bengali
+Bangladesh,BD,Documentary,3.0,0.0057,0.0207,0.2739,Asia,Southern Asia,Bengali
+Bangladesh,BD,Western,0.25,0.0005,0.0019,0.2435,Asia,Southern Asia,Bengali
+Belgium,BE,Documentary,18.8333,0.0355,0.0207,1.7163,Europe,Western Europe,German|French|Dutch
+Belgium,BE,TV Movie,1.75,0.0033,0.0023,1.4397,Europe,Western Europe,German|French|Dutch
+Belgium,BE,Science Fiction,20.3833,0.0385,0.0289,1.3302,Europe,Western Europe,German|French|Dutch
+Belgium,BE,Fantasy,21.45,0.0405,0.0309,1.3078,Europe,Western Europe,German|French|Dutch
+Belgium,BE,Adventure,40.05,0.0756,0.058,1.3025,Europe,Western Europe,German|French|Dutch
+Belgium,BE,Horror,24.5667,0.0464,0.0377,1.2283,Europe,Western Europe,German|French|Dutch
+Belgium,BE,Mystery,22.6333,0.0427,0.0379,1.1258,Europe,Western Europe,German|French|Dutch
+Belgium,BE,Animation,14.7833,0.0279,0.0263,1.0616,Europe,Western Europe,German|French|Dutch
+Belgium,BE,Family,23.2833,0.0439,0.0425,1.0329,Europe,Western Europe,German|French|Dutch
+Belgium,BE,History,5.8333,0.011,0.0109,1.0098,Europe,Western Europe,German|French|Dutch
+Belgium,BE,Crime,35.75,0.0675,0.0684,0.9867,Europe,Western Europe,German|French|Dutch
+Belgium,BE,War,5.0,0.0094,0.0096,0.9786,Europe,Western Europe,German|French|Dutch
+Belgium,BE,Romance,36.8333,0.0695,0.0732,0.9496,Europe,Western Europe,German|French|Dutch
+Belgium,BE,Comedy,78.75,0.1486,0.1569,0.9471,Europe,Western Europe,German|French|Dutch
+Belgium,BE,Thriller,63.3167,0.1195,0.1263,0.946,Europe,Western Europe,German|French|Dutch
+Belgium,BE,Music,3.25,0.0061,0.0072,0.8493,Europe,Western Europe,German|French|Dutch
+Belgium,BE,Drama,62.9,0.1187,0.1398,0.8487,Europe,Western Europe,German|French|Dutch
+Belgium,BE,Action,50.1333,0.0946,0.1204,0.7856,Europe,Western Europe,German|French|Dutch
+Belgium,BE,Western,0.5,0.0009,0.0019,0.486,Europe,Western Europe,German|French|Dutch
+Bolivia,BO,Music,10.05,0.019,0.0072,2.6363,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,Animation,34.9667,0.0662,0.0263,2.5206,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,Family,46.4167,0.0879,0.0425,2.067,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,Fantasy,28.8,0.0545,0.0309,1.7625,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,Comedy,104.1667,0.1973,0.1569,1.2576,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,Adventure,34.2333,0.0648,0.058,1.1175,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,Horror,17.9167,0.0339,0.0377,0.8992,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,Western,0.8667,0.0016,0.0019,0.8456,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,Drama,61.4833,0.1164,0.1398,0.8328,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,Romance,31.95,0.0605,0.0732,0.8268,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,Science Fiction,12.1,0.0229,0.0289,0.7926,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,Action,50.1167,0.0949,0.1204,0.7883,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,Thriller,49.0833,0.093,0.1263,0.7361,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,War,3.5833,0.0068,0.0096,0.704,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,Mystery,13.9667,0.0265,0.0379,0.6974,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,History,3.7833,0.0072,0.0109,0.6574,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,Crime,23.5167,0.0445,0.0684,0.6515,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Bolivia,BO,Documentary,1.0,0.0019,0.0207,0.0915,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Brazil,BR,Western,1.9167,0.0036,0.0019,1.8666,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,Animation,18.2333,0.0345,0.0263,1.3119,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,Family,27.9833,0.0529,0.0425,1.2438,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,TV Movie,1.4,0.0026,0.0023,1.154,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,Mystery,21.7167,0.0411,0.0379,1.0823,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,Crime,37.9833,0.0718,0.0684,1.0503,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,Comedy,87.0667,0.1646,0.1569,1.0491,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,Fantasy,16.9167,0.032,0.0309,1.0333,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,Romance,39.9667,0.0756,0.0732,1.0323,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,Music,3.9333,0.0074,0.0072,1.0298,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,Drama,72.9333,0.1379,0.1398,0.986,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,Action,62.2833,0.1177,0.1204,0.9778,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,Adventure,29.4,0.0556,0.058,0.9579,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,Thriller,62.9333,0.119,0.1263,0.9421,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,Horror,18.5833,0.0351,0.0377,0.9309,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,Science Fiction,13.15,0.0249,0.0289,0.8598,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,War,3.25,0.0061,0.0096,0.6373,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,History,3.35,0.0063,0.0109,0.581,Americas,Latin America and the Caribbean,Portuguese
+Brazil,BR,Documentary,6.0,0.0113,0.0207,0.5478,Americas,Latin America and the Caribbean,Portuguese
+Bulgaria,BG,Documentary,15.8333,0.0299,0.0207,1.4429,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,Science Fiction,21.45,0.0405,0.0289,1.3998,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,Romance,49.8333,0.094,0.0732,1.2847,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,Crime,41.4,0.0781,0.0684,1.1426,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,Adventure,34.65,0.0654,0.058,1.1268,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,War,5.75,0.0108,0.0096,1.1254,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,Mystery,21.6667,0.0409,0.0379,1.0777,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,Comedy,88.9333,0.1678,0.1569,1.0696,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,TV Movie,1.25,0.0024,0.0023,1.0284,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,Action,63.4667,0.1197,0.1204,0.9945,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,Thriller,60.9167,0.1149,0.1263,0.9102,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,Drama,65.0167,0.1227,0.1398,0.8773,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,Fantasy,13.8833,0.0262,0.0309,0.8464,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,Animation,10.85,0.0205,0.0263,0.7792,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,Horror,14.25,0.0269,0.0377,0.7125,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,Family,15.6833,0.0296,0.0425,0.6958,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,Western,0.5833,0.0011,0.0019,0.567,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,Music,2.0,0.0038,0.0072,0.5227,Europe,Eastern Europe,Bulgarian
+Bulgaria,BG,History,2.5833,0.0049,0.0109,0.4472,Europe,Eastern Europe,Bulgarian
+Canada,CA,Documentary,29.8333,0.0563,0.0207,2.7188,Americas,Northern America,English|French
+Canada,CA,Western,2.75,0.0052,0.0019,2.6731,Americas,Northern America,English|French
+Canada,CA,History,8.5833,0.0162,0.0109,1.4859,Americas,Northern America,English|French
+Canada,CA,Adventure,35.15,0.0663,0.058,1.1431,Americas,Northern America,English|French
+Canada,CA,Crime,38.9167,0.0734,0.0684,1.0741,Americas,Northern America,English|French
+Canada,CA,Comedy,85.6833,0.1617,0.1569,1.0305,Americas,Northern America,English|French
+Canada,CA,Fantasy,16.6667,0.0314,0.0309,1.0161,Americas,Northern America,English|French
+Canada,CA,Mystery,20.3333,0.0384,0.0379,1.0114,Americas,Northern America,English|French
+Canada,CA,Drama,73.75,0.1392,0.1398,0.9951,Americas,Northern America,English|French
+Canada,CA,Horror,19.5833,0.0369,0.0377,0.9791,Americas,Northern America,English|French
+Canada,CA,Family,21.7833,0.0411,0.0425,0.9664,Americas,Northern America,English|French
+Canada,CA,Science Fiction,14.6333,0.0276,0.0289,0.955,Americas,Northern America,English|French
+Canada,CA,Music,3.5833,0.0068,0.0072,0.9364,Americas,Northern America,English|French
+Canada,CA,Thriller,60.0333,0.1133,0.1263,0.897,Americas,Northern America,English|French
+Canada,CA,Action,54.7333,0.1033,0.1204,0.8576,Americas,Northern America,English|French
+Canada,CA,Romance,32.6833,0.0617,0.0732,0.8426,Americas,Northern America,English|French
+Canada,CA,Animation,8.3,0.0157,0.0263,0.596,Americas,Northern America,English|French
+Canada,CA,War,3.0,0.0057,0.0096,0.5871,Americas,Northern America,English|French
+Chile,CL,Western,2.0667,0.0039,0.0019,2.0127,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,Family,34.0,0.0643,0.0425,1.5112,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,Music,5.5833,0.0106,0.0072,1.4618,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,Animation,20.0833,0.038,0.0263,1.445,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,Drama,84.9333,0.1606,0.1398,1.1482,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,Fantasy,17.85,0.0337,0.0309,1.0903,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,Comedy,88.5833,0.1675,0.1569,1.0674,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,Horror,19.9167,0.0376,0.0377,0.9977,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,History,5.7,0.0108,0.0109,0.9886,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,Mystery,19.7167,0.0373,0.0379,0.9826,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,Science Fiction,14.8167,0.028,0.0289,0.9688,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,Romance,36.95,0.0698,0.0732,0.9544,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,Adventure,28.6167,0.0541,0.058,0.9324,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,Thriller,58.0333,0.1097,0.1263,0.8687,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,Crime,29.75,0.0562,0.0684,0.8226,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,Action,51.9,0.0981,0.1204,0.8148,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,War,4.0,0.0076,0.0096,0.7843,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,TV Movie,0.6667,0.0013,0.0023,0.5495,Americas,Latin America and the Caribbean,Spanish
+Chile,CL,Documentary,5.8333,0.011,0.0207,0.5326,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Fantasy,19.4833,0.0368,0.0309,1.1879,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Family,26.6833,0.0503,0.0425,1.1838,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Horror,22.8333,0.0431,0.0377,1.1416,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Animation,15.85,0.0299,0.0263,1.1382,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Western,1.1667,0.0022,0.0019,1.1341,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Drama,80.8667,0.1526,0.1398,1.0912,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Comedy,87.5,0.1651,0.1569,1.0524,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Romance,39.6833,0.0749,0.0732,1.023,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Music,3.8667,0.0073,0.0072,1.0105,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Adventure,31.0667,0.0586,0.058,1.0103,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Science Fiction,15.3167,0.0289,0.0289,0.9996,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Mystery,20.0,0.0377,0.0379,0.9948,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Thriller,61.9167,0.1168,0.1263,0.9251,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Action,57.5167,0.1085,0.1204,0.9013,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Crime,30.2167,0.057,0.0684,0.834,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,War,4.25,0.008,0.0096,0.8318,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,History,4.6167,0.0087,0.0109,0.7992,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,Documentary,6.5,0.0123,0.0207,0.5924,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,TV Movie,0.6667,0.0013,0.0023,0.5485,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Western,1.3667,0.0026,0.0019,1.331,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Family,29.65,0.056,0.0425,1.3179,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,TV Movie,1.5833,0.003,0.0023,1.3051,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Animation,16.9833,0.0321,0.0263,1.2219,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Romance,44.7,0.0845,0.0732,1.1545,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Drama,85.35,0.1613,0.1398,1.1539,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Documentary,12.3333,0.0233,0.0207,1.1261,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Fantasy,17.5833,0.0332,0.0309,1.0741,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Comedy,88.4,0.1671,0.1569,1.0652,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Mystery,20.7,0.0391,0.0379,1.0316,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Music,3.9167,0.0074,0.0072,1.0255,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Horror,19.0833,0.0361,0.0377,0.9559,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Adventure,29.1667,0.0551,0.058,0.9503,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,History,5.0667,0.0096,0.0109,0.8788,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Thriller,57.25,0.1082,0.1263,0.857,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Action,51.8333,0.098,0.1204,0.8137,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Crime,28.9667,0.0548,0.0684,0.801,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,Science Fiction,11.4833,0.0217,0.0289,0.7508,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,War,3.5833,0.0068,0.0096,0.7026,Americas,Latin America and the Caribbean,Spanish
+Croatia,HR,Documentary,27.3333,0.0518,0.0207,2.5004,Europe,Southern Europe,Croatian
+Croatia,HR,TV Movie,2.0,0.0038,0.0023,1.6516,Europe,Southern Europe,Croatian
+Croatia,HR,Western,1.5,0.0028,0.0019,1.4636,Europe,Southern Europe,Croatian
+Croatia,HR,Family,31.1,0.0589,0.0425,1.3849,Europe,Southern Europe,Croatian
+Croatia,HR,Animation,17.85,0.0338,0.0263,1.2867,Europe,Southern Europe,Croatian
+Croatia,HR,Mystery,24.3833,0.0462,0.0379,1.2175,Europe,Southern Europe,Croatian
+Croatia,HR,Romance,46.4167,0.0879,0.0732,1.2012,Europe,Southern Europe,Croatian
+Croatia,HR,Fantasy,18.9167,0.0358,0.0309,1.1577,Europe,Southern Europe,Croatian
+Croatia,HR,Comedy,88.8167,0.1682,0.1569,1.0723,Europe,Southern Europe,Croatian
+Croatia,HR,Science Fiction,16.1,0.0305,0.0289,1.0547,Europe,Southern Europe,Croatian
+Croatia,HR,Crime,35.8167,0.0678,0.0684,0.9923,Europe,Southern Europe,Croatian
+Croatia,HR,Adventure,29.55,0.056,0.058,0.9646,Europe,Southern Europe,Croatian
+Croatia,HR,War,4.8333,0.0092,0.0096,0.9495,Europe,Southern Europe,Croatian
+Croatia,HR,Drama,64.9833,0.1231,0.1398,0.8802,Europe,Southern Europe,Croatian
+Croatia,HR,History,5.0,0.0095,0.0109,0.8688,Europe,Southern Europe,Croatian
+Croatia,HR,Thriller,53.5833,0.1015,0.1263,0.8036,Europe,Southern Europe,Croatian
+Croatia,HR,Horror,16.0,0.0303,0.0377,0.803,Europe,Southern Europe,Croatian
+Croatia,HR,Action,41.7333,0.079,0.1204,0.6564,Europe,Southern Europe,Croatian
+Croatia,HR,Music,2.0833,0.0039,0.0072,0.5465,Europe,Southern Europe,Croatian
+Cyprus,CY,TV Movie,3.9167,0.0074,0.0023,3.2222,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Documentary,15.8333,0.0299,0.0207,1.4429,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,History,7.1667,0.0135,0.0109,1.2406,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Adventure,36.55,0.069,0.058,1.1886,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Romance,45.75,0.0863,0.0732,1.1794,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Family,25.8333,0.0487,0.0425,1.1461,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Science Fiction,17.2667,0.0326,0.0289,1.1268,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Animation,14.8833,0.0281,0.0263,1.0688,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Action,67.5333,0.1274,0.1204,1.0582,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Fantasy,17.1667,0.0324,0.0309,1.0466,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Crime,37.5333,0.0708,0.0684,1.0359,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Mystery,20.7,0.0391,0.0379,1.0296,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Comedy,81.3667,0.1535,0.1569,0.9786,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,War,4.4167,0.0083,0.0096,0.8644,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Thriller,57.3333,0.1082,0.1263,0.8566,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Music,3.25,0.0061,0.0072,0.8493,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Drama,59.3333,0.1119,0.1398,0.8006,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Horror,13.8333,0.0261,0.0377,0.6916,Asia,Western Asia,Greek|Turkish
+Cyprus,CY,Western,0.3333,0.0006,0.0019,0.324,Asia,Western Asia,Greek|Turkish
+Czech Republic,CZ,Documentary,22.3333,0.0443,0.0207,2.1403,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,History,9.9167,0.0197,0.0109,1.8053,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,Animation,21.9,0.0435,0.0263,1.6538,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,Family,33.4,0.0663,0.0425,1.5582,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,TV Movie,1.5,0.003,0.0023,1.2977,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,Comedy,89.8667,0.1783,0.1569,1.1366,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,Drama,75.0,0.1488,0.1398,1.0642,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,Adventure,30.5167,0.0605,0.058,1.0436,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,War,4.5833,0.0091,0.0096,0.9433,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,Romance,34.3333,0.0681,0.0732,0.9308,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,Fantasy,14.2333,0.0282,0.0309,0.9126,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,Crime,30.2167,0.06,0.0684,0.877,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,Science Fiction,12.4333,0.0247,0.0289,0.8533,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,Action,50.05,0.0993,0.1204,0.8247,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,Mystery,14.7167,0.0292,0.0379,0.7698,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,Thriller,45.1667,0.0896,0.1263,0.7097,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,Western,0.5833,0.0012,0.0019,0.5963,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,Music,2.1667,0.0043,0.0072,0.5954,Europe,Eastern Europe,Czech|Slovak
+Czech Republic,CZ,Horror,11.0833,0.022,0.0377,0.5827,Europe,Eastern Europe,Czech|Slovak
+Denmark,DK,TV Movie,3.25,0.0062,0.0023,2.6839,Europe,Northern Europe,Danish
+Denmark,DK,Documentary,23.1667,0.0439,0.0207,2.1192,Europe,Northern Europe,Danish
+Denmark,DK,Western,1.9167,0.0036,0.0019,1.8701,Europe,Northern Europe,Danish
+Denmark,DK,History,8.0,0.0152,0.0109,1.3902,Europe,Northern Europe,Danish
+Denmark,DK,War,6.3333,0.012,0.0096,1.2442,Europe,Northern Europe,Danish
+Denmark,DK,Music,4.4167,0.0084,0.0072,1.1586,Europe,Northern Europe,Danish
+Denmark,DK,Romance,44.4333,0.0842,0.0732,1.1498,Europe,Northern Europe,Danish
+Denmark,DK,Animation,15.8333,0.03,0.0263,1.1413,Europe,Northern Europe,Danish
+Denmark,DK,Family,24.1667,0.0458,0.0425,1.0762,Europe,Northern Europe,Danish
+Denmark,DK,Adventure,32.85,0.0622,0.058,1.0724,Europe,Northern Europe,Danish
+Denmark,DK,Science Fiction,16.3333,0.0309,0.0289,1.07,Europe,Northern Europe,Danish
+Denmark,DK,Mystery,20.0833,0.038,0.0379,1.0028,Europe,Northern Europe,Danish
+Denmark,DK,Action,61.2167,0.1159,0.1204,0.9629,Europe,Northern Europe,Danish
+Denmark,DK,Drama,69.9167,0.1324,0.1398,0.947,Europe,Northern Europe,Danish
+Denmark,DK,Comedy,76.5667,0.145,0.1569,0.9244,Europe,Northern Europe,Danish
+Denmark,DK,Thriller,59.0833,0.1119,0.1263,0.8861,Europe,Northern Europe,Danish
+Denmark,DK,Crime,31.75,0.0601,0.0684,0.8796,Europe,Northern Europe,Danish
+Denmark,DK,Horror,16.3333,0.0309,0.0377,0.8197,Europe,Northern Europe,Danish
+Denmark,DK,Fantasy,12.35,0.0234,0.0309,0.7558,Europe,Northern Europe,Danish
+Dominican Republic,DO,Action,73.6,0.1389,0.1204,1.1533,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,Western,1.1667,0.0022,0.0019,1.1341,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,Fantasy,18.6,0.0351,0.0309,1.134,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,Horror,22.0833,0.0417,0.0377,1.1041,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,Family,24.3833,0.046,0.0425,1.0817,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,Crime,37.35,0.0705,0.0684,1.0308,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,Comedy,84.75,0.1599,0.1569,1.0193,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,Drama,75.2333,0.1419,0.1398,1.0152,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,Thriller,67.4167,0.1272,0.1263,1.0073,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,Romance,38.9833,0.0736,0.0732,1.005,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,Music,3.7333,0.007,0.0072,0.9756,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,Adventure,29.5,0.0557,0.058,0.9594,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,Science Fiction,14.2333,0.0269,0.0289,0.9289,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,Mystery,18.3333,0.0346,0.0379,0.9119,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,Animation,11.3167,0.0214,0.0263,0.8127,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,History,4.0667,0.0077,0.0109,0.704,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,War,3.5833,0.0068,0.0096,0.7013,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,TV Movie,0.6667,0.0013,0.0023,0.5485,Americas,Latin America and the Caribbean,Spanish
+Dominican Republic,DO,Documentary,1.0,0.0019,0.0207,0.0911,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Music,6.3833,0.0121,0.0072,1.6745,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Animation,21.3667,0.0405,0.0263,1.5402,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Family,34.5667,0.0655,0.0425,1.5393,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Western,1.5667,0.003,0.0019,1.5286,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Fantasy,23.2333,0.044,0.0309,1.4219,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Comedy,94.4167,0.1788,0.1569,1.1399,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Adventure,33.45,0.0634,0.058,1.0919,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Horror,20.75,0.0393,0.0377,1.0414,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Romance,38.9667,0.0738,0.0732,1.0084,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Drama,71.4333,0.1353,0.1398,0.9675,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Science Fiction,13.6,0.0258,0.0289,0.8909,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Action,56.5,0.107,0.1204,0.8887,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Thriller,58.0,0.1098,0.1263,0.8699,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Mystery,17.2167,0.0326,0.0379,0.8596,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,War,4.25,0.008,0.0096,0.8349,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Crime,26.7667,0.0507,0.0684,0.7415,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,History,3.8667,0.0073,0.0109,0.6719,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,TV Movie,0.6667,0.0013,0.0023,0.5505,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,Documentary,1.0,0.0019,0.0207,0.0915,Americas,Latin America and the Caribbean,Spanish
+Egypt,EG,Comedy,108.0,0.2105,0.1569,1.342,Africa,Northern Africa,Arabic
+Egypt,EG,Mystery,21.3167,0.0416,0.0379,1.0955,Africa,Northern Africa,Arabic
+Egypt,EG,Western,1.0833,0.0021,0.0019,1.0879,Africa,Northern Africa,Arabic
+Egypt,EG,Family,23.4667,0.0457,0.0425,1.0756,Africa,Northern Africa,Arabic
+Egypt,EG,Adventure,31.9333,0.0622,0.058,1.0729,Africa,Northern Africa,Arabic
+Egypt,EG,Crime,37.5667,0.0732,0.0684,1.0712,Africa,Northern Africa,Arabic
+Egypt,EG,Thriller,68.0,0.1326,0.1263,1.0497,Africa,Northern Africa,Arabic
+Egypt,EG,Action,62.6833,0.1222,0.1204,1.0148,Africa,Northern Africa,Arabic
+Egypt,EG,Science Fiction,15.0167,0.0293,0.0289,1.0125,Africa,Northern Africa,Arabic
+Egypt,EG,History,5.5,0.0107,0.0109,0.9837,Africa,Northern Africa,Arabic
+Egypt,EG,Romance,35.7833,0.0698,0.0732,0.9531,Africa,Northern Africa,Arabic
+Egypt,EG,Animation,12.6833,0.0247,0.0263,0.941,Africa,Northern Africa,Arabic
+Egypt,EG,Drama,56.75,0.1106,0.1398,0.7911,Africa,Northern Africa,Arabic
+Egypt,EG,Horror,14.9167,0.0291,0.0377,0.7705,Africa,Northern Africa,Arabic
+Egypt,EG,Fantasy,11.3833,0.0222,0.0309,0.717,Africa,Northern Africa,Arabic
+Egypt,EG,War,3.0,0.0058,0.0096,0.6066,Africa,Northern Africa,Arabic
+Egypt,EG,TV Movie,0.6667,0.0013,0.0023,0.5666,Africa,Northern Africa,Arabic
+Egypt,EG,Music,1.25,0.0024,0.0072,0.3375,Africa,Northern Africa,Arabic
+Egypt,EG,Documentary,2.0,0.0039,0.0207,0.1883,Africa,Northern Africa,Arabic
+El Salvador,SV,Animation,23.4667,0.0444,0.0263,1.6884,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,Family,37.8333,0.0715,0.0425,1.6816,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,Music,5.9333,0.0112,0.0072,1.5535,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,Fantasy,25.2,0.0476,0.0309,1.5393,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,Western,1.3667,0.0026,0.0019,1.331,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,Comedy,96.8333,0.183,0.1569,1.1668,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,Adventure,34.75,0.0657,0.058,1.1322,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,Horror,18.8333,0.0356,0.0377,0.9434,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,Action,58.4,0.1104,0.1204,0.9168,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,Romance,35.3167,0.0668,0.0732,0.9122,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,Drama,67.4333,0.1275,0.1398,0.9116,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,Mystery,17.2,0.0325,0.0379,0.8572,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,Thriller,56.5,0.1068,0.1263,0.8458,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,Crime,29.4667,0.0557,0.0684,0.8148,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,Science Fiction,11.8167,0.0223,0.0289,0.7726,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,History,4.0667,0.0077,0.0109,0.7053,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,TV Movie,0.6667,0.0013,0.0023,0.5495,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,War,2.5833,0.0049,0.0096,0.5066,Americas,Latin America and the Caribbean,Spanish
+El Salvador,SV,Documentary,1.3333,0.0025,0.0207,0.1217,Americas,Latin America and the Caribbean,Spanish
+Estonia,EE,Documentary,26.1667,0.0494,0.0207,2.3846,Europe,Northern Europe,Estonian
+Estonia,EE,War,8.0833,0.0153,0.0096,1.582,Europe,Northern Europe,Estonian
+Estonia,EE,Animation,20.6167,0.0389,0.0263,1.4805,Europe,Northern Europe,Estonian
+Estonia,EE,Science Fiction,19.3,0.0364,0.0289,1.2595,Europe,Northern Europe,Estonian
+Estonia,EE,Mystery,25.2167,0.0476,0.0379,1.2543,Europe,Northern Europe,Estonian
+Estonia,EE,Music,4.75,0.009,0.0072,1.2413,Europe,Northern Europe,Estonian
+Estonia,EE,Adventure,34.45,0.065,0.058,1.1203,Europe,Northern Europe,Estonian
+Estonia,EE,Family,25.1167,0.0474,0.0425,1.1143,Europe,Northern Europe,Estonian
+Estonia,EE,Romance,40.5833,0.0766,0.0732,1.0462,Europe,Northern Europe,Estonian
+Estonia,EE,TV Movie,1.25,0.0024,0.0023,1.0284,Europe,Northern Europe,Estonian
+Estonia,EE,Action,65.2333,0.1231,0.1204,1.0222,Europe,Northern Europe,Estonian
+Estonia,EE,Horror,20.3333,0.0384,0.0377,1.0166,Europe,Northern Europe,Estonian
+Estonia,EE,Comedy,81.6667,0.1541,0.1569,0.9822,Europe,Northern Europe,Estonian
+Estonia,EE,Fantasy,16.1,0.0304,0.0309,0.9816,Europe,Northern Europe,Estonian
+Estonia,EE,History,5.0833,0.0096,0.0109,0.88,Europe,Northern Europe,Estonian
+Estonia,EE,Thriller,52.5,0.0991,0.1263,0.7844,Europe,Northern Europe,Estonian
+Estonia,EE,Drama,56.4333,0.1065,0.1398,0.7615,Europe,Northern Europe,Estonian
+Estonia,EE,Crime,27.1167,0.0512,0.0684,0.7484,Europe,Northern Europe,Estonian
+Finland,FI,TV Movie,2.8333,0.0054,0.0023,2.3398,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Documentary,24.5,0.0464,0.0207,2.2412,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Western,2.1667,0.0041,0.0019,2.1141,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,War,7.9,0.015,0.0096,1.552,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Family,28.75,0.0545,0.0425,1.2803,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Animation,16.9167,0.032,0.0263,1.2194,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Horror,23.9167,0.0453,0.0377,1.2003,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,History,6.5,0.0123,0.0109,1.1295,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Mystery,22.6167,0.0428,0.0379,1.1292,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Science Fiction,16.5333,0.0313,0.0289,1.0831,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Thriller,65.2333,0.1235,0.1263,0.9784,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Adventure,29.7167,0.0563,0.058,0.9701,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Action,60.75,0.1151,0.1204,0.9555,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Crime,34.2,0.0648,0.0684,0.9475,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Fantasy,15.0667,0.0285,0.0309,0.9221,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Romance,35.2833,0.0668,0.0732,0.913,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Drama,64.7333,0.1226,0.1398,0.8768,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Comedy,67.8167,0.1284,0.1569,0.8187,Europe,Northern Europe,Finnish|Swedish
+Finland,FI,Music,2.5667,0.0049,0.0072,0.6733,Europe,Northern Europe,Finnish|Swedish
+France,FR,Comedy,109.7,0.207,0.1569,1.3194,Europe,Western Europe,French
+France,FR,Horror,24.5667,0.0464,0.0377,1.2283,Europe,Western Europe,French
+France,FR,History,6.5833,0.0124,0.0109,1.1397,Europe,Western Europe,French
+France,FR,Science Fiction,17.25,0.0325,0.0289,1.1258,Europe,Western Europe,French
+France,FR,Family,24.1,0.0455,0.0425,1.0692,Europe,Western Europe,French
+France,FR,War,5.4167,0.0102,0.0096,1.0601,Europe,Western Europe,French
+France,FR,Romance,41.0,0.0774,0.0732,1.057,Europe,Western Europe,French
+France,FR,Adventure,30.8833,0.0583,0.058,1.0043,Europe,Western Europe,French
+France,FR,Drama,74.0667,0.1397,0.1398,0.9994,Europe,Western Europe,French
+France,FR,Crime,35.7167,0.0674,0.0684,0.9858,Europe,Western Europe,French
+France,FR,Fantasy,15.6833,0.0296,0.0309,0.9562,Europe,Western Europe,French
+France,FR,Mystery,18.8833,0.0356,0.0379,0.9393,Europe,Western Europe,French
+France,FR,Animation,13.0167,0.0246,0.0263,0.9348,Europe,Western Europe,French
+France,FR,Music,3.25,0.0061,0.0072,0.8493,Europe,Western Europe,French
+France,FR,Thriller,55.6,0.1049,0.1263,0.8307,Europe,Western Europe,French
+France,FR,Action,48.3667,0.0913,0.1204,0.7579,Europe,Western Europe,French
+France,FR,TV Movie,0.9167,0.0017,0.0023,0.7541,Europe,Western Europe,French
+France,FR,Documentary,5.0,0.0094,0.0207,0.4557,Europe,Western Europe,French
+Germany,DE,War,10.5,0.0198,0.0096,2.055,Europe,Western Europe,German
+Germany,DE,TV Movie,2.25,0.0042,0.0023,1.8511,Europe,Western Europe,German
+Germany,DE,Science Fiction,22.1167,0.0417,0.0289,1.4434,Europe,Western Europe,German
+Germany,DE,Documentary,15.8333,0.0299,0.0207,1.4429,Europe,Western Europe,German
+Germany,DE,History,7.25,0.0137,0.0109,1.2551,Europe,Western Europe,German
+Germany,DE,Horror,22.5,0.0425,0.0377,1.1249,Europe,Western Europe,German
+Germany,DE,Adventure,33.8167,0.0638,0.058,1.0997,Europe,Western Europe,German
+Germany,DE,Mystery,21.2,0.04,0.0379,1.0545,Europe,Western Europe,German
+Germany,DE,Comedy,86.6833,0.1636,0.1569,1.0426,Europe,Western Europe,German
+Germany,DE,Crime,35.6167,0.0672,0.0684,0.983,Europe,Western Europe,German
+Germany,DE,Romance,36.5,0.0689,0.0732,0.941,Europe,Western Europe,German
+Germany,DE,Action,59.0333,0.1114,0.1204,0.925,Europe,Western Europe,German
+Germany,DE,Thriller,61.25,0.1156,0.1263,0.9152,Europe,Western Europe,German
+Germany,DE,Drama,65.9167,0.1244,0.1398,0.8894,Europe,Western Europe,German
+Germany,DE,Family,19.9,0.0375,0.0425,0.8828,Europe,Western Europe,German
+Germany,DE,Fantasy,14.45,0.0273,0.0309,0.881,Europe,Western Europe,German
+Germany,DE,Animation,12.2333,0.0231,0.0263,0.8785,Europe,Western Europe,German
+Germany,DE,Music,2.95,0.0056,0.0072,0.7709,Europe,Western Europe,German
+Greece,GR,TV Movie,3.0833,0.0058,0.0023,2.5367,Europe,Southern Europe,Greek
+Greece,GR,History,9.1667,0.0173,0.0109,1.5869,Europe,Southern Europe,Greek
+Greece,GR,Mystery,24.2333,0.0457,0.0379,1.2054,Europe,Southern Europe,Greek
+Greece,GR,Romance,45.6667,0.0862,0.0732,1.1773,Europe,Southern Europe,Greek
+Greece,GR,Documentary,12.8333,0.0242,0.0207,1.1695,Europe,Southern Europe,Greek
+Greece,GR,Crime,41.6667,0.0786,0.0684,1.15,Europe,Southern Europe,Greek
+Greece,GR,Horror,21.8333,0.0412,0.0377,1.0916,Europe,Southern Europe,Greek
+Greece,GR,Science Fiction,16.5333,0.0312,0.0289,1.079,Europe,Southern Europe,Greek
+Greece,GR,Action,68.6667,0.1296,0.1204,1.076,Europe,Southern Europe,Greek
+Greece,GR,War,5.1667,0.0097,0.0096,1.0112,Europe,Southern Europe,Greek
+Greece,GR,Adventure,30.9,0.0583,0.058,1.0049,Europe,Southern Europe,Greek
+Greece,GR,Thriller,66.5833,0.1256,0.1263,0.9948,Europe,Southern Europe,Greek
+Greece,GR,Animation,13.3667,0.0252,0.0263,0.9599,Europe,Southern Europe,Greek
+Greece,GR,Family,19.8667,0.0375,0.0425,0.8814,Europe,Southern Europe,Greek
+Greece,GR,Comedy,72.35,0.1365,0.1569,0.8702,Europe,Southern Europe,Greek
+Greece,GR,Drama,63.9,0.1206,0.1398,0.8622,Europe,Southern Europe,Greek
+Greece,GR,Music,3.25,0.0061,0.0072,0.8493,Europe,Southern Europe,Greek
+Greece,GR,Fantasy,10.6,0.02,0.0309,0.6463,Europe,Southern Europe,Greek
+Greece,GR,Western,0.3333,0.0006,0.0019,0.324,Europe,Southern Europe,Greek
+Guadeloupe,GP,Science Fiction,20.4667,0.0386,0.0289,1.3357,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,Horror,23.7333,0.0448,0.0377,1.1866,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,Comedy,95.6167,0.1804,0.1569,1.15,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,Romance,44.25,0.0835,0.0732,1.1408,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,Crime,40.0,0.0755,0.0684,1.104,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,Fantasy,16.75,0.0316,0.0309,1.0212,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,Adventure,31.0,0.0585,0.058,1.0081,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,Mystery,19.5,0.0368,0.0379,0.97,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,Drama,70.85,0.1337,0.1398,0.956,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,Thriller,63.45,0.1197,0.1263,0.948,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,Action,59.85,0.1129,0.1204,0.9378,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,Music,3.4333,0.0065,0.0072,0.8972,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,Animation,11.9667,0.0226,0.0263,0.8594,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,History,4.75,0.009,0.0109,0.8223,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,Family,18.2167,0.0344,0.0425,0.8082,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,TV Movie,0.9167,0.0017,0.0023,0.7541,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,War,3.25,0.0061,0.0096,0.6361,Americas,Latin America and the Caribbean,French
+Guadeloupe,GP,Documentary,2.0,0.0038,0.0207,0.1823,Americas,Latin America and the Caribbean,French
+Guatemala,GT,Music,8.5167,0.0161,0.0072,2.2341,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,Animation,25.3,0.0479,0.0263,1.8237,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,Family,39.25,0.0743,0.0425,1.7479,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,Western,1.3667,0.0026,0.0019,1.3335,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,Fantasy,20.35,0.0385,0.0309,1.2454,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,Comedy,99.6833,0.1888,0.1569,1.2034,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,Adventure,33.2833,0.063,0.058,1.0865,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,Drama,74.8833,0.1418,0.1398,1.0143,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,Romance,36.3833,0.0689,0.0732,0.9415,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,Horror,18.6667,0.0354,0.0377,0.9368,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,Action,53.6167,0.1015,0.1204,0.8433,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,Mystery,16.8333,0.0319,0.0379,0.8405,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,Thriller,53.7,0.1017,0.1263,0.8054,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,History,4.2667,0.0081,0.0109,0.7414,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,Science Fiction,11.1,0.021,0.0289,0.7271,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,Crime,24.7167,0.0468,0.0684,0.6847,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,War,3.4167,0.0065,0.0096,0.6712,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,TV Movie,0.6667,0.0013,0.0023,0.5505,Americas,Latin America and the Caribbean,Spanish
+Guatemala,GT,Documentary,2.0,0.0038,0.0207,0.183,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Family,31.8,0.0602,0.0425,1.4161,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Western,1.3667,0.0026,0.0019,1.3335,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Music,4.7833,0.0091,0.0072,1.2547,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Fantasy,20.1667,0.0382,0.0309,1.2342,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Animation,16.55,0.0313,0.0263,1.193,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Comedy,98.3833,0.1863,0.1569,1.1878,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Horror,22.4167,0.0425,0.0377,1.125,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Drama,77.1833,0.1462,0.1398,1.0454,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Adventure,31.5333,0.0597,0.058,1.0294,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Romance,38.9833,0.0738,0.0732,1.0088,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Mystery,18.75,0.0355,0.0379,0.9362,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Action,56.8333,0.1076,0.1204,0.8939,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Thriller,59.5,0.1127,0.1263,0.8924,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Crime,29.0167,0.055,0.0684,0.8039,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Science Fiction,11.5833,0.0219,0.0289,0.7588,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,History,4.0667,0.0077,0.0109,0.7067,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,War,3.4167,0.0065,0.0096,0.6712,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,TV Movie,0.6667,0.0013,0.0023,0.5505,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,Documentary,1.0,0.0019,0.0207,0.0915,Americas,Latin America and the Caribbean,Spanish
+Hong Kong,HK,Science Fiction,25.75,0.0486,0.0289,1.6805,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,Horror,29.5833,0.0558,0.0377,1.4791,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,War,7.3333,0.0138,0.0096,1.4353,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,Action,87.5667,0.1652,0.1204,1.3721,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,Documentary,14.3333,0.027,0.0207,1.3062,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,Music,4.9833,0.0094,0.0072,1.3023,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,Crime,44.0333,0.0831,0.0684,1.2153,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,Mystery,24.1167,0.0455,0.0379,1.1996,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,History,6.8333,0.0129,0.0109,1.1829,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,Thriller,77.2833,0.1458,0.1263,1.1547,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,Adventure,34.2167,0.0646,0.058,1.1128,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,Drama,65.8667,0.1243,0.1398,0.8888,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,TV Movie,1.0,0.0019,0.0023,0.8227,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,Fantasy,12.9833,0.0245,0.0309,0.7916,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,Western,0.75,0.0014,0.0019,0.729,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,Animation,9.4167,0.0178,0.0263,0.6762,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,Comedy,52.3167,0.0987,0.1569,0.6292,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,Romance,21.2,0.04,0.0732,0.5465,Asia,Eastern Asia,English|Chinese
+Hong Kong,HK,Family,10.4333,0.0197,0.0425,0.4629,Asia,Eastern Asia,English|Chinese
+Hungary,HU,Documentary,20.8333,0.0393,0.0207,1.8986,Europe,Eastern Europe,Hungarian
+Hungary,HU,Romance,55.8333,0.1053,0.0732,1.4394,Europe,Eastern Europe,Hungarian
+Hungary,HU,Animation,19.7333,0.0372,0.0263,1.4171,Europe,Eastern Europe,Hungarian
+Hungary,HU,Comedy,105.0667,0.1982,0.1569,1.2637,Europe,Eastern Europe,Hungarian
+Hungary,HU,Family,27.65,0.0522,0.0425,1.2267,Europe,Eastern Europe,Hungarian
+Hungary,HU,Mystery,20.25,0.0382,0.0379,1.0073,Europe,Eastern Europe,Hungarian
+Hungary,HU,Crime,35.8333,0.0676,0.0684,0.989,Europe,Eastern Europe,Hungarian
+Hungary,HU,War,5.0,0.0094,0.0096,0.9786,Europe,Eastern Europe,Hungarian
+Hungary,HU,Drama,72.0833,0.136,0.1398,0.9727,Europe,Eastern Europe,Hungarian
+Hungary,HU,History,5.5,0.0104,0.0109,0.9521,Europe,Eastern Europe,Hungarian
+Hungary,HU,Western,0.9167,0.0017,0.0019,0.891,Europe,Eastern Europe,Hungarian
+Hungary,HU,Adventure,26.5667,0.0501,0.058,0.864,Europe,Eastern Europe,Hungarian
+Hungary,HU,Fantasy,13.8167,0.0261,0.0309,0.8424,Europe,Eastern Europe,Hungarian
+Hungary,HU,Thriller,51.0,0.0962,0.1263,0.762,Europe,Eastern Europe,Hungarian
+Hungary,HU,Action,44.1667,0.0833,0.1204,0.6921,Europe,Eastern Europe,Hungarian
+Hungary,HU,Horror,13.25,0.025,0.0377,0.6625,Europe,Eastern Europe,Hungarian
+Hungary,HU,TV Movie,0.75,0.0014,0.0023,0.617,Europe,Eastern Europe,Hungarian
+Hungary,HU,Science Fiction,9.4167,0.0178,0.0289,0.6145,Europe,Eastern Europe,Hungarian
+Hungary,HU,Music,2.3333,0.0044,0.0072,0.6098,Europe,Eastern Europe,Hungarian
+Iceland,IS,Documentary,27.0,0.0511,0.0207,2.4699,Europe,Northern Europe,Icelandic
+Iceland,IS,Animation,24.25,0.0459,0.0263,1.7481,Europe,Northern Europe,Icelandic
+Iceland,IS,TV Movie,2.0833,0.0039,0.0023,1.7204,Europe,Northern Europe,Icelandic
+Iceland,IS,Western,1.75,0.0033,0.0019,1.7075,Europe,Northern Europe,Icelandic
+Iceland,IS,Family,35.1667,0.0666,0.0425,1.566,Europe,Northern Europe,Icelandic
+Iceland,IS,War,6.5,0.0123,0.0096,1.277,Europe,Northern Europe,Icelandic
+Iceland,IS,Music,4.75,0.009,0.0072,1.246,Europe,Northern Europe,Icelandic
+Iceland,IS,Fantasy,19.55,0.037,0.0309,1.1965,Europe,Northern Europe,Icelandic
+Iceland,IS,Comedy,94.3333,0.1787,0.1569,1.1389,Europe,Northern Europe,Icelandic
+Iceland,IS,History,6.0,0.0114,0.0109,1.0426,Europe,Northern Europe,Icelandic
+Iceland,IS,Adventure,31.7333,0.0601,0.058,1.0359,Europe,Northern Europe,Icelandic
+Iceland,IS,Romance,38.9167,0.0737,0.0732,1.0071,Europe,Northern Europe,Icelandic
+Iceland,IS,Mystery,18.75,0.0355,0.0379,0.9362,Europe,Northern Europe,Icelandic
+Iceland,IS,Science Fiction,13.4333,0.0254,0.0289,0.88,Europe,Northern Europe,Icelandic
+Iceland,IS,Action,55.7833,0.1057,0.1204,0.8774,Europe,Northern Europe,Icelandic
+Iceland,IS,Drama,60.5,0.1146,0.1398,0.8195,Europe,Northern Europe,Icelandic
+Iceland,IS,Crime,27.5833,0.0522,0.0684,0.7642,Europe,Northern Europe,Icelandic
+Iceland,IS,Thriller,50.6667,0.096,0.1263,0.7599,Europe,Northern Europe,Icelandic
+Iceland,IS,Horror,9.25,0.0175,0.0377,0.4642,Europe,Northern Europe,Icelandic
+India,IN,Thriller,90.1667,0.1701,0.1263,1.3472,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,Drama,98.8333,0.1865,0.1398,1.3336,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,Action,84.1333,0.1587,0.1204,1.3183,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,Romance,47.9,0.0904,0.0732,1.2349,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,Crime,38.8333,0.0733,0.0684,1.0718,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,Comedy,74.45,0.1405,0.1569,0.8954,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,Adventure,24.0167,0.0453,0.058,0.781,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,Family,14.0333,0.0265,0.0425,0.6226,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,Science Fiction,8.85,0.0167,0.0289,0.5776,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,Horror,11.0833,0.0209,0.0377,0.5541,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,History,3.1667,0.006,0.0109,0.5482,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,Documentary,6.0,0.0113,0.0207,0.5468,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,Mystery,10.65,0.0201,0.0379,0.5297,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,Animation,7.0333,0.0133,0.0263,0.5051,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,Fantasy,7.4333,0.014,0.0309,0.4532,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,TV Movie,0.5,0.0009,0.0023,0.4113,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,War,2.0,0.0038,0.0096,0.3914,Asia,Southern Asia,English|Hindi|Tamil
+India,IN,Music,0.9167,0.0017,0.0072,0.2395,Asia,Southern Asia,English|Hindi|Tamil
+Indonesia,ID,Horror,53.5833,0.1013,0.0377,2.6841,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,Drama,98.3833,0.186,0.1398,1.33,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,Music,4.7167,0.0089,0.0072,1.2349,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,Crime,42.5167,0.0804,0.0684,1.1756,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,History,6.65,0.0126,0.0109,1.1534,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,Thriller,75.8333,0.1434,0.1263,1.1352,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,Action,72.2667,0.1366,0.1204,1.1345,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,Science Fiction,15.45,0.0292,0.0289,1.0102,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,War,5.15,0.0097,0.0096,1.0098,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,Mystery,18.5167,0.035,0.0379,0.9228,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,Fantasy,13.1167,0.0248,0.0309,0.8012,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,Family,17.3,0.0327,0.0425,0.7689,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,Adventure,23.2333,0.0439,0.058,0.757,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,Romance,26.9833,0.051,0.0732,0.6969,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,Comedy,43.2167,0.0817,0.1569,0.5208,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,Animation,6.9167,0.0131,0.0263,0.4976,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,Western,0.5,0.0009,0.0019,0.4869,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,Documentary,4.3333,0.0082,0.0207,0.3957,Asia,South-eastern Asia,Indonesian
+Indonesia,ID,TV Movie,0.3333,0.0006,0.0023,0.2748,Asia,South-eastern Asia,Indonesian
+Ireland,IE,Documentary,34.1667,0.0646,0.0207,3.1196,Europe,Northern Europe,English|Irish
+Ireland,IE,Music,9.6167,0.0182,0.0072,2.5178,Europe,Northern Europe,English|Irish
+Ireland,IE,Fantasy,34.1333,0.0645,0.0309,2.085,Europe,Northern Europe,English|Irish
+Ireland,IE,Animation,22.0333,0.0417,0.0263,1.5853,Europe,Northern Europe,English|Irish
+Ireland,IE,Family,34.9,0.066,0.0425,1.5512,Europe,Northern Europe,English|Irish
+Ireland,IE,Adventure,41.0167,0.0775,0.058,1.3364,Europe,Northern Europe,English|Irish
+Ireland,IE,History,6.1667,0.0117,0.0109,1.0696,Europe,Northern Europe,English|Irish
+Ireland,IE,TV Movie,1.25,0.0024,0.0023,1.0303,Europe,Northern Europe,English|Irish
+Ireland,IE,Crime,35.8333,0.0677,0.0684,0.9908,Europe,Northern Europe,English|Irish
+Ireland,IE,Mystery,18.75,0.0354,0.0379,0.9344,Europe,Northern Europe,English|Irish
+Ireland,IE,Comedy,76.3,0.1442,0.1569,0.9194,Europe,Northern Europe,English|Irish
+Ireland,IE,Drama,62.95,0.119,0.1398,0.851,Europe,Northern Europe,English|Irish
+Ireland,IE,War,4.3333,0.0082,0.0096,0.8497,Europe,Northern Europe,English|Irish
+Ireland,IE,Horror,16.1167,0.0305,0.0377,0.8073,Europe,Northern Europe,English|Irish
+Ireland,IE,Romance,30.35,0.0574,0.0732,0.7839,Europe,Northern Europe,English|Irish
+Ireland,IE,Western,0.7833,0.0015,0.0019,0.7629,Europe,Northern Europe,English|Irish
+Ireland,IE,Thriller,50.9167,0.0963,0.1263,0.7622,Europe,Northern Europe,English|Irish
+Ireland,IE,Action,40.4667,0.0765,0.1204,0.6353,Europe,Northern Europe,English|Irish
+Ireland,IE,Science Fiction,8.9167,0.0169,0.0289,0.583,Europe,Northern Europe,English|Irish
+Israel,IL,TV Movie,3.0,0.0057,0.0023,2.4681,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Documentary,25.5,0.0481,0.0207,2.3239,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Western,2.1667,0.0041,0.0019,2.1061,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Romance,56.2,0.106,0.0732,1.4488,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Music,4.8333,0.0091,0.0072,1.2631,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Animation,14.55,0.0275,0.0263,1.0449,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Action,63.95,0.1207,0.1204,1.0021,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Adventure,30.75,0.058,0.058,1.0,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Drama,73.95,0.1395,0.1398,0.9978,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,History,5.75,0.0108,0.0109,0.9954,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Crime,35.4167,0.0668,0.0684,0.9775,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Science Fiction,14.8333,0.028,0.0289,0.968,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,War,4.75,0.009,0.0096,0.9297,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Comedy,76.1333,0.1436,0.1569,0.9157,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Family,20.5833,0.0388,0.0425,0.9132,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Mystery,18.3333,0.0346,0.0379,0.9119,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Thriller,57.6667,0.1088,0.1263,0.8616,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Fantasy,12.8,0.0242,0.0309,0.7804,Asia,Western Asia,Arabic|Hebrew
+Israel,IL,Horror,8.8333,0.0167,0.0377,0.4416,Asia,Western Asia,Arabic|Hebrew
+Italy,IT,Fantasy,25.3833,0.0481,0.0309,1.5535,Europe,Southern Europe,Italian
+Italy,IT,History,8.7333,0.0165,0.0109,1.5176,Europe,Southern Europe,Italian
+Italy,IT,Western,1.5,0.0028,0.0019,1.4636,Europe,Southern Europe,Italian
+Italy,IT,TV Movie,1.75,0.0033,0.0023,1.4452,Europe,Southern Europe,Italian
+Italy,IT,Documentary,13.8333,0.0262,0.0207,1.2654,Europe,Southern Europe,Italian
+Italy,IT,Romance,47.9667,0.0908,0.0732,1.2413,Europe,Southern Europe,Italian
+Italy,IT,Adventure,37.3333,0.0707,0.058,1.2187,Europe,Southern Europe,Italian
+Italy,IT,Comedy,94.3333,0.1787,0.1569,1.1389,Europe,Southern Europe,Italian
+Italy,IT,Mystery,21.6167,0.0409,0.0379,1.0793,Europe,Southern Europe,Italian
+Italy,IT,Science Fiction,16.3,0.0309,0.0289,1.0678,Europe,Southern Europe,Italian
+Italy,IT,War,5.1667,0.0098,0.0096,1.015,Europe,Southern Europe,Italian
+Italy,IT,Horror,19.5,0.0369,0.0377,0.9786,Europe,Southern Europe,Italian
+Italy,IT,Drama,68.15,0.1291,0.1398,0.9231,Europe,Southern Europe,Italian
+Italy,IT,Thriller,59.2667,0.1122,0.1263,0.8889,Europe,Southern Europe,Italian
+Italy,IT,Music,3.3333,0.0063,0.0072,0.8744,Europe,Southern Europe,Italian
+Italy,IT,Crime,31.4333,0.0595,0.0684,0.8708,Europe,Southern Europe,Italian
+Italy,IT,Family,18.3833,0.0348,0.0425,0.8186,Europe,Southern Europe,Italian
+Italy,IT,Action,46.7167,0.0885,0.1204,0.7348,Europe,Southern Europe,Italian
+Italy,IT,Animation,7.3,0.0138,0.0263,0.5262,Europe,Southern Europe,Italian
+Jamaica,JM,Western,1.4167,0.0027,0.0019,1.3771,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,Action,81.1667,0.1531,0.1204,1.2718,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,Thriller,76.0,0.1434,0.1263,1.1355,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,Music,4.3333,0.0082,0.0072,1.1324,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,Romance,41.3167,0.078,0.0732,1.0651,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,Drama,74.9167,0.1414,0.1398,1.0109,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,Fantasy,16.3833,0.0309,0.0309,0.9989,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,Comedy,82.6,0.1558,0.1569,0.9934,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,Horror,19.5,0.0368,0.0377,0.9749,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,Science Fiction,14.6833,0.0277,0.0289,0.9582,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,Crime,34.4167,0.0649,0.0684,0.9499,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,Mystery,19.0,0.0358,0.0379,0.9451,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,Adventure,27.2333,0.0514,0.058,0.8856,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,Family,19.4167,0.0366,0.0425,0.8614,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,War,4.1167,0.0078,0.0096,0.8057,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,Animation,10.55,0.0199,0.0263,0.7576,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,TV Movie,0.6667,0.0013,0.0023,0.5485,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Jamaica,JM,History,2.2833,0.0043,0.0109,0.3953,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Japan,JP,Fantasy,64.9167,0.1239,0.0309,4.0032,Asia,Eastern Asia,Japanese
+Japan,JP,Adventure,72.15,0.1377,0.058,2.3732,Asia,Eastern Asia,Japanese
+Japan,JP,Drama,84.5667,0.1614,0.1398,1.1542,Asia,Eastern Asia,Japanese
+Japan,JP,Mystery,22.1833,0.0423,0.0379,1.1161,Asia,Eastern Asia,Japanese
+Japan,JP,Action,65.0167,0.1241,0.1204,1.0304,Asia,Eastern Asia,Japanese
+Japan,JP,Animation,14.1833,0.0271,0.0263,1.0302,Asia,Eastern Asia,Japanese
+Japan,JP,Crime,35.6667,0.0681,0.0684,0.9956,Asia,Eastern Asia,Japanese
+Japan,JP,War,4.7333,0.009,0.0096,0.937,Asia,Eastern Asia,Japanese
+Japan,JP,Science Fiction,14.1167,0.0269,0.0289,0.9318,Asia,Eastern Asia,Japanese
+Japan,JP,Horror,18.1667,0.0347,0.0377,0.9187,Asia,Eastern Asia,Japanese
+Japan,JP,History,4.7333,0.009,0.0109,0.8288,Asia,Eastern Asia,Japanese
+Japan,JP,Thriller,53.3167,0.1017,0.1263,0.8057,Asia,Eastern Asia,Japanese
+Japan,JP,Comedy,46.5333,0.0888,0.1569,0.5661,Asia,Eastern Asia,Japanese
+Japan,JP,Family,8.7667,0.0167,0.0425,0.3934,Asia,Eastern Asia,Japanese
+Japan,JP,Music,1.3333,0.0025,0.0072,0.3524,Asia,Eastern Asia,Japanese
+Japan,JP,Western,0.3333,0.0006,0.0019,0.3277,Asia,Eastern Asia,Japanese
+Japan,JP,Romance,11.45,0.0219,0.0732,0.2986,Asia,Eastern Asia,Japanese
+Japan,JP,Documentary,1.8333,0.0035,0.0207,0.169,Asia,Eastern Asia,Japanese
+Jordan,JO,Western,2.0833,0.004,0.0019,2.0522,Asia,Western Asia,Arabic
+Jordan,JO,Crime,48.6833,0.0931,0.0684,1.3616,Asia,Western Asia,Arabic
+Jordan,JO,Thriller,82.7,0.1581,0.1263,1.2522,Asia,Western Asia,Arabic
+Jordan,JO,Action,77.1167,0.1475,0.1204,1.2246,Asia,Western Asia,Arabic
+Jordan,JO,Mystery,22.1,0.0423,0.0379,1.114,Asia,Western Asia,Arabic
+Jordan,JO,Comedy,87.6833,0.1677,0.1569,1.0687,Asia,Western Asia,Arabic
+Jordan,JO,History,5.75,0.011,0.0109,1.0087,Asia,Western Asia,Arabic
+Jordan,JO,Adventure,30.3167,0.058,0.058,0.9991,Asia,Western Asia,Arabic
+Jordan,JO,Fantasy,13.5333,0.0259,0.0309,0.8362,Asia,Western Asia,Arabic
+Jordan,JO,Drama,60.25,0.1152,0.1398,0.8239,Asia,Western Asia,Arabic
+Jordan,JO,Science Fiction,12.2667,0.0235,0.0289,0.8112,Asia,Western Asia,Arabic
+Jordan,JO,Family,17.4167,0.0333,0.0425,0.783,Asia,Western Asia,Arabic
+Jordan,JO,Romance,29.8833,0.0571,0.0732,0.7807,Asia,Western Asia,Arabic
+Jordan,JO,War,3.9167,0.0075,0.0096,0.7768,Asia,Western Asia,Arabic
+Jordan,JO,Horror,14.8333,0.0284,0.0377,0.7515,Asia,Western Asia,Arabic
+Jordan,JO,Animation,10.3,0.0197,0.0263,0.7496,Asia,Western Asia,Arabic
+Jordan,JO,TV Movie,0.6667,0.0013,0.0023,0.5558,Asia,Western Asia,Arabic
+Jordan,JO,Music,1.5,0.0029,0.0072,0.3972,Asia,Western Asia,Arabic
+Jordan,JO,Documentary,2.0,0.0038,0.0207,0.1847,Asia,Western Asia,Arabic
+Kenya,KE,Science Fiction,20.1667,0.0383,0.0289,1.3236,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,TV Movie,1.5833,0.003,0.0023,1.31,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,Western,1.3333,0.0025,0.0019,1.3034,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,Action,78.4333,0.1488,0.1204,1.236,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,Thriller,76.6667,0.1455,0.1263,1.152,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,Drama,81.4167,0.1545,0.1398,1.1049,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,War,5.45,0.0103,0.0096,1.0727,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,Romance,41.3333,0.0784,0.0732,1.0716,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,Comedy,78.1333,0.1483,0.1569,0.9451,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,Crime,33.8833,0.0643,0.0684,0.9405,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,Adventure,27.9667,0.0531,0.058,0.9147,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,Fantasy,14.6,0.0277,0.0309,0.8952,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,Mystery,17.1333,0.0325,0.0379,0.8571,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,History,4.5333,0.0086,0.0109,0.7892,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,Horror,14.9167,0.0283,0.0377,0.75,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,Family,15.6667,0.0297,0.0425,0.699,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,Music,2.45,0.0046,0.0072,0.6439,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,Animation,7.8333,0.0149,0.0263,0.5657,Africa,Sub-Saharan Africa,English|Swahili
+Kenya,KE,Documentary,3.5,0.0066,0.0207,0.3208,Africa,Sub-Saharan Africa,English|Swahili
+Kuwait,KW,Western,2.0833,0.0039,0.0019,2.0289,Asia,Western Asia,Arabic
+Kuwait,KW,Thriller,90.8667,0.1718,0.1263,1.3602,Asia,Western Asia,Arabic
+Kuwait,KW,Crime,46.7333,0.0883,0.0684,1.2922,Asia,Western Asia,Arabic
+Kuwait,KW,Action,80.8167,0.1528,0.1204,1.2687,Asia,Western Asia,Arabic
+Kuwait,KW,Mystery,24.7333,0.0468,0.0379,1.2326,Asia,Western Asia,Arabic
+Kuwait,KW,History,6.5667,0.0124,0.0109,1.1389,Asia,Western Asia,Arabic
+Kuwait,KW,Comedy,79.0167,0.1494,0.1569,0.9521,Asia,Western Asia,Arabic
+Kuwait,KW,Adventure,28.7167,0.0543,0.058,0.9357,Asia,Western Asia,Arabic
+Kuwait,KW,Horror,18.5,0.035,0.0377,0.9267,Asia,Western Asia,Arabic
+Kuwait,KW,War,4.5667,0.0086,0.0096,0.8955,Asia,Western Asia,Arabic
+Kuwait,KW,Science Fiction,13.1,0.0248,0.0289,0.8565,Asia,Western Asia,Arabic
+Kuwait,KW,Drama,61.0,0.1153,0.1398,0.8247,Asia,Western Asia,Arabic
+Kuwait,KW,Fantasy,13.3167,0.0252,0.0309,0.8134,Asia,Western Asia,Arabic
+Kuwait,KW,Family,17.6667,0.0334,0.0425,0.7852,Asia,Western Asia,Arabic
+Kuwait,KW,Animation,9.8833,0.0187,0.0263,0.7111,Asia,Western Asia,Arabic
+Kuwait,KW,Romance,25.5167,0.0482,0.0732,0.6591,Asia,Western Asia,Arabic
+Kuwait,KW,Music,1.75,0.0033,0.0072,0.4582,Asia,Western Asia,Arabic
+Kuwait,KW,Documentary,4.1667,0.0079,0.0207,0.3804,Asia,Western Asia,Arabic
+Latvia,LV,Animation,33.4667,0.0631,0.0263,2.4033,Europe,Northern Europe,Latvian
+Latvia,LV,Family,41.8833,0.079,0.0425,1.8581,Europe,Northern Europe,Latvian
+Latvia,LV,Music,6.9167,0.0131,0.0072,1.8075,Europe,Northern Europe,Latvian
+Latvia,LV,Documentary,14.1667,0.0267,0.0207,1.291,Europe,Northern Europe,Latvian
+Latvia,LV,Adventure,38.4333,0.0725,0.058,1.2499,Europe,Northern Europe,Latvian
+Latvia,LV,Comedy,102.2667,0.193,0.1569,1.23,Europe,Northern Europe,Latvian
+Latvia,LV,Fantasy,19.5,0.0368,0.0309,1.1889,Europe,Northern Europe,Latvian
+Latvia,LV,Science Fiction,16.5833,0.0313,0.0289,1.0822,Europe,Northern Europe,Latvian
+Latvia,LV,Mystery,21.7167,0.041,0.0379,1.0802,Europe,Northern Europe,Latvian
+Latvia,LV,Romance,39.9167,0.0753,0.0732,1.029,Europe,Northern Europe,Latvian
+Latvia,LV,Action,60.1,0.1134,0.1204,0.9417,Europe,Northern Europe,Latvian
+Latvia,LV,War,4.1667,0.0079,0.0096,0.8155,Europe,Northern Europe,Latvian
+Latvia,LV,Horror,15.6667,0.0296,0.0377,0.7833,Europe,Northern Europe,Latvian
+Latvia,LV,Thriller,42.4167,0.08,0.1263,0.6338,Europe,Northern Europe,Latvian
+Latvia,LV,Crime,22.8667,0.0431,0.0684,0.6311,Europe,Northern Europe,Latvian
+Latvia,LV,Drama,45.85,0.0865,0.1398,0.6187,Europe,Northern Europe,Latvian
+Latvia,LV,History,3.5,0.0066,0.0109,0.6059,Europe,Northern Europe,Latvian
+Latvia,LV,TV Movie,0.5833,0.0011,0.0023,0.4799,Europe,Northern Europe,Latvian
+Lebanon,LB,Western,2.5,0.0047,0.0019,2.4393,Asia,Western Asia,Arabic|French
+Lebanon,LB,TV Movie,1.75,0.0033,0.0023,1.4452,Asia,Western Asia,Arabic|French
+Lebanon,LB,Romance,54.3833,0.103,0.0732,1.4073,Asia,Western Asia,Arabic|French
+Lebanon,LB,History,7.8667,0.0149,0.0109,1.367,Asia,Western Asia,Arabic|French
+Lebanon,LB,Action,74.25,0.1406,0.1204,1.1679,Asia,Western Asia,Arabic|French
+Lebanon,LB,War,5.7,0.0108,0.0096,1.1198,Asia,Western Asia,Arabic|French
+Lebanon,LB,Crime,39.8667,0.0755,0.0684,1.1045,Asia,Western Asia,Arabic|French
+Lebanon,LB,Adventure,31.65,0.0599,0.058,1.0332,Asia,Western Asia,Arabic|French
+Lebanon,LB,Comedy,84.3667,0.1598,0.1569,1.0185,Asia,Western Asia,Arabic|French
+Lebanon,LB,Thriller,67.1667,0.1272,0.1263,1.0074,Asia,Western Asia,Arabic|French
+Lebanon,LB,Drama,73.5833,0.1394,0.1398,0.9967,Asia,Western Asia,Arabic|French
+Lebanon,LB,Mystery,17.8667,0.0338,0.0379,0.8921,Asia,Western Asia,Arabic|French
+Lebanon,LB,Fantasy,13.45,0.0255,0.0309,0.8231,Asia,Western Asia,Arabic|French
+Lebanon,LB,Science Fiction,12.3667,0.0234,0.0289,0.8101,Asia,Western Asia,Arabic|French
+Lebanon,LB,Family,16.05,0.0304,0.0425,0.7147,Asia,Western Asia,Arabic|French
+Lebanon,LB,Horror,12.0833,0.0229,0.0377,0.6064,Asia,Western Asia,Arabic|French
+Lebanon,LB,Music,2.1667,0.0041,0.0072,0.5684,Asia,Western Asia,Arabic|French
+Lebanon,LB,Animation,6.9333,0.0131,0.0263,0.4998,Asia,Western Asia,Arabic|French
+Lebanon,LB,Documentary,4.0,0.0076,0.0207,0.3659,Asia,Western Asia,Arabic|French
+Lithuania,LT,Music,6.6667,0.0126,0.0072,1.7422,Europe,Northern Europe,Lithuanian
+Lithuania,LT,War,8.75,0.0165,0.0096,1.7125,Europe,Northern Europe,Lithuanian
+Lithuania,LT,Animation,23.45,0.0442,0.0263,1.684,Europe,Northern Europe,Lithuanian
+Lithuania,LT,Documentary,18.1667,0.0343,0.0207,1.6556,Europe,Northern Europe,Lithuanian
+Lithuania,LT,Mystery,24.8,0.0468,0.0379,1.2336,Europe,Northern Europe,Lithuanian
+Lithuania,LT,Romance,46.5,0.0877,0.0732,1.1988,Europe,Northern Europe,Lithuanian
+Lithuania,LT,Family,26.45,0.0499,0.0425,1.1734,Europe,Northern Europe,Lithuanian
+Lithuania,LT,Comedy,95.25,0.1797,0.1569,1.1456,Europe,Northern Europe,Lithuanian
+Lithuania,LT,Science Fiction,17.55,0.0331,0.0289,1.1453,Europe,Northern Europe,Lithuanian
+Lithuania,LT,Adventure,32.7833,0.0619,0.058,1.0661,Europe,Northern Europe,Lithuanian
+Lithuania,LT,Horror,18.8333,0.0355,0.0377,0.9416,Europe,Northern Europe,Lithuanian
+Lithuania,LT,Action,56.3167,0.1063,0.1204,0.8825,Europe,Northern Europe,Lithuanian
+Lithuania,LT,Fantasy,14.35,0.0271,0.0309,0.8749,Europe,Northern Europe,Lithuanian
+Lithuania,LT,Drama,63.1833,0.1192,0.1398,0.8526,Europe,Northern Europe,Lithuanian
+Lithuania,LT,History,4.9167,0.0093,0.0109,0.8511,Europe,Northern Europe,Lithuanian
+Lithuania,LT,Thriller,48.5,0.0915,0.1263,0.7247,Europe,Northern Europe,Lithuanian
+Lithuania,LT,Crime,22.95,0.0433,0.0684,0.6334,Europe,Northern Europe,Lithuanian
+Lithuania,LT,TV Movie,0.5833,0.0011,0.0023,0.4799,Europe,Northern Europe,Lithuanian
+Luxembourg,LU,Documentary,27.8333,0.0525,0.0207,2.5365,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,TV Movie,2.3333,0.0044,0.0023,1.9196,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,War,6.6667,0.0126,0.0096,1.3048,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,Romance,50.25,0.0948,0.0732,1.2954,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,History,6.8333,0.0129,0.0109,1.1829,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,Mystery,22.6833,0.0428,0.0379,1.1283,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,Crime,40.0167,0.0755,0.0684,1.1044,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,Comedy,87.2667,0.1647,0.1569,1.0496,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,Science Fiction,15.9333,0.0301,0.0289,1.0398,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,Drama,76.0833,0.1436,0.1398,1.0266,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,Adventure,28.4833,0.0537,0.058,0.9263,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,Thriller,59.3167,0.1119,0.1263,0.8863,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,Music,3.3667,0.0064,0.0072,0.8798,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,Fantasy,14.25,0.0269,0.0309,0.8688,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,Family,18.0667,0.0341,0.0425,0.8015,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,Horror,15.8333,0.0299,0.0377,0.7916,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,Action,45.2167,0.0853,0.1204,0.7085,Europe,Western Europe,German|French|Luxembourgish
+Luxembourg,LU,Animation,9.5667,0.0181,0.0263,0.687,Europe,Western Europe,German|French|Luxembourgish
+Malaysia,MY,Horror,45.3333,0.0862,0.0377,2.2838,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,War,8.4,0.016,0.0096,1.6565,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,Action,91.0833,0.1732,0.1204,1.4381,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,History,7.7333,0.0147,0.0109,1.3489,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,Thriller,87.75,0.1668,0.1263,1.3211,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,Science Fiction,19.2333,0.0366,0.0289,1.2647,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,Crime,35.65,0.0678,0.0684,0.9914,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,Adventure,29.45,0.056,0.058,0.965,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,Drama,70.1667,0.1334,0.1398,0.954,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,Animation,12.7167,0.0242,0.0263,0.9202,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,Family,20.0833,0.0382,0.0425,0.8978,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,Fantasy,13.7167,0.0261,0.0309,0.8426,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,Mystery,16.2333,0.0309,0.0379,0.8136,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,Music,3.0,0.0057,0.0072,0.7899,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,Comedy,44.5167,0.0846,0.1569,0.5395,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,Western,0.5,0.001,0.0019,0.4897,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,Romance,17.6,0.0335,0.0732,0.4572,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,TV Movie,0.5,0.001,0.0023,0.4145,Asia,South-eastern Asia,English|Malay
+Malaysia,MY,Documentary,2.3333,0.0044,0.0207,0.2143,Asia,South-eastern Asia,English|Malay
+Maldives,MV,Thriller,86.0,0.1623,0.1263,1.285,Asia,Southern Asia,Maldivian
+Maldives,MV,Action,75.7167,0.1429,0.1204,1.1864,Asia,Southern Asia,Maldivian
+Maldives,MV,Romance,45.5,0.0858,0.0732,1.173,Asia,Southern Asia,Maldivian
+Maldives,MV,Drama,80.75,0.1524,0.1398,1.0896,Asia,Southern Asia,Maldivian
+Maldives,MV,Crime,37.1,0.07,0.0684,1.0239,Asia,Southern Asia,Maldivian
+Maldives,MV,Comedy,78.15,0.1475,0.1569,0.9399,Asia,Southern Asia,Maldivian
+Maldives,MV,Science Fiction,13.7167,0.0259,0.0289,0.8952,Asia,Southern Asia,Maldivian
+Maldives,MV,Horror,16.6667,0.0314,0.0377,0.8333,Asia,Southern Asia,Maldivian
+Maldives,MV,History,4.7833,0.009,0.0109,0.8281,Asia,Southern Asia,Maldivian
+Maldives,MV,Animation,11.5167,0.0217,0.0263,0.827,Asia,Southern Asia,Maldivian
+Maldives,MV,Family,18.35,0.0346,0.0425,0.8141,Asia,Southern Asia,Maldivian
+Maldives,MV,Adventure,24.55,0.0463,0.058,0.7984,Asia,Southern Asia,Maldivian
+Maldives,MV,Mystery,15.6333,0.0295,0.0379,0.7776,Asia,Southern Asia,Maldivian
+Maldives,MV,War,3.95,0.0075,0.0096,0.7731,Asia,Southern Asia,Maldivian
+Maldives,MV,Music,2.5833,0.0049,0.0072,0.6751,Asia,Southern Asia,Maldivian
+Maldives,MV,Fantasy,8.8667,0.0167,0.0309,0.5406,Asia,Southern Asia,Maldivian
+Maldives,MV,Documentary,5.8333,0.011,0.0207,0.5316,Asia,Southern Asia,Maldivian
+Maldives,MV,TV Movie,0.3333,0.0006,0.0023,0.2742,Asia,Southern Asia,Maldivian
+Malta,MT,TV Movie,4.0,0.0075,0.0023,3.2908,Europe,Southern Europe,English|Maltese
+Malta,MT,Documentary,29.3333,0.0553,0.0207,2.6732,Europe,Southern Europe,English|Maltese
+Malta,MT,History,8.0,0.0151,0.0109,1.3849,Europe,Southern Europe,English|Maltese
+Malta,MT,Romance,46.4333,0.0876,0.0732,1.197,Europe,Southern Europe,English|Maltese
+Malta,MT,Drama,86.6667,0.1635,0.1398,1.1694,Europe,Southern Europe,English|Maltese
+Malta,MT,Crime,39.3667,0.0743,0.0684,1.0865,Europe,Southern Europe,English|Maltese
+Malta,MT,Mystery,20.7,0.0391,0.0379,1.0296,Europe,Southern Europe,English|Maltese
+Malta,MT,Music,3.7,0.007,0.0072,0.9669,Europe,Southern Europe,English|Maltese
+Malta,MT,Thriller,63.4167,0.1197,0.1263,0.9475,Europe,Southern Europe,English|Maltese
+Malta,MT,Family,21.1667,0.0399,0.0425,0.939,Europe,Southern Europe,English|Maltese
+Malta,MT,Science Fiction,13.9833,0.0264,0.0289,0.9126,Europe,Southern Europe,English|Maltese
+Malta,MT,Comedy,74.6833,0.1409,0.1569,0.8982,Europe,Southern Europe,English|Maltese
+Malta,MT,Adventure,27.45,0.0518,0.058,0.8927,Europe,Southern Europe,English|Maltese
+Malta,MT,Fantasy,14.5167,0.0274,0.0309,0.8851,Europe,Southern Europe,English|Maltese
+Malta,MT,Animation,11.3833,0.0215,0.0263,0.8175,Europe,Southern Europe,English|Maltese
+Malta,MT,War,4.0,0.0075,0.0096,0.7829,Europe,Southern Europe,English|Maltese
+Malta,MT,Action,46.6167,0.088,0.1204,0.7305,Europe,Southern Europe,English|Maltese
+Malta,MT,Horror,14.3333,0.027,0.0377,0.7166,Europe,Southern Europe,English|Maltese
+Malta,MT,Western,0.25,0.0005,0.0019,0.243,Europe,Southern Europe,English|Maltese
+Martinique,MQ,Science Fiction,20.6333,0.0389,0.0289,1.3466,Americas,Latin America and the Caribbean,French
+Martinique,MQ,Horror,24.8167,0.0468,0.0377,1.2408,Americas,Latin America and the Caribbean,French
+Martinique,MQ,TV Movie,1.4167,0.0027,0.0023,1.1655,Americas,Latin America and the Caribbean,French
+Martinique,MQ,Romance,44.3333,0.0836,0.0732,1.1429,Americas,Latin America and the Caribbean,French
+Martinique,MQ,Comedy,94.1,0.1775,0.1569,1.1318,Americas,Latin America and the Caribbean,French
+Martinique,MQ,Fantasy,17.65,0.0333,0.0309,1.0761,Americas,Latin America and the Caribbean,French
+Martinique,MQ,Adventure,32.95,0.0622,0.058,1.0716,Americas,Latin America and the Caribbean,French
+Martinique,MQ,Crime,37.5,0.0708,0.0684,1.035,Americas,Latin America and the Caribbean,French
+Martinique,MQ,Music,3.8833,0.0073,0.0072,1.0148,Americas,Latin America and the Caribbean,French
+Martinique,MQ,Action,63.4333,0.1197,0.1204,0.994,Americas,Latin America and the Caribbean,French
+Martinique,MQ,Mystery,19.1667,0.0362,0.0379,0.9534,Americas,Latin America and the Caribbean,French
+Martinique,MQ,Animation,13.1167,0.0247,0.0263,0.9419,Americas,Latin America and the Caribbean,French
+Martinique,MQ,Drama,68.35,0.129,0.1398,0.9223,Americas,Latin America and the Caribbean,French
+Martinique,MQ,Thriller,61.3667,0.1158,0.1263,0.9169,Americas,Latin America and the Caribbean,French
+Martinique,MQ,Family,19.2833,0.0364,0.0425,0.8555,Americas,Latin America and the Caribbean,French
+Martinique,MQ,History,3.5833,0.0068,0.0109,0.6203,Americas,Latin America and the Caribbean,French
+Martinique,MQ,War,2.9167,0.0055,0.0096,0.5708,Americas,Latin America and the Caribbean,French
+Martinique,MQ,Documentary,1.5,0.0028,0.0207,0.1367,Americas,Latin America and the Caribbean,French
+Mauritius,MU,Adventure,36.8167,0.0695,0.058,1.1973,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,Action,74.85,0.1412,0.1204,1.1729,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,Thriller,77.4833,0.1462,0.1263,1.1577,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,Romance,43.3333,0.0818,0.0732,1.1171,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,Science Fiction,16.4,0.0309,0.0289,1.0703,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,Comedy,88.5167,0.167,0.1569,1.0646,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,Crime,38.4,0.0725,0.0684,1.0598,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,Western,1.0833,0.002,0.0019,1.053,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,Drama,69.3167,0.1308,0.1398,0.9353,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,Horror,17.1167,0.0323,0.0377,0.8558,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,Fantasy,13.5833,0.0256,0.0309,0.8282,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,Mystery,16.4667,0.0311,0.0379,0.8191,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,War,3.75,0.0071,0.0096,0.7339,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,Family,15.8833,0.03,0.0425,0.7046,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,Animation,8.8,0.0166,0.0263,0.632,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,Music,2.3667,0.0045,0.0072,0.6185,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,History,2.9167,0.0055,0.0109,0.5049,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,TV Movie,0.5833,0.0011,0.0023,0.4799,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mauritius,MU,Documentary,2.3333,0.0044,0.0207,0.2126,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mexico,MX,Music,7.5667,0.0143,0.0072,1.9849,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,Animation,26.3,0.0498,0.0263,1.8958,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,Family,36.9667,0.07,0.0425,1.6462,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,Fantasy,24.35,0.0461,0.0309,1.4902,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,Western,1.3667,0.0026,0.0019,1.3335,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,Drama,80.8833,0.1532,0.1398,1.0955,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,Comedy,90.2333,0.1709,0.1569,1.0894,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,Mystery,20.9167,0.0396,0.0379,1.0444,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,Horror,19.75,0.0374,0.0377,0.9912,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,Adventure,29.7,0.0562,0.058,0.9695,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,Thriller,56.7,0.1074,0.1263,0.8504,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,Science Fiction,12.9,0.0244,0.0289,0.8451,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,Romance,32.2167,0.061,0.0732,0.8337,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,Crime,28.1333,0.0533,0.0684,0.7794,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,History,4.4333,0.0084,0.0109,0.7704,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,War,3.9167,0.0074,0.0096,0.7695,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,Action,45.6667,0.0865,0.1204,0.7183,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,TV Movie,0.6667,0.0013,0.0023,0.5505,Americas,Latin America and the Caribbean,Spanish
+Mexico,MX,Documentary,5.3333,0.0101,0.0207,0.4879,Americas,Latin America and the Caribbean,Spanish
+Morocco,MA,Crime,47.05,0.0891,0.0684,1.3035,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,Thriller,81.0,0.1534,0.1263,1.2148,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,Action,75.7167,0.1434,0.1204,1.1909,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,History,6.7333,0.0128,0.0109,1.17,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,War,5.9,0.0112,0.0096,1.1591,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,Adventure,33.6667,0.0638,0.058,1.099,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,Drama,72.75,0.1378,0.1398,0.9854,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,Mystery,19.7167,0.0373,0.0379,0.9844,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,Romance,37.3333,0.0707,0.0732,0.9661,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,Fantasy,14.9667,0.0283,0.0309,0.916,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,Comedy,71.05,0.1346,0.1569,0.8578,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,Horror,16.4167,0.0311,0.0377,0.8239,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,Western,0.8333,0.0016,0.0019,0.8131,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,Science Fiction,12.0833,0.0229,0.0289,0.7916,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,Music,2.5333,0.0048,0.0072,0.6645,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,Family,14.8333,0.0281,0.0425,0.6606,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,Animation,9.0833,0.0172,0.0263,0.6548,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,Documentary,6.0,0.0114,0.0207,0.5489,Africa,Northern Africa,Arabic|Berber
+Morocco,MA,TV Movie,0.3333,0.0006,0.0023,0.2753,Africa,Northern Africa,Arabic|Berber
+Netherlands,NL,TV Movie,5.0,0.0095,0.0023,4.1527,Europe,Western Europe,Dutch
+Netherlands,NL,Documentary,23.3333,0.0444,0.0207,2.1467,Europe,Western Europe,Dutch
+Netherlands,NL,Music,6.75,0.0129,0.0072,1.7808,Europe,Western Europe,Dutch
+Netherlands,NL,War,7.3333,0.014,0.0096,1.4489,Europe,Western Europe,Dutch
+Netherlands,NL,History,7.3333,0.014,0.0109,1.2816,Europe,Western Europe,Dutch
+Netherlands,NL,Romance,48.8333,0.093,0.0732,1.2709,Europe,Western Europe,Dutch
+Netherlands,NL,Drama,85.0,0.1619,0.1398,1.1579,Europe,Western Europe,Dutch
+Netherlands,NL,Mystery,21.3333,0.0406,0.0379,1.0713,Europe,Western Europe,Dutch
+Netherlands,NL,Thriller,70.3333,0.134,0.1263,1.0609,Europe,Western Europe,Dutch
+Netherlands,NL,Family,22.8167,0.0435,0.0425,1.0219,Europe,Western Europe,Dutch
+Netherlands,NL,Crime,36.25,0.069,0.0684,1.01,Europe,Western Europe,Dutch
+Netherlands,NL,Western,1.0,0.0019,0.0019,0.9813,Europe,Western Europe,Dutch
+Netherlands,NL,Comedy,78.2333,0.149,0.1569,0.9499,Europe,Western Europe,Dutch
+Netherlands,NL,Horror,18.0833,0.0344,0.0377,0.9127,Europe,Western Europe,Dutch
+Netherlands,NL,Adventure,21.9,0.0417,0.058,0.719,Europe,Western Europe,Dutch
+Netherlands,NL,Action,45.35,0.0864,0.1204,0.7174,Europe,Western Europe,Dutch
+Netherlands,NL,Science Fiction,10.6667,0.0203,0.0289,0.7027,Europe,Western Europe,Dutch
+Netherlands,NL,Fantasy,8.55,0.0163,0.0309,0.5262,Europe,Western Europe,Dutch
+Netherlands,NL,Animation,6.9,0.0131,0.0263,0.5002,Europe,Western Europe,Dutch
+New Caledonia,NC,Science Fiction,20.3833,0.0385,0.0289,1.3302,Oceania,Melanesia,French
+New Caledonia,NC,Family,28.45,0.0537,0.0425,1.2622,Oceania,Melanesia,French
+New Caledonia,NC,Fantasy,20.4167,0.0385,0.0309,1.2448,Oceania,Melanesia,French
+New Caledonia,NC,Adventure,38.25,0.0722,0.058,1.2439,Oceania,Melanesia,French
+New Caledonia,NC,Music,4.65,0.0088,0.0072,1.2152,Oceania,Melanesia,French
+New Caledonia,NC,Animation,16.6167,0.0314,0.0263,1.1933,Oceania,Melanesia,French
+New Caledonia,NC,Horror,22.8167,0.0431,0.0377,1.1408,Oceania,Melanesia,French
+New Caledonia,NC,Comedy,90.4333,0.1706,0.1569,1.0877,Oceania,Melanesia,French
+New Caledonia,NC,Crime,35.6333,0.0672,0.0684,0.9835,Oceania,Melanesia,French
+New Caledonia,NC,Action,62.3333,0.1176,0.1204,0.9767,Oceania,Melanesia,French
+New Caledonia,NC,War,4.7,0.0089,0.0096,0.9199,Oceania,Melanesia,French
+New Caledonia,NC,Thriller,61.3167,0.1157,0.1263,0.9162,Oceania,Melanesia,French
+New Caledonia,NC,History,5.2,0.0098,0.0109,0.9002,Oceania,Melanesia,French
+New Caledonia,NC,Romance,34.1667,0.0645,0.0732,0.8808,Oceania,Melanesia,French
+New Caledonia,NC,Drama,64.8167,0.1223,0.1398,0.8746,Oceania,Melanesia,French
+New Caledonia,NC,Mystery,16.2333,0.0306,0.0379,0.8075,Oceania,Melanesia,French
+New Caledonia,NC,TV Movie,0.5833,0.0011,0.0023,0.4799,Oceania,Melanesia,French
+New Caledonia,NC,Documentary,3.0,0.0057,0.0207,0.2734,Oceania,Melanesia,French
+New Zealand,NZ,Music,9.8667,0.0186,0.0072,2.5784,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,Documentary,17.8333,0.0336,0.0207,1.6252,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,History,9.3333,0.0176,0.0109,1.6157,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,Animation,21.7667,0.0411,0.0263,1.5631,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,War,7.75,0.0146,0.0096,1.5168,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,Family,31.45,0.0593,0.0425,1.3952,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,Adventure,42.0667,0.0794,0.058,1.368,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,Fantasy,21.55,0.0407,0.0309,1.3139,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,Science Fiction,17.85,0.0337,0.0289,1.1649,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,Crime,39.4667,0.0745,0.0684,1.0892,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,Western,1.0,0.0019,0.0019,0.972,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,Action,61.8667,0.1167,0.1204,0.9694,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,Thriller,63.1667,0.1192,0.1263,0.9438,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,Drama,64.2333,0.1212,0.1398,0.8667,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,Comedy,71.35,0.1346,0.1569,0.8581,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,Mystery,15.1,0.0285,0.0379,0.7511,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,Romance,23.1833,0.0437,0.0732,0.5977,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,Horror,10.8333,0.0204,0.0377,0.5416,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+New Zealand,NZ,TV Movie,0.3333,0.0006,0.0023,0.2742,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+Nicaragua,NI,Western,1.7,0.0032,0.0019,1.6556,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,Fantasy,20.2833,0.0383,0.0309,1.239,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,Family,27.6833,0.0523,0.0425,1.2305,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,Horror,22.5,0.0425,0.0377,1.1271,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,Comedy,91.2333,0.1725,0.1569,1.0994,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,Drama,79.4667,0.1502,0.1398,1.0743,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,Animation,14.6,0.0276,0.0263,1.0504,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,Romance,39.9833,0.0756,0.0732,1.0327,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,Mystery,20.3333,0.0384,0.0379,1.0133,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,Music,3.8333,0.0072,0.0072,1.0036,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,Action,61.5,0.1163,0.1204,0.9655,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,War,4.9167,0.0093,0.0096,0.9641,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,Thriller,63.6167,0.1203,0.1263,0.9523,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,Adventure,28.1167,0.0532,0.058,0.9161,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,Crime,30.4667,0.0576,0.0684,0.8424,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,History,4.6,0.0087,0.0109,0.7978,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,Science Fiction,11.5,0.0217,0.0289,0.7519,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,TV Movie,0.6667,0.0013,0.0023,0.5495,Americas,Latin America and the Caribbean,Spanish
+Nicaragua,NI,Documentary,2.0,0.0038,0.0207,0.1826,Americas,Latin America and the Caribbean,Spanish
+Nigeria,NG,War,8.35,0.0161,0.0096,1.6721,Africa,Sub-Saharan Africa,English
+Nigeria,NG,Drama,109.4167,0.2112,0.1398,1.5106,Africa,Sub-Saharan Africa,English
+Nigeria,NG,Action,78.2833,0.1511,0.1204,1.2551,Africa,Sub-Saharan Africa,English
+Nigeria,NG,Thriller,82.0,0.1583,0.1263,1.2536,Africa,Sub-Saharan Africa,English
+Nigeria,NG,Music,4.3333,0.0084,0.0072,1.1586,Africa,Sub-Saharan Africa,English
+Nigeria,NG,Science Fiction,16.4167,0.0317,0.0289,1.0962,Africa,Sub-Saharan Africa,English
+Nigeria,NG,History,6.1,0.0118,0.0109,1.0805,Africa,Sub-Saharan Africa,English
+Nigeria,NG,Western,1.0833,0.0021,0.0019,1.0774,Africa,Sub-Saharan Africa,English
+Nigeria,NG,Horror,20.25,0.0391,0.0377,1.0359,Africa,Sub-Saharan Africa,English
+Nigeria,NG,Romance,36.0833,0.0697,0.0732,0.9518,Africa,Sub-Saharan Africa,English
+Nigeria,NG,Mystery,16.6,0.032,0.0379,0.8448,Africa,Sub-Saharan Africa,English
+Nigeria,NG,Crime,29.4333,0.0568,0.0684,0.8312,Africa,Sub-Saharan Africa,English
+Nigeria,NG,Fantasy,13.3,0.0257,0.0309,0.8297,Africa,Sub-Saharan Africa,English
+Nigeria,NG,Adventure,21.9,0.0423,0.058,0.7287,Africa,Sub-Saharan Africa,English
+Nigeria,NG,Comedy,57.4667,0.1109,0.1569,0.7072,Africa,Sub-Saharan Africa,English
+Nigeria,NG,Animation,7.2833,0.0141,0.0263,0.5352,Africa,Sub-Saharan Africa,English
+Nigeria,NG,Family,9.7,0.0187,0.0425,0.4403,Africa,Sub-Saharan Africa,English
+Norway,NO,Documentary,29.1667,0.0552,0.0207,2.6681,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,TV Movie,2.9167,0.0055,0.0023,2.4086,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,Western,2.25,0.0043,0.0019,2.1954,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,History,8.0833,0.0153,0.0109,1.4046,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,War,6.7833,0.0128,0.0096,1.3326,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,Romance,44.75,0.0848,0.0732,1.158,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,Family,25.4833,0.0483,0.0425,1.1348,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,Animation,14.9833,0.0284,0.0263,1.0801,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,Mystery,21.3667,0.0405,0.0379,1.0668,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,Music,3.95,0.0075,0.0072,1.0361,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,Fantasy,16.3,0.0309,0.0309,0.9976,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,Drama,71.8667,0.1361,0.1398,0.9734,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,Horror,18.5833,0.0352,0.0377,0.9326,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,Thriller,61.0333,0.1156,0.1263,0.9154,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,Adventure,27.95,0.0529,0.058,0.9124,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,Crime,32.6167,0.0618,0.0684,0.9036,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,Action,56.7167,0.1074,0.1204,0.8921,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,Comedy,71.8833,0.1361,0.1569,0.8678,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Norway,NO,Science Fiction,11.3167,0.0214,0.0289,0.7413,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Oman,OM,Western,2.0833,0.0039,0.0019,2.0289,Asia,Western Asia,Arabic
+Oman,OM,Thriller,107.1167,0.2025,0.1263,1.6035,Asia,Western Asia,Arabic
+Oman,OM,Action,95.6667,0.1808,0.1204,1.5019,Asia,Western Asia,Arabic
+Oman,OM,Crime,51.1167,0.0966,0.0684,1.4134,Asia,Western Asia,Arabic
+Oman,OM,Mystery,21.2,0.0401,0.0379,1.0565,Asia,Western Asia,Arabic
+Oman,OM,War,5.2333,0.0099,0.0096,1.0262,Asia,Western Asia,Arabic
+Oman,OM,Adventure,28.3667,0.0536,0.058,0.9242,Asia,Western Asia,Arabic
+Oman,OM,Drama,68.3333,0.1292,0.1398,0.9238,Asia,Western Asia,Arabic
+Oman,OM,History,5.2333,0.0099,0.0109,0.9077,Asia,Western Asia,Arabic
+Oman,OM,Horror,16.5833,0.0313,0.0377,0.8307,Asia,Western Asia,Arabic
+Oman,OM,Fantasy,12.2333,0.0231,0.0309,0.7473,Asia,Western Asia,Arabic
+Oman,OM,Comedy,57.8,0.1093,0.1569,0.6965,Asia,Western Asia,Arabic
+Oman,OM,Science Fiction,10.4,0.0197,0.0289,0.68,Asia,Western Asia,Arabic
+Oman,OM,Romance,23.9667,0.0453,0.0732,0.619,Asia,Western Asia,Arabic
+Oman,OM,Family,13.1,0.0248,0.0425,0.5823,Asia,Western Asia,Arabic
+Oman,OM,Animation,8.0667,0.0152,0.0263,0.5804,Asia,Western Asia,Arabic
+Oman,OM,Music,1.5,0.0028,0.0072,0.3927,Asia,Western Asia,Arabic
+Oman,OM,Documentary,1.0,0.0019,0.0207,0.0913,Asia,Western Asia,Arabic
+Pakistan,PK,Thriller,91.3667,0.1724,0.1263,1.3651,Asia,Southern Asia,English|Urdu
+Pakistan,PK,Crime,45.4667,0.0858,0.0684,1.2548,Asia,Southern Asia,English|Urdu
+Pakistan,PK,Science Fiction,19.1333,0.0361,0.0289,1.2487,Asia,Southern Asia,English|Urdu
+Pakistan,PK,Action,77.2833,0.1458,0.1204,1.211,Asia,Southern Asia,English|Urdu
+Pakistan,PK,Horror,23.3667,0.0441,0.0377,1.1683,Asia,Southern Asia,English|Urdu
+Pakistan,PK,Drama,81.2,0.1532,0.1398,1.0957,Asia,Southern Asia,English|Urdu
+Pakistan,PK,Romance,34.4167,0.0649,0.0732,0.8873,Asia,Southern Asia,English|Urdu
+Pakistan,PK,Adventure,27.2167,0.0514,0.058,0.8851,Asia,Southern Asia,English|Urdu
+Pakistan,PK,Comedy,72.4833,0.1368,0.1569,0.8718,Asia,Southern Asia,English|Urdu
+Pakistan,PK,Family,16.2333,0.0306,0.0425,0.7202,Asia,Southern Asia,English|Urdu
+Pakistan,PK,Mystery,13.5833,0.0256,0.0379,0.6757,Asia,Southern Asia,English|Urdu
+Pakistan,PK,Animation,9.4,0.0177,0.0263,0.675,Asia,Southern Asia,English|Urdu
+Pakistan,PK,History,3.75,0.0071,0.0109,0.6492,Asia,Southern Asia,English|Urdu
+Pakistan,PK,Fantasy,9.1,0.0172,0.0309,0.5548,Asia,Southern Asia,English|Urdu
+Pakistan,PK,War,2.5833,0.0049,0.0096,0.5056,Asia,Southern Asia,English|Urdu
+Pakistan,PK,TV Movie,0.5,0.0009,0.0023,0.4113,Asia,Southern Asia,English|Urdu
+Pakistan,PK,Music,1.1667,0.0022,0.0072,0.3049,Asia,Southern Asia,English|Urdu
+Pakistan,PK,Western,0.25,0.0005,0.0019,0.243,Asia,Southern Asia,English|Urdu
+Pakistan,PK,Documentary,1.5,0.0028,0.0207,0.1367,Asia,Southern Asia,English|Urdu
+Panama,PA,Drama,85.2667,0.1609,0.1398,1.1505,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,Western,1.1667,0.0022,0.0019,1.1341,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,Documentary,11.8333,0.0223,0.0207,1.0784,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,Romance,41.5667,0.0784,0.0732,1.0716,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,War,5.4167,0.0102,0.0096,1.0601,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,Family,23.6667,0.0447,0.0425,1.0499,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,TV Movie,1.25,0.0024,0.0023,1.0284,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,Comedy,84.8167,0.16,0.1569,1.0201,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,Music,3.8667,0.0073,0.0072,1.0105,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,Mystery,19.95,0.0376,0.0379,0.9923,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,Horror,19.3333,0.0365,0.0377,0.9666,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,Action,61.5833,0.1162,0.1204,0.965,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,Animation,13.4167,0.0253,0.0263,0.9635,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,Crime,34.0833,0.0643,0.0684,0.9407,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,Thriller,61.8667,0.1167,0.1263,0.9244,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,Adventure,28.2833,0.0534,0.058,0.9198,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,Fantasy,14.8833,0.0281,0.0309,0.9074,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,Science Fiction,13.2333,0.025,0.0289,0.8636,Americas,Latin America and the Caribbean,Spanish
+Panama,PA,History,4.5167,0.0085,0.0109,0.7819,Americas,Latin America and the Caribbean,Spanish
+Paraguay,PY,Drama,88.05,0.1661,0.1398,1.1881,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,Western,1.1667,0.0022,0.0019,1.1341,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,Family,23.7667,0.0448,0.0425,1.0544,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,Romance,40.7667,0.0769,0.0732,1.051,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,Mystery,21.0333,0.0397,0.0379,1.0462,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,War,5.3333,0.0101,0.0096,1.0438,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,Comedy,85.8333,0.1619,0.1569,1.0323,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,Horror,20.4167,0.0385,0.0377,1.0208,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,History,5.8,0.0109,0.0109,1.0041,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,Crime,35.6167,0.0672,0.0684,0.983,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,Thriller,65.15,0.1229,0.1263,0.9734,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,Action,60.3333,0.1138,0.1204,0.9454,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,Animation,12.6,0.0238,0.0263,0.9048,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,Music,3.3667,0.0064,0.0072,0.8798,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,Adventure,27.0,0.0509,0.058,0.8781,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,Fantasy,13.7667,0.026,0.0309,0.8393,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,Science Fiction,12.0,0.0226,0.0289,0.7831,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,Documentary,7.3333,0.0138,0.0207,0.6683,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Paraguay,PY,TV Movie,0.6667,0.0013,0.0023,0.5485,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Peru,PE,Western,1.5,0.0029,0.0019,1.4692,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,Music,5.5333,0.0105,0.0072,1.457,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,Fantasy,20.65,0.0393,0.0309,1.2686,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,Animation,17.25,0.0328,0.0263,1.2482,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,Family,26.5833,0.0505,0.0425,1.1883,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,War,5.5333,0.0105,0.0096,1.0912,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,Comedy,88.1167,0.1675,0.1569,1.0679,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,Drama,78.3833,0.149,0.1398,1.0657,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,Action,66.1333,0.1257,0.1204,1.0442,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,Horror,20.6667,0.0393,0.0377,1.0411,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,Thriller,62.9833,0.1197,0.1263,0.9482,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,Adventure,28.8333,0.0548,0.058,0.9448,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,Mystery,18.75,0.0356,0.0379,0.9397,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,History,5.1667,0.0098,0.0109,0.9012,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,Romance,33.4167,0.0635,0.0732,0.868,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,Crime,31.0833,0.0591,0.0684,0.8644,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,Science Fiction,12.75,0.0242,0.0289,0.8384,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,TV Movie,0.6667,0.0013,0.0023,0.5526,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Peru,PE,Documentary,2.0,0.0038,0.0207,0.1837,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Philippines,PH,Horror,39.0833,0.0739,0.0377,1.9577,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,Music,6.15,0.0116,0.0072,1.6102,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,Science Fiction,22.4,0.0423,0.0289,1.4646,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,War,6.4,0.0121,0.0096,1.255,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,Action,77.8667,0.1472,0.1204,1.2224,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,Thriller,77.5,0.1465,0.1263,1.1601,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,History,6.2333,0.0118,0.0109,1.0811,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,Adventure,33.15,0.0627,0.058,1.0801,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,Mystery,21.65,0.0409,0.0379,1.0789,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,Fantasy,16.3,0.0308,0.0309,0.9957,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,Drama,72.5,0.1371,0.1398,0.9801,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,Western,1.0,0.0019,0.0019,0.9739,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,Crime,30.4833,0.0576,0.0684,0.8429,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,Romance,29.0667,0.0549,0.0732,0.7508,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,Family,16.6833,0.0315,0.0425,0.7415,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,Comedy,59.9333,0.1133,0.1569,0.7222,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,Animation,9.4333,0.0178,0.0263,0.6787,Asia,South-eastern Asia,English|Filipino
+Philippines,PH,Documentary,3.1667,0.006,0.0207,0.2891,Asia,South-eastern Asia,English|Filipino
+Poland,PL,TV Movie,2.8333,0.0054,0.0023,2.3398,Europe,Eastern Europe,Polish
+Poland,PL,History,8.5,0.0161,0.0109,1.477,Europe,Eastern Europe,Polish
+Poland,PL,Romance,53.5,0.1013,0.0732,1.3845,Europe,Eastern Europe,Polish
+Poland,PL,War,6.5,0.0123,0.0096,1.277,Europe,Eastern Europe,Polish
+Poland,PL,Drama,85.7833,0.1625,0.1398,1.1619,Europe,Eastern Europe,Polish
+Poland,PL,Horror,22.1667,0.042,0.0377,1.1125,Europe,Eastern Europe,Polish
+Poland,PL,Documentary,11.8333,0.0224,0.0207,1.0825,Europe,Eastern Europe,Polish
+Poland,PL,Comedy,85.55,0.162,0.1569,1.0328,Europe,Eastern Europe,Polish
+Poland,PL,Family,21.3333,0.0404,0.0425,0.95,Europe,Eastern Europe,Polish
+Poland,PL,Animation,13.0833,0.0248,0.0263,0.9431,Europe,Eastern Europe,Polish
+Poland,PL,Mystery,18.8833,0.0358,0.0379,0.9428,Europe,Eastern Europe,Polish
+Poland,PL,Thriller,60.9167,0.1154,0.1263,0.9136,Europe,Eastern Europe,Polish
+Poland,PL,Crime,32.7667,0.0621,0.0684,0.9078,Europe,Eastern Europe,Polish
+Poland,PL,Western,0.9167,0.0017,0.0019,0.8944,Europe,Eastern Europe,Polish
+Poland,PL,Adventure,26.8,0.0508,0.058,0.8749,Europe,Eastern Europe,Polish
+Poland,PL,Science Fiction,13.0833,0.0248,0.0289,0.8571,Europe,Eastern Europe,Polish
+Poland,PL,Action,50.95,0.0965,0.1204,0.8014,Europe,Eastern Europe,Polish
+Poland,PL,Fantasy,11.0167,0.0209,0.0309,0.6742,Europe,Eastern Europe,Polish
+Poland,PL,Music,1.5833,0.003,0.0072,0.4153,Europe,Eastern Europe,Polish
+Portugal,PT,Documentary,20.1667,0.0381,0.0207,1.8413,Europe,Southern Europe,Portuguese
+Portugal,PT,TV Movie,2.0,0.0038,0.0023,1.6485,Europe,Southern Europe,Portuguese
+Portugal,PT,History,9.0833,0.0172,0.0109,1.5754,Europe,Southern Europe,Portuguese
+Portugal,PT,Romance,55.7167,0.1053,0.0732,1.4391,Europe,Southern Europe,Portuguese
+Portugal,PT,Drama,78.5,0.1484,0.1398,1.0612,Europe,Southern Europe,Portuguese
+Portugal,PT,Mystery,20.5,0.0388,0.0379,1.0216,Europe,Southern Europe,Portuguese
+Portugal,PT,Crime,36.4167,0.0688,0.0684,1.007,Europe,Southern Europe,Portuguese
+Portugal,PT,Comedy,82.65,0.1562,0.1569,0.9959,Europe,Southern Europe,Portuguese
+Portugal,PT,Family,21.2,0.0401,0.0425,0.9423,Europe,Southern Europe,Portuguese
+Portugal,PT,Animation,12.7,0.024,0.0263,0.9137,Europe,Southern Europe,Portuguese
+Portugal,PT,Fantasy,14.9167,0.0282,0.0309,0.9112,Europe,Southern Europe,Portuguese
+Portugal,PT,Thriller,60.1667,0.1137,0.1263,0.9007,Europe,Southern Europe,Portuguese
+Portugal,PT,Music,3.4167,0.0065,0.0072,0.8946,Europe,Southern Europe,Portuguese
+Portugal,PT,Adventure,26.65,0.0504,0.058,0.8683,Europe,Southern Europe,Portuguese
+Portugal,PT,Science Fiction,12.5833,0.0238,0.0289,0.8228,Europe,Southern Europe,Portuguese
+Portugal,PT,Action,52.1667,0.0986,0.1204,0.819,Europe,Southern Europe,Portuguese
+Portugal,PT,War,4.0833,0.0077,0.0096,0.8007,Europe,Southern Europe,Portuguese
+Portugal,PT,Horror,15.4167,0.0291,0.0377,0.7722,Europe,Southern Europe,Portuguese
+Portugal,PT,Western,0.6667,0.0013,0.0019,0.6493,Europe,Southern Europe,Portuguese
+Qatar,QA,Western,2.0833,0.0039,0.0019,2.0251,Asia,Western Asia,Arabic
+Qatar,QA,Action,83.3167,0.1572,0.1204,1.3055,Asia,Western Asia,Arabic
+Qatar,QA,Thriller,86.2833,0.1628,0.1263,1.2892,Asia,Western Asia,Arabic
+Qatar,QA,Crime,43.4,0.0819,0.0684,1.1978,Asia,Western Asia,Arabic
+Qatar,QA,Mystery,21.9,0.0413,0.0379,1.0893,Asia,Western Asia,Arabic
+Qatar,QA,Adventure,30.8333,0.0582,0.058,1.0027,Asia,Western Asia,Arabic
+Qatar,QA,History,5.4833,0.0103,0.0109,0.9492,Asia,Western Asia,Arabic
+Qatar,QA,Romance,36.8167,0.0695,0.0732,0.9491,Asia,Western Asia,Arabic
+Qatar,QA,Drama,70.0833,0.1322,0.1398,0.9457,Asia,Western Asia,Arabic
+Qatar,QA,Comedy,73.2667,0.1382,0.1569,0.8812,Asia,Western Asia,Arabic
+Qatar,QA,Science Fiction,12.9,0.0243,0.0289,0.8419,Asia,Western Asia,Arabic
+Qatar,QA,Horror,15.75,0.0297,0.0377,0.7875,Asia,Western Asia,Arabic
+Qatar,QA,Family,16.9667,0.032,0.0425,0.7527,Asia,Western Asia,Arabic
+Qatar,QA,Fantasy,11.8333,0.0223,0.0309,0.7215,Asia,Western Asia,Arabic
+Qatar,QA,War,3.65,0.0069,0.0096,0.7144,Asia,Western Asia,Arabic
+Qatar,QA,Animation,9.6,0.0181,0.0263,0.6894,Asia,Western Asia,Arabic
+Qatar,QA,Music,1.5,0.0028,0.0072,0.392,Asia,Western Asia,Arabic
+Qatar,QA,Documentary,4.0,0.0075,0.0207,0.3645,Asia,Western Asia,Arabic
+Qatar,QA,TV Movie,0.3333,0.0006,0.0023,0.2742,Asia,Western Asia,Arabic
+Romania,RO,TV Movie,3.25,0.0062,0.0023,2.6992,Europe,Eastern Europe,Romanian
+Romania,RO,Romance,50.8333,0.0968,0.0732,1.323,Europe,Eastern Europe,Romanian
+Romania,RO,Comedy,97.7667,0.1862,0.1569,1.1871,Europe,Eastern Europe,Romanian
+Romania,RO,Drama,83.45,0.159,0.1398,1.1368,Europe,Eastern Europe,Romanian
+Romania,RO,Science Fiction,16.4167,0.0313,0.0289,1.0816,Europe,Eastern Europe,Romanian
+Romania,RO,Mystery,20.5,0.039,0.0379,1.0294,Europe,Eastern Europe,Romanian
+Romania,RO,Thriller,66.1667,0.126,0.1263,0.998,Europe,Eastern Europe,Romanian
+Romania,RO,Crime,35.55,0.0677,0.0684,0.9905,Europe,Eastern Europe,Romanian
+Romania,RO,War,4.65,0.0089,0.0096,0.9187,Europe,Eastern Europe,Romanian
+Romania,RO,Action,57.5667,0.1097,0.1204,0.9106,Europe,Eastern Europe,Romanian
+Romania,RO,Western,0.9167,0.0017,0.0019,0.8995,Europe,Eastern Europe,Romanian
+Romania,RO,Horror,17.6667,0.0337,0.0377,0.8917,Europe,Eastern Europe,Romanian
+Romania,RO,Documentary,9.6667,0.0184,0.0207,0.8893,Europe,Eastern Europe,Romanian
+Romania,RO,Adventure,22.4167,0.0427,0.058,0.7359,Europe,Eastern Europe,Romanian
+Romania,RO,History,3.9833,0.0076,0.0109,0.6961,Europe,Eastern Europe,Romanian
+Romania,RO,Fantasy,10.9167,0.0208,0.0309,0.6719,Europe,Eastern Europe,Romanian
+Romania,RO,Family,13.6,0.0259,0.0425,0.6091,Europe,Eastern Europe,Romanian
+Romania,RO,Animation,8.0167,0.0153,0.0263,0.5812,Europe,Eastern Europe,Romanian
+Romania,RO,Music,1.6667,0.0032,0.0072,0.4397,Europe,Eastern Europe,Romanian
+Réunion,RE,Science Fiction,21.0,0.0396,0.0289,1.3705,Africa,Sub-Saharan Africa,French
+Réunion,RE,Horror,26.9833,0.0509,0.0377,1.3491,Africa,Sub-Saharan Africa,French
+Réunion,RE,TV Movie,1.5833,0.003,0.0023,1.3026,Africa,Sub-Saharan Africa,French
+Réunion,RE,Comedy,99.6333,0.188,0.1569,1.1983,Africa,Sub-Saharan Africa,French
+Réunion,RE,Fantasy,18.7667,0.0354,0.0309,1.1442,Africa,Sub-Saharan Africa,French
+Réunion,RE,Adventure,34.5,0.0651,0.058,1.122,Africa,Sub-Saharan Africa,French
+Réunion,RE,Family,22.9833,0.0434,0.0425,1.0196,Africa,Sub-Saharan Africa,French
+Réunion,RE,Action,64.9167,0.1225,0.1204,1.0172,Africa,Sub-Saharan Africa,French
+Réunion,RE,Romance,38.6667,0.073,0.0732,0.9968,Africa,Sub-Saharan Africa,French
+Réunion,RE,Crime,35.4,0.0668,0.0684,0.977,Africa,Sub-Saharan Africa,French
+Réunion,RE,Thriller,61.2667,0.1156,0.1263,0.9154,Africa,Sub-Saharan Africa,French
+Réunion,RE,Animation,12.15,0.0229,0.0263,0.8725,Africa,Sub-Saharan Africa,French
+Réunion,RE,Drama,64.1,0.1209,0.1398,0.8649,Africa,Sub-Saharan Africa,French
+Réunion,RE,Mystery,16.65,0.0314,0.0379,0.8282,Africa,Sub-Saharan Africa,French
+Réunion,RE,Music,2.7333,0.0052,0.0072,0.7143,Africa,Sub-Saharan Africa,French
+Réunion,RE,History,4.0,0.0075,0.0109,0.6925,Africa,Sub-Saharan Africa,French
+Réunion,RE,War,3.1667,0.006,0.0096,0.6198,Africa,Sub-Saharan Africa,French
+Réunion,RE,Documentary,1.5,0.0028,0.0207,0.1367,Africa,Sub-Saharan Africa,French
+Saudi Arabia,SA,Western,2.1667,0.0041,0.0019,2.1061,Asia,Western Asia,Arabic
+Saudi Arabia,SA,Thriller,104.5333,0.1972,0.1263,1.5619,Asia,Western Asia,Arabic
+Saudi Arabia,SA,Action,89.7,0.1692,0.1204,1.4056,Asia,Western Asia,Arabic
+Saudi Arabia,SA,Mystery,27.4833,0.0519,0.0379,1.3671,Asia,Western Asia,Arabic
+Saudi Arabia,SA,Crime,48.8167,0.0921,0.0684,1.3473,Asia,Western Asia,Arabic
+Saudi Arabia,SA,War,6.0667,0.0114,0.0096,1.1873,Asia,Western Asia,Arabic
+Saudi Arabia,SA,Horror,19.25,0.0363,0.0377,0.9624,Asia,Western Asia,Arabic
+Saudi Arabia,SA,Comedy,77.75,0.1467,0.1569,0.9351,Asia,Western Asia,Arabic
+Saudi Arabia,SA,History,4.9,0.0092,0.0109,0.8483,Asia,Western Asia,Arabic
+Saudi Arabia,SA,Adventure,25.4833,0.0481,0.058,0.8287,Asia,Western Asia,Arabic
+Saudi Arabia,SA,Drama,60.5833,0.1143,0.1398,0.8175,Asia,Western Asia,Arabic
+Saudi Arabia,SA,Science Fiction,11.15,0.021,0.0289,0.7277,Asia,Western Asia,Arabic
+Saudi Arabia,SA,Fantasy,11.3167,0.0214,0.0309,0.69,Asia,Western Asia,Arabic
+Saudi Arabia,SA,Romance,20.4667,0.0386,0.0732,0.5276,Asia,Western Asia,Arabic
+Saudi Arabia,SA,Family,11.6,0.0219,0.0425,0.5146,Asia,Western Asia,Arabic
+Saudi Arabia,SA,Animation,6.9833,0.0132,0.0263,0.5015,Asia,Western Asia,Arabic
+Saudi Arabia,SA,Music,1.25,0.0024,0.0072,0.3267,Asia,Western Asia,Arabic
+Saudi Arabia,SA,Documentary,0.5,0.0009,0.0207,0.0456,Asia,Western Asia,Arabic
+Serbia,RS,Documentary,20.3333,0.0384,0.0207,1.853,Europe,Southern Europe,Serbian
+Serbia,RS,Romance,53.6667,0.1013,0.0732,1.3835,Europe,Southern Europe,Serbian
+Serbia,RS,Mystery,27.3,0.0515,0.0379,1.3579,Europe,Southern Europe,Serbian
+Serbia,RS,TV Movie,1.5,0.0028,0.0023,1.234,Europe,Southern Europe,Serbian
+Serbia,RS,Western,1.25,0.0024,0.0019,1.2151,Europe,Southern Europe,Serbian
+Serbia,RS,Crime,40.8167,0.077,0.0684,1.1265,Europe,Southern Europe,Serbian
+Serbia,RS,Comedy,87.7333,0.1655,0.1569,1.0552,Europe,Southern Europe,Serbian
+Serbia,RS,Science Fiction,15.9167,0.03,0.0289,1.0387,Europe,Southern Europe,Serbian
+Serbia,RS,Thriller,63.5833,0.12,0.1263,0.95,Europe,Southern Europe,Serbian
+Serbia,RS,Drama,69.8167,0.1317,0.1398,0.9421,Europe,Southern Europe,Serbian
+Serbia,RS,Adventure,28.9,0.0545,0.058,0.9398,Europe,Southern Europe,Serbian
+Serbia,RS,War,4.6667,0.0088,0.0096,0.9133,Europe,Southern Europe,Serbian
+Serbia,RS,History,5.0,0.0094,0.0109,0.8656,Europe,Southern Europe,Serbian
+Serbia,RS,Fantasy,13.6167,0.0257,0.0309,0.8302,Europe,Southern Europe,Serbian
+Serbia,RS,Action,52.45,0.099,0.1204,0.8219,Europe,Southern Europe,Serbian
+Serbia,RS,Animation,10.7667,0.0203,0.0263,0.7732,Europe,Southern Europe,Serbian
+Serbia,RS,Family,16.6833,0.0315,0.0425,0.7401,Europe,Southern Europe,Serbian
+Serbia,RS,Horror,13.5,0.0255,0.0377,0.675,Europe,Southern Europe,Serbian
+Serbia,RS,Music,2.5,0.0047,0.0072,0.6533,Europe,Southern Europe,Serbian
+Singapore,SG,Horror,32.9167,0.0625,0.0377,1.6551,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,Documentary,16.8333,0.0319,0.0207,1.5428,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,War,6.7,0.0127,0.0096,1.3188,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,Action,80.8833,0.1535,0.1204,1.2746,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,Science Fiction,19.2833,0.0366,0.0289,1.2656,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,Thriller,81.9167,0.1554,0.1263,1.2309,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,History,6.7833,0.0129,0.0109,1.181,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,Music,4.4167,0.0084,0.0072,1.1608,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,Crime,40.35,0.0766,0.0684,1.12,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,TV Movie,1.25,0.0024,0.0023,1.0342,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,Drama,70.3333,0.1335,0.1398,0.9544,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,Adventure,27.6167,0.0524,0.058,0.9032,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,Mystery,17.85,0.0339,0.0379,0.8929,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,Comedy,63.0,0.1195,0.1569,0.762,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,Family,15.7333,0.0299,0.0425,0.702,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,Fantasy,11.4333,0.0217,0.0309,0.701,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,Animation,8.3667,0.0159,0.0263,0.6043,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,Romance,20.8333,0.0395,0.0732,0.5401,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Singapore,SG,Western,0.5,0.0009,0.0019,0.4888,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Slovakia,SK,Documentary,22.8333,0.0444,0.0207,2.1456,Europe,Eastern Europe,Slovak
+Slovakia,SK,Animation,22.3,0.0434,0.0263,1.6513,Europe,Eastern Europe,Slovak
+Slovakia,SK,Family,31.1333,0.0606,0.0425,1.4242,Europe,Eastern Europe,Slovak
+Slovakia,SK,Comedy,95.1833,0.1852,0.1569,1.1804,Europe,Eastern Europe,Slovak
+Slovakia,SK,History,6.3333,0.0123,0.0109,1.1305,Europe,Eastern Europe,Slovak
+Slovakia,SK,Romance,41.9167,0.0815,0.0732,1.1142,Europe,Eastern Europe,Slovak
+Slovakia,SK,Crime,36.25,0.0705,0.0684,1.0316,Europe,Eastern Europe,Slovak
+Slovakia,SK,Drama,74.0,0.144,0.1398,1.0296,Europe,Eastern Europe,Slovak
+Slovakia,SK,Adventure,29.15,0.0567,0.058,0.9775,Europe,Eastern Europe,Slovak
+Slovakia,SK,War,4.6667,0.0091,0.0096,0.9418,Europe,Eastern Europe,Slovak
+Slovakia,SK,Mystery,18.25,0.0355,0.0379,0.936,Europe,Eastern Europe,Slovak
+Slovakia,SK,Fantasy,14.4167,0.028,0.0309,0.9063,Europe,Eastern Europe,Slovak
+Slovakia,SK,Western,0.8333,0.0016,0.0019,0.8353,Europe,Eastern Europe,Slovak
+Slovakia,SK,Action,46.0833,0.0897,0.1204,0.7446,Europe,Eastern Europe,Slovak
+Slovakia,SK,Thriller,46.75,0.091,0.1263,0.7202,Europe,Eastern Europe,Slovak
+Slovakia,SK,Science Fiction,10.4,0.0202,0.0289,0.6998,Europe,Eastern Europe,Slovak
+Slovakia,SK,Horror,11.4167,0.0222,0.0377,0.5886,Europe,Eastern Europe,Slovak
+Slovakia,SK,Music,1.8333,0.0036,0.0072,0.494,Europe,Eastern Europe,Slovak
+Slovakia,SK,TV Movie,0.25,0.0005,0.0023,0.2121,Europe,Eastern Europe,Slovak
+Slovenia,SI,Documentary,26.1667,0.0494,0.0207,2.3846,Europe,Southern Europe,Slovene
+Slovenia,SI,Science Fiction,20.2,0.0381,0.0289,1.3183,Europe,Southern Europe,Slovene
+Slovenia,SI,Romance,49.5833,0.0936,0.0732,1.2783,Europe,Southern Europe,Slovene
+Slovenia,SI,TV Movie,1.5,0.0028,0.0023,1.234,Europe,Southern Europe,Slovene
+Slovenia,SI,Music,4.4167,0.0083,0.0072,1.1542,Europe,Southern Europe,Slovene
+Slovenia,SI,Western,1.1667,0.0022,0.0019,1.1341,Europe,Southern Europe,Slovene
+Slovenia,SI,Mystery,22.7167,0.0429,0.0379,1.13,Europe,Southern Europe,Slovene
+Slovenia,SI,Adventure,33.65,0.0635,0.058,1.0943,Europe,Southern Europe,Slovene
+Slovenia,SI,Crime,38.45,0.0725,0.0684,1.0612,Europe,Southern Europe,Slovene
+Slovenia,SI,Comedy,85.6,0.1615,0.1569,1.0295,Europe,Southern Europe,Slovene
+Slovenia,SI,War,5.1667,0.0097,0.0096,1.0112,Europe,Southern Europe,Slovene
+Slovenia,SI,Action,59.3333,0.1119,0.1204,0.9297,Europe,Southern Europe,Slovene
+Slovenia,SI,Thriller,59.8333,0.1129,0.1263,0.894,Europe,Southern Europe,Slovene
+Slovenia,SI,History,5.0,0.0094,0.0109,0.8656,Europe,Southern Europe,Slovene
+Slovenia,SI,Drama,62.6833,0.1183,0.1398,0.8458,Europe,Southern Europe,Slovene
+Slovenia,SI,Horror,16.0,0.0302,0.0377,0.7999,Europe,Southern Europe,Slovene
+Slovenia,SI,Fantasy,12.5167,0.0236,0.0309,0.7631,Europe,Southern Europe,Slovene
+Slovenia,SI,Family,16.4667,0.0311,0.0425,0.7305,Europe,Southern Europe,Slovene
+Slovenia,SI,Animation,9.55,0.018,0.0263,0.6858,Europe,Southern Europe,Slovene
+South Africa,ZA,TV Movie,2.0,0.0038,0.0023,1.6454,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Western,1.4167,0.0027,0.0019,1.3771,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Music,4.7667,0.009,0.0072,1.2457,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Drama,85.75,0.1618,0.1398,1.1571,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Action,66.4833,0.1254,0.1204,1.0418,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Science Fiction,15.9167,0.03,0.0289,1.0387,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Comedy,85.6833,0.1617,0.1569,1.0305,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Thriller,68.5833,0.1294,0.1263,1.0247,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Romance,39.0,0.0736,0.0732,1.0054,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Family,21.85,0.0412,0.0425,0.9694,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Crime,34.9167,0.0659,0.0684,0.9637,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Adventure,28.8333,0.0544,0.058,0.9377,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,War,4.6667,0.0088,0.0096,0.9133,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Fantasy,14.8667,0.0281,0.0309,0.9064,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Animation,11.9333,0.0225,0.0263,0.857,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,History,4.75,0.009,0.0109,0.8223,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Mystery,16.5,0.0311,0.0379,0.8207,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Documentary,7.8333,0.0148,0.0207,0.7139,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Africa,ZA,Horror,14.25,0.0269,0.0377,0.7125,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Korea,KR,History,8.8333,0.0168,0.0109,1.5379,Asia,Eastern Asia,Korean
+South Korea,KR,Crime,50.9833,0.0967,0.0684,1.4151,Asia,Eastern Asia,Korean
+South Korea,KR,Science Fiction,21.5,0.0408,0.0289,1.4111,Asia,Eastern Asia,Korean
+South Korea,KR,Horror,27.8667,0.0529,0.0377,1.4012,Asia,Eastern Asia,Korean
+South Korea,KR,Thriller,92.4667,0.1755,0.1263,1.3894,Asia,Eastern Asia,Korean
+South Korea,KR,Action,87.8667,0.1667,0.1204,1.3847,Asia,Eastern Asia,Korean
+South Korea,KR,War,6.8333,0.013,0.0096,1.345,Asia,Eastern Asia,Korean
+South Korea,KR,Drama,80.1,0.152,0.1398,1.087,Asia,Eastern Asia,Korean
+South Korea,KR,Mystery,20.6333,0.0392,0.0379,1.0322,Asia,Eastern Asia,Korean
+South Korea,KR,Fantasy,16.2167,0.0308,0.0309,0.9943,Asia,Eastern Asia,Korean
+South Korea,KR,Animation,11.3667,0.0216,0.0263,0.8209,Asia,Eastern Asia,Korean
+South Korea,KR,Adventure,21.1833,0.0402,0.058,0.6928,Asia,Eastern Asia,Korean
+South Korea,KR,Comedy,47.5333,0.0902,0.1569,0.5749,Asia,Eastern Asia,Korean
+South Korea,KR,Music,2.0833,0.004,0.0072,0.5475,Asia,Eastern Asia,Korean
+South Korea,KR,Romance,20.1667,0.0383,0.0732,0.5229,Asia,Eastern Asia,Korean
+South Korea,KR,Family,10.3667,0.0197,0.0425,0.4625,Asia,Eastern Asia,Korean
+South Korea,KR,Documentary,1.0,0.0019,0.0207,0.0917,Asia,Eastern Asia,Korean
+Spain,ES,Documentary,17.0,0.0321,0.0207,1.5492,Europe,Southern Europe,Spanish
+Spain,ES,Horror,28.25,0.0533,0.0377,1.4124,Europe,Southern Europe,Spanish
+Spain,ES,TV Movie,1.6667,0.0031,0.0023,1.3712,Europe,Southern Europe,Spanish
+Spain,ES,History,7.9,0.0149,0.0109,1.3676,Europe,Southern Europe,Spanish
+Spain,ES,Romance,45.8,0.0864,0.0732,1.1807,Europe,Southern Europe,Spanish
+Spain,ES,Mystery,23.2167,0.0438,0.0379,1.1548,Europe,Southern Europe,Spanish
+Spain,ES,Drama,79.4,0.1498,0.1398,1.0714,Europe,Southern Europe,Spanish
+Spain,ES,Comedy,88.4333,0.1669,0.1569,1.0636,Europe,Southern Europe,Spanish
+Spain,ES,Crime,38.3,0.0723,0.0684,1.057,Europe,Southern Europe,Spanish
+Spain,ES,Science Fiction,15.0333,0.0284,0.0289,0.9811,Europe,Southern Europe,Spanish
+Spain,ES,Thriller,63.65,0.1201,0.1263,0.951,Europe,Southern Europe,Spanish
+Spain,ES,Adventure,27.8,0.0525,0.058,0.9041,Europe,Southern Europe,Spanish
+Spain,ES,Family,20.1833,0.0381,0.0425,0.8954,Europe,Southern Europe,Spanish
+Spain,ES,Fantasy,14.2833,0.0269,0.0309,0.8708,Europe,Southern Europe,Spanish
+Spain,ES,War,4.3333,0.0082,0.0096,0.8481,Europe,Southern Europe,Spanish
+Spain,ES,Action,43.9,0.0828,0.1204,0.6879,Europe,Southern Europe,Spanish
+Spain,ES,Animation,8.85,0.0167,0.0263,0.6355,Europe,Southern Europe,Spanish
+Spain,ES,Music,2.0,0.0038,0.0072,0.5227,Europe,Southern Europe,Spanish
+Sri Lanka,LK,TV Movie,1.5333,0.0029,0.0023,1.2615,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Romance,48.8667,0.0922,0.0732,1.2598,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Thriller,83.0,0.1566,0.1263,1.2401,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Action,76.0667,0.1435,0.1204,1.1919,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Drama,87.0333,0.1642,0.1398,1.1744,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Comedy,86.9,0.164,0.1569,1.0452,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Crime,34.8333,0.0657,0.0684,0.9614,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,History,4.9167,0.0093,0.0109,0.8511,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Family,18.6833,0.0353,0.0425,0.8289,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Mystery,15.25,0.0288,0.0379,0.7586,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Adventure,21.9833,0.0415,0.058,0.7149,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Science Fiction,10.95,0.0207,0.0289,0.7146,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Horror,14.0,0.0264,0.0377,0.7,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Animation,8.4833,0.016,0.0263,0.6092,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,War,3.0833,0.0058,0.0096,0.6035,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Fantasy,9.3333,0.0176,0.0309,0.569,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Music,2.0833,0.0039,0.0072,0.5444,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Western,0.5,0.0009,0.0019,0.486,Asia,Southern Asia,Sinhala|Tamil
+Sri Lanka,LK,Documentary,2.5,0.0047,0.0207,0.2278,Asia,Southern Asia,Sinhala|Tamil
+Sweden,SE,Documentary,24.6667,0.047,0.0207,2.2693,Europe,Northern Europe,Swedish
+Sweden,SE,TV Movie,2.3333,0.0044,0.0023,1.9379,Europe,Northern Europe,Swedish
+Sweden,SE,Western,1.9167,0.0037,0.0019,1.8808,Europe,Northern Europe,Swedish
+Sweden,SE,History,7.5833,0.0144,0.0109,1.3253,Europe,Northern Europe,Swedish
+Sweden,SE,War,6.0833,0.0116,0.0096,1.2019,Europe,Northern Europe,Swedish
+Sweden,SE,Family,26.7,0.0509,0.0425,1.1958,Europe,Northern Europe,Swedish
+Sweden,SE,Animation,15.95,0.0304,0.0263,1.1563,Europe,Northern Europe,Swedish
+Sweden,SE,Music,3.9,0.0074,0.0072,1.0289,Europe,Northern Europe,Swedish
+Sweden,SE,Romance,39.5167,0.0753,0.0732,1.0284,Europe,Northern Europe,Swedish
+Sweden,SE,Mystery,20.2833,0.0386,0.0379,1.0185,Europe,Northern Europe,Swedish
+Sweden,SE,Horror,19.9167,0.0379,0.0377,1.0053,Europe,Northern Europe,Swedish
+Sweden,SE,Science Fiction,14.9167,0.0284,0.0289,0.9827,Europe,Northern Europe,Swedish
+Sweden,SE,Drama,71.6667,0.1365,0.1398,0.9762,Europe,Northern Europe,Swedish
+Sweden,SE,Adventure,29.35,0.0559,0.058,0.9636,Europe,Northern Europe,Swedish
+Sweden,SE,Fantasy,15.3,0.0291,0.0309,0.9417,Europe,Northern Europe,Swedish
+Sweden,SE,Comedy,77.3,0.1472,0.1569,0.9386,Europe,Northern Europe,Swedish
+Sweden,SE,Action,57.1667,0.1089,0.1204,0.9043,Europe,Northern Europe,Swedish
+Sweden,SE,Thriller,59.75,0.1138,0.1263,0.9012,Europe,Northern Europe,Swedish
+Sweden,SE,Crime,30.7,0.0585,0.0684,0.8554,Europe,Northern Europe,Swedish
+Switzerland,CH,Documentary,31.0,0.0585,0.0207,2.8251,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,TV Movie,2.5,0.0047,0.0023,2.0567,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,Romance,51.3333,0.0969,0.0732,1.3234,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,War,6.3333,0.0119,0.0096,1.2395,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,Crime,43.4333,0.0819,0.0684,1.1987,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,History,6.3333,0.0119,0.0109,1.0964,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,Comedy,87.8,0.1657,0.1569,1.056,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,Drama,74.5833,0.1407,0.1398,1.0064,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,Science Fiction,14.9833,0.0283,0.0289,0.9778,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,Mystery,18.6167,0.0351,0.0379,0.926,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,Adventure,28.2667,0.0533,0.058,0.9193,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,Music,3.4167,0.0064,0.0072,0.8929,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,Thriller,57.5333,0.1086,0.1263,0.8596,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,Action,52.0667,0.0982,0.1204,0.8159,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,Horror,16.1667,0.0305,0.0377,0.8083,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,Fantasy,11.5333,0.0218,0.0309,0.7032,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,Family,15.05,0.0284,0.0425,0.6677,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Switzerland,CH,Animation,9.05,0.0171,0.0263,0.6499,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Taiwan,TW,Music,6.75,0.0128,0.0072,1.7673,,,Chinese
+Taiwan,TW,Horror,28.6667,0.0542,0.0377,1.436,,,Chinese
+Taiwan,TW,Mystery,27.5333,0.052,0.0379,1.3721,,,Chinese
+Taiwan,TW,History,7.7333,0.0146,0.0109,1.3413,,,Chinese
+Taiwan,TW,Action,80.4167,0.152,0.1204,1.2625,,,Chinese
+Taiwan,TW,War,6.3667,0.012,0.0096,1.2484,,,Chinese
+Taiwan,TW,Crime,44.9833,0.085,0.0684,1.2439,,,Chinese
+Taiwan,TW,Science Fiction,18.5,0.035,0.0289,1.2096,,,Chinese
+Taiwan,TW,Drama,82.3167,0.1556,0.1398,1.1128,,,Chinese
+Taiwan,TW,Thriller,73.65,0.1392,0.1263,1.1025,,,Chinese
+Taiwan,TW,TV Movie,1.3333,0.0025,0.0023,1.099,,,Chinese
+Taiwan,TW,Adventure,27.4,0.0518,0.058,0.8928,,,Chinese
+Taiwan,TW,Romance,29.0,0.0548,0.0732,0.749,,,Chinese
+Taiwan,TW,Fantasy,12.0,0.0227,0.0309,0.733,,,Chinese
+Taiwan,TW,Western,0.75,0.0014,0.0019,0.7304,,,Chinese
+Taiwan,TW,Comedy,60.1167,0.1136,0.1569,0.7244,,,Chinese
+Taiwan,TW,Animation,8.45,0.016,0.0263,0.608,,,Chinese
+Taiwan,TW,Documentary,4.3333,0.0082,0.0207,0.3957,,,Chinese
+Taiwan,TW,Family,8.7,0.0164,0.0425,0.3867,,,Chinese
+Thailand,TH,Horror,35.8333,0.0686,0.0377,1.819,Asia,South-eastern Asia,Thai
+Thailand,TH,Action,84.2667,0.1614,0.1204,1.3407,Asia,South-eastern Asia,Thai
+Thailand,TH,Science Fiction,20.15,0.0386,0.0289,1.3352,Asia,South-eastern Asia,Thai
+Thailand,TH,Thriller,80.5333,0.1543,0.1263,1.2217,Asia,South-eastern Asia,Thai
+Thailand,TH,Fantasy,18.9167,0.0362,0.0309,1.171,Asia,South-eastern Asia,Thai
+Thailand,TH,Mystery,21.3,0.0408,0.0379,1.0757,Asia,South-eastern Asia,Thai
+Thailand,TH,History,6.1167,0.0117,0.0109,1.0751,Asia,South-eastern Asia,Thai
+Thailand,TH,Drama,71.4167,0.1368,0.1398,0.9784,Asia,South-eastern Asia,Thai
+Thailand,TH,Adventure,29.0,0.0556,0.058,0.9576,Asia,South-eastern Asia,Thai
+Thailand,TH,Crime,32.8167,0.0629,0.0684,0.9196,Asia,South-eastern Asia,Thai
+Thailand,TH,War,4.6167,0.0088,0.0096,0.9174,Asia,South-eastern Asia,Thai
+Thailand,TH,Comedy,63.6667,0.122,0.1569,0.7775,Asia,South-eastern Asia,Thai
+Thailand,TH,Romance,29.1667,0.0559,0.0732,0.7634,Asia,South-eastern Asia,Thai
+Thailand,TH,Western,0.75,0.0014,0.0019,0.7402,Asia,South-eastern Asia,Thai
+Thailand,TH,Animation,9.05,0.0173,0.0263,0.6599,Asia,South-eastern Asia,Thai
+Thailand,TH,Music,2.25,0.0043,0.0072,0.597,Asia,South-eastern Asia,Thai
+Thailand,TH,Family,12.15,0.0233,0.0425,0.5473,Asia,South-eastern Asia,Thai
+Trinidad and Tobago,TT,TV Movie,2.25,0.0042,0.0023,1.8511,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Western,1.4167,0.0027,0.0019,1.3771,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Romance,45.6,0.086,0.0732,1.1756,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Action,72.75,0.1373,0.1204,1.14,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Comedy,90.45,0.1707,0.1569,1.0879,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Thriller,71.9167,0.1357,0.1263,1.0745,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Mystery,21.3333,0.0403,0.0379,1.0611,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Drama,77.9167,0.147,0.1398,1.0514,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Fantasy,15.3,0.0289,0.0309,0.9328,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Science Fiction,14.0167,0.0264,0.0289,0.9147,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Music,3.5,0.0066,0.0072,0.9146,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Crime,32.8333,0.0619,0.0684,0.9062,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Family,19.9667,0.0377,0.0425,0.8858,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Horror,17.5833,0.0332,0.0377,0.8791,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Adventure,25.25,0.0476,0.058,0.8211,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,War,4.1167,0.0078,0.0096,0.8057,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Animation,10.1833,0.0192,0.0263,0.7313,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,History,2.6167,0.0049,0.0109,0.453,Americas,Latin America and the Caribbean,English
+Trinidad and Tobago,TT,Documentary,1.0,0.0019,0.0207,0.0911,Americas,Latin America and the Caribbean,English
+Turkey,TR,War,7.5,0.0146,0.0096,1.5165,Asia,Western Asia,Turkish
+Turkey,TR,Comedy,115.0833,0.2243,0.1569,1.43,Asia,Western Asia,Turkish
+Turkey,TR,TV Movie,1.5833,0.0031,0.0023,1.3458,Asia,Western Asia,Turkish
+Turkey,TR,Science Fiction,17.2833,0.0337,0.0289,1.1653,Asia,Western Asia,Turkish
+Turkey,TR,Horror,21.75,0.0424,0.0377,1.1235,Asia,Western Asia,Turkish
+Turkey,TR,Drama,72.6667,0.1417,0.1398,1.013,Asia,Western Asia,Turkish
+Turkey,TR,Romance,37.25,0.0726,0.0732,0.9921,Asia,Western Asia,Turkish
+Turkey,TR,Fantasy,14.9333,0.0291,0.0309,0.9406,Asia,Western Asia,Turkish
+Turkey,TR,Music,3.45,0.0067,0.0072,0.9315,Asia,Western Asia,Turkish
+Turkey,TR,History,5.1667,0.0101,0.0109,0.9241,Asia,Western Asia,Turkish
+Turkey,TR,Adventure,27.3833,0.0534,0.058,0.92,Asia,Western Asia,Turkish
+Turkey,TR,Thriller,59.4167,0.1158,0.1263,0.9172,Asia,Western Asia,Turkish
+Turkey,TR,Crime,31.6,0.0616,0.0684,0.901,Asia,Western Asia,Turkish
+Turkey,TR,Action,54.4,0.106,0.1204,0.8807,Asia,Western Asia,Turkish
+Turkey,TR,Mystery,16.1833,0.0315,0.0379,0.8317,Asia,Western Asia,Turkish
+Turkey,TR,Family,14.8167,0.0289,0.0425,0.6791,Asia,Western Asia,Turkish
+Turkey,TR,Animation,8.7833,0.0171,0.0263,0.6517,Asia,Western Asia,Turkish
+Turkey,TR,Documentary,3.5,0.0068,0.0207,0.3295,Asia,Western Asia,Turkish
+Turkey,TR,Western,0.25,0.0005,0.0019,0.2511,Asia,Western Asia,Turkish
+Ukraine,UA,Animation,21.2833,0.0402,0.0263,1.5284,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,War,7.25,0.0137,0.0096,1.4189,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,Family,31.0333,0.0586,0.0425,1.3768,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,Romance,50.8333,0.0959,0.0732,1.3105,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,Crime,46.2833,0.0873,0.0684,1.2774,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,Comedy,103.8833,0.196,0.1569,1.2494,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,Mystery,23.2667,0.0439,0.0379,1.1573,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,Adventure,31.0167,0.0585,0.058,1.0087,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,Action,56.05,0.1058,0.1204,0.8783,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,History,4.75,0.009,0.0109,0.8223,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,Science Fiction,12.45,0.0235,0.0289,0.8125,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,Thriller,53.6667,0.1013,0.1263,0.8019,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,Drama,58.9167,0.1112,0.1398,0.795,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,Fantasy,11.4833,0.0217,0.0309,0.7001,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,Horror,11.3333,0.0214,0.0377,0.5666,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,Documentary,5.0,0.0094,0.0207,0.4557,Europe,Eastern Europe,Ukrainian
+Ukraine,UA,Music,1.5,0.0028,0.0072,0.392,Europe,Eastern Europe,Ukrainian
+United Arab Emirates,AE,Thriller,86.5,0.1632,0.1263,1.2924,Asia,Western Asia,Arabic
+United Arab Emirates,AE,Action,78.3667,0.1479,0.1204,1.228,Asia,Western Asia,Arabic
+United Arab Emirates,AE,Crime,40.8667,0.0771,0.0684,1.1279,Asia,Western Asia,Arabic
+United Arab Emirates,AE,Western,1.0833,0.002,0.0019,1.053,Asia,Western Asia,Arabic
+United Arab Emirates,AE,Mystery,20.95,0.0395,0.0379,1.0421,Asia,Western Asia,Arabic
+United Arab Emirates,AE,Drama,73.8333,0.1393,0.1398,0.9963,Asia,Western Asia,Arabic
+United Arab Emirates,AE,Romance,37.5167,0.0708,0.0732,0.9672,Asia,Western Asia,Arabic
+United Arab Emirates,AE,Adventure,29.4667,0.0556,0.058,0.9583,Asia,Western Asia,Arabic
+United Arab Emirates,AE,Comedy,77.0167,0.1453,0.1569,0.9263,Asia,Western Asia,Arabic
+United Arab Emirates,AE,Science Fiction,13.0667,0.0247,0.0289,0.8527,Asia,Western Asia,Arabic
+United Arab Emirates,AE,Documentary,9.1667,0.0173,0.0207,0.8354,Asia,Western Asia,Arabic
+United Arab Emirates,AE,History,4.8167,0.0091,0.0109,0.8338,Asia,Western Asia,Arabic
+United Arab Emirates,AE,Horror,15.1667,0.0286,0.0377,0.7583,Asia,Western Asia,Arabic
+United Arab Emirates,AE,Family,16.4167,0.031,0.0425,0.7283,Asia,Western Asia,Arabic
+United Arab Emirates,AE,War,3.65,0.0069,0.0096,0.7144,Asia,Western Asia,Arabic
+United Arab Emirates,AE,Animation,9.3833,0.0177,0.0263,0.6738,Asia,Western Asia,Arabic
+United Arab Emirates,AE,Fantasy,10.9,0.0206,0.0309,0.6646,Asia,Western Asia,Arabic
+United Arab Emirates,AE,Music,1.5,0.0028,0.0072,0.392,Asia,Western Asia,Arabic
+United Arab Emirates,AE,TV Movie,0.3333,0.0006,0.0023,0.2742,Asia,Western Asia,Arabic
+United Kingdom,GB,Fantasy,42.0167,0.0794,0.0309,2.5665,Europe,Northern Europe,English
+United Kingdom,GB,Documentary,26.0,0.0491,0.0207,2.3739,Europe,Northern Europe,English
+United Kingdom,GB,Music,7.1667,0.0135,0.0072,1.8764,Europe,Northern Europe,English
+United Kingdom,GB,Adventure,47.95,0.0906,0.058,1.5623,Europe,Northern Europe,English
+United Kingdom,GB,Family,33.7167,0.0637,0.0425,1.4986,Europe,Northern Europe,English
+United Kingdom,GB,Animation,20.0167,0.0378,0.0263,1.4402,Europe,Northern Europe,English
+United Kingdom,GB,Horror,22.0333,0.0417,0.0377,1.1037,Europe,Northern Europe,English
+United Kingdom,GB,Science Fiction,15.7667,0.0298,0.0289,1.0309,Europe,Northern Europe,English
+United Kingdom,GB,War,5.25,0.0099,0.0096,1.0295,Europe,Northern Europe,English
+United Kingdom,GB,Mystery,19.9167,0.0376,0.0379,0.9926,Europe,Northern Europe,English
+United Kingdom,GB,Comedy,79.1167,0.1496,0.1569,0.9533,Europe,Northern Europe,English
+United Kingdom,GB,Crime,31.9167,0.0603,0.0684,0.8825,Europe,Northern Europe,English
+United Kingdom,GB,History,4.75,0.009,0.0109,0.8238,Europe,Northern Europe,English
+United Kingdom,GB,Thriller,51.75,0.0978,0.1263,0.7747,Europe,Northern Europe,English
+United Kingdom,GB,Western,0.7833,0.0015,0.0019,0.7629,Europe,Northern Europe,English
+United Kingdom,GB,Action,44.7167,0.0845,0.1204,0.702,Europe,Northern Europe,English
+United Kingdom,GB,Drama,51.3667,0.0971,0.1398,0.6944,Europe,Northern Europe,English
+United Kingdom,GB,Romance,24.1,0.0456,0.0732,0.6225,Europe,Northern Europe,English
+United Kingdom,GB,TV Movie,0.6667,0.0013,0.0023,0.5495,Europe,Northern Europe,English
+United States,US,Animation,30.1667,0.0569,0.0263,2.1663,Americas,Northern America,English
+United States,US,Music,7.1667,0.0135,0.0072,1.8728,Americas,Northern America,English
+United States,US,Documentary,19.8333,0.0374,0.0207,1.8075,Americas,Northern America,English
+United States,US,Science Fiction,27.3333,0.0516,0.0289,1.7838,Americas,Northern America,English
+United States,US,Family,40.1167,0.0757,0.0425,1.7797,Americas,Northern America,English
+United States,US,Comedy,96.35,0.1818,0.1569,1.1588,Americas,Northern America,English
+United States,US,Fantasy,18.0833,0.0341,0.0309,1.1025,Americas,Northern America,English
+United States,US,Adventure,29.9667,0.0565,0.058,0.9745,Americas,Northern America,English
+United States,US,Drama,64.5833,0.1219,0.1398,0.8715,Americas,Northern America,English
+United States,US,War,4.4167,0.0083,0.0096,0.8644,Americas,Northern America,English
+United States,US,Crime,30.4,0.0574,0.0684,0.839,Americas,Northern America,English
+United States,US,Mystery,16.55,0.0312,0.0379,0.8232,Americas,Northern America,English
+United States,US,Action,49.4333,0.0933,0.1204,0.7746,Americas,Northern America,English
+United States,US,History,4.4167,0.0083,0.0109,0.7646,Americas,Northern America,English
+United States,US,Romance,29.4833,0.0556,0.0732,0.7601,Americas,Northern America,English
+United States,US,Horror,14.3333,0.027,0.0377,0.7166,Americas,Northern America,English
+United States,US,Thriller,46.6667,0.0881,0.1263,0.6973,Americas,Northern America,English
+United States,US,Western,0.7,0.0013,0.0019,0.6804,Americas,Northern America,English
+Uruguay,UY,Western,2.5,0.0047,0.0019,2.4393,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,Drama,99.5333,0.1885,0.1398,1.3481,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,Mystery,23.8833,0.0452,0.0379,1.1925,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,Romance,42.4833,0.0805,0.0732,1.0994,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,History,6.2833,0.0119,0.0109,1.0918,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,Comedy,86.9333,0.1646,0.1569,1.0495,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,Horror,20.75,0.0393,0.0377,1.0414,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,Crime,35.4167,0.0671,0.0684,0.9812,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,Thriller,64.7833,0.1227,0.1263,0.9716,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,War,4.75,0.009,0.0096,0.9332,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,Family,20.6167,0.039,0.0425,0.9181,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,Documentary,9.3333,0.0177,0.0207,0.8538,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,Music,3.25,0.0062,0.0072,0.8525,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,Action,52.85,0.1001,0.1204,0.8313,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,Adventure,23.6833,0.0449,0.058,0.7731,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,Science Fiction,10.75,0.0204,0.0289,0.7042,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,Animation,9.45,0.0179,0.0263,0.6812,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,Fantasy,10.0833,0.0191,0.0309,0.6171,Americas,Latin America and the Caribbean,Spanish
+Uruguay,UY,TV Movie,0.6667,0.0013,0.0023,0.5505,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Drama,95.6333,0.1808,0.1398,1.2929,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,History,7.05,0.0133,0.0109,1.2228,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Western,1.1667,0.0022,0.0019,1.1362,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Romance,42.4333,0.0802,0.0732,1.096,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Mystery,20.95,0.0396,0.0379,1.0441,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Horror,20.8333,0.0394,0.0377,1.0436,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Thriller,67.4833,0.1276,0.1263,1.0102,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Comedy,83.5333,0.1579,0.1569,1.0066,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Music,3.6667,0.0069,0.0072,0.96,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Family,21.3333,0.0403,0.0425,0.9482,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Action,60.25,0.1139,0.1204,0.9459,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Crime,32.45,0.0613,0.0684,0.8973,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Adventure,26.4333,0.05,0.058,0.8613,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Fantasy,13.95,0.0264,0.0309,0.8521,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,TV Movie,1.0,0.0019,0.0023,0.8243,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,War,4.0833,0.0077,0.0096,0.8007,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Science Fiction,12.0,0.0227,0.0289,0.7846,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Animation,10.75,0.0203,0.0263,0.7734,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,Documentary,4.0,0.0076,0.0207,0.3652,Americas,Latin America and the Caribbean,Spanish
+Vietnam,VN,Horror,32.0833,0.0612,0.0377,1.6224,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,Action,95.1,0.1815,0.1204,1.5072,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,Thriller,79.3333,0.1514,0.1263,1.1989,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,Mystery,23.6,0.045,0.0379,1.1873,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,Music,4.2667,0.0081,0.0072,1.1278,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,History,6.3667,0.0122,0.0109,1.1148,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,Science Fiction,16.1167,0.0308,0.0289,1.0638,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,Crime,36.4333,0.0695,0.0684,1.017,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,Comedy,82.7333,0.1579,0.1569,1.0064,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,Adventure,29.45,0.0562,0.058,0.9687,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,War,4.7,0.009,0.0096,0.9304,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,Drama,64.3333,0.1228,0.1398,0.878,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,Fantasy,12.2333,0.0233,0.0309,0.7544,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,Western,0.75,0.0014,0.0019,0.7374,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,Animation,10.0333,0.0191,0.0263,0.7288,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,Family,10.1333,0.0193,0.0425,0.4547,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,Romance,13.6667,0.0261,0.0732,0.3564,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,TV Movie,0.3333,0.0006,0.0023,0.2774,Asia,South-eastern Asia,Vietnamese
+Vietnam,VN,Documentary,2.3333,0.0045,0.0207,0.2151,Asia,South-eastern Asia,Vietnamese

@@ -1,0 +1,94 @@
+country_name,country_iso2,iso_numeric,region,top_genres,local_film_share,twin_1,twin_1_iso_numeric,twin_1_similarity,twin_1_same_region,twin_2,twin_2_iso_numeric,twin_2_similarity,twin_2_same_region,twin_3,twin_3_iso_numeric,twin_3_similarity,twin_3_same_region
+Argentina,AR,032,Americas,Drama|Mystery|Family,0.04,Paraguay,600,0.93,True,Venezuela,862,0.85,True,Uruguay,858,0.73,True
+Australia,AU,036,Oceania,Documentary|Fantasy|Animation,0.047,United Kingdom,826,0.87,False,New Zealand,554,0.86,True,Ireland,372,0.83,False
+Austria,AT,040,Europe,Documentary|Science Fiction|Romance,0.002,Switzerland,756,0.87,True,Slovenia,705,0.87,True,Germany,276,0.86,True
+Bahamas,BS,044,Americas,Romance|Drama|Action,0.0,Trinidad and Tobago,780,0.85,True,Mauritius,480,0.81,False,Jamaica,388,0.79,True
+Bahrain,BH,048,Asia,Thriller|Crime|Action,0.0,Qatar,634,0.95,True,Oman,512,0.9,True,Kuwait,414,0.89,True
+Bangladesh,BD,050,Asia,Thriller|Drama|Action,0.0,Sri Lanka,144,0.9,True,Maldives,462,0.89,True,Qatar,634,0.85,True
+Belgium,BE,056,Europe,Documentary|Science Fiction|Fantasy,0.026,United Kingdom,826,0.8,True,Estonia,233,0.71,True,Finland,246,0.68,True
+Bolivia,BO,068,Americas,Animation|Family|Fantasy,0.0,Guatemala,320,0.98,True,El Salvador,222,0.98,True,Ecuador,218,0.96,True
+Brazil,BR,076,Americas,Animation|Family|Mystery,0.047,El Salvador,222,0.82,True,Guatemala,320,0.82,True,Ecuador,218,0.81,True
+Bulgaria,BG,100,Europe,Documentary|Science Fiction|Romance,0.004,Slovenia,705,0.74,True,Serbia,688,0.71,True,Romania,642,0.58,True
+Canada,CA,124,Americas,Documentary|Adventure|Crime,0.072,Luxembourg,442,0.85,False,Malta,470,0.84,False,Switzerland,756,0.81,False
+Chile,CL,152,Americas,Family|Animation|Drama,0.019,Guatemala,320,0.93,True,Mexico,484,0.93,True,Bolivia,068,0.91,True
+Colombia,CO,170,Americas,Fantasy|Family|Horror,0.013,Ecuador,218,0.92,True,Guatemala,320,0.91,True,Honduras,340,0.9,True
+Costa Rica,CR,188,Americas,Family|Animation|Romance,0.0,Hungary,348,0.72,False,Panama,591,0.66,True,Slovakia,703,0.65,False
+Croatia,HR,191,Europe,Documentary|Family|Animation,0.038,Iceland,352,0.82,True,Slovakia,703,0.81,True,Estonia,233,0.8,True
+Cyprus,CY,196,Asia,Documentary|Adventure|Romance,0.0,Israel,376,0.78,True,Iceland,352,0.76,False,Denmark,208,0.74,False
+Czech Republic,CZ,203,Europe,Documentary|Animation|Family,0.097,Slovakia,703,0.9,True,Iceland,352,0.86,True,Denmark,208,0.78,True
+Denmark,DK,208,Europe,Documentary|Romance|Animation,0.055,Sweden,752,0.92,True,Norway,578,0.86,True,Malta,470,0.83,True
+Dominican Republic,DO,214,Americas,Action|Fantasy|Horror,0.0,Jamaica,388,0.99,True,Trinidad and Tobago,780,0.96,True,Nicaragua,558,0.96,True
+Ecuador,EC,218,Americas,Animation|Family|Fantasy,0.0,El Salvador,222,0.99,True,Honduras,340,0.99,True,Peru,604,0.97,True
+Egypt,EG,818,Africa,Comedy|Mystery|Family,0.138,Jordan,400,0.92,False,Dominican Republic,214,0.89,False,Jamaica,388,0.88,False
+El Salvador,SV,222,Americas,Animation|Family|Fantasy,0.0,Ecuador,218,0.99,True,Bolivia,068,0.98,True,Guatemala,320,0.98,True
+Estonia,EE,233,Europe,Documentary|Animation|Science Fiction,0.0,Lithuania,440,0.88,True,Finland,246,0.83,True,Croatia,191,0.8,True
+Finland,FI,246,Europe,Documentary|Family|Animation,0.011,Sweden,752,0.91,True,Estonia,233,0.83,True,Norway,578,0.82,True
+France,FR,250,Europe,Comedy|Horror|Science Fiction,0.219,Guadeloupe,312,0.85,False,Turkey,792,0.85,False,Réunion,638,0.84,False
+Germany,DE,276,Europe,Science Fiction|Documentary|Horror,0.108,Austria,040,0.86,True,Slovenia,705,0.7,True,Canada,124,0.68,False
+Greece,GR,300,Europe,Mystery|Romance|Documentary,0.025,Poland,616,0.63,True,Austria,040,0.6,True,Germany,276,0.55,True
+Guadeloupe,GP,312,Americas,Science Fiction|Horror|Comedy,0.002,Martinique,474,0.99,True,Réunion,638,0.97,False,Dominican Republic,214,0.94,True
+Guatemala,GT,320,Americas,Animation|Family|Fantasy,0.0,Bolivia,068,0.98,True,El Salvador,222,0.98,True,Ecuador,218,0.97,True
+Honduras,HN,340,Americas,Family|Fantasy|Animation,0.0,Nicaragua,558,0.99,True,Ecuador,218,0.99,True,Peru,604,0.98,True
+Hong Kong,HK,344,Asia,Science Fiction|Horror|Action,0.057,Singapore,702,0.87,True,Taiwan,158,0.64,True,Germany,276,0.61,False
+Hungary,HU,348,Europe,Documentary|Romance|Animation,0.053,Slovakia,703,0.93,True,Croatia,191,0.8,True,Iceland,352,0.78,True
+Iceland,IS,352,Europe,Documentary|Animation|Family,0.0,Slovakia,703,0.9,True,Czech Republic,203,0.86,True,Croatia,191,0.82,True
+India,IN,356,Asia,Thriller|Drama|Action,0.628,Maldives,462,0.85,True,United Arab Emirates,784,0.8,True,Bangladesh,050,0.76,True
+Indonesia,ID,360,Asia,Horror|Drama|Crime,0.244,Philippines,608,0.84,True,Malaysia,458,0.83,True,Taiwan,158,0.77,True
+Ireland,IE,372,Europe,Documentary|Fantasy|Animation,0.015,United Kingdom,826,0.87,True,Australia,036,0.83,False,Iceland,352,0.79,True
+Israel,IL,376,Asia,Documentary|Romance|Animation,0.017,Denmark,208,0.81,False,Malta,470,0.8,False,Cyprus,196,0.78,True
+Italy,IT,380,Europe,Fantasy|Documentary|Romance,0.129,Spain,724,0.62,True,Canada,124,0.59,False,Luxembourg,442,0.54,True
+Jamaica,JM,388,Americas,Action|Thriller|Romance,0.0,Trinidad and Tobago,780,0.99,True,Dominican Republic,214,0.99,True,Martinique,474,0.96,True
+Japan,JP,392,Asia,Fantasy|Adventure|Drama,0.334,Thailand,764,0.64,True,South Korea,410,0.62,True,New Caledonia,540,0.6,False
+Jordan,JO,400,Asia,Crime|Thriller|Action,0.019,Saudi Arabia,682,0.97,True,Oman,512,0.96,True,Qatar,634,0.93,True
+Kenya,KE,404,Africa,Science Fiction|Action|Thriller,0.023,Mauritius,480,0.9,True,Nigeria,566,0.88,True,Pakistan,586,0.87,False
+Kuwait,KW,414,Asia,Thriller|Crime|Action,0.002,Saudi Arabia,682,0.95,True,Oman,512,0.94,True,Jordan,400,0.92,True
+Latvia,LV,428,Europe,Animation|Family|Documentary,0.0,Lithuania,440,0.81,True,United States,840,0.8,False,Iceland,352,0.69,True
+Lebanon,LB,422,Asia,Romance|Action|Crime,0.006,Morocco,504,0.85,False,Sri Lanka,144,0.82,True,Qatar,634,0.81,True
+Lithuania,LT,440,Europe,Animation|Documentary|Mystery,0.0,Estonia,233,0.88,True,Latvia,428,0.81,True,Croatia,191,0.73,True
+Luxembourg,LU,442,Europe,Documentary|Romance|Mystery,0.0,Switzerland,756,0.96,True,Malta,470,0.94,True,Slovenia,705,0.88,True
+Malaysia,MY,458,Asia,Horror|Action|Thriller,0.08,Philippines,608,0.91,True,South Korea,410,0.88,True,Vietnam,704,0.85,True
+Maldives,MV,462,Asia,Thriller|Action|Romance,0.0,Bangladesh,050,0.89,True,Sri Lanka,144,0.89,True,India,356,0.85,True
+Malta,MT,470,Europe,Documentary|Romance|Drama,0.0,Luxembourg,442,0.94,True,Portugal,620,0.91,True,Switzerland,756,0.89,True
+Martinique,MQ,474,Americas,Science Fiction|Horror|Romance,0.0,Guadeloupe,312,0.99,True,Réunion,638,0.98,False,Jamaica,388,0.96,True
+Mauritius,MU,480,Africa,Adventure|Action|Thriller,0.006,Trinidad and Tobago,780,0.93,False,Jamaica,388,0.92,False,Kenya,404,0.9,True
+Mexico,MX,484,Americas,Animation|Family|Fantasy,0.055,Chile,152,0.93,True,Bolivia,068,0.91,True,Guatemala,320,0.9,True
+Morocco,MA,504,Africa,Crime|Thriller|Action,0.006,Qatar,634,0.88,False,Oman,512,0.85,False,Lebanon,422,0.85,False
+Netherlands,NL,528,Europe,Documentary|Romance|Drama,0.095,Malta,470,0.82,True,Luxembourg,442,0.81,True,Switzerland,756,0.8,True
+New Caledonia,NC,540,Oceania,Science Fiction|Family|Fantasy,0.0,Réunion,638,0.95,False,Ecuador,218,0.93,False,El Salvador,222,0.91,False
+New Zealand,NZ,554,Oceania,Documentary|Animation|Family,0.013,Australia,036,0.86,True,Czech Republic,203,0.76,False,Iceland,352,0.71,False
+Nicaragua,NI,558,Americas,Fantasy|Family|Horror,0.0,Honduras,340,0.99,True,Peru,604,0.98,True,Ecuador,218,0.96,True
+Nigeria,NG,566,Africa,Drama|Action|Thriller,0.112,Thailand,764,0.96,False,Guadeloupe,312,0.91,False,Dominican Republic,214,0.91,False
+Norway,NO,578,Europe,Documentary|Romance|Family,0.032,Sweden,752,0.95,True,Malta,470,0.88,True,Denmark,208,0.86,True
+Oman,OM,512,Asia,Thriller|Action|Crime,0.0,Saudi Arabia,682,0.98,True,Jordan,400,0.96,True,Qatar,634,0.96,True
+Pakistan,PK,586,Asia,Thriller|Crime|Science Fiction,0.0,Mauritius,480,0.9,False,Nigeria,566,0.9,False,Jamaica,388,0.89,False
+Panama,PA,591,Americas,Drama|Documentary|Romance,0.0,Costa Rica,188,0.66,True,Hungary,348,0.52,False,Uruguay,858,0.38,True
+Paraguay,PY,600,Americas,Drama|Family|Romance,0.006,Argentina,032,0.93,True,Venezuela,862,0.9,True,Sri Lanka,144,0.8,False
+Peru,PE,604,Americas,Fantasy|Animation|Family,0.011,Honduras,340,0.98,True,Nicaragua,558,0.98,True,Ecuador,218,0.97,True
+Philippines,PH,608,Asia,Horror|Science Fiction|Action,0.095,Malaysia,458,0.91,True,Thailand,764,0.91,True,South Korea,410,0.87,True
+Poland,PL,616,Europe,Romance|Drama|Horror,0.133,Uruguay,858,0.69,False,Portugal,620,0.66,True,Netherlands,528,0.66,True
+Portugal,PT,620,Europe,Documentary|Romance|Drama,0.0,Malta,470,0.91,True,Norway,578,0.85,True,Luxembourg,442,0.84,True
+Qatar,QA,634,Asia,Action|Thriller|Crime,0.0,Oman,512,0.96,True,Bahrain,048,0.95,True,Jordan,400,0.93,True
+Romania,RO,642,Europe,Romance|Comedy|Drama,0.046,United Arab Emirates,784,0.61,False,India,356,0.6,False,Bulgaria,100,0.58,True
+Réunion,RE,638,Africa,Science Fiction|Horror|Comedy,0.0,Martinique,474,0.98,False,Guadeloupe,312,0.97,False,Dominican Republic,214,0.96,False
+Saudi Arabia,SA,682,Asia,Thriller|Action|Mystery,0.058,Oman,512,0.98,True,Jordan,400,0.97,True,Kuwait,414,0.95,True
+Serbia,RS,688,Europe,Documentary|Romance|Mystery,0.0,Slovenia,705,0.9,True,Luxembourg,442,0.88,True,Switzerland,756,0.86,True
+Singapore,SG,702,Asia,Horror|Documentary|Action,0.023,Hong Kong,344,0.87,True,Germany,276,0.6,False,Austria,040,0.52,False
+Slovakia,SK,703,Europe,Documentary|Animation|Family,0.037,Hungary,348,0.93,True,Iceland,352,0.9,True,Czech Republic,203,0.9,True
+Slovenia,SI,705,Europe,Documentary|Science Fiction|Romance,0.0,Switzerland,756,0.91,True,Serbia,688,0.9,True,Luxembourg,442,0.88,True
+South Africa,ZA,710,Africa,Drama|Action|Science Fiction,0.045,Kenya,404,0.77,True,Sri Lanka,144,0.73,False,India,356,0.71,False
+South Korea,KR,410,Asia,Crime|Science Fiction|Horror,0.372,Thailand,764,0.92,True,Nigeria,566,0.9,False,Oman,512,0.88,True
+Spain,ES,724,Europe,Documentary|Horror|Romance,0.136,Austria,040,0.81,True,Netherlands,528,0.8,True,Luxembourg,442,0.74,True
+Sri Lanka,LK,144,Asia,Romance|Thriller|Action,0.0,Bangladesh,050,0.9,True,Maldives,462,0.89,True,Qatar,634,0.87,True
+Sweden,SE,752,Europe,Documentary|Family|Animation,0.076,Norway,578,0.95,True,Denmark,208,0.92,True,Finland,246,0.91,True
+Switzerland,CH,756,Europe,Documentary|Romance|Crime,0.006,Luxembourg,442,0.96,True,Slovenia,705,0.91,True,Malta,470,0.89,True
+Taiwan,TW,158,Asia,Horror|Mystery|Action,0.064,South Korea,410,0.85,True,Vietnam,704,0.85,True,Philippines,608,0.8,True
+Thailand,TH,764,Asia,Horror|Action|Science Fiction,0.211,Nigeria,566,0.96,False,Guadeloupe,312,0.94,False,Dominican Republic,214,0.93,False
+Trinidad and Tobago,TT,780,Americas,Romance|Action|Comedy,0.0,Jamaica,388,0.99,True,Dominican Republic,214,0.96,True,Martinique,474,0.94,True
+Turkey,TR,792,Asia,Comedy|Science Fiction|Horror,0.234,Guadeloupe,312,0.91,False,Réunion,638,0.86,False,Martinique,474,0.86,False
+Ukraine,UA,804,Europe,Animation|Family|Romance,0.053,Brazil,076,0.72,False,Egypt,818,0.71,False,Guatemala,320,0.66,False
+United Arab Emirates,AE,784,Asia,Thriller|Action|Crime,0.0,India,356,0.8,True,Bahrain,048,0.8,True,Maldives,462,0.71,True
+United Kingdom,GB,826,Europe,Fantasy|Documentary|Adventure,0.231,Australia,036,0.87,False,Ireland,372,0.87,True,Belgium,056,0.8,True
+United States,US,840,Americas,Animation|Documentary|Science Fiction,0.911,Latvia,428,0.8,False,Iceland,352,0.75,False,Lithuania,440,0.72,False
+Uruguay,UY,858,Americas,Drama|Mystery|Romance,0.011,Argentina,032,0.73,True,Paraguay,600,0.72,True,Poland,616,0.69,False
+Venezuela,VE,862,Americas,Drama|Romance|Mystery,0.0,Paraguay,600,0.9,True,Nigeria,566,0.89,False,Sri Lanka,144,0.86,False
+Vietnam,VN,704,Asia,Horror|Action|Thriller,0.153,South Korea,410,0.88,True,Saudi Arabia,682,0.86,True,Kuwait,414,0.85,True

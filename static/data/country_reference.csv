@@ -1,0 +1,95 @@
+country_name,country_iso2,iso_numeric,region,subregion,languages
+Argentina,AR,032,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Australia,AU,036,Oceania,Australia and New Zealand,English
+Austria,AT,040,Europe,Western Europe,Austro-Bavarian German
+Bahamas,BS,044,Americas,Latin America and the Caribbean,English
+Bahrain,BH,048,Asia,Western Asia,Arabic
+Bangladesh,BD,050,Asia,Southern Asia,Bengali
+Belgium,BE,056,Europe,Western Europe,German|French|Dutch
+Bolivia,BO,068,Americas,Latin America and the Caribbean,Aymara|Guaraní|Quechua|Spanish
+Brazil,BR,076,Americas,Latin America and the Caribbean,Portuguese
+Bulgaria,BG,100,Europe,Eastern Europe,Bulgarian
+Canada,CA,124,Americas,Northern America,English|French
+Chile,CL,152,Americas,Latin America and the Caribbean,Spanish
+Colombia,CO,170,Americas,Latin America and the Caribbean,Spanish
+Costa Rica,CR,188,Americas,Latin America and the Caribbean,Spanish
+Croatia,HR,191,Europe,Southern Europe,Croatian
+Cyprus,CY,196,Asia,Western Asia,Greek|Turkish
+Czech Republic,CZ,203,Europe,Eastern Europe,Czech|Slovak
+Denmark,DK,208,Europe,Northern Europe,Danish
+Dominican Republic,DO,214,Americas,Latin America and the Caribbean,Spanish
+Ecuador,EC,218,Americas,Latin America and the Caribbean,Spanish
+Egypt,EG,818,Africa,Northern Africa,Arabic
+El Salvador,SV,222,Americas,Latin America and the Caribbean,Spanish
+Estonia,EE,233,Europe,Northern Europe,Estonian
+Finland,FI,246,Europe,Northern Europe,Finnish|Swedish
+France,FR,250,Europe,Western Europe,French
+Germany,DE,276,Europe,Western Europe,German
+Greece,GR,300,Europe,Southern Europe,Greek
+Guadeloupe,GP,312,Americas,Latin America and the Caribbean,French
+Guatemala,GT,320,Americas,Latin America and the Caribbean,Spanish
+Honduras,HN,340,Americas,Latin America and the Caribbean,Spanish
+Hong Kong,HK,344,Asia,Eastern Asia,English|Chinese
+Hungary,HU,348,Europe,Eastern Europe,Hungarian
+Iceland,IS,352,Europe,Northern Europe,Icelandic
+India,IN,356,Asia,Southern Asia,English|Hindi|Tamil
+Indonesia,ID,360,Asia,South-eastern Asia,Indonesian
+Ireland,IE,372,Europe,Northern Europe,English|Irish
+Israel,IL,376,Asia,Western Asia,Arabic|Hebrew
+Italy,IT,380,Europe,Southern Europe,Italian
+Jamaica,JM,388,Americas,Latin America and the Caribbean,English|Jamaican Patois
+Japan,JP,392,Asia,Eastern Asia,Japanese
+Jordan,JO,400,Asia,Western Asia,Arabic
+Kenya,KE,404,Africa,Sub-Saharan Africa,English|Swahili
+Kuwait,KW,414,Asia,Western Asia,Arabic
+Latvia,LV,428,Europe,Northern Europe,Latvian
+Lebanon,LB,422,Asia,Western Asia,Arabic|French
+Lithuania,LT,440,Europe,Northern Europe,Lithuanian
+Luxembourg,LU,442,Europe,Western Europe,German|French|Luxembourgish
+Malaysia,MY,458,Asia,South-eastern Asia,English|Malay
+Maldives,MV,462,Asia,Southern Asia,Maldivian
+Malta,MT,470,Europe,Southern Europe,English|Maltese
+Martinique,MQ,474,Americas,Latin America and the Caribbean,French
+Mauritius,MU,480,Africa,Sub-Saharan Africa,English|French|Mauritian Creole
+Mexico,MX,484,Americas,Latin America and the Caribbean,Spanish
+Morocco,MA,504,Africa,Northern Africa,Arabic|Berber
+Netherlands,NL,528,Europe,Western Europe,Dutch
+New Caledonia,NC,540,Oceania,Melanesia,French
+New Zealand,NZ,554,Oceania,Australia and New Zealand,English|Māori|New Zealand Sign Language
+Nicaragua,NI,558,Americas,Latin America and the Caribbean,Spanish
+Nigeria,NG,566,Africa,Sub-Saharan Africa,English
+Norway,NO,578,Europe,Northern Europe,Norwegian Nynorsk|Norwegian Bokmål|Sami
+Oman,OM,512,Asia,Western Asia,Arabic
+Pakistan,PK,586,Asia,Southern Asia,English|Urdu
+Panama,PA,591,Americas,Latin America and the Caribbean,Spanish
+Paraguay,PY,600,Americas,Latin America and the Caribbean,Guaraní|Spanish
+Peru,PE,604,Americas,Latin America and the Caribbean,Aymara|Quechua|Spanish
+Philippines,PH,608,Asia,South-eastern Asia,English|Filipino
+Poland,PL,616,Europe,Eastern Europe,Polish
+Portugal,PT,620,Europe,Southern Europe,Portuguese
+Qatar,QA,634,Asia,Western Asia,Arabic
+Romania,RO,642,Europe,Eastern Europe,Romanian
+Russia,RU,643,Europe,Eastern Europe,Russian
+Réunion,RE,638,Africa,Sub-Saharan Africa,French
+Saudi Arabia,SA,682,Asia,Western Asia,Arabic
+Serbia,RS,688,Europe,Southern Europe,Serbian
+Singapore,SG,702,Asia,South-eastern Asia,English|Malay|Tamil|Chinese
+Slovakia,SK,703,Europe,Eastern Europe,Slovak
+Slovenia,SI,705,Europe,Southern Europe,Slovene
+South Africa,ZA,710,Africa,Sub-Saharan Africa,Afrikaans|English|Southern Ndebele|Northern Sotho|Southern Sotho|Swazi|Tswana|Tsonga|Venda|Xhosa|Zulu
+South Korea,KR,410,Asia,Eastern Asia,Korean
+Spain,ES,724,Europe,Southern Europe,Spanish
+Sri Lanka,LK,144,Asia,Southern Asia,Sinhala|Tamil
+Sweden,SE,752,Europe,Northern Europe,Swedish
+Switzerland,CH,756,Europe,Western Europe,French|Swiss German|Italian|Romansh
+Taiwan,TW,158,,,Chinese
+Thailand,TH,764,Asia,South-eastern Asia,Thai
+Trinidad and Tobago,TT,780,Americas,Latin America and the Caribbean,English
+Turkey,TR,792,Asia,Western Asia,Turkish
+Ukraine,UA,804,Europe,Eastern Europe,Ukrainian
+United Arab Emirates,AE,784,Asia,Western Asia,Arabic
+United Kingdom,GB,826,Europe,Northern Europe,English
+United States,US,840,Americas,Northern America,English
+Uruguay,UY,858,Americas,Latin America and the Caribbean,Spanish
+Venezuela,VE,862,Americas,Latin America and the Caribbean,Spanish
+Vietnam,VN,704,Asia,South-eastern Asia,Vietnamese

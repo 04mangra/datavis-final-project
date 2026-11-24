@@ -1,0 +1,94 @@
+country_name,country_iso2,iso_numeric,region,top_film,genres,points,weeks_in_top10,weeks_at_1
+Argentina,AR,032,Americas,Leave the World Behind,Drama|Mystery|Thriller,36,4,3
+Australia,AU,036,Oceania,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,103,21,1
+Austria,AT,040,Europe,Extraction 2,Action|Thriller|Crime,45,6,3
+Bahamas,BS,044,Americas,The Mother,Action|Thriller,41,6,2
+Bahrain,BH,048,Asia,F9: The Fast Saga,Action|Adventure|Crime,57,11,2
+Bangladesh,BD,050,Asia,Jawan: Extended Cut,Action|Thriller,72,9,3
+Belgium,BE,056,Europe,The Super Mario Bros. Movie,Family|Comedy|Adventure|Fantasy|Animation,64,9,3
+Bolivia,BO,068,Americas,Sing,Animation|Comedy|Family|Music,139,27,3
+Brazil,BR,076,Americas,Woody Woodpecker,Comedy|Family|Animation,37,6,1
+Bulgaria,BG,100,Europe,F9: The Fast Saga,Action|Adventure|Crime,94,16,1
+Canada,CA,124,Americas,Reptile,Crime|Mystery|Thriller|Drama,40,5,2
+Chile,CL,152,Americas,Sing,Animation|Comedy|Family|Music,55,13,1
+Colombia,CO,170,Americas,Leo,Animation|Comedy|Family,45,6,2
+Costa Rica,CR,188,Americas,Leo,Animation|Comedy|Family,48,6,2
+Croatia,HR,191,Europe,Dr. Seuss' The Grinch,Animation|Comedy|Family|Fantasy,104,17,1
+Cyprus,CY,196,Asia,Dr. Seuss' The Grinch,Animation|Comedy|Family|Fantasy,71,13,0
+Czech Republic,CZ,203,Europe,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,215,40,1
+Denmark,DK,208,Europe,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,127,30,0
+Dominican Republic,DO,214,Americas,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,37,7,0
+Ecuador,EC,218,Americas,Sing,Animation|Comedy|Family|Music,46,10,1
+Egypt,EG,818,Africa,F9: The Fast Saga,Action|Adventure|Crime,75,14,1
+El Salvador,SV,222,Americas,Shrek,Animation|Comedy|Fantasy|Adventure|Family,53,20,0
+Estonia,EE,233,Europe,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,129,33,0
+Finland,FI,246,Europe,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,118,27,0
+France,FR,250,Europe,Glass Onion: A Knives Out Mystery,Comedy|Crime|Mystery,41,5,2
+Germany,DE,276,Europe,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,53,9,0
+Greece,GR,300,Europe,Dr. Seuss' The Grinch,Animation|Comedy|Family|Fantasy,61,11,0
+Guadeloupe,GP,312,Americas,Leave the World Behind,Drama|Mystery|Thriller,37,4,2
+Guatemala,GT,320,Americas,Sing,Animation|Comedy|Family|Music,68,17,1
+Honduras,HN,340,Americas,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,44,8,0
+Hong Kong,HK,344,Asia,F9: The Fast Saga,Action|Adventure|Crime,79,10,2
+Hungary,HU,348,Europe,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,101,29,0
+Iceland,IS,352,Europe,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,249,35,0
+India,IN,356,Asia,Tu Jhoothi Main Makkaar,Comedy|Romance|Family,69,9,2
+Indonesia,ID,360,Asia,F9: The Fast Saga,Action|Adventure|Crime,72,9,1
+Ireland,IE,372,Europe,Dr. Seuss' The Grinch,Animation|Comedy|Family|Fantasy,85,14,1
+Israel,IL,376,Asia,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,98,20,0
+Italy,IT,380,Europe,Heart of Stone,Action|Crime|Thriller,41,5,3
+Jamaica,JM,388,Americas,The Mother,Action|Thriller,44,6,2
+Japan,JP,392,Asia,Harry Potter and the Sorcerer's Stone,Adventure|Fantasy,129,26,3
+Jordan,JO,400,Asia,F9: The Fast Saga,Action|Adventure|Crime,87,15,1
+Kenya,KE,404,Africa,The Mother,Action|Thriller,40,5,3
+Kuwait,KW,414,Asia,Luther: The Fallen Sun,Crime|Mystery|Thriller,59,9,3
+Latvia,LV,428,Europe,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,161,36,0
+Lebanon,LB,422,Asia,F9: The Fast Saga,Action|Adventure|Crime,72,12,2
+Lithuania,LT,440,Europe,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,103,31,0
+Luxembourg,LU,442,Europe,Luther: The Fallen Sun,Crime|Mystery|Thriller,56,9,3
+Malaysia,MY,458,Asia,F9: The Fast Saga,Action|Adventure|Crime,65,9,2
+Maldives,MV,462,Asia,Tu Jhoothi Main Makkaar,Comedy|Romance|Family,55,8,2
+Malta,MT,470,Europe,Dr. Seuss' The Grinch,Animation|Comedy|Family|Fantasy,65,11,0
+Martinique,MQ,474,Americas,Leave the World Behind,Drama|Mystery|Thriller,37,4,2
+Mauritius,MU,480,Africa,Shehzada,Drama|Comedy|Action,39,5,3
+Mexico,MX,484,Americas,Sing,Animation|Comedy|Family|Music,68,17,2
+Morocco,MA,504,Africa,Luther: The Fallen Sun,Crime|Mystery|Thriller,62,11,3
+Netherlands,NL,528,Europe,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,55,8,2
+New Caledonia,NC,540,Oceania,Sing 2,Animation|Comedy|Family|Music,45,7,1
+New Zealand,NZ,554,Oceania,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,80,11,1
+Nicaragua,NI,558,Americas,How the Grinch Stole Christmas,Family|Comedy|Fantasy,45,8,0
+Nigeria,NG,566,Africa,Jagun Jagun,Action|Drama,55,7,3
+Norway,NO,578,Europe,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,89,23,0
+Oman,OM,512,Asia,F9: The Fast Saga,Action|Adventure|Crime,67,14,2
+Pakistan,PK,586,Asia,Chor Nikal Ke Bhaga,Crime|Thriller,76,13,2
+Panama,PA,591,Americas,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,46,9,0
+Paraguay,PY,600,Americas,Leave the World Behind,Drama|Mystery|Thriller,34,4,2
+Peru,PE,604,Americas,Sing,Animation|Comedy|Family|Music,54,12,1
+Philippines,PH,608,Asia,F9: The Fast Saga,Action|Adventure|Crime,47,8,1
+Poland,PL,616,Europe,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,75,22,0
+Portugal,PT,620,Europe,Luther: The Fallen Sun,Crime|Mystery|Thriller,55,9,3
+Qatar,QA,634,Asia,F9: The Fast Saga,Action|Adventure|Crime,52,11,2
+Romania,RO,642,Europe,The Mother,Action|Thriller,45,5,3
+Réunion,RE,638,Africa,Leave the World Behind,Drama|Mystery|Thriller,34,4,2
+Saudi Arabia,SA,682,Asia,Alkhallat+,Mystery|Comedy,79,10,4
+Serbia,RS,688,Europe,Dr. Seuss' The Grinch,Animation|Comedy|Family|Fantasy,68,11,0
+Singapore,SG,702,Asia,F9: The Fast Saga,Action|Adventure|Crime,57,9,2
+Slovakia,SK,703,Europe,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,174,38,0
+Slovenia,SI,705,Europe,Dr. Seuss' The Grinch,Animation|Comedy|Family|Fantasy,65,10,0
+South Africa,ZA,710,Africa,The Mother,Action|Thriller,45,6,3
+South Korea,KR,410,Asia,Kill Boksoon,Action|Drama|Thriller|Crime,66,8,5
+Spain,ES,724,Europe,Luther: The Fallen Sun,Crime|Mystery|Thriller,41,5,3
+Sri Lanka,LK,144,Asia,Mrs. Chatterjee vs Norway,Drama|Thriller,44,5,2
+Sweden,SE,752,Europe,Paw Patrol: The Movie,Action|Adventure|Animation|Comedy|Family,102,25,0
+Switzerland,CH,756,Europe,Glass Onion: A Knives Out Mystery,Comedy|Crime|Mystery,50,8,2
+Taiwan,TW,158,Asia,Marry My Dead Body,Comedy|Action|Horror,82,14,3
+Thailand,TH,764,Asia,F9: The Fast Saga,Action|Adventure|Crime,71,10,0
+Trinidad and Tobago,TT,780,Americas,The Mother,Action|Thriller,40,6,2
+Turkey,TR,792,Asia,10 Days of a Good Man,Crime|Drama,49,8,2
+Ukraine,UA,804,Europe,Glass Onion: A Knives Out Mystery,Comedy|Crime|Mystery,83,12,2
+United Arab Emirates,AE,784,Asia,F9: The Fast Saga,Action|Adventure|Crime,45,9,2
+United Kingdom,GB,826,Europe,Dr. Seuss' The Grinch,Animation|Comedy|Family|Fantasy,94,17,0
+United States,US,840,Americas,Minions: The Rise of Gru,Animation|Comedy|Crime|Science Fiction|Family,58,10,0
+Uruguay,UY,858,Americas,Leave the World Behind,Drama|Mystery|Thriller,37,4,3
+Venezuela,VE,862,Americas,Extraction 2,Action|Thriller|Crime,39,6,2
+Vietnam,VN,704,Asia,Hustler vs Scammer,Comedy|Action,124,25,2
