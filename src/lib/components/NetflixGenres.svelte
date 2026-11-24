@@ -3,11 +3,11 @@
 	import WorldMap from '#lib/components/WorldMap.svelte';
 
 	const steps = [
-		'Exposition: Netflix is in more than 90 countries, each with its own weekly Top 10. It seems like everyone watches the same things.',
-		'Rising action: Most Top 10 films are only popular in one country, and very few go global.',
-		'Climax: Countries in the same part of the world like similar genres.',
-		'Falling action: Some countries share taste with places far away, because of cultural ties, catalogue differences and local film industries.',
-		'Resolution: Netflix is global, but taste is still local. Find your country.'
+		'Netflix is available in more than 90 countries, and each one has its own weekly Top 10. With the same platform everywhere, it seems like everyone should be watching the same films. Hover over a country to see its most popular film of 2023.',
+		'A few blockbusters are popular almost everywhere. But most Top 10 films are only popular in one country, and very few become global hits. Bigger circles mean more films that were popular only in that country.',
+		"These local choices aren't random. Countries in the same part of the world lean toward the same genres. Pick a genre to see where it's watched more, or less, than the world average.",
+		"Location doesn't explain everything. Some countries share taste with places far away, because of cultural and historical ties, differences in what Netflix offers, and strong local film industries. Click a country to see its taste twins.",
+		'Netflix is global, but taste is still local. Search for a country to explore its favourite genres and the countries that watch like it.'
 	];
 
 	let activeStep = $state(0);
